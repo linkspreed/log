@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.11.2022 (announcement Kisk)
+- **Kisk**: Register now in just 5 seconds with your Google account on **Kisk** and get started... 🚀
+- https://user-images.githubusercontent.com/102324985/203145619-16066f72-5791-4655-86e1-c4a8fe45e739.png
+
+### 21.11.2022 (announcement Kisk)
 - **Kisk**: The shop for **Kisk** is now available in BETA phase! 🛍️
 
 ### 21.11.2022 (announcement Kisk)
