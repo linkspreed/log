@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.11.2022 (announcement Kisk)
+- **Kisk**: From now on you can share your own 24 hour stories on **Kisk**! 🤩
+
+### 21.11.2022 (announcement Kisk)
 - https://user-images.githubusercontent.com/102324985/203139843-61819dc1-5921-4396-8d4b-77f242107f1d.png
 - It's working now ...
 
