@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.11.2022 (announcement Kisk)
+- **Kisk**: The shop for **Kisk** is now available in BETA phase! 🛍️
+
+### 21.11.2022 (announcement Kisk)
 - **Kisk**: From now on you can share your own 24 hour stories on **Kisk**! 🤩
 
 ### 21.11.2022 (announcement Kisk)
