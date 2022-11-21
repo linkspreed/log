@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.11.2022 (announcement Kisk)
+- https://user-images.githubusercontent.com/102324985/203139843-61819dc1-5921-4396-8d4b-77f242107f1d.png
+- It's working now ...
+
+### 21.11.2022 (announcement Kisk)
 - We are now connecting our **Kisk** service to the SMTP server so that emails can be sent in the future! 😎
 
 ### 21.11.2022 (announcement Kisk)
