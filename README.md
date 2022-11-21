@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.11.2022 (announcement Kisk)
+- We are now connecting our **Kisk** service to the SMTP server so that emails can be sent in the future! 😎
+
+### 21.11.2022 (announcement Kisk)
 - We keep working on **Kisk**!
 
 ###  20.11.2022 (announcement)
