@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.11.2022 (announcement NodX)
+- We're working on **NodX**.
+
 ### 21.11.2022 (announcement Kisk)
 - The **Kisk** PWA is ready! 📱
 
