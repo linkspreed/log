@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.11.2022 (announcement Tungolino)
+-  **Tungolino** gets a big update today - we are going to launch v4.0. 😍
+
+### 23.11.2022 (announcement Tungolino)
 - We're working on **Tungolino**.
 
 ### 22.11.2022 (announcement Linkspreed Photos)
