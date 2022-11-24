@@ -6,7 +6,7 @@
 - We're working on **Tungolino**.
 
 ### 23.11.2022 (announcement Tungolino)
-- https://github.com/linkspreed/Tungolino/blob/main/changelog.md
+- https://github.com/linkspreed/Tungolino/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
 ### 23.11.2022 (announcement Tungolino)
