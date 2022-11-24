@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.11.2022 (announcement Tungolino)
+- We're working on **Tungolino**.
+
 ### 23.11.2022 (announcement Tungolino)
 - https://github.com/linkspreed/Tungolino/blob/main/changelog.md
 - The entire changelog is now available on Github.
