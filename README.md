@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.11.2022 (announcement Tungolino)
+- An hour ago **Tungolino** was on version 4.1.
+- Now we are on v4.1.2 and have fixed all reported bugs! 😍
+
+### 25.11.2022 (announcement Tungolino)
 - https://github.com/linkspreed/Tungolino/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
