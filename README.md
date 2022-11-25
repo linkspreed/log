@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.11.2022 (announcement LinkLab)
+-  **LinkLab** gets a big update today - we are going to launch v20.0.0. 😍
+
 ### 25.11.2022 (announcement Spypy)
 - We fixed the registration problem on **Spypy**. 
 - Everything works fine now! 😎
