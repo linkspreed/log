@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 26.11.2022 (announcement Tungolino)
+- This is what **Tungolino**'s new logo looks like!
+- https://user-images.githubusercontent.com/102324985/204106468-096ac546-09aa-4710-8c73-ec99f6860177.png
+
+### 26.11.2022 (announcement Tungolino)
 - https://github.com/linkspreed/Tungolino/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
