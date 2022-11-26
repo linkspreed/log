@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 26.11.2022 (announcement Spypy)
+- The test run was successful.  
+- We are very proud of the result and the fast time!
+
+### 26.11.2022 (announcement Spypy)
 - We're going to do a full control run on **Spypy** now :D
 
 ### 26.11.2022 (announcement Tungolino)
