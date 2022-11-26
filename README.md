@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 26.11.2022 (announcement Tungolino)
+- https://github.com/linkspreed/Tungolino/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 26.11.2022 (announcement Tungolino)
 - The launch of version 4.1.3 of **Tungolino** was successful! 🥳
 - The new update is live now :)
 - https://tungolino.tk 🔗
