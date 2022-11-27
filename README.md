@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.11.2022 (announcement)
+- With new platforms we want to guarantee every person in the world that he/she has their own vCard free of charge and available at any time. 🧡
+
 ### 27.11.2022 (announcement Linkspreed)
 - We are working on numerous new concepts for **Linkspreed**. 🧡
 
