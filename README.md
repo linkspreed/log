@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.11.2022 (announcement Qizz)
+- We're working on **Qizz**.
+
 ### 27.11.2022 (announcement Wrap)
 - We continue to work on a new platform called **Wrap**. 🫔
 
