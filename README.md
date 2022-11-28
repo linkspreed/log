@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.11.2022 (announcement)
+- We're testing a lot of new code today...
+
 ### 28.11.2022 (announcement Qizz)
 - We're working on **Qizz**.
 
