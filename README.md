@@ -3,7 +3,7 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.11.2022 (announcement Wrap)
-- We continue to work on Wrap.
+- We continue to work on **Wrap**.
 
 ### 29.11.2022 (announcement Tungolino)
 - https://github.com/linkspreed/Tungolino/blob/main/changelog.txt
