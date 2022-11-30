@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.11.2022 (announcement LPay)
+- We outline possible plans for a basic concept of **LPay** XD
+
 ### 30.11.2022 (announcement uCube)
 - We are working on a new QRCode Generator platform that is similar in concept to **uCube** but includes a lot of new technology and new features.
 
