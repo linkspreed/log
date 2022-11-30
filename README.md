@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.11.2022 (announcement Wrap)
+- Soon we will be able to introduce you to **Wrap** in the BETA phase. :D
+
+### 30.11.2022 (announcement Wrap)
 - We have connected **Wrap** to the cloud but are still working on a stable connection in the next few days! 🫔
 
 ### 30.11.2022 (announcement NodX)
