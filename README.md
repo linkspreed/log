@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.11.2022 (announcement)
+- Our heart is with open source developers - that's why we will put more energy into it! 🧡
+
 ### 30.11.2022 (announcement LPay)
 - We outline possible plans for a basic concept of **LPay** XD
 
