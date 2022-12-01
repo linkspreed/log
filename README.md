@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.12.2022 (announcement Kisk)
+- The live stream function on **Kisk** is now available for free!
+- https://user-images.githubusercontent.com/102324985/205148169-10c50918-b980-43aa-a40d-df03ed6055f8.png
+
+### 01.12.2022 (announcement Kisk)
 - We continue to work on **Kisk**. :D
 
 ### 01.12.2022 (announcement)
