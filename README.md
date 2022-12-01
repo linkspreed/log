@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.12.2022 (announcement Kisk)
+- We continue to work on **Kisk**. :D
+
 ### 01.12.2022 (announcement)
 - ☁️ We continue to work on a large part of our cloud storage platforms...
 
