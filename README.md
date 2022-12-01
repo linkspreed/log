@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.12.2022 (announcement)
+- We are working on new platforms and updates! 🚀
+
 ### 30.11.2022 (announcement)
 - Our heart is with open source developers - that's why we will put more energy into it! 🧡
 
