@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.12.2022 (announcement Wrap)
+- Enjoy the new **WRAP** logo!
+- https://user-images.githubusercontent.com/102324985/205455664-868f1553-657d-4729-849b-358caa9d10d3.png
+
 ### 03.12.2022 (announcement Kisk)
 - Until the next update from **Kisk**, the development work is completed for the time being. 💻
 
