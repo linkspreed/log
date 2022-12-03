@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.12.2022 (announcement Kisk)
+- We further work on **Kisk**.
+
 ### 03.12.2022 (announcement BeSave)
 - We were still working on **BeSave**, our new QR code generator!
 
