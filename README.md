@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.12.2022 (announcement Wrap)
+- https://user-images.githubusercontent.com/102324985/205458252-e0c82a5b-e4ac-48ec-8188-7595dfef8607.png
+
+### 03.12.2022 (announcement Wrap)
 - The team continues to work diligently on **Wrap**!
 
 ### 03.12.2022 (announcement Wrap)
