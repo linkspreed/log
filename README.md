@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.12.2022 (announcement Wrap)
+- **Wrap** has been successfully added to the Cloudflare network!
+
+### 04.12.2022 (announcement Wrap)
 - We're adding **Wrap** to the Cloudflare infrastructure now!
 
 ### 04.12.2022 (announcement Qizz)
