@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.12.2022 (announcement BeSave)
+- The Free & Unlimited plan for **BeSave** is now online and available for everyone! 🥳
+
+### 04.12.2022 (announcement BeSave)
 - We make some further development work on **BeSave**!
 
 ### 04.12.2022 (announcement Wrap)
