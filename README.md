@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.12.2022 (announcement Plop)
+- Now you can find **Plop** on our status page ...
+
+### 05.12.2022 (announcement Plop)
 - We keep working on **Plop** :D
 
 ### 05.12.2022 (announcement Wrap)
