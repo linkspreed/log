@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.12.2022 (announcement Tungolino)
+- In the next weeks, we're going to work on a bigger update for **Tungolino**! :D
+
 ### 05.12.2022 (announcement Plop)
 - Now you can find **Plop** on our status page ...
 
