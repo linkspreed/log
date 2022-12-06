@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.12.2022 (announcement BeSave)
+- Let's work on **BeSave**.📱
+
 ### 06.12.2022 (announcement Plop)
 - **Plop** has been successfully added to the Cloudflare system ...
 
