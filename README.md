@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 06.12.2022 (announcement Plop)
+- We're adding **Plop** to the Cloudflare infrastucture now.
+
+### 06.12.2022 (announcement Plop)
 - We're still working on **Plop** ...
 
 ### 06.12.2022 (announcement Tungolino)
