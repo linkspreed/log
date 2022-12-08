@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.12.2022 (announcement)
+- A bunch of new updates are on their way! 🚀
+
 ### 08.12.2022 (announcement ToolBox)
 - We've added **ToolBox** to our both Status pages!
 
