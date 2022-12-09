@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.12.2022 (announcement Cloud2Go)
+- We doing now major development work at **Cloud2Go**! ☁️❤️
+
 ### 09.12.2022 (announcement Biospreed)
 - We're working on the **Biospreed** Demo Page for new users.
 
