@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.12.2022 (announcement Plop)
+- We keep working on **Plop**.
+
 ### 08.12.2022 (announcement Wrap)
 - The SMTP and Mail Server for **Wrap** is working now. 📧
 
