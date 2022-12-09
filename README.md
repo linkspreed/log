@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.12.2022 (announcement Cloud2Go)
+- The code is now ready for the launch of version 3.0.7 for **Cloud2Go**.
+
+### 09.12.2022 (announcement Cloud2Go)
 -  **Cloud2Go** gets a big update today - we are going to launch v3.0.7. 😍
 
 ### 09.12.2022 (announcement Snoogie)
