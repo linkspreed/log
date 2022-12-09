@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.12.2022 (announcement Snoogie)
+- We're soon ready to pitch v27 of **Snoogie**.
+
 ### 09.12.2022 (announcement Biospreed)
 - We're soon ready to pitch v27 of **Biospreed**.
 
