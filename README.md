@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.12.2022 (announcement Biospreed)
+- The launch of version 27.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 10.12.2022 (announcement Biospreed)
 - We are now starting the launch of v27.0.0.
 
 ### 10.12.2022 (announcement Biospreed)
