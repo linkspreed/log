@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.12.2022 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v27.0.0. 😍
+
 ### 10.12.2022 (announcement Tungolino)
 - https://github.com/linkspreed/Tungolino/blob/main/changelog.txt
 - The entire changelog is now available on Github.
