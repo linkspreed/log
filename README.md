@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.12.2022 (announcement Snoogie)
+- The launch of version 27.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 10.12.2022 (announcement Snoogie)
 - We are now starting the launch of v27.0.0.
 
 ### 10.12.2022 (announcement Snoogie)
