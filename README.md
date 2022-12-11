@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.12.2022 (announcement ToolBox)
+- **ToolBox** - All functions now work perfectly! ✅
+
+### 11.12.2022 (announcement ToolBox)
 - We're working on **ToolBox**.
 
 ### 10.12.2022 (announcement Biospreed)
