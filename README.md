@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.12.2022 (announcement ToolBox)
+- We've added **ToolBox** to the Cloudflare infrastructure!
+
 ### 11.12.2022 (announcement ToolBox)
 - **ToolBox** - All functions now work perfectly! ✅
 
