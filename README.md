@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.12.2022 (announcement)
+- So many new updates are gonna come soon ... and so many new products are on their way!
+
+### 13.12.2022 (announcement)
 - We're working on a bunch of new platform solutions ...
 
 ### 12.12.2022 (announcement)
