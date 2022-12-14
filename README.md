@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.12.2022 (announcement Wrap)
+- Check out the new **Wrap** Repository!
+- https://github.com/linkspreed/Wrap
+
+### 14.12.2022 (announcement Wrap)
 - We'll release the new version v1.7 for **Wrap** very soon!
 
 ### 14.12.2022 (announcement Wrap)
