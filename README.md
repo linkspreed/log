@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.12.2022 (announcement Cloudspreed)
+- We're working on a fix!
+
 ### 13.12.2022 (announcement)
 - We're going on a troubleshooting hunt on 2 cloud platforms :D
 
