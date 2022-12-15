@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.12.2022 (announcement Cloud2Go)
+- We've finally found the bug on **Cloud2Go** and solved the issue...
+
 ### 14.12.2022 (announcement Wrap)
 - Check out the new **Wrap** Repository!
 - https://github.com/linkspreed/Wrap
