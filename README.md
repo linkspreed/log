@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.12.2022 (announcement Cloud2Go)
+- We were able to successfully solve the registration problem on Cloud2Go.  
+- The platform is now working properly.
+
 ### 15.12.2022 (announcement Cloudspreed)
 - We've finally found the bug on **Cloudspreed** and solved the issue...
 
