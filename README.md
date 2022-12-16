@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.12.2022 (announcement Cloudspreed)
+- We're working on **Cloudspreed** now!
+
 ### 16.12.2022 (announcement Wrap)
 - We finished the **Wrap** Github Repository!
 
