@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.12.2022 (announcement)
+- We've got some great names for future platform solutions - just to be sure that we always have a name at the launchpad. :D
+
 ### 16.12.2022 (announcement Cloud2Go)
 - https://github.com/linkspreed/Cloud2Go/blob/main/changelog.txt
 - The entire changelog is now available on Github.
