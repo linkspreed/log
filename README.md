@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.12.2022 (announcement Wrap)
+- We're still working on **Wrap**!
+
 ### 16.12.2022 (announcement Cloudspreed)
 - https://github.com/linkspreed/Cloudspreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
