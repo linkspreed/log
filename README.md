@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.12.2022 (announcement DNServer)
+- We continued working on **DNServer** ...
+
 ### 16.12.2022 (announcement Deepage)
 - The development work on **Deepage** is progressing very well! 🚀
 
