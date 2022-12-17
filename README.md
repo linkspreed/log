@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.12.2022 (announcement Wrap)
+- we continue working on v1.7 for **Wrap**!
+
 ### 17.12.2022 (announcement Deepage)
 - **DeePage** = deep + page
 - Even better analytics for everyone! 😃
@@ -10,7 +13,7 @@
 - **DeePage** has now entered its final stages!  woo-hoo 🥳🍾
 
 ### 17.12.2022 (announcement Wrap)
-- Still working on v17 for **Wrap**!
+- Still working on v1.7 for **Wrap**!
 
 ### 17.12.2022 (announcement DNServer)
 - We continued working on **DNServer** ...
