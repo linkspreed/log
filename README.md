@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.12.2022 (announcement Deepage)
+- We are now running a full test run on Deepage. 🏃
+
+### 17.12.2022 (announcement Deepage)
 - The mail server for **DeePage** is now configured. 💬
 
 ### 17.12.2022 (announcement Deepage)
