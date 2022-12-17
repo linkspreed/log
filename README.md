@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.12.2022 (announcement Deepage)
+- We're adding **Deepage** to the Cloudflare network now!
+
+### 17.12.2022 (announcement Deepage)
 - **DeePage** is now available on our status pages!
 
 ### 17.12.2022 (announcement Deepage)
