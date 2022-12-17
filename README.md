@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.12.2022 (announcement Spypy)
+- Our **Spypy** logo is back! 
+- We could fix the bug on the site instantly.
+
 ### 17.12.2022 (announcement Deepage)
 - We've added **Deepage** to the Google Search Console.
 
