@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.12.2022 (announcement Deepage)
+- We are working diligently on DeePage to finish on time today. ✅
+
+### 17.12.2022 (announcement Deepage)
 - I am proud to be able to announce today that we will finish the development work on **DeePage** today!
 
 ### 17.12.2022 (announcement Wrap)
