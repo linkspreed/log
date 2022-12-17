@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.12.2022 (announcement Deepage)
+- **DeePage** has now entered its final stages!  woo-hoo 🥳🍾
+
 ### 17.12.2022 (announcement Wrap)
 - Still working on v17 for **Wrap**!
 
