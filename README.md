@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.12.2022 (announcement Deepage)
+- The mail server for **DeePage** is now configured. 💬
+
+### 17.12.2022 (announcement Deepage)
 - Check out the new **DeePage** logo.
 - https://user-images.githubusercontent.com/102324985/208267863-22e196d9-5e4b-4728-9ee6-12c0b8989fac.png
 
