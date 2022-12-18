@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.12.2022 (announcement)
+- Today was a plugin day!
+
 ### 18.12.2022 (announcement LinkLab)
 - We have updated this plugin: Affiliate Plugin
 
