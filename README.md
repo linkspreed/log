@@ -2,10 +2,13 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 17.12.2022 (announcement Deepage)
+### 18.12.2022 (announcement Deepage)
+- **DeePage** now gets its own Github repository.
+
+### 18.12.2022 (announcement Deepage)
 - I'm proud to announce that **DeepPage** is available online and free for every user.
 
-### 17.12.2022 (announcement Deepage)
+### 18.12.2022 (announcement Deepage)
 - We are now running a full test run on **Deepage**. 🏃
 
 ### 17.12.2022 (announcement Deepage)
