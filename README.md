@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.12.2022 (announcement Deepage)
+- Check out the official Github Repo for **DeePage**!
+- https://github.com/linkspreed/DeePage
+
+### 18.12.2022 (announcement Deepage)
 - **DeePage** now gets its own Github repository.
 
 ### 18.12.2022 (announcement Deepage)
