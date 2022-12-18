@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.12.2022 (announcement Biospreed)
+- We're working on **Biospreed**.
+
 ### 18.12.2022 (announcement Deepage)
 - Check out the official Github Repo for **DeePage**!
 - https://github.com/linkspreed/DeePage
