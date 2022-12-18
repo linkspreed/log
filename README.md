@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.12.2022 (announcement LinkLab)
+- We're currently working on **LinkLab**.
+
 ### 18.12.2022 (announcement Plop)
 - We're currently working on **Plop**.
 
