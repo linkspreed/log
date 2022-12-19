@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 19.12.2022 (announcement Plop)
+- The Free & Unlimited plan for **Plop** is available online!
+
+### 19.12.2022 (announcement Plop)
 - The affiliate system is working now on **Plop**!
 
 ### 19.12.2022 (announcement Plop)
