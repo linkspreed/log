@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.12.2022 (announcement LinkLab)
+-  **LinkLab** gets a big update today - we are going to launch v21.0.0. 😍
+
 ### 19.12.2022 (announcement BioX)
 - We're working on a new project called **BioX**.
 
