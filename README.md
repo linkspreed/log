@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.12.2022 (announcement BioX)
+- We're still working on **BioX**.
+
 ### 19.12.2022 (announcement LinkLab)
 - https://github.com/linkspreed/LinkLab/blob/main/changelog.txt
 - The entire changelog is now available on Github.
