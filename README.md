@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.12.2022 (announcement BioX)
+- More work effort on **BioX**.
+
 ### 19.12.2022 (announcement LaaS)
 - We're still working on **LaaS**.
 
