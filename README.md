@@ -4,7 +4,7 @@
 
 ### 19.12.2022 (announcement Plop)
 - The SMTP Server is working now properly for **Plop**!
-- user-images.githubusercontent.com/102324985/208414384-79bef590-0317-45c0-81fd-e62062001e69.png
+- https://user-images.githubusercontent.com/102324985/208414384-79bef590-0317-45c0-81fd-e62062001e69.png
 
 ### 19.12.2022 (announcement Plop)
 - The Free & Unlimited plan for **Plop** is available online!
