@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.12.2022 (announcement Datify)
+- A major update, version 1.7.0 of **Datify** is in progress!
+
 ### 20.12.2022 (announcement BioX)
 - We're still working on **BioX**.
 
