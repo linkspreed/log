@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.12.2022 (announcement Storpad)
+- 📚📙 We are building a beautiful tool that we will call **Storpad** for now, which is being developed for anyone who has always wanted to write and publish an own book - in 10 seconds to an own eBook!
+
 ### 21.12.2022 (announcement BioX)
 - We are working on a bug on **BioX**, the platform which is still under development.
 
