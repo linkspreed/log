@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.12.2022 (announcement BioX)
+- We are working on a bug on **BioX**, the platform which is still under development.
+
 ### 21.12.2022 (announcement Datify)
 - **Datify** 1.7 is now finally available.  🚀🥳
 
