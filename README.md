@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.12.2022 (announcement LinkLab)
+- The servers are now ready for the launch of version 1.7.0 for **Datify**.
+
 ### 21.12.2022 (announcement Datify)
 - The code is now ready for the launch of version 1.7.0 for **Datify**.
 
