@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.12.2022 (announcement Datify)
+- **Datify** 1.7 is now finally available.  🚀🥳
+
+### 21.12.2022 (announcement Datify)
 - The new design for **Datify** is here!
 - Have fun!
 
