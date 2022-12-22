@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.12.2022 (announcement Linkspreed Drive)
+- 1k TB on https://drive.linkspreed.com
+
+### 22.12.2022 (announcement Linkspreed Drive)
 - **Linkspreed Drive** is now running on PHP 8.1.
 
 ### 22.12.2022 (announcement Linkspreed Drive)
