@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.12.2022 (announcement LaaS)
+- We're working on **LaaS**.
+- It's so great!
+
 ### 22.12.2022 (announcement Linkspreed Photos)
 - https://github.com/linkspreed/linkspreed_photos/blob/main/changelog.txt
 - The entire changelog is now available on Github.
