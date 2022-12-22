@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.12.2022 (announcement Linkspreed Photos)
+- We're currently working on **Linkspreed Photos**!
+
 ### 21.12.2022 (announcement Linkspreed Photos)
 - We're currently working on **Linkspreed Photos**!
 
