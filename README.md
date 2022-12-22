@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.12.2022 (announcement Linkspreed Drive)
+- I'm happy to mention, that we're currently working now on **Linkspreed Drive**!
+
 ### 22.12.2022 (announcement)
 - So far we have updated the following clouds from v2.6.0 to version 3.0.8:
   - https://cloud2go.tk
