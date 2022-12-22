@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.12.2022 (announcement)
+- So far we have updated the following clouds from v2.6.0 to version 3.0.8:
+  - https://cloud2go.tk
+  - https://cloudspreed.tk
+  - https://photos.linkspreed.com
+
 ### 22.12.2022 (announcement orderly)
 - We're currently working on a new project for restaurants!
 
