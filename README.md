@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.12.2022 (announcement orderly)
+- We're currently working on a new project for restaurants!
+
 ### 22.12.2022 (announcement LaaS)
 - We have selected some SaaS projects that we will redesign and then introduce with the official launch and pitch of **LaaS** right from the start.
 - Many more will follow afterwards!
