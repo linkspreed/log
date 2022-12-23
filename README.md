@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.12.2022 (announcement Linkspreed Drive)
+-  **Linkspreed Drive** gets a big update today - we are going to launch v3.0.8. 😍
+
 ### 23.12.2022 (announcement)
 - We've reworked some patch notes ...
 
