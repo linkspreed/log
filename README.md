@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.12.2022 (announcement YourPod)
+- The launch of version 1.5 of **YourPod** was successful! 🥳
+- The new update is live now :)
+- https://yourpod.tk 🔗
+
+### 23.12.2022 (announcement YourPod)
 - We are now starting the launch of v1.5.
 
 ### 23.12.2022 (announcement YourPod)
