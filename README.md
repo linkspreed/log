@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.12.2022 (announcement YourPod)
+-  **YourPod** gets a big update today - we are going to launch v1.5. 😍
+
 ### 23.12.2022 (announcement Musiccloud)
 - **Musiccloud** now uses PHP 8.0!
 
