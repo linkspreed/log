@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.12.2022 (announcement)
+- We've reworked some patch notes ...
+
 ### 22.12.2022 (announcement Linkspreed Drive)
 - 1k TB on https://drive.linkspreed.com
 
