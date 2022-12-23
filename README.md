@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.12.2022 (announcement Metabox)
+- We're working on **Metabox**.
+
 ### 23.12.2022 (announcement Soundchest)
 - https://github.com/linkspreed/Soundchest/blob/main/changelog.md
 - The entire changelog is now available on Github.
