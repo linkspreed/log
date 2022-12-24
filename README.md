@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.12.2022 (announcement Metabox)
+-  **Metabox** gets a big update today - we are going to launch v3.0.8. 😍
+
+### 24.12.2022 (announcement Metabox)
 - That's the new Github Repository for **Metabox**!
 - https://github.com/linkspreed/Metabox
 
