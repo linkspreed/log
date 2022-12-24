@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.12.2022 (announcement Musiccloud)
+- The new theme update for **Musiccloud** has been released today!
+
+### 24.12.2022 (announcement Musiccloud)
 - We're working on the theme update for **Musiccloud**.
 
 ### 23.12.2022 (announcement)
