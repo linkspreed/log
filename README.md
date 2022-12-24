@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.12.2022 (announcement Metabox)
+- That's the new Github Repository for **Metabox**!
+- https://github.com/linkspreed/Metabox
+
+### 24.12.2022 (announcement Metabox)
 - Google Login is now working on **Metabox**.
 
 ### 24.12.2022 (announcement Metabox)
