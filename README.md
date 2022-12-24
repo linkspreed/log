@@ -1,6 +1,9 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ...
+## All changes that we will make from 12.07.2022 will appear here ...#
+
+### 24.12.2022 (announcement Metabox)
+- The servers are now ready for the launch of version 3.0.8 for **Metabox**.
 
 ### 24.12.2022 (announcement Metabox)
 - The code is now ready for the launch of version 3.0.8 for **Metabox**.
