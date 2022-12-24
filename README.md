@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.12.2022 (announcement Metabox)
+- The launch of version 3.0.8 of **Metabox** was successful! 🥳
+- The new update is live now :)
+- https://metabox.ga 🔗
+
+### 24.12.2022 (announcement Metabox)
 - We are now starting the launch of v3.0.8.
 
 ### 24.12.2022 (announcement Metabox)
