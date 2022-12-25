@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.12.2022 (announcement UltiCloud)
+- **UltiCloud** is going to run on PHP 8.1 ...
+
+### 25.12.2022 (announcement UltiCloud)
 - We're working now on **UltiCloud**.
 
 ### 25.12.2022 (announcement UltiCloud)
