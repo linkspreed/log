@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.12.2022 (announcement UltiCloud)
+- We are now starting the launch of v3.0.8.
+
+### 25.12.2022 (announcement UltiCloud)
 - The servers are now ready for the launch of version 3.0.8 for **UltiCloud**.
 
 ### 25.12.2022 (announcement UltiCloud)
