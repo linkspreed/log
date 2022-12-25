@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 24.12.2022 (announcement UltiCloud)
+### 25.12.2022 (announcement UltiCloud)
+- We're working now on **UltiCloud**.
+
+### 25.12.2022 (announcement UltiCloud)
 - https://github.com/linkspreed/UltiCloud
 - Check out the official Github Repo for #UltiCloud 💜☁️
 
