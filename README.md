@@ -5,6 +5,9 @@
 ### 26.12.2022 (announcement Petabyte)
 - We're currently working on **Petabyte**.
 
+### 26.12.2022 (announcement)
+- We've sent a cooperation mail to Filebase.
+
 ### 26.12.2022 (announcement Joyn)
 - We've got a cool name for a future, new project - **Joyn** 🥳
 
