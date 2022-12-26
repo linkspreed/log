@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 26.12.2022 (announcement Petabyte)
+- **Petabyte**'s mail server is working now ...
+
+### 26.12.2022 (announcement Petabyte)
 - Google Login is now available on **Petabyte**!
 
 ### 26.12.2022 (announcement Petabyte)
