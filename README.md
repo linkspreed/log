@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 26.12.2022 (announcement Petabyte)
+- https://github.com/linkspreed/Petabyte/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 26.12.2022 (announcement Petabyte)
 - The launch of version 3.0.8 of **Petabyte** was successful! 🥳
 - The new update is live now :)
 - https://petabyte.ml 🔗
