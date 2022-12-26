@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 25.12.2022 (announcement Joyn)
+### 26.12.2022 (announcement Petabyte)
+- We're currently working on **Petabyte**.
+
+### 26.12.2022 (announcement Joyn)
 - We've got a cool name for a future, new project - **Joyn** 🥳
 
 ### 25.12.2022 (announcement UltiCloud)
