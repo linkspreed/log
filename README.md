@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.12.2022 (announcement Cloud2Go)
+- Now **Cloud2Go** is completely decentralized and runs on a global, decentralized network!
+
 ### 27.12.2022 (announcement Airr)
 - Working on a Multi SaaS platform called **Airr**!
 
