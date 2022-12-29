@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.12.2022 (announcement NodX)
+- The storage bucket for **NodX** has been successfully changed! 😍🌱
+
+### 29.12.2022 (announcement NodX)
 - We are now changing the storage bucket for **NodX**!
 
 ### 29.12.2022 (announcement Airr)
