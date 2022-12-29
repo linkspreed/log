@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.12.2022 (announcement)
+- We are working on a native Instagram alternative that is kept very simple, but saves content decentrally!
+- Soon available for android devices!
+
 ### 29.12.2022 (announcement Cloud2Go)
 - We started working on a subscription system for **Cloud2Go** that we will release in 2023!
 
