@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.12.2022 (announcement Tungolino)
+- The problem with the **Tungolino** logo has been successfully fixed!
+
+### 29.12.2022 (announcement Tungolino)
 - We're working on **Tungolino** ...
 
 ### 29.12.2022 (announcement Web5)
