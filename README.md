@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.12.2022 (announcement Web5)
+- We successfully and quickly fixed the **Web5** icon problem that resulted from the bucket change.
+
+### 29.12.2022 (announcement Web5)
 - The storage bucket for **Web5** has been successfully changed! 😍🌱
 
 ### 29.12.2022 (announcement Joyn)
