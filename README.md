@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.12.2022 (announcement Joyn)
+- **Joyn**'s development is progressing very well and is nearing completion!
+
 ### 29.12.2022 (announcement Web5)
 - We are about to change the storage bucket for the **Web5** Cloud in our decentralized network. 🚀☁️
 
