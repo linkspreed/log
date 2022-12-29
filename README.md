@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.12.2022 (announcement Joyn)
+- That's going to become the ultimative **Joyn** logo.
+- https://user-images.githubusercontent.com/102324985/209968391-5526451c-f93d-46b8-b7b1-648e2f69ebec.png
+
+### 29.12.2022 (announcement Joyn)
 - We're currently working on **Joyn**.
 
 ### 29.12.2022 (announcement)
