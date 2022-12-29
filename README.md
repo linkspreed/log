@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.12.2022 (announcement Tungolino)
+- We're working on **Tungolino** ...
+
 ### 29.12.2022 (announcement Web5)
 - We successfully and quickly fixed the **Web5** icon problem that resulted from the bucket change.
 
