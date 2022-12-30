@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.12.2022 (announcement Airr)
+- We are making very good development progress on **Airr**. 🥳🙃
+
 ### 30.12.2022 (announcement Rank)
 - https://github.com/linkspreed/Rank/blob/main/changelog.md
 - The entire changelog is now available on Github.
