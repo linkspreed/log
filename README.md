@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.12.2022 (announcement Rank)
+- The servers are now ready for the launch of version 1.9.0 for **Rank**.
+
+### 30.12.2022 (announcement Rank)
 - The code is now ready for the launch of version 1.9.0 for **Rank**.
 
 ### 30.12.2022 (announcement Rank)
