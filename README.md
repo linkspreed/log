@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.12.2022 (announcement Linkspreed Photos)
+- Let's say hello to a better, decentralized https://photos.linkspreed.com! ☁️🧡
+
+### 30.12.2022 (announcement Linkspreed Photos)
 - **Linkspreed Photos** is now 100% decentralized and now offers free and decentralized cloud storage for all your images! ☁️
 - https://user-images.githubusercontent.com/102324985/210083225-28c8d35d-310f-4ac4-be92-3d9fc52bc960.png
 
