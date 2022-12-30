@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.12.2022 (announcement Rank)
+-  **Rank** gets a big update today - we are going to launch v1.9.0. 😍
+
+### 30.12.2022 (announcement Rank)
 - We're about to finish writing the code for **Rank** v1.9.0.  :D
 
 ### 29.12.2022 (announcement NetSky)
