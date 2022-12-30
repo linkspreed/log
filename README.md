@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.12.2022 (announcement Airr)
+- We have successfully added **Airr** to the Cloudflare network. 😎
+
 ### 30.12.2022 (announcement Linkspreed Photos)
 - Let's say hello to a better, decentralized https://photos.linkspreed.com! ☁️🧡
 
