@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.12.2022 (announcement Joyn)
+- We have successfully added **Joyn** to our Status pages. 🌱
+
+### 30.12.2022 (announcement Joyn)
 - We have successfully added **Joyn** to the Google Search Console. 🚀
 
 ### 30.12.2022 (announcement Joyn)
