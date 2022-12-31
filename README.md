@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 31.12.2022 (announcement Linkspreed Drive)
+- **Linkspreed Drive** has been successfully decentralized!  
+- Now use the big cloud completely decentralized!  
+- Faster, safer and modern!
+
+### 31.12.2022 (announcement Linkspreed Drive)
 - We are currently working on adding our intelligent cloud **Linkspreed Drive** to the decentralized file storage network!
 
 ### 31.12.2022 (announcement Metabox)
