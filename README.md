@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.12.2022 (announcement IceCloud)
+- We are currently working on adding our intelligent cloud **IceCloud** to the decentralized file storage network!
+
 ### 31.12.2022 (announcement Cloudspreed)
 - We are currently working on adding our intelligent cloud **Cloudspreed** to the decentralized file storage network!
 
