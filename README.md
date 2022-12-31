@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.12.2022 (announcement Joyn)
+- We've made good process on **Joyn**.
+
 ### 31.12.2022 (announcement IceCloud)
 - **IceCloud** has been successfully decentralized!  
 - Now use the big cloud completely decentralized!  
