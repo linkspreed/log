@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.01.2023 (announcement Tweetch)
+- We are working on a new update (v1.3.4) for **Tweetch**.
+
 ### 01.01.2023 (announcement Share)
 - We are working on a new update (v1.3.4) for **Share**.
 
