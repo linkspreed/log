@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.01.2023 (announcement)
+- We're currently working on **Joyn** ... 🥳
+
+### 01.01.2023 (announcement)
 - Setting up our external backup storage :)
 
 ### 01.01.2023 (announcement Up2Date)
