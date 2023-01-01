@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.01.2023 (announcement)
+- We wrote a cooperation request to Infura, ChainSafe and web3.storage!
+
 ### 01.01.2023 (announcement Joyn)
 - We are currently building the landing page for **Joyn**, which also acts as a download page and from which you can later download the Android app! 📱
 
