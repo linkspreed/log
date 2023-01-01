@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.01.2023 (announcement Critch)
+- We are working on a new update (v1.3.4) for **Critch**.
+
 ### 01.01.2023 (announcement Chirp)
 - We are working on a new update (v1.3.4) for **Chirp**.
 
