@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 31.12.2022 (announcement)
+### 01.01.2023 (announcement Chirp)
+- We are working on a new update (v1.3.4) for **Chirp**.
+
+### 01.01.2023 (announcement)
 - We are currently inquiring heavily about IPFS technology for the future...
 
 ##################### (2023) #####################
