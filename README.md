@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 02.01.2023 (announcement Plop)
+- We bake a beautiful logo and icon for **Plop**.
+- The last task before complete completion!
+
+### 02.01.2023 (announcement Plop)
 - We're making some final work on **Plop**.
 
 ### 02.01.2023 (announcement Cloud2Share)
