@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.01.2023 (announcement Cloud2Share)
+- https://share.cloud2go.tk will redirect you to https://cloud2share.tk in the future!
+
 ### 01.01.2023 (announcement)
 - We wrote a cooperation request to Infura, ChainSafe and web3.storage!
 
