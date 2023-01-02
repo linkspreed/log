@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 02.01.2023 (announcement Plop)
+- Wonderful! 🥳
+- Now you can register and log in to **Plop** with your Google account! 🚀
+
+### 02.01.2023 (announcement Plop)
 - Check out the new #Plop logo/Icon ... :D
 - https://user-images.githubusercontent.com/102324985/210262161-58575a72-7a78-49cb-ad0a-7318c43e68e6.png
 - https://user-images.githubusercontent.com/102324985/210262202-b0a6c17e-7bfc-4300-809e-6f97b8c3a820.png
