@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.01.2023 (announcement Plop)
+- You can now also register/login on **Plop** with your Discord account and start in 5 seconds! 
+
 ### 03.01.2023 (announcement)
 - https://github.com/linkspreed/smm
 - This Github repository is an archive where we publish all social media posts from 01/01/2023!
