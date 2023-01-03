@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.01.2023 (announcement Lime)
+- **Lime**'s SMTP mail server is now working properly! 📧
+
 ### 03.01.2023 (announcement Rank)
 - We're working on **Rank**!
 
