@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.01.2023 (announcement Rank)
+-  **Rank** gets a big update today - we are going to launch 1.9.1. 😍
+
 ### 03.01.2023 (announcement Lime)
 - You can now also register/login on **Lime** with your Discord account and start in 5 seconds! 
 
