@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.01.2023 (announcement)
+- https://github.com/linkspreed/smm
+- This Github repository is an archive where we publish all social media posts from 01/01/2023!
+
 ### 02.01.2023 (announcement Plop)
 - Wonderful! 🥳
 - Now you can register and log in to **Plop** with your Google account! 🚀
