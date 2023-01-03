@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.01.2023 (announcement Lime)
+- The launch of version 1.3.4 of **Lime** was successful! 🥳
+- The new update is live now :)
+- https://lime.gq 🔗
+
+### 03.01.2023 (announcement Lime)
 - We are now starting the launch of v1.3.4.
 
 ### 03.01.2023 (announcement Lime)
