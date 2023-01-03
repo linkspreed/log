@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.01.2023 (announcement KitChat)
+- We're working on **KitChat**!
+
 ### 03.01.2023 (announcement BeYou)
 - We're working on **BeYou**!
 
