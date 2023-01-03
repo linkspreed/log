@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.01.2023 (announcement Lime)
+- We're currently working on **Lime**. 🍋
+
 ### 03.01.2023 (announcement Plop)
 - You can now also register/login on **Plop** with your Discord account and start in 5 seconds! 
 
