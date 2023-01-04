@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.01.2023 (announcement CloudShare)
+- As we have already promised and announced, we are working on a better and newer **Cloud2Share** alternative...
+
 ### 03.01.2023 (announcement Lime)
 - https://github.com/linkspreed/Lime/blob/main/changelog.md
 - The entire changelog is now available on Github.
