@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.01.2023 (announcement Snippite)
+- Soon we will release version 3.5 for **Snippite**.
+
 ### 04.01.2023 (announcement Shortrack)
 - **Shortrack** development work is complete until the next update! 😎
 
