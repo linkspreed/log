@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.01.2023 (announcement SnapLink)
+- The launch of version 4.9.0 of **SnapLink** was successful! 🥳
+- The new update is live now :)
+- https://snaplink.tk 🔗
+
+### 04.01.2023 (announcement SnapLink)
 - We are now starting the launch of v4.9.0.
 
 ### 04.01.2023 (announcement SnapLink)
