@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.01.2023 (announcement Analytix)
+-  **Analytix** gets a big update today - we are going to launch v3.5.0. 😍
+
+### 04.01.2023 (announcement Analytix)
 - Soon we will release version 3.5 for **Analytix**.
 
 ### 04.01.2023 (announcement Snippite)
