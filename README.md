@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.01.2023 (announcement Shortrack)
+- We won't let **Shortrack** go under and will of course continue to support the platform!
+
 ### 04.01.2023 (announcement SnapLink)
 - https://github.com/linkspreed/SnapLink/blob/main/changelog.md
 - The entire changelog is now available on Github.
