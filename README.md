@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.01.2023 (announcement Shortrack)
+-  **Shortrack** gets a big update today - we are going to launch v4.9.0. 😍
+
+### 04.01.2023 (announcement Shortrack)
 - We won't let **Shortrack** go under and will of course continue to support the platform!
 
 ### 04.01.2023 (announcement SnapLink)
