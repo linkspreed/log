@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.01.2023 (announcement Linkspreed Gaming)
+- Maybe we'll split **Linkspreed Gaming** in **LS Games** and **Linkspreed Arcade**. 🚀
+
+### 05.01.2023 (announcement Linkspreed Gaming)
 - Now a little more work on the mega project **Linkspreed Gaming**! 😎🎮
 
 ### 05.01.2023 (announcement Mailspread)
