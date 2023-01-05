@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.01.2023 (announcement Mailspread)
+- The development work on **Mailspread** is going great! 📧
+
+### 05.01.2023 (announcement Mailspread)
 - We continue to work on **Mailspread**, an unreleased project by Linkspreed.
 
 ### 05.01.2023 (announcement)
