@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.01.2023 (announcement)
+- We're still working on our Cloud2Share alternative, which we may release in the next few days.
+
 ### 05.01.2023 (announcement Rank)
 - https://github.com/linkspreed/Rank/blob/main/changelog.md
 - The entire changelog is now available on Github.
