@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.01.2023 (announcement Rank)
+- We're working on **Rank** v1.9.2.
+
 ### 04.01.2023 (announcement Snippite)
 - https://github.com/linkspreed/Snippite/blob/main/changelog.md
 - The entire changelog is now available on Github.
