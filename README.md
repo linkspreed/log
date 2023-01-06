@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.01.2023 (announcement Biospreed)
+- We're working on **Biospreed** v28.
+
 ### 05.01.2023 (announcement Linkspreed Gaming)
 - Maybe we'll split **Linkspreed Gaming** in **LS Games** and **Linkspreed Arcade**. 🚀
 
