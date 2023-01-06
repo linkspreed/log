@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 05.01.2023 (announcement Biospreed)
+### 06.01.2023 (announcement Snoogie)
+- We're working on **Snoogie** v28.
+
+### 06.01.2023 (announcement Biospreed)
 - We're working on **Biospreed** v28.
 
 ### 05.01.2023 (announcement Linkspreed Gaming)
