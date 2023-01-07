@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.01.2023 (announcement Snippite)
+- The launch of version 3.5.1 of **Snippite** was successful! 🥳
+- The new update is live now :)
+- https://snippite.tk 🔗
+
+### 07.01.2023 (announcement Snippite)
 - We are now starting the launch of v3.5.1.
 
 ### 07.01.2023 (announcement Snippite)
