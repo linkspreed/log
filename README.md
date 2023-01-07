@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.01.2023 (announcement Analytix)
+- We are now starting the launch of v3.5.1.
+
+### 07.01.2023 (announcement Analytix)
 - The servers are now ready for the launch of version 3.5.1 for **Analytix**.
 
 ### 07.01.2023 (announcement Analytix)
