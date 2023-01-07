@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.01.2023 (announcement Critch)
+- We're working on **Critch** now!
+
 ### 07.01.2023 (announcement Linkspreed Gaming)
 - And on it goes, with the developments at **Linkspreed Gaming**! 🎮
 
