@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.01.2023 (announcement Rank)
+- We're working on **Rank** v1.9.3. 🚀
+
 ### 06.01.2023 (announcement Mailspread)
 - We're still working on **Mailspread**!
 
