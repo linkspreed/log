@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.01.2023 (announcement Analytix)
+- We're currently working on v3.5.1 for **Analytix**!
+
 ### 07.01.2023 (announcement Rank)
 - https://github.com/linkspreed/Rank/blob/main/changelog.md
 - The entire changelog is now available on Github.
