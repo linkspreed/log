@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 07.01.2023 (announcement Mailspread)
+### 08.01.2023 (announcement Mailspread)
+- **Mailspread** is making very good progress in development. 📧
+
+### 08.01.2023 (announcement Mailspread)
 - We're currently working on **Mailspread**.
 
 ### 07.01.2023 (announcement StorPad)
