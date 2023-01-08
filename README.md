@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.01.2023 (announcement Critch)
+- Developments on **Critch** are progressing very well and are expected to conclude next week. 🌱
+
+### 08.01.2023 (announcement Critch)
 - We'll relaunch **Critch** with a brand new version! 😎
 
 ### 08.01.2023 (announcement Mailspread)
