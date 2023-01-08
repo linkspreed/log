@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.01.2023 (announcement Linkspreed Gaming)
+- **Linkspreed Gaming** has made very good progress. 
+- I'm happy to announce that the beta version will be available soon.
+
+### 08.01.2023 (announcement Linkspreed Gaming)
 - We're still working on **Linkspreed Gaming**!
 - You can check out what we're currently building on https://play.linkspreed.com.
 
