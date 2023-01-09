@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.01.2023 (announcement Linkspreed Gaming)
+- I'm proud to announce that **Linkspreed Play** is now freely available to you in beta. 🎉🚀
+
+### 09.01.2023 (announcement Linkspreed Gaming)
 - Check out the new Logo for **Linkspreed Play** ...
 - https://user-images.githubusercontent.com/102324985/211395379-4010b316-e05d-4fcc-8018-d33481fcda61.png
 
