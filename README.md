@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.01.2023 (announcement Linkspreed Gaming)
+- We're creating a new logo/icon for **Linkspreed Play.** 🥳
+
+### 09.01.2023 (announcement Linkspreed Gaming)
 - Send us your game requests and we will publish them on **Linkspreed Play**! 🎮
 
 ### 09.01.2023 (announcement Linkspreed Gaming)
