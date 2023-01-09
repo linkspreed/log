@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.01.2023 (announcement Linkspreed Gaming)
+- Hard working on Linkspreed Gaming! 🎮
+- Today we're gonna release the BETA version ...
+
 ### 08.01.2023 (announcement StorPad)
 - We're also working hard on **StorPad**.
 
