@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.01.2023 (announcement Linkspreed Gaming)
+- Send us your game requests and we will publish them on **Linkspreed Play**! 🎮
+
+### 09.01.2023 (announcement Linkspreed Gaming)
 - We have decided to release the beta version of **Linkspreed Play** in a dark mode and with a modern grid system.
 
 ### 09.01.2023 (announcement Linkspreed Gaming)
