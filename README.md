@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.01.2023 (announcement StorPad)
+- We're customizing **StorPad**.
+
 ### 10.01.2023 (announcement Toolkit)
 - https://github.com/linkspreed/Toolkit/blob/main/changelog.md
 - The entire changelog is now available on Github.
