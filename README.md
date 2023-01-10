@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.01.2023 (announcement Toolkit)
+- We're currently working on **Toolkit**.
+
+### 10.01.2023 (announcement Toolkit)
 - https://toolkit.ga is getting more features soon!
 
 ### 09.01.2023 (announcement Linkspreed Gaming)
