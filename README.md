@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.01.2023(announcement Toolkit)
+- We are now starting the launch of v13.0.0.
+
+### 10.01.2023(announcement Toolkit)
 - The servers are now ready for the launch of version 13.0.0for **Toolkit**.
 
 ### 10.01.2023(announcement Toolkit)
