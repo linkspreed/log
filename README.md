@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.01.2023 (announcement Slinky)
+- We're changing the PHP version for **Slinky** from 7.4 to 8.0!
+
+### 11.01.2023 (announcement Slinky)
 - We're still working on the final modifications after the **Slinky** Relaunch!
 
 ### 11.01.2023 (announcement Slinky)
