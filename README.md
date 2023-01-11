@@ -3,6 +3,13 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.01.2023 (announcement Slinky)
+- Here are the three new backgrounds we've temporarily included on **Slinky**! 
+- The images are in 4K!
+- https://slinky.ml/assets/backgrounds/fatih-kgqu_qs3B78-unsplash.jpg
+- https://slinky.ml/assets/backgrounds/shubham-dhage-_rZnChsIFuQ-unsplash.jpg
+- https://slinky.ml/assets/backgrounds/francesca-saraco-J6iLgznwL1c-unsplash.jpg
+
+### 11.01.2023 (announcement Slinky)
 - We're changing the PHP version for **Slinky** from 7.4 to 8.0!
 
 ### 11.01.2023 (announcement Slinky)
