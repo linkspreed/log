@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.01.2023 (announcement Slinky)
+- We're still working on the final modifications after the **Slinky** Relaunch!
+
+### 11.01.2023 (announcement Slinky)
 - **Slinky** makes very good progress!
 
 ### 10.01.2023 (announcement Slinky)
