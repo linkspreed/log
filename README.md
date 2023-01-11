@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.01.2023 (announcement Slinky)
+- We've changed the colour code for **Slinky**.
+- #ffa500 (Linkspreed's orange)
+
+### 11.01.2023 (announcement Slinky)
 - The design issue on **Slinky** has been successfully fixed!
 
 ### 11.01.2023 (announcement Slinky)
