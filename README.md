@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.01.2023 (announcement Slinky)
+- Check out the brand new **Slinky** logo and icon now! 🧡
+- https://user-images.githubusercontent.com/102324985/211883356-fbdeba67-0895-48d9-8842-64b05a813367.png
+- https://user-images.githubusercontent.com/102324985/211883455-722b933f-0fd0-4e8b-bb6c-cd414d2a00dc.png
+
+### 11.01.2023 (announcement Slinky)
 - We're still working on **Slinky**.
 
 ### 11.01.2023 (announcement Slinky)
