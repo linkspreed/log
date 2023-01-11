@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.01.2023 (announcement Slinky)
+- If you don't want to destroy your uploads on **Slinky** manually, they'll get removed after 12 months! ☁️
+
+### 11.01.2023 (announcement Slinky)
 - All uploads on **Slinky** are encrypted via OpenSSL 🔐
 
 ### 11.01.2023 (announcement Slinky)
