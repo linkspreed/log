@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.01.2023 (announcement Slinky)
+- The design issue on **Slinky** has been successfully fixed!
+
+### 11.01.2023 (announcement Slinky)
 - Here are the three new backgrounds we've temporarily included on **Slinky**! 
 - The images are in 4K!
 - https://slinky.ml/assets/backgrounds/fatih-kgqu_qs3B78-unsplash.jpg
