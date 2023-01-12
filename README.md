@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 12.01.2023 (announcement Rank)
+-  **Rank** gets a big update today - we are going to launch v1.9.4 . 😍
+
+### 12.01.2023 (announcement Rank)
 - We're working on **Rank** v1.9.4.
 
 ### 11.01.2023 (announcement Slinky)
