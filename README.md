@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.01.2023 (announcement Rank)
+- We're working on **Rank** v1.9.4.
+
 ### 11.01.2023 (announcement Slinky)
 - If you don't want to destroy your uploads on **Slinky** manually, they'll get removed after 12 months! ☁️
 
