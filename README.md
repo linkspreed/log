@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.01.2023 (announcement StorPad)
+- We're currently working on **StorPad**!
+
 ### 13.01.2023 (announcement Mailspread)
 - Yes, it works! The test run on **Mailspread** was very successful, which is why we will be releasing the platform in the next few days! 😍🎉
 
