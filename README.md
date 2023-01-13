@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.01.2023 (announcement Mailspread)
+- We're working on **Mailspread**!
+
 ### 12.01.2023 (announcement Joyn)
 - We're currently working on **Joyn**.
 
