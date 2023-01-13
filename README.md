@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.01.2023 (announcement Slinky)
+- Now you can reach us via a contact form on **Slinky**!
+
+### 13.01.2023 (announcement Slinky)
 - Now **Slinky** has the file preview option. 
 - View your sent files before downloading them. ☁️
 - https://user-images.githubusercontent.com/102324985/212375503-c36d8502-fe03-41c1-bf97-1278fa9c43fe.png
