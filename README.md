@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.01.2023 (announcement Musiccloud)
+-  **Musiccloud** gets a big update today - we are going to launch v1.5.1. 😍
+
 ### 13.01.2023 (announcement Soundchest)
 - https://github.com/linkspreed/Soundchest/blob/main/changelog.md
 - The entire changelog is now available on Github.
