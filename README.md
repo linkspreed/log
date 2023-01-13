@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.01.2023 (announcement YourPod)
+- The launch of version 1.5.1 of **YourPod** was successful! 🥳
+- The new update is live now :)
+- https://yourpod.cf 🔗
+
+### 13.01.2023 (announcement YourPod)
 - We are now starting the launch of v1.5.1.
 
 ### 13.01.2023 (announcement YourPod)
