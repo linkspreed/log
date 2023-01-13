@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.01.2023 (announcement MusicCloud)
+- We are working very hard on the new version 1.5.1 for **MusicCloud**!
+
 ### 13.01.2023 (announcement Soundchest)
 - We are working very hard on the new version 1.5.1 for **SoundChest**!
 
