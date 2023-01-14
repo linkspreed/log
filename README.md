@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.01.2023 (announcement Mailspread)
+- Still working on **Mailspread**.
+
 ### 14.01.2023 (announcement StorPad)
 - https://storpad.tk/
 
