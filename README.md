@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.01.2023 (announcement StorPad)
+- https://storpad.tk/
+
+### 14.01.2023 (announcement StorPad)
 - Check out the new logo/icon for **StorPad**. 😎
 - https://user-images.githubusercontent.com/102324985/212496146-cfa29f11-6573-462c-b9cd-60491ab6f211.png
 - https://user-images.githubusercontent.com/102324985/212496156-f2e12e1a-a02d-4f2d-aa1f-8b0503607927.png
