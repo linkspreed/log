@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.01.2023 (announcement Slinky)
+- We're working on **Slinky**!
+
 ### 14.01.2023 (announcement)
 - https://linkspreed.com/site-pages/CCPA
 - https://linkspreed.com/site-pages/DSAR
