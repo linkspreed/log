@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.01.2023 (announcement)
+- We are further expanding our data protection systems and are putting data protection in the foreground! 🔒
+
 ### 13.01.2023 (announcement YourPod)
 - https://github.com/linkspreed/YourPod/blob/main/changelog.md
 - The entire changelog is now available on Github.
