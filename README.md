@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.01.2023 (announcement Slinky)
+- We're working on the **Slinky** Github Repository!
+
+### 14.01.2023 (announcement Slinky)
 - **Slinky** - the fastest way to send large files via email or link! ☁️📧
 
 ### 14.01.2023 (announcement Slinky)
