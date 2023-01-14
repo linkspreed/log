@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.01.2023 (announcement)
+- https://linkspreed.com/site-pages/CCPA
+- https://linkspreed.com/site-pages/DSAR
+
+### 14.01.2023 (announcement)
 - We are further expanding our data protection systems and are putting data protection in the foreground! 🔒
 
 ### 13.01.2023 (announcement YourPod)
