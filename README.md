@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 14.01.2023 (announcement Slinky)
+- I'm very proud to introduce **Slinky** today. 😍🎉
+- The possibility to send large files quickly and easily without an account is now online. 🌱
+- Go to https://slinky.ml and get started now! 🚀
+
+### 14.01.2023 (announcement Slinky)
 - Check out the official **Slinky** Github Repository.
 - https://github.com/linkspreed/Slinky
 
