@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.01.2023 (announcement)
+- We used today to expand many new ideas for future projects, current building blocks and new updates! 🙃
+
 ### 14.01.2023 (announcement Mailspread)
 - Still working on **Mailspread**.
 
