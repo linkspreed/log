@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.01.2023 (announcement Analytix)
+-  **Analytix** gets a big update today - we are going to launch v3.6. 😍
+
 ### 15.01.2023 (announcement)
 - We used today to expand many new ideas for future projects, current building blocks and new updates! 🙃
 
