@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.01.2023 (announcement Mailspread)
+- The future model behind **Mailspread**:
+- https://mailspread.cf --(redirect to)--> https://dash.mailspread.cf
+
+### 17.01.2023 (announcement Mailspread)
 - We're working on **Mailspread**!
 
 ### 17.01.2023 (announcement)
