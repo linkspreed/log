@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.01.2023 (announcement)
+- We built the two Github repositories today for even greater transparency.
+
+### 17.01.2023 (announcement)
 - https://github.com/linkspreed/Pages
 
 ### 17.01.2023 (announcement [Terms])
