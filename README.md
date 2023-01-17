@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.01.2023 (announcement)
+- https://github.com/linkspreed/Pages
+
 ### 17.01.2023 (announcement [Terms])
 - https://github.com/linkspreed/Terms
 
