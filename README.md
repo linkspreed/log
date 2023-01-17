@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.01.2023 (announcement [Terms])
+- https://github.com/linkspreed/Terms
+
+### 17.01.2023 (announcement [Terms])
 - We are now creating a completely new Github repository for Linkspreed, where we will document, record and publish all changes regarding the terms.
 
 ### 17.01.2023 (announcement Rank)
