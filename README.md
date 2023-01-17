@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.01.2023 (announcement Rank)
+- The code is now ready for the launch of version 2.0.0 for **Rank**.
+
+### 17.01.2023 (announcement Rank)
 -  **Rank** gets a big update today - we are going to launch v2.0.0 . 😍
 
 ### 16.01.2023 (announcement Snippite)
