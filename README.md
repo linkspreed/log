@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.01.2023 (announcement)
+- After Freenom has had unusually long problems, we slowly but surely start building a subdomain system. 🚀
+
 ### 18.01.2023 (announcement BioX)
 - We're working on **BioX** - a cool experimental program! 🔗
 
