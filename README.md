@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.01.2023 (announcement Mailspread)
+- The 2 new email servers for **Mailspread** are available now! 📧🚀
+
 ### 19.01.2023 (announcement)
 - For the time being, we have developed a solution for the subdomain problem. 
 - The respective product subdomain will first redirect to the corresponding platform. 
