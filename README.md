@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.01.2023 (announcement)
+- We're working on the new subdomain system ... 🥳
+
 ### 19.01.2023 (announcement [Privacy Protection])
 - Still working on our #1 Privacy Protection goal!
 
