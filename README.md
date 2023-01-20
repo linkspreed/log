@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.01.2023 (announcement PinPix)
+- We are working on **PinPix** v1.6, but will not launch the new version for a few weeks!
+
 ### 20.01.2023 (announcement YourPod)
 - https://github.com/linkspreed/YourPod/blob/main/changelog.md
 - The entire changelog is now available on Github.
