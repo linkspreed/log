@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.01.2023 (announcement Chitter)
+- We are now starting the launch of v1.6.
+
+### 20.01.2023 (announcement Chitter)
 - The servers are now ready for the launch of version 1.6 for **Chitter**.
 
 ### 20.01.2023 (announcement Chitter)
