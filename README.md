@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.01.2023 (announcement Chitter)
+-  **Chitter** gets a big update today - we are going to launch v1.6. 😍
+
 ### 20.01.2023 (announcement PinPix)
 - We are working on **PinPix** v1.6, but will not launch the new version for a few weeks!
 
