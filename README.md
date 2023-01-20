@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.01.2023 (announcement YourPod)
+-  **YourPod** gets a big update today - we are going to launch v1.5.2. 😍
+
 ### 20.01.2023 (announcement Musiccloud)
 - https://github.com/linkspreed/Musiccloud/blob/main/changelog.md
 - The entire changelog is now available on Github.
