@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.01.2023 (announcement Soundchest)
+-  **Soundchest** gets a big update today - we are going to launch v1.5.2. 😍
+
 ### 19.01.2023 (announcement Mailspread)
 - Two mail servers, Sendmail and Lightning, have been added to **Mailspread**.
 - Many more will of course follow! 😍
