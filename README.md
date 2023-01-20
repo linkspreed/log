@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.01.2023 (announcement Soundchest)
+- https://github.com/linkspreed/Soundchest/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 20.01.2023 (announcement Soundchest)
 - The launch of version 1.5.2 of **Soundchest** was successful! 🥳
 - The new update is live now :)
 - https://soundchest.cf 🔗
