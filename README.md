@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.01.2023 (announcement [Privacy Protection])
+- We've finally updated our Privacy Policy for all Linkspreed platforms. :D
+
+### 21.01.2023 (announcement [Privacy Protection])
 - We're reworking on Privacy Policy! 📂
 
 ### 20.01.2023 (announcement Chitter)
