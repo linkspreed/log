@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.01.2023 (announcement [Privacy Protection])
+- We're reworking on Privacy Policy! 📂
+
 ### 20.01.2023 (announcement Chitter)
 - https://github.com/linkspreed/Chitter/blob/main/changelog.md
 - The entire changelog is now available on Github.
