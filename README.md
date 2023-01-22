@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.01.2023 (announcement [Privacy Protection])
+- We're working on our privacy tools.
+
 ### 21.01.2023 (announcement [Privacy Protection])
 - https://github.com/linkspreed/Terms/blob/main/privacy-policy_changelog.md
 - Check out the changelog!
