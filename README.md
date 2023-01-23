@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.01.2023 (announcement [Privacy Protection])
+- We've updated our Disclaimer.
+
+### 22.01.2023 (announcement [Privacy Protection])
 - We've updated our Terms of Use.
 
 ### 22.01.2023 (announcement [Privacy Protection])
