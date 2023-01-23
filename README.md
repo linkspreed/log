@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.01.2023 (announcement [Privacy Protection])
+- https://linkspreed.com/site-pages/Cookie_Policy
+
+### 23.01.2023 (announcement [Privacy Protection])
 - https://linkspreed.com/site-pages/EULA
 
 ### 22.01.2023 (announcement [Privacy Protection])
