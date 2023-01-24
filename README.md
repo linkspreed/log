@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.01.2023 (announcement [Privacy Protection])
+- https://linkspreed.com/terms/refund
+
 ### 23.01.2023 (announcement [Privacy Protection])
 - We've updated our Cookie Consent Term page.
 
