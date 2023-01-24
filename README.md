@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.01.2023 (announcement Linkspreed Assistant)
+- We are working on our own voice assistant. :D
+
 ### 24.01.2023 (announcement Analytix)
 - Now you can also access Analytix via the following Linkspreed subdomain for the launch!
 - https://analytix.linkspreed.com/
