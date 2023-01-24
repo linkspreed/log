@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.01.2023 (announcement [Privacy Protection])
+- https://linkspreed.com/site-pages/Acceptable_Use_Policy
+
+### 24.01.2023 (announcement [Privacy Protection])
 - We have published our Refund Policy!
 
 ### 24.01.2023 (announcement [Privacy Protection])
