@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.01.2023 (announcement Linkspreed Assistant)
+- Our voice assistant will first be released as an Android app using the Kotlin programming language. 🚀
+
+### 25.01.2023 (announcement Linkspreed Assistant)
 - We're currently working on the new Linkspreed Assistant! 🥳
 
 ### 24.01.2023 (announcement Linkspreed Assistant)
