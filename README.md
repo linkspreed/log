@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.01.2023 (announcement LaaS)
+- We now continue to work on our huge project - **LaaS** (Linkspreed as a Service) 🧡🌱
+
 ### 25.01.2023 (announcement Linkspreed Assistant)
 - Our voice assistant will first be released as an Android app using the Kotlin programming language. 🚀
 
