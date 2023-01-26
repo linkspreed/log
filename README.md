@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.01.2023 (announcement [Privacy Protection], BeSave)
+- We've added all Data Protection Links to **BeSave**.
+
 ### 26.01.2023 (announcement [Privacy Protection], Articly)
 - We've added all Data Protection Links to **Articly**.
 
