@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.01.2023 (announcement LinkLab)
+-  **LinkLab** gets a big update today - we are going to launch v22.0.0 . 😍
+
 ### 25.01.2023 (announcement LaaS)
 - We now continue to work on our huge project - **LaaS** (Linkspreed as a Service) 🧡🌱
 
