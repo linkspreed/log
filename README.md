@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.01.2023 (announcement Linkspreed Assistant)
+- We are continuing to build our own voice assistant, the Linkspreed Assistant! 🗣️
+
 ### 26.01.2023 (announcement [Privacy Protection], uCube)
 - We've added all Data Protection Links to **uCube**.
 
