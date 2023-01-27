@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.01.2023 (announcement Rank)
+-  **Rank** gets a big update today - we are going to launch v2.0.1. 😍
+
 ### 27.01.2023 (announcement Linkspreed Assistant)
 - We are continuing to build our own voice assistant, the Linkspreed Assistant! 🗣️
 
