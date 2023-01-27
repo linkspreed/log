@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.01.2023 (announcement)
+- In order to achieve one of our goals of making the Internet more dynamic, you have to be able to create temporary email addresses very quickly.
+- We are currently experimenting on a new tool for this! 😎
+
 ### 27.01.2023 (announcement Deepage)
 - https://github.com/linkspreed/Deepage/blob/main/changelog.txt
 - The entire changelog is now available on Github.
