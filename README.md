@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 27.01.2023 (announcement Deepage)
+- The launch of version 19.0.0 of **Deepage** was successful! 🥳
+- The new update is live now :)
+- https://deepage.tk 🔗
+
+### 27.01.2023 (announcement Deepage)
 - We are now starting the launch of v19.0.0.
 
 ### 27.01.2023 (announcement Deepage)
