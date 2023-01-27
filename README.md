@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.01.2023 (announcement Linkspreed Assistant)
+- We are already building what feels like 100 debug APKs at Linkspreed for our assistant app, which is still in the early development phase!
+
 ### 27.01.2023 (announcement)
 - We are working on a lot of new ideas and updates! 🥳
 
