@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.01.2023 (announcement Linkspreed Mails)
+- We continued to work on Linkspreed Mails. 📧
+
 ### 27.01.2023 (announcement)
 - In order to achieve one of our goals of making the Internet more dynamic, you have to be able to create temporary email addresses very quickly.
 - We are currently experimenting on a new tool for this! 😎
