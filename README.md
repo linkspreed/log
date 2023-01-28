@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.01.2023 (announcement Mailspread)
+- We are now adding **Mailspread** to our lists, platforms and projects. 💪
+
 ### 28.01.2023 (announcement)
 - With the many email projects that we are setting up here at Linkspreed and will only develop in the future because they are just ideas at the moment, it is no wonder that we would set up a separate sector at Linkspreed for emails, isn't it? :)
 
