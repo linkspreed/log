@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.01.2023 (announcement Mailspread)
+- We have connected **Mailspread** to Cloudflare. 😎
+
+### 28.01.2023 (announcement Mailspread)
 - We added **Mailspread** to our two uptime systems - UpNode (from Linkspreed) & linkspreed_uptime (from Github). ✅
 
 ### 28.01.2023 (announcement Mailspread)
