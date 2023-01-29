@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.01.2023 (announcement Linkspreed Mails)
+- We have been working on **Linkspreed Mails** for most of the afternoon and evening and I am extremely proud to report that Linkspreed Mails is making very, very good progress. 📧
+
 ### 29.01.2023 (announcement)
 - We are working on our mail solutions. :)
 
