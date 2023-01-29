@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.01.2023 (announcement)
+- We are working on our mail solutions. :)
+
 ### 28.01.2023 (announcement Mailspread)
 - Now we've also added **Mailspread** to Google Search Console!
 
