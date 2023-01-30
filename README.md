@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.01.2023 (announcement Analytix)
+-  **Analytix** gets a big update today - we are going to launch v3.6.1. 😍
+
 ### 30.01.2023 (announcement BioX)
 - We're working on **BioX**.
 
