@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.01.2023 (announcement BioX)
+- We're working on **BioX**.
+
 ### 29.01.2023 (announcement Linkspreed Mails)
 - We have been working on **Linkspreed Mails** for most of the afternoon and evening and I am extremely proud to report that Linkspreed Mails is making very, very good progress. 📧
 
