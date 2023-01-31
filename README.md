@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.01.2023 (announcement Snoogie)
+- We have updated the Image Optimization Plugin for **Snoogie**!
+
 ### 31.01.2023 (announcement Biospreed)
 - We have updated the Image Optimization Plugin for **Biospreed**!
 
