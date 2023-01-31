@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.01.2023 (announcement Linkspreed Mails)
+- https://mails.linkspreed.com
+
 ### 31.01.2023 (announcement Snoogie)
 - We have updated the Advanced Blocks plugin on **Snoogie** so that each and every block can run flawlessly with the new version of the platform.
 
