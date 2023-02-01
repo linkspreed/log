@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.02.2023 (announcement)
+- We are upgrading our development environments and systems at Linkspreed to develop even better software for you. Another change is the new Java update... 🚀
+
 ### 31.01.2023 (announcement)
 - We have plans to eventually work on a SaaS Cloud Live Support Chat for small and medium sized startups! 🧑‍💻
 
