@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.02.2023 (announcement Linkspreed Assistant)
+- We are currently also working on our current Kotlin - Java project: **Linkspreed Assistant**. 🧡
+
 ### 01.02.2023 (announcement)
 - We are upgrading our development environments and systems at Linkspreed to develop even better software for you. Another change is the new Java update... 🚀
 
