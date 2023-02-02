@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.02.2023  (announcement Slinky)
+-  **Slinky** gets a big update today - we are going to launch v2.4.8. 😍
+
 ### 01.02.2023 (announcement Linkspreed Assistant)
 - We are currently also working on our current Kotlin - Java project: **Linkspreed Assistant**. 🧡
 
