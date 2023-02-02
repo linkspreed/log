@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 02.02.2023 (announcement Shortrack)
+- https://github.com/linkspreed/Shortrack/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 02.02.2023 (announcement Shortrack)
 - The launch of version 5.0 of **Shortrack** was successful! 🥳
 - The new update is live now :)
 - https://shortrack.tk 🔗
