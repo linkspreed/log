@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.02.2023 (announcement CallCloud)
+- We're working on **CallCloud**.
+
 ### 02.02.2023 (announcement Slinky)
 - https://github.com/linkspreed/Slinky/blob/main/changelog.md
 - The entire changelog is now available on Github.
