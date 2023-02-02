@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 02.02.2023 (announcement Slinky)
+- https://github.com/linkspreed/Slinky/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 02.02.2023 (announcement Slinky)
 - The launch of version 2.4.8 of **Slinky** was successful! 🥳
 - The new update is live now :)
 - https://slinky.ml 🔗
