@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.02.2023 (announcement SnapLink)
+-  **SnapLink** gets a big update today - we are going to launch v5.0. 😍
+
 ### 02.02.2023 (announcement Shortrack)
 - https://github.com/linkspreed/Shortrack/blob/main/changelog.md
 - The entire changelog is now available on Github.
