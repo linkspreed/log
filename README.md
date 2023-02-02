@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 02.02.2023 (announcement Shortrack)
+- We are now starting the launch of v5.0.
+
+### 02.02.2023 (announcement Shortrack)
 - The servers are now ready for the launch of version 5.0 for **Shortrack**.
 
 ### 02.02.2023 (announcement Shortrack)
