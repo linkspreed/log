@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.02.2023 (announcement LaaS)
+- We're putting some further work effort on **LaaS**.
+
 ### 02.02.2023 (announcement)
 - We have connected further platforms to our policies on Linkspreed.
 
