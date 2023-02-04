@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.02.2023 (announcement Biospreed)
+- **Biospreed** got 12 new blocks for the biopage, which you can now find in your dashboard for free! 😍
+
 ### 03.02.2023 (announcement Linkspreed Assistant)
 - We're taking some more work experiments on Linkspreed Assistant. 🚀
 
