@@ -3,6 +3,34 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.02.2023 (announcement Snoogie)
+  - Apple Music Embed
+  - Tidal Music Embed
+  - Anchor FM podcast embed
+  - Twitter Tweet embed
+  - Instagram Posts, IGTV, Reel Embed
+  - Dynamic RSS Feed
+  - VCard 
+  - Image Grid
+  - Divider
+  - Custom HTML
+  - Alert
+  - List
+
+### 04.02.2023 (announcement Biospreed)
+  - Apple Music Embed
+  - Tidal Music Embed
+  - Anchor FM podcast embed
+  - Twitter Tweet embed
+  - Instagram Posts, IGTV, Reel Embed
+  - Dynamic RSS Feed
+  - VCard 
+  - Image Grid
+  - Divider
+  - Custom HTML
+  - Alert
+  - List
+
+### 04.02.2023 (announcement Snoogie)
 - **Snoogie** got 12 new blocks for the biopage, which you can now find in your dashboard for free! 😍
 
 ### 04.02.2023 (announcement Biospreed)
