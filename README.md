@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.02.2023 (announcement Smartpix)
+- **SmartPix** is back online, but of course still in progress for the next few days/weeks...
+
+### 05.02.2023 (announcement Smartpix)
 - We are now working on a Linkspreed platform that we have not really developed much in recent years, but which still has wonderful potential. 🌱 We continue to work on **Smartpix**!
 
 ### 05.02.2023 (announcement DeePage)
