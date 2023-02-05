@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.02.2023 (announcement DeePage)
+- Right now we're working on **DeePage**. 📂
+
 ### 05.02.2023 (announcement Linkspreed Assistant)
 - We continue to work on **Linkspreed Assistant** and are proud that it is progressing very well. 🚀
 
