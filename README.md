@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.02.2023 (announcement DeePage)
+- I'm happy to report that **DeePage** is working properly again and the problem of the page has been successfully fixed.
+
+### 05.02.2023 (announcement DeePage)
 - Right now we're working on **DeePage**. 📂
 
 ### 05.02.2023 (announcement Linkspreed Assistant)
