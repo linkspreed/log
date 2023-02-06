@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 06.02.2023 (announcement - LS AI)
+- 📚 We at Linkspreed see such a huge potential in OpenAI, its technology and API, that we are making plans to develop our own OpenAI ChatGPT 3 based tools to make all the knowledge of the Internet available to even more people and especially students in schools for free place.
+
+### 06.02.2023 (announcement - LS AI)
 - We have contacted OpenAI and of course we really hope to share the knowledge of GPT3 with so many more people who don't have real access to ChatGPT yet - especially students.
 - https://user-images.githubusercontent.com/102324985/217079913-2fe8efb0-f2a8-4746-8a14-5384164dc914.png
 
