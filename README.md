@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.02.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v29.0.0. 😍
+
 ### 05.02.2023 (announcement Smartpix)
 - **SmartPix** is back online, but of course still in progress for the next few days/weeks...
 
