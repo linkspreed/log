@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.02.2023 (announcement - LS AI)
+- We're still working on some plans and ideas for new products...
+
 ### 06.02.2023 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.
