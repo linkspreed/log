@@ -2,6 +2,27 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.02.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 06.02.2023 (announcement Snoogie)
+- The launch of version 29.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 06.02.2023 (announcement Snoogie)
+- We are now starting the launch of v29.0.0.
+
+### 06.02.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 29.0.0 for **Snoogie**.
+
+### 06.02.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 29.0.0 for **Snoogie**.
+
+### 06.02.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v29.0.0. 😍
+
 ### 06.02.2023 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
