@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.02.2023 (announcement - LS AI)
+- Hard at work! We're building lots of experimental APKs and our own voice assistant is making great progress. Watch this space! 🔥🤖 #APK #VoiceAssistant #Innovation
+
+### 07.02.2023 (announcement - LS AI)
 - Exciting news for #Linkspreed fans! The team is working hard to bring you a new, more advanced voice assistant. Stay tuned for more updates! 🎤🤖 #VoiceAssistant #AI #Innovation
 
 ### 07.02.2023 (announcement - LS AI)
