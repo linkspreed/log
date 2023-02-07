@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.02.2023 (announcement - LS AI)
+- Exciting news for #Linkspreed fans! The team is working hard to bring you a new, more advanced voice assistant. Stay tuned for more updates! 🎤🤖 #VoiceAssistant #AI #Innovation
+
+### 07.02.2023 (announcement - LS AI)
 - We're doing some research and experimentation with the OpenAI API.
 
 ### 06.02.2023 (announcement - LS AI)
