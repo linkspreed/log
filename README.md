@@ -3,6 +3,24 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.02.2023 (announcement PinPix)
+- https://github.com/linkspreed/PinPix/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 08.02.2023 (announcement PinPix)
+- The launch of version 1.6 of **PinPix** was successful! 🥳
+- The new update is live now :)
+- https://pinpix.cf 🔗
+
+### 08.02.2023 (announcement PinPix)
+- We are now starting the launch of v1.6.
+
+### 08.02.2023 (announcement PinPix)
+- The servers are now ready for the launch of version 1.6 for **PinPix**.
+
+### 08.02.2023 (announcement PinPix)
+- The code is now ready for the launch of version 1.6 for **PinPix**.
+
+### 08.02.2023 (announcement PinPix)
 -  **PinPix** gets a big update today - we are going to launch v1.6. 😍
 
 ### 08.02.2023 (announcement PinPix)
