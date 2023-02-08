@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.02.2023 (announcement - Linkspreed Assistant)
+- 🤖🔨 We're continuing to work on our voice assistant and are proud to announce that we're getting closer to our goal with great strides! 🚀 A better version for Android devices might be just around the corner. 🤖📱 #VoiceAssistant #Innovations #AndroidUpgrade 💻
+
 ### 08.02.2023 (announcement BeSave)
 💻⚠️ We had some issues with our DNS settings on the platform, but it turns out it was with our hosting provider. The problem only lasted a few minutes and now it's all fixed! 🛠️🎉 #DNSSettings #TechnicalIssuesResolved 💻
 
