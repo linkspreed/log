@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 07.02.2023 (announcement BeSave)
+### 08.02.2023 (announcement BeSave)
+💻⚠️ We had some issues with our DNS settings on the platform, but it turns out it was with our hosting provider. The problem only lasted a few minutes and now it's all fixed! 🛠️🎉 #DNSSettings #TechnicalIssuesResolved 💻
+
+### 08.02.2023 (announcement BeSave)
 - 🔎 Following increased demand, we took a look at the live status of #besave and can confirm it's 💯% functional and online! 💻🕹️ #onlinestatus #functionality 🚀
 
 ### 07.02.2023 (announcement - Linkspreed Assistant)
