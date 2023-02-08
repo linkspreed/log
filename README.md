@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.02.2023 (announcement BeSave)
+- 🔎 Following increased demand, we took a look at the live status of #besave and can confirm it's 💯% functional and online! 💻🕹️ #onlinestatus #functionality 🚀
+
 ### 07.02.2023 (announcement - Linkspreed Assistant)
 - I stand here, ready to turn your thoughts into written brilliance - **Linkspreed Assistant**
 
