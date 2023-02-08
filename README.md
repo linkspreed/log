@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.02.2023 (announcement - Linkspreed Assistant)
+- 🚨BIG NEWS ALERT🚨
+- We're thrilled to announce that our voice system at #Linkspreed is making amazing progress! 🔥
+- Our team has been working hard to ensure its top-notch quality, and it's safe to say that the app will be released soon 🎉🎊
+- Stay tuned! 📣 #voiceassistant #AI #tech
+
+### 08.02.2023 (announcement - Linkspreed Assistant)
 - 🤖🔨 We're continuing to work on our voice assistant and are proud to announce that we're getting closer to our goal with great strides! 🚀 A better version for Android devices might be just around the corner. 🤖📱 #VoiceAssistant #Innovations #AndroidUpgrade 💻
 
 ### 08.02.2023 (announcement BeSave)
