@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.02.2023 (announcement PinPix)
+-  **PinPix** gets a big update today - we are going to launch v1.6. 😍
+
+### 08.02.2023 (announcement PinPix)
 - Get ready for a big update! Version 1.6 of PinPix is coming soon 🚀 We've finished up the front-end work and can't wait to share it with you 💻 #PinPix1.6 #FrontendComplete #LaunchComing
 
 ### 08.02.2023 (announcement - Linkspreed Assistant)
