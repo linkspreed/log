@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.02.2023 (announcement SmartPix)
+- We continue to build **SmartPix**.
+
 ### 09.02.2023 (announcement Web4)
 - We've worked on our new Web4 documentation page.
 - Stay tuned!
