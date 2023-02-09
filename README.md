@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.02.2023 (announcement Biospreed)
+- Today I am very proud to announce that we are working on a new plugin for **Biospreed**, with which we will implement artificial intelligence into the platform.
+
 ### 09.02.2023 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.
