@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.02.2023 (announcement)
+- 💡 Get ready for some exciting news! 🚀 Starting today, we at @Linkspreed are reaching out to various social networks for potential collaboration opportunities. 🤝 Everyday, multiple emails will be sent with the aim of building a decentralized social network together! 🌍 #Dezentralization #Collaboration #SocialNetworks 🙌
+
 ### 09.02.2023 (announcement Snoogie)
 - Today we finally released the long awaited Team Plugin for **Snoogie**. 
 - All existing users and new users now get the free ability to create, manage and grow teams.
