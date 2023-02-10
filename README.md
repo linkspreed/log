@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.02.2023 (announcement SmartPix)
+- We're tirelessly working to make **SmartPix** even better. Stay tuned for new features! #SmartPix #InnovativeTechnology
+
 ### 10.02.2023 (announcement)
 - Bringing some creative flair to video streaming with our latest project at 
 @linkspeed
