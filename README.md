@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.02.2023 (announcement)
+- Bringing some creative flair to video streaming with our latest project at 
+@linkspeed
+! Excited to share the magic with you soon! #streamlikeneverbefore #thinkoutsideofthebox
+
+### 10.02.2023 (announcement)
 - Building the foundation for success! 
 - At #Linkspeed, we're working hard to strengthen our internal business and structure. 
 - Excited to show the world our profitable side by mid-year 💪 #growth #businessgoals 🚀
