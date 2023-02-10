@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.02.2023 (announcement SmartPix)
+- 💥 **Smartpix** announces the arrival of its very own mail server.
+
+### 10.02.2023 (announcement SmartPix)
 - We're tirelessly working to make **SmartPix** even better. Stay tuned for new features! #SmartPix #InnovativeTechnology
 
 ### 10.02.2023 (announcement)
