@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.02.2023 (announcement SmartPix)
+- We've added SmartPix to Cloudflare and the Google Search Console. 
+- This integration provides several benefits including improved website performance, enhanced security, and better search engine visibility.
+- Say hello to a faster and safer online experience with SmartPix. #SmartPix
+
+### 11.02.2023 (announcement SmartPix)
 - Exciting news! We're thrilled to officially announce the addition of **SmartPix** to our platform family. 
 - Get ready to enhance your visual game with our latest addition, now a permanent fixture. #SmartPix #VisualEnhancement #ExpandYourHorizon
 
