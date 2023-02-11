@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.02.2023 (announcement SmartPix)
+- Exciting news! We're thrilled to officially announce the addition of **SmartPix** to our platform family. 
+- Get ready to enhance your visual game with our latest addition, now a permanent fixture. #SmartPix #VisualEnhancement #ExpandYourHorizon
+
 ### 11.02.2023 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
