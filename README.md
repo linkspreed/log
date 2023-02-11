@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.02.2023 (announcement Biospreed)
+- Get ready to upgrade your #BioPage platform because Version 30.1 is launching soon! 🚀🌟
+- 💻💥 With new features and improved performance, you'll be able to streamline your workflow and maximize your productivity like never before!💥💻
+
 ### 10.02.2023 (announcement SmartPix)
 - 💥 **Smartpix** announces the arrival of its very own mail server.
 
