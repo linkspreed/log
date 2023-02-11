@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.02.2023 (announcement SmartPix)
+- Unleashing creativity! Our newly designed logo for SmartPix is now live and shining bright 💡 #LogoDesign #Branding #SmartPix
+- https://user-images.githubusercontent.com/102324985/218281480-ceae854e-c579-409f-8171-4382cbb8f413.png
+
+### 11.02.2023 (announcement SmartPix)
 - We've added SmartPix to Cloudflare and the Google Search Console. 
 - This integration provides several benefits including improved website performance, enhanced security, and better search engine visibility.
 - Say hello to a faster and safer online experience with SmartPix. #SmartPix
