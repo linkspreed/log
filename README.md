@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 12.02.2023 (announcement Linkspreed AI)
+- 🔥We're making progress on our multi-voice assistant app! 💻 
+- Say goodbye to the hassle of switching between different virtual assistants. 
+- With our app, you can manage all your tasks with ease, all in one place! #InnovativeAI #VoiceAssistant #StayTuned 🤖
+
+### 12.02.2023 (announcement Linkspreed AI)
 - 🚀Exciting news! We're now developing a 2nd voice assistant app that lets you connect your own personal #AimyboxAssistant or share it with other users. 
 - Get ready to revolutionize the way you interact with technology!🔥 #InnovativeAI #VoiceAssistant #StayTuned 🤖
 
