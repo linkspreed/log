@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 12.02.2023 (announcement DNServer)
+- We've added new DNS servers to the mix at **DNServer**, ensuring even faster and more reliable checks. And the best part? More servers to come! Stay tuned for an even smoother browsing experience. #DNServer #NewDNS #FasterInternet
+
+### 12.02.2023 (announcement DNServer)
 - 🎉 We're ramping up our work on **DNServer** and officially welcoming it into the family! 
 - 💻 Get ready for even more power and performance. 🚀 #DNServer #TechUpdates 🤖
 
