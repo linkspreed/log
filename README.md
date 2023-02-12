@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.02.2023 (announcement DNServer)
+- 🎉 We're ramping up our work on **DNServer** and officially welcoming it into the family! 
+- 💻 Get ready for even more power and performance. 🚀 #DNServer #TechUpdates 🤖
+
 ### 11.02.2023 (announcement SmartPix)
 - Unleashing creativity! Our newly designed logo for SmartPix is now live and shining bright 💡 #LogoDesign #Branding #SmartPix
 - https://user-images.githubusercontent.com/102324985/218281480-ceae854e-c579-409f-8171-4382cbb8f413.png
