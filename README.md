@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.02.2023 (announcement Linkspreed AI)
+- 🚀Exciting news! We're now developing a 2nd voice assistant app that lets you connect your own personal #AimyboxAssistant or share it with other users. 
+- Get ready to revolutionize the way you interact with technology!🔥 #InnovativeAI #VoiceAssistant #StayTuned 🤖
+
 ### 12.02.2023 (announcement UpNode)
 - 🚨Good news, UpNode is back online and better than ever!🎉 We apologize for the brief interruption earlier this morning.🙏🏼 Been up and running since 9:30am CEST!🕰️ #UpNode #BackOnline #SorryForTheWait 🚀
 - https://user-images.githubusercontent.com/102324985/218320276-162e8d6d-2020-412f-9b72-ce63338c1322.png
