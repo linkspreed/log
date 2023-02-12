@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 12.02.2023 (announcement DNServer)
+- Discover DNServer, the free and user-friendly tool from Linkspreed.
+- https://user-images.githubusercontent.com/102324985/218314694-d2ad7961-530b-4c46-9bc3-d6556d1b4350.png
+
+### 12.02.2023 (announcement DNServer)
 - We've added new DNS servers to the mix at **DNServer**, ensuring even faster and more reliable checks. And the best part? More servers to come! Stay tuned for an even smoother browsing experience. #DNServer #NewDNS #FasterInternet
 
 ### 12.02.2023 (announcement DNServer)
