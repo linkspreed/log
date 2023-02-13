@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.02.2023 (announcement)
+- We are working very hard on the new AI feature for 2 platforms. 
+- Be sure to stay tuned!
+
 ### 13.02.2023 (announcement Pixly)
 - We continued to work on an update of an old project - **Pixly**. 
 - We will continue to improve the platform in the near future!
