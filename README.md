@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.02.2023 (announcement)
+- We have split our clouds. There will be a lot of information about this in the next few days!
+
 ### 13.02.2023 (announcement Pixly)
 - We are proud to say that **Pixly** is making great progress.
 
