@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.02.2023 (announcement DNServer)
+- We're adding more DNS servers to our DNServer platform!
+
 ### 12.02.2023 (announcement Linkspreed AI)
 - 🔥We're making progress on our multi-voice assistant app! 💻 
 - Say goodbye to the hassle of switching between different virtual assistants. 
