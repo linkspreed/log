@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.02.2023 (announcement Pixly)
+- We are proud to say that **Pixly** is making great progress.
+
 ### 13.02.2023 (announcement)
 - We are working very hard on the new AI feature for 2 platforms. 
 - Be sure to stay tuned!
