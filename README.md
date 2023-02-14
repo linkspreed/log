@@ -2,6 +2,27 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.02.2023 (announcement Linkspreed)
+- https://github.com/linkspreed/Linkspreed.com/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 14.02.2023 (announcement Linkspreed)
+- The launch of version 4.1.5 of **Linkspreed** was successful! 🥳
+- The new update is live now :)
+- https://linkspreed.com 🔗
+
+### 14.02.2023 (announcement Linkspreed)
+- We are now starting the launch of v4.1.5.
+
+### 14.02.2023 (announcement Linkspreed)
+- The servers are now ready for the launch of version 4.1.5 for **Linkspreed**.
+
+### 14.02.2023 (announcement Linkspreed)
+- The code is now ready for the launch of version 4.1.5 for **Linkspreed**.
+
+### 14.02.2023 (announcement Linkspreed)
+-  **Linkspreed** gets a big update today - we are going to launch v4.1.5. 😍
+
 ### 13.02.2023 (announcement)
 - We have split our clouds. There will be a lot of information about this in the next few days!
 
