@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 15.02.2023 (announcement Connected)
+- Check out the new #Connected repository on @GitHub by @linkspreed! 
+- It's a great resource for the greatest, decentralized social network!
+- https://github.com/linkspreed/Connected
+
+### 15.02.2023 (announcement Connected)
 - Exciting news! #Connected now has its own Github repository! 
 - 🚀🎉 Join us in contributing to the project and building the future of connectivity. #opensource #github
 
