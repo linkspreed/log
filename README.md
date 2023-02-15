@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.02.2023 (announcement Flipx)
+- 🎉 Exciting news! We're currently 🔨working hard on flipx.tk, the new site that powers our 🔒secure and reliable mail service at mails.linkspreed.com. Stay tuned for updates as we get closer to launch! 🚀📧 #webdev #emailsecurity
+
 ### 15.02.2023 (announcement Connected)
 - Check out the new #Connected repository on @GitHub by @linkspreed! 
 - It's a great resource for the greatest, decentralized social network!
