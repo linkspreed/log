@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.02.2023 (announcement Connected)
+- Exciting news! #Connected now has its own Github repository! 
+- 🚀🎉 Join us in contributing to the project and building the future of connectivity. #opensource #github
+
 ### 14.02.2023 (announcement SeedSpreed)
 - https://github.com/linkspreed/SeedSpreed/blob/main/changelog.md
 - The entire changelog is now available on Github.
