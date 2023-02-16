@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.02.2023 (announcement Snoogie)
+- We published the AI on **Snoogie**. 
+- However, the tool will only be fully functional in about 2 months!
+
 ### 16.02.2023 (announcement Biospreed)
 - We published the AI on **Biospreed**. 
 - However, the tool will only be fully functional in about 2 months!
