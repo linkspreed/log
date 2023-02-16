@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.02.2023 (announcement Biospreed)
+- We published the AI on **Biospreed**. 
+- However, the tool will only be fully functional in about 2 months!
+
 ### 15.02.2023 (announcement Flipx)
 - 🎉 Exciting news! We're currently 🔨working hard on flipx.tk, the new site that powers our 🔒secure and reliable mail service at mails.linkspreed.com. Stay tuned for updates as we get closer to launch! 🚀📧 #webdev #emailsecurity
 
