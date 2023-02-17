@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.02.2023 (announcement Pixly)
+- Another day, another opportunity to create something amazing! We're hard at work on Pixly and thrilled with the progress we're making. 🎨👨‍💻💪🚀🌟 #Pixly #DigitalArt #ProudOfOurProgress
+
 ### 17.02.2023 (announcement LaaS)
 - We're in building mode at Linkspreed, crafting new SaaS projects that will take your productivity to the next level! 💻🚀🌟 #BuildingMode #SaaSProjects #Linkspreed
 
