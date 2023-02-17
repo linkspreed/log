@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.02.2023 (announcement LaaS)
+- Exciting news! We're doubling down on #LaaS and gearing up to launch a whole suite of new #SaaS tools. 
+- Stay tuned for some seriously game-changing innovation in the pipeline. #technews #softwaredevelopment
+
 ### 16.02.2023 (announcement Snoogie)
 - We published the AI on **Snoogie**. 
 - However, the tool will only be fully functional in about 2 months!
