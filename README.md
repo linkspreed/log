@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.02.2023 (announcement Pixly)
+- We're excited to announce that we've just completed a major redesign of Pixly, our free browser-based image editor! 👨‍💻💪 In addition, we've finished maintenance on our decentralized browser image editor, and it's now back online at https://pixly.tk 🌐🚀🎉
+Over the next few days, we'll be making additional official announcements about the new features, improvements, and capabilities of Pixly and our browser image editor. Stay tuned! 📣👀🎉 #Pixly #ImageEditor #Decentralized #Redesign #NewFeatures #Announcements
+
+### 17.02.2023 (announcement Pixly)
 - Another day, another opportunity to create something amazing! We're hard at work on Pixly and thrilled with the progress we're making. 🎨👨‍💻💪🚀🌟 #Pixly #DigitalArt #ProudOfOurProgress
 
 ### 17.02.2023 (announcement LaaS)
