@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.02.2023 (announcement Joyn)
+- Joyn may have been around for a while, but that doesn't mean we're done innovating! Our team is still hard at work to bring you the best user experience yet. Stay tuned for what's next! #Joyn #innovation #neverstopworking
+
 ### 17.02.2023 (announcement Salesy - LaaS)
 - We're thrilled to announce that we're continuing development on Salesy, the first platform of LaaS! Our team is working hard to bring new features and capabilities to Salesy, so stay tuned for updates! 🚀💻🌟 #LaaS #Salesy #Development #NewFeatures
 
