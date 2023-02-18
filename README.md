@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.02.2023 (announcement)
+- 🎉 Exciting news! Our team is working on a new social network for quotes. Say goodbye to lengthy status updates and hello to short and sweet inspiration. It's like Twitter, but with a little more wisdom. 😉 #SocialNetworkForQuotes #ShortAndSweet #Inspiration
+
 ### 18.02.2023 (announcement Joyn)
 - Joyn may have been around for a while, but that doesn't mean we're done innovating! Our team is still hard at work to bring you the best user experience yet. Stay tuned for what's next! #Joyn #innovation #neverstopworking
 
