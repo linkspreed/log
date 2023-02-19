@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.02.2023 (announcement Critch)
+- We're thrilled to announce that the team at Linkspreed is working on our very own social network solution called Critch, similar to Twitter! 🚀 Our goal is to create a platform that fosters meaningful connections and conversations while prioritizing user privacy and security. Stay tuned for updates as we continue to develop and refine Critch. #Linkspreed #Critch #SocialNetwork #TwitterAlternative
+
 ### 18.02.2023 (announcement LaaS - Salesy)
 - Exciting news! 🎉 Our team is hard at work on Salesy, our new LaaS product designed to help you close more deals and drive revenue. 💰 Say goodbye to tedious sales tasks and hello to increased productivity and profits! 💪 Stay tuned for more updates. #Salesy #LaaS #sales
 
