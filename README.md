@@ -2,6 +2,27 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.02.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.02.2023 (announcement Snoogie)
+- The launch of version 30.2.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 19.02.2023 (announcement Snoogie)
+- We are now starting the launch of v30.2.0.
+
+### 19.02.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 30.2.0 for **Snoogie**.
+
+### 19.02.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 30.2.0 for **Snoogie**.
+
+### 19.02.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v30.2.0. 😍
+
 ### 19.02.2023 (announcement Shorts - LaaS)
 - 👀 Sneak Peek Alert! 👀 We're thrilled to share that development progress on Shorts by LaaS is well underway!🚀 Our team is working around the clock to bring you an innovative and user-friendly product that you're sure to love. Stay tuned for updates and get ready to experience the magic of Shorts!👌 #ShortsByLaaS #DevelopmentProgress #Innovation #UserFriendly #StayTuned
 
