@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.02.2023 (announcement Linkspreed Assistant)
+- 🚀 Hold on to your seats, folks! The Linkspreed team is at it again 🤖👥💻 We're currently working on our second Multi Assistant, and let me tell you, it's going to blow your mind 🤯 Stay tuned for updates as we work hard to make your life easier and more productive than ever before! #Linkspreed #MultiAssistant #AI #Productivity
+
 ### 20.02.2023 (announcement Slinky)
 - We're currently working on **Slinky**.
 
