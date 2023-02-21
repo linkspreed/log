@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.02.2023 (announcement Linkspreed Assistant)
+- 🎉 Exciting news! 🎉 We're working hard on our second language assistant, and this one's going to be even better. What's more, we're making it possible for anyone to connect their own NLU engine to our system, opening up new possibilities for collaboration and innovation. #NLUpower #innovation
+
+### 21.02.2023 (announcement Linkspreed Assistant)
+- 👨‍💻 With our new assistant, you'll be able to customize the NLU engine to suit your specific needs, whether you're working on a chatbot, a voice assistant, or any other kind of language-based application. And once it's ready, we'll be releasing both of our assistants to the world! #AI #developer
+
+### 21.02.2023 (announcement Linkspreed Assistant)
+- 🚀 So keep an eye out for our upcoming release, and get ready to take your language-based projects to the next level. Whether you're a seasoned developer or just getting started, our new language assistant will be a powerful tool for creating innovative, effective, and engaging experiences. #NLUpower #voiceassistant
+
 ### 20.02.2023 (announcement Linkspreed Assistant)
 - 🚀 Hold on to your seats, folks! The Linkspreed team is at it again 🤖👥💻 We're currently working on our second Multi Assistant, and let me tell you, it's going to blow your mind 🤯 Stay tuned for updates as we work hard to make your life easier and more productive than ever before! #Linkspreed #MultiAssistant #AI #Productivity
 
