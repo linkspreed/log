@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.02.2023 (announcement)
+- We're currently working on a small chatbot program tailored for the marketing realm 🤖📈 
+- Stay tuned for more updates on this project! #marketing #chatbot #AI
+
 ### 21.02.2023 (announcement Linkspreed Assistant)
 - 🎉 Exciting news! 🎉 We're working hard on our second language assistant, and this one's going to be even better. What's more, we're making it possible for anyone to connect their own NLU engine to our system, opening up new possibilities for collaboration and innovation. #NLUpower #innovation
 
