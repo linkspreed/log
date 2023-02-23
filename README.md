@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.02.2023 (announcement Linkspreed Assistant)
+- Our team is thrilled to announce that we're pushing full steam ahead on improving the #LinkSpeed assistant. Stay tuned for even faster and more efficient browsing capabilities! 🚀 #techupdates #productivityboost
+
 ### 23.02.2023 (announcement LaaS - Chatbot)
 - Our team is doubling down on developing our Chatbot for Marketing on Instagram and Facebook. 
 - Can't wait to see the innovative ways it'll help businesses connect with their audiences 🚀 #marketingautomation #chatbots #socialmediamarketing
