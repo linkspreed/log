@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.02.2023 (announcement FlipX)
+- 🚨 Attention Flipx users 🚨 Our team is hard at work on a sleek new design for your favorite productivity tool, but good things take time! We promise it'll be worth the wait when we unveil it soon. Stay tuned for updates! 👀 #productivity #designthinking #comingsoon
+
 ### 23.02.2023 (announcement Linkspreed Assistant)
 - Our team is thrilled to announce that we're pushing full steam ahead on improving the #LinkSpeed assistant. Stay tuned for even faster and more efficient browsing capabilities! 🚀 #techupdates #productivityboost
 
