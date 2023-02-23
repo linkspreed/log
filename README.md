@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.02.2023 (announcement LaaS - Chatbot)
+- Our team is doubling down on developing our Chatbot for Marketing on Instagram and Facebook. 
+- Can't wait to see the innovative ways it'll help businesses connect with their audiences 🚀 #marketingautomation #chatbots #socialmediamarketing
+
 ### 22.02.2023 (announcement KitChat)
 - The wait is over! Version 3.7 of KitChat is here, and it's better than ever before. Our team has worked tirelessly to bring you the latest and greatest features, so get ready to #KitChat your way to new heights! 🚀💬 #UpgradeNow
 
