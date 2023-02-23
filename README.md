@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.02.2023 (announcement FlipX)
+- 🎉 Drum roll please 🎉 The new design for Flipx is live and looking 🔥! Our team has been working tirelessly to bring you a fresh and modern user experience. Check it out now! #FlipxDesign #ProductivityUpgrade #UserExperienceGoals
+
+### 23.02.2023 (announcement FlipX)
+- But wait, there's more! 💡 We're not done just yet. Our developers will be working on some exciting new backend features in the coming days. Stay tuned for updates! And don't forget, we'll be making an official announcement on our social media channels tomorrow. 🚀
+
+### 23.02.2023 (announcement FlipX)
 - 🚨 Attention Flipx users 🚨 Our team is hard at work on a sleek new design for your favorite productivity tool, but good things take time! We promise it'll be worth the wait when we unveil it soon. Stay tuned for updates! 👀 #productivity #designthinking #comingsoon
 
 ### 23.02.2023 (announcement Linkspreed Assistant)
