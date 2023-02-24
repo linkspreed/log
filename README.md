@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.02.2023 (announcement Snoogie)
+- Revamp your email game with our newest product release - the Snoogie mail signature tool! 
+- 🚀📧 Say goodbye to lackluster signatures and hello to a world of branding possibilities! 🤩 #Snoogie #mailsignature #branding #marketing
+
 ### 24.02.2023 (announcement Biospreed)
 - Get ready to leave a lasting impression with our new product launch - introducing the Biospreed mail signature tool! 
 - 🚀📧 Say goodbye to boring signatures and hello to endless possibilities! 🤩 #Biospreed #mailsignature #branding #marketing
