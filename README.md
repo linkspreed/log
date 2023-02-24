@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.02.2023 (announcement FlipX)
+- 🎉 Drumroll please...we're thrilled to announce that the redesign of Flipx is finally complete! 🚀💻 And that's not all - our brand new logo is live too! 🎨🤩 Get ready to experience a faster, sleeker, and more user-friendly mailbox service. Try it out today and let us know what you think! #Flipx #Redesign #NewLogo #SleekAndFast
+- https://user-images.githubusercontent.com/102324985/221192754-9708f43b-d58e-4242-bf14-2a3b07f34a99.png
+
+### 24.02.2023 (announcement FlipX)
 - In a world where time is money, Flipx is changing the game! 💰🚀 We're thrilled to announce the release of our revamped backend, making our already speedy mailbox service even faster! ⚡️ Say goodbye to frustrating email delays and hello to lightning-fast communication. 
 
 ### 24.02.2023 (announcement Chatbot LaaS)
