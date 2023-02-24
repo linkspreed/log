@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.02.2023 (announcement Chatbot LaaS)
+- 🚀Our Chatbot marketing solution for Facebook and Instagram is getting better and smarter every day! 💬💡 We're excited to share that we've made some incredible progress and can't wait for you to try it out. Get ready to take your social media game to the next level with our cutting-edge technology. #ChatbotMarketing #SocialMedia #Innovation
+
 ### 23.02.2023 (announcement FlipX)
 - 🎉 Drum roll please 🎉 The new design for Flipx is live and looking 🔥! Our team has been working tirelessly to bring you a fresh and modern user experience. Check it out now! #FlipxDesign #ProductivityUpgrade #UserExperienceGoals
 
