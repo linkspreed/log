@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.02.2023 (announcement Biospreed)
+- Get ready to leave a lasting impression with our new product launch - introducing the Biospreed mail signature tool! 
+- 🚀📧 Say goodbye to boring signatures and hello to endless possibilities! 🤩 #Biospreed #mailsignature #branding #marketing
+
 ### 24.02.2023 (announcement)
 - Just like a well-oiled machine, our inbox has been buzzing with business emails as we ramp up our tech game and strengthen our partnership network at Linkspreed! Exciting things brewing in the world of professional networking 🚀 #innovatewithLinkspreed #collaboratewithus
 
