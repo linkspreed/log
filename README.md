@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.02.2023 (announcement)
+- Just like a well-oiled machine, our inbox has been buzzing with business emails as we ramp up our tech game and strengthen our partnership network at Linkspreed! Exciting things brewing in the world of professional networking 🚀 #innovatewithLinkspreed #collaboratewithus
+
 ### 24.02.2023 (announcement FlipX)
 - 🎉 Drumroll please...we're thrilled to announce that the redesign of Flipx is finally complete! 🚀💻 And that's not all - our brand new logo is live too! 🎨🤩 Get ready to experience a faster, sleeker, and more user-friendly mailbox service. Try it out today and let us know what you think! #Flipx #Redesign #NewLogo #SleekAndFast
 - https://user-images.githubusercontent.com/102324985/221192754-9708f43b-d58e-4242-bf14-2a3b07f34a99.png
