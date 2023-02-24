@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.02.2023 (announcement FlipX)
+- In a world where time is money, Flipx is changing the game! 💰🚀 We're thrilled to announce the release of our revamped backend, making our already speedy mailbox service even faster! ⚡️ Say goodbye to frustrating email delays and hello to lightning-fast communication. 
+
 ### 24.02.2023 (announcement Chatbot LaaS)
 - 🚀Our Chatbot marketing solution for Facebook and Instagram is getting better and smarter every day! 💬💡 We're excited to share that we've made some incredible progress and can't wait for you to try it out. Get ready to take your social media game to the next level with our cutting-edge technology. #ChatbotMarketing #SocialMedia #Innovation
 
