@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.02.2023 (announcement Hutty)
+- Oops, we Hutt-ed too hard and went offline for a bit! But fear not, Hutty is back up and running smoothly. 
+- We apologize for any inconvenience caused and appreciate your patience. #Hutty #BackOnline
+
 ### 25.02.2023 (announcement)
 - Securing our platforms is a top priority, and we're taking it to the next level with our new in-house malware scanner. 
 - While it's not available to the public, we're thrilled to be developing this tool to protect our users. 
