@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.02.2023 (announcement)
+- We're buzzing with excitement as we work on amazing new products and updates here at Linkspreed! 
+- 🚀 Stay tuned for some serious innovation and game-changing features! #Linkspreed #Innovation #GameChanger #NewProducts #Updates #Excitement 🤩
+
 ### 24.02.2023 (announcement Snoogie)
 - Revamp your email game with our newest product release - the Snoogie mail signature tool! 
 - 🚀📧 Say goodbye to lackluster signatures and hello to a world of branding possibilities! 🤩 #Snoogie #mailsignature #branding #marketing
