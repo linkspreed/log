@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.02.2023 (announcement)
+- Securing our platforms is a top priority, and we're taking it to the next level with our new in-house malware scanner. 
+- While it's not available to the public, we're thrilled to be developing this tool to protect our users. 
+- Keep an eye out for updates as we prepare to roll it out internally. #CyberSecurity #MalwareProtection #StaySafe
+
+### 25.02.2023 (announcement)
 - We're buzzing with excitement as we work on amazing new products and updates here at Linkspreed! 
 - 🚀 Stay tuned for some serious innovation and game-changing features! #Linkspreed #Innovation #GameChanger #NewProducts #Updates #Excitement 🤩
 
