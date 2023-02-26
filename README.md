@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 26.02.2023 (announcement)
+- https://github.com/linkspreed/Web4_Peergos
+
+### 26.02.2023 (announcement)
 - Breaking news: 🚨 Linkspreeed is taking the leap into the world of machine learning! 💻🤖 Our team is hard at work crafting cutting-edge tools that will make your mind spin. 🔥 Stay tuned for updates, because the future is now! 🚀 #machinelearning #Linkspreeed #innovation
 
 ### 26.02.2023 (announcement Biospreed)
