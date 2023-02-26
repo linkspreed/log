@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 25.02.2023 (announcement Snoogie)
+### 26.02.2023 (announcement Biospreed)
+- Exciting news! We're still tirelessly working on AI solutions for Biospreed and have just launched our latest tool. It's not quite ready for action yet, but feel free to take a peek. Trust us, it's worth the wait! #AI #Biospreed #innovation
+
+### 26.02.2023 (announcement Snoogie)
 - Good news! We've launched a new tool for AI solutions in Snoogie. While it's not fully functional yet, you can take a look. We're working hard to make it happen! #AI #Snoogie #innovation
 
 ### 25.02.2023 (announcement Hutty)
