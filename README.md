@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.02.2023 (announcement Snoogie)
+- Good news! We've launched a new tool for AI solutions in Snoogie. While it's not fully functional yet, you can take a look. We're working hard to make it happen! #AI #Snoogie #innovation
+
 ### 25.02.2023 (announcement Hutty)
 - Oops, we Hutt-ed too hard and went offline for a bit! But fear not, Hutty is back up and running smoothly. 
 - We apologize for any inconvenience caused and appreciate your patience. #Hutty #BackOnline
