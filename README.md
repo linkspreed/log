@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.02.2023 (announcement)
+- Breaking news: 🚨 Linkspreeed is taking the leap into the world of machine learning! 💻🤖 Our team is hard at work crafting cutting-edge tools that will make your mind spin. 🔥 Stay tuned for updates, because the future is now! 🚀 #machinelearning #Linkspreeed #innovation
+
 ### 26.02.2023 (announcement Biospreed)
 - Exciting news! We're still tirelessly working on AI solutions for Biospreed and have just launched our latest tool. It's not quite ready for action yet, but feel free to take a peek. Trust us, it's worth the wait! #AI #Biospreed #innovation
 
