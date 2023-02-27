@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.02.2023 (announcement Mailspread)
+- Get ready to spread your message far and wide! We're excited to announce that we're hard at work on MailSpread - our next-gen email marketing application that's sure to take your campaigns to the next level 🚀 #MailSpread #EmailMarketing #ComingSoon
+
 ### 27.02.2023 (announcement BeSave)
 - https://github.com/linkspreed/BeSave
 
