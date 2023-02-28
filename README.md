@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.02.2023 (announcement Mailspread)
+- We're still working on the (console.) subdomain system for **Mailspread**.
+
 ### 27.02.2023 (announcement Mailspread)
 - We're making progress on MailSpread, our email marketing app! Although building the backend is taking longer than expected, we're committed to creating a reliable and efficient platform for your campaigns. Stay tuned for updates! #MailSpread #EmailMarketing #BackendDevelopment
 
