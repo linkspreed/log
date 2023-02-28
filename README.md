@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.02.2023 (announcement Mailspread)
+- Further development work on **Mailspread** ...
+
+### 28.02.2023 (announcement Mailspread)
 - We're still working on the (console.) subdomain system for **Mailspread**.
 
 ### 27.02.2023 (announcement Mailspread)
