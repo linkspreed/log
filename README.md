@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.02.2023 (announcement Mailspread)
+- Here are some first views on our new **Mailspread** landing page.
+- https://user-images.githubusercontent.com/102324985/221895553-c9eac170-79c0-4a5a-9aa1-0ee69406fb41.png
+
+### 28.02.2023 (announcement Mailspread)
 - Still rework some nice tools on **Mailspread**.
 
 ### 28.02.2023 (announcement Mailspread)
