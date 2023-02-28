@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.02.2023 (announcement Mailspread)
+- Still rework some nice tools on **Mailspread**.
+
+### 28.02.2023 (announcement Mailspread)
 - Further development work on **Mailspread** ...
 
 ### 28.02.2023 (announcement Mailspread)
