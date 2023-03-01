@@ -2,6 +2,27 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.03.2023 (announcement Toolkit)
+- https://github.com/linkspreed/Toolkit/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 01.03.2023 (announcement Toolkit)
+- The launch of version 14.0.0 of **Toolkit** was successful! 🥳
+- The new update is live now :)
+- https://toolkit.ga 🔗
+
+### 01.03.2023 (announcement Toolkit)
+- We are now starting the launch of v14.0.0.
+
+### 01.03.2023 (announcement Toolkit)
+- The servers are now ready for the launch of version 14.0.0 for **Toolkit**.
+
+### 01.03.2023 (announcement Toolkit)
+- The code is now ready for the launch of version 14.0.0 for **Toolkit**.
+
+### 01.03.2023 (announcement Toolkit)
+-  **Toolkit** gets a big update today - we are going to launch v14.0.0. 😍
+
 ### 28.02.2023 (announcement Mailspread)
 - Here are some first views on our new **Mailspread** landing page.
 - https://user-images.githubusercontent.com/102324985/221895553-c9eac170-79c0-4a5a-9aa1-0ee69406fb41.png
