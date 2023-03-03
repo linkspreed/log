@@ -2,6 +2,8 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+## Content for 02.03.2023 will be added soon in the near future ....
+
 ### 01.03.2023 (announcement Toolkit)
 - https://github.com/linkspreed/Toolkit/blob/main/changelog.md
 - The entire changelog is now available on Github.
