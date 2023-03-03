@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.03.2023 (announcement Poddy)
+We're back, baby! Poddy is officially back online and better than ever before. 🙌🎙️💥 Thanks for your patience during the recent downtime, and we can't wait for you to enjoy all the amazing content our platform has to offer. #podcastlove #listennow #onlinestreaming
+
+### 03.03.2023 (announcement Poddy)
+- After much hard work, I'm happy to announce that Poddy is now fully compatible following the recent PHP 8 outage! 🎉🎧💻 Thanks to our amazing team for their tireless efforts in getting us back up and running. #podcast #techupdate #compatibility
+
 ### 03.03.2023 (announcement Quexy)
 - I'm happy to announce that **Quexy** is fully functional and online again.
 
