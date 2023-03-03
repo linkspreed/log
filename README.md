@@ -4,6 +4,9 @@
 
 ## Content for 02.03.2023 will be added soon in the near future ....
 
+### 03.03.2023 (announcement Peek)
+- We're currently working on **Peek** to restore it successfully after the PHP 8.1 update!
+
 ### 01.03.2023 (announcement Toolkit)
 - https://github.com/linkspreed/Toolkit/blob/main/changelog.md
 - The entire changelog is now available on Github.
