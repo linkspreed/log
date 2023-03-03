@@ -2,8 +2,14 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.03.2023 (announcement Quexy)
+- I'm happy to announce that **Quexy** is fully functional and online again.
+
+### 03.03.2023 (announcement Quexy)
+- We're currently working on **Quexy** to restore it successfully after the PHP 8.1 update!
+
 ### 03.03.2023 (announcement Peek)
-- I'm happy to announce that Peek is fully functional and online again.
+- I'm happy to announce that **Peek** is fully functional and online again.
 
 ### 03.03.2023 (announcement Peek)
 - We're currently working on **Peek** to restore it successfully after the PHP 8.1 update!
