@@ -14,7 +14,26 @@
 ### 03.03.2023 (announcement Peek)
 - We're currently working on **Peek** to restore it successfully after the PHP 8.1 update!
 
-## Content for 02.03.2023 will be added soon in the near future ....
+### 02.03.2023 (announcement CallCloud)
+🎉 We're thrilled to announce that CallCloud is back online after some much-needed development work! Our team has been working hard to improve performance and security, and we're excited to bring you an even better user experience. Thank you for your patience!
+
+### 02.03.2023 (announcement Tungolino)
+🎉 Great news everyone! Tungolino is back online after a series of development work. Our team has been working tirelessly to bring you the best possible experience, and we couldn't be more excited to have Tungolino up and running again! 🚀 #Tungolino #OnlineAgain #WebDevelopment
+
+### 02.03.2023 (announcement)
+We're committed to delivering the best possible experience for our users, and upgrading to PHP 8.0 and 8.1 is a huge step in that direction. We're excited to see what the future holds as we continue to innovate and improve our platforms. Stay tuned for more updates ...
+
+### 02.03.2023 (announcement)
+With PHP 8.0 and 8.1, we're able to take advantage of some amazing features and improvements that make our platforms faster, more secure, and more efficient than ever before. Some of the benefits include:
+
+### 02.03.2023 (announcement)
+✅ Just-In-Time (JIT) compilation for faster performance
+✅ Improved type system for more robust code
+✅ Enhanced error handling for easier debugging
+✅ Improved performance and memory usage
+
+### 02.03.2023 (announcement)
+🎉 Exciting news! We're thrilled to announce that all platforms of #Linkspreed are now running on #PHP8.0 and #PHP8.1! 🚀 This is a huge milestone for us, and we couldn't be prouder of our team for making this possible.
 
 ### 01.03.2023 (announcement Toolkit)
 - https://github.com/linkspreed/Toolkit/blob/main/changelog.md
