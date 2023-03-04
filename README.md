@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.03.2023 (announcement Niming)
+- 🎉 Great news, everyone! The maintenance work on Niming is complete and the platform is back online. But that's not all - we're constantly striving to improve and enhance Niming's potential. Keep connecting with people and watch this space for more updates! #Niming #Innovation
+
+### 04.03.2023 (announcement Niming)
+- 🚀 Exciting news! We're currently working on Niming, a cutting-edge platform that will revolutionize the way people connect with each other online. Stay tuned for updates and get ready to join the next generation of social networking! #Niming #SocialNetworking #Innovation
+
 ### 04.03.2023 (announcement Profilio)
 - Update on Profilio.cf: We're working hard to make the platform compatible with the latest PHP version to ensure top-notch performance and security. We appreciate your patience as we put in the time and effort to deliver the best possible experience for our users. #Profilio #PHP #Compatibilityv
 
