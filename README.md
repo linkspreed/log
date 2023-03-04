@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.03.2023 (announcement Nither)
+- 🛠️ Due to the recent PHP 8.1 update, Nither - our powerful business listing platform - was briefly offline. But we're happy to report that we've worked through the issues and Nither is now back online and better than ever! While we're not completely new, we've made some significant updates to improve our user experience. 
+
+### 04.03.2023 (announcement Nither)
+- We'll be taking a break for a few weeks to plan out further development work and can't wait to share what's in store. Join us and take your business to new heights with Nither! #Nither #BusinessListing #OnlineCommunity
+
 ### 04.03.2023 (announcement Niming)
 - 🎉 Great news, everyone! The maintenance work on Niming is complete and the platform is back online. But that's not all - we're constantly striving to improve and enhance Niming's potential. Keep connecting with people and watch this space for more updates! #Niming #Innovation
 
