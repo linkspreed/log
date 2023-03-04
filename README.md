@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.03.2023 (announcement Profilio)
+- Update on Profilio.cf: We're working hard to make the platform compatible with the latest PHP version to ensure top-notch performance and security. We appreciate your patience as we put in the time and effort to deliver the best possible experience for our users. #Profilio #PHP #Compatibilityv
+
+### 04.03.2023 (announcement Profilio)
+- Exciting news! We're currently working on Profilio.cf - a cutting-edge platform to showcase your professional portfolio and stand out in the digital world. Stay tuned for more updates! #Profilio #Portfolio #DigitalTransformation
+
 ### 03.03.2023 (announcement Poddy)
 We're back, baby! Poddy is officially back online and better than ever before. 🙌🎙️💥 Thanks for your patience during the recent downtime, and we can't wait for you to enjoy all the amazing content our platform has to offer. #podcastlove #listennow #onlinestreaming
 
