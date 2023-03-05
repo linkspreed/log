@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.03.2023 (announcement UpNode)
+- 🎉🚀 We're thrilled to announce that Upnode has officially hit a major milestone - we've conducted over 10 MILLION checks and counting! 🎉🚀
+- Thank you to all of our amazing users who have made this achievement possible. We're committed to continuing to provide the best monitoring and alerting service possible to keep your websites and services running smoothly. Here's to the next 10 million! 🎊 #Upnode #website monitoring #10millionchecks
+
 ### 05.03.2023 (announcement LSNews)
 - 🚨📰 The wait is over! LSNews is BACK and better than ever before! 🔥 Our team has been hard at work revamping the backend and frontend for a sleeker and more intuitive user experience. The platform is already up and running, but we're not done yet - stay tuned for some amazing new features coming your way soon! #LSNews #update #newsplatform
 
