@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.03.2023 (announcement LSNews)
+- 🚨📰 The wait is over! LSNews is BACK and better than ever before! 🔥 Our team has been hard at work revamping the backend and frontend for a sleeker and more intuitive user experience. The platform is already up and running, but we're not done yet - stay tuned for some amazing new features coming your way soon! #LSNews #update #newsplatform
+
 ### 04.03.2023 (announcement Nither)
 - 🛠️ Due to the recent PHP 8.1 update, Nither - our powerful business listing platform - was briefly offline. But we're happy to report that we've worked through the issues and Nither is now back online and better than ever! While we're not completely new, we've made some significant updates to improve our user experience. 
 
