@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.03.2023 (announcemen Stix)
+- We are currently working on **Stix** and are launching a new version to eliminate the error messages on the site and to be able to provide new functions.
+
 ### 07.03.2023 (announcemen Diskit)
 - We resumed development work on **Diskit** today. 
 - The platform is now working properly again and gamers and friends can finally communicate with each other via video meetings again. 
