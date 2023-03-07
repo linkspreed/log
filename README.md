@@ -4,7 +4,7 @@
 
 ### 07.03.2023 (announcemen Diskit)
 - We resumed development work on **Diskit** today. 
-- The platform is now working properly again and gamers and friends can finally communicate with each other via video meetings again.
+- The platform is now working properly again and gamers and friends can finally communicate with each other via video meetings again. 
 
 ### 06.03.2023 (announcement)
 - Just like building a sturdy foundation for a house, we're constructing a structure to fix errors with ease. No more last-minute panic! #FutureProofing #ProblemSolving #BuildingForSuccess
