@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.03.2023 (announcemen Stix)
+- We fixed the error messages on **Stix**.
+
+### 07.03.2023 (announcemen Stix)
+- **Stix** will continue to be edited and developed in the future.
+
 ### 07.03.2023 (announcemen MyBuy)
 - We are currently working on **MyBuy** and are launching a new version to eliminate the error messages on the site and to be able to provide new functions.
 
