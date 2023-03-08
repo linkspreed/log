@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.03.2023 (announcement Netavark)
+- Great news everyone! Netavark is now working properly 🚀🎉👨‍💻 We're still giving it a final polish to make it shine even brighter 💡 #startuplife #techdevelopment #innovation
+
+### 08.03.2023 (announcement Netavark)
 - Back to work! Now that our business structure is taking shape, we're diving headfirst into further developing Netavark 🚀👨‍💻👩‍💻 #startuplife #techdevelopment #innovation
 
 ### 08.03.2023 (announcement)
