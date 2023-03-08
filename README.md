@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.03.2023 (announcement Netavark)
+- Back to work! Now that our business structure is taking shape, we're diving headfirst into further developing Netavark 🚀👨‍💻👩‍💻 #startuplife #techdevelopment #innovation
+
+### 08.03.2023 (announcement)
+- Exciting news! We've been busy building and planning our business structure for the future 🔨📈🏢 #entrepreneurmindset #businessgrowth #futureplans
+
 ### 08.03.2023 (announcement)
 - Our team just connected with the amazing support team over at @Aiven_io for some assistance with our databases. 🚀 
 - They've been super helpful so far, and we're eagerly awaiting their response. Can't wait to see what solutions they offer! #datamanagement #techsupport
