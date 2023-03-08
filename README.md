@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.03.2023 (announcement)
+- Our team just connected with the amazing support team over at @Aiven_io for some assistance with our databases. 🚀 
+- They've been super helpful so far, and we're eagerly awaiting their response. Can't wait to see what solutions they offer! #datamanagement #techsupport
+
 ### 08.03.2023 (announcemen Netavark)
 - We're currently developing on **Netavark** in order to fix some timeline issues.
 
