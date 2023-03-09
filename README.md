@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.03.2023 (announcement Netavark)
+- https://user-images.githubusercontent.com/102324985/224133100-408ff7c4-3dfd-49d4-bf4a-78ef8365617d.png
+
+### 09.03.2023 (announcement Netavark)
 - Big things are happening at Netavark! 🚀🌟👨‍💻👩‍💻
 - We're in the final stages of polishing our platform and it's shaping up to be something truly special. Get ready for an innovative social networking experience like no other. Stay tuned for updates! ✨ #Netavark #finalpolish #innovation #socialnetworking
 
