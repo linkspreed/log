@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.03.2023 (announcement Netavark)
+- Big things are happening at Netavark! 🚀🌟👨‍💻👩‍💻
+- We're in the final stages of polishing our platform and it's shaping up to be something truly special. Get ready for an innovative social networking experience like no other. Stay tuned for updates! ✨ #Netavark #finalpolish #innovation #socialnetworking
+
 ### 09.03.2023 (announcement PinSec)
 -We're back! 🎉 After a brief hiatus, PinSec is up and running again. Thanks for your patience and support as we worked to resolve the issue. Let's get back to doing what we do best - connecting, sharing, and exploring together! 🙌 #PinSec #backonline #community #connection"
 
