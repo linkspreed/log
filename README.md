@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.03.2023 (announcement Profilio)
+- We're thrilled to announce that we're currently working on the innovative vCard platform Profilio. With its cutting-edge features and sleek design, Profilio will transform the way professionals share their contact information and showcase their expertise. 
+- Stay tuned for updates! #Profilio #vCard #professionalnetworking #digitaltransformation
+
 ### 09.03.2023 (announcement PinSec)
 - Here you can find the new logos and our brand new icon:
 - https://user-images.githubusercontent.com/102324985/224144341-4d6ceb7d-fd63-4131-96ad-d168c132c1e0.png
