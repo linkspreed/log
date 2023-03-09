@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.03.2023 (announcement)
+- Revving up our coding engines and unleashing the power of creativity! 🚀👨‍💻👩‍💻💡
+- We're geared up to plan, organize and code our way to some amazing new ideas! Stay tuned for the ultimate tech experience! 🔥 #innovation #coding #tech #newideas
+
 ### 08.03.2023 (announcement Netavark)
 - Oldies but goodies! We're keeping the sweet vintage design of Netavark as a nod to the OG look of Linkspreed.com 🕰️🎨👌 #retrostyle #originaldesign #nostalgia
 
