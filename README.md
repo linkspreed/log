@@ -3,6 +3,17 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.03.2023 (announcement PinSec)
+- Here you can find the new logos and our brand new icon:
+- https://user-images.githubusercontent.com/102324985/224144341-4d6ceb7d-fd63-4131-96ad-d168c132c1e0.png
+- https://user-images.githubusercontent.com/102324985/224144529-1baa65c2-922b-4d4d-bd9d-b939948acc8d.png
+- https://user-images.githubusercontent.com/102324985/224144653-c488d415-182a-4e83-ae72-336d4207fd29.png
+
+### 09.03.2023 (announcement PinSec)
+- PinSec just got a fresh, new look! 🎉🌟🎨
+- We're excited to reveal the sleek, modern logos and icons that represent the latest evolution of our secure social network. 
+- With enhanced privacy features and a bold, eye-catching design, PinSec is ready to take your social networking experience to the next level. - Connect with confidence on PinSec! 🔒👥💬 #PinSec #finalpolish #newlogo #newicon #onlinesecurity
+
+### 09.03.2023 (announcement PinSec)
 - Good news, PinSec community! Our SMTP server is now up and running like a charm. 💌👍💻
 Your emails are now more secure than ever before, ensuring that your communication on PinSec stays safe and confidential. Connect with confidence on PinSec! 🔒👥💬 #PinSec #SMTPserver #onlinesecurity
 
