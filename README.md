@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.03.2023 (announcement Netavark)
+- New look, same innovative spirit! 🌟🎨✨ We're excited to reveal the fresh, modern logo and icon for Netavark. It represents our commitment to innovation, collaboration, and community. Get ready to experience social networking like never before with Netavark! 🚀 #Netavark #newlook #logo #icon #innovation
+- https://user-images.githubusercontent.com/102324985/224134377-e50976ea-d2a8-4585-a1c8-05131f8747f7.png
+- https://user-images.githubusercontent.com/102324985/224134447-cbc6da58-fc60-4831-8abe-36ac67f5488f.png
+
+### 09.03.2023 (announcement Netavark)
 - https://user-images.githubusercontent.com/102324985/224133100-408ff7c4-3dfd-49d4-bf4a-78ef8365617d.png
 
 ### 09.03.2023 (announcement Netavark)
