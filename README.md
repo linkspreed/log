@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.03.2023 (announcement PinSec)
+-We're back! 🎉 After a brief hiatus, PinSec is up and running again. Thanks for your patience and support as we worked to resolve the issue. Let's get back to doing what we do best - connecting, sharing, and exploring together! 🙌 #PinSec #backonline #community #connection"
+
 ### 09.03.2023 (announcement)
 - Revving up our coding engines and unleashing the power of creativity! 🚀👨‍💻👩‍💻💡
 - We're geared up to plan, organize and code our way to some amazing new ideas! Stay tuned for the ultimate tech experience! 🔥 #innovation #coding #tech #newideas
