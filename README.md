@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.03.2023 (announcement)
+- Just spent a ton of time mapping out our new database plans and I gotta say, we're feeling pretty #DataDriven and ready to take on whatever comes our way! 💻🔍🚀 #NewDatabase #ProductivityBoost
+
 ### 09.03.2023 (announcement Profilio)
 - We're thrilled to announce that we're currently working on the innovative vCard platform Profilio. With its cutting-edge features and sleek design, Profilio will transform the way professionals share their contact information and showcase their expertise. 
 - Stay tuned for updates! #Profilio #vCard #professionalnetworking #digitaltransformation
