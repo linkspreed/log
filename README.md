@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.03.2023 (announcement)
+- Despite reviving old platforms, we're not neglecting new projects. We're committed to innovation and growth in all areas. #Progress #Innovation #Growth
+
 ### 11.03.2023 (announcement Linkspreed Stream)
 - #Linkspreed is thrilled to announce our latest project, Linkspreed Stream! 
 - 🎉💻 Our team is working hard to create a brand new platform aimed at revolutionizing the way we share and consume online content. 
