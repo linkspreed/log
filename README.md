@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.03.2023 (announcement Linkspreed.com)
+- Just upgraded the database for Linkspreed.com to 8 CPU and 32 GB RAM! 
+- Stay tuned for more updates on March 15th. #Linkspreed #databaseupgrade
+
 ### 10.03.2023 (announcement)
 - Just spent a ton of time mapping out our new database plans and I gotta say, we're feeling pretty #DataDriven and ready to take on whatever comes our way! 💻🔍🚀 #NewDatabase #ProductivityBoost
 
