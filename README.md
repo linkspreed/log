@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.03.2023 (announcement)
+- We're currently working on improving older platforms of #Linkspreed! Stay tuned for more updates on our development progress #tech #innovation
+
 ### 11.03.2023 (announcement Profilio)
 - Linkspreed never stops innovating and we're thrilled to announce that we're making further developments on Profilio - our cutting-edge online portfolio platform! Stay tuned for more updates. #Linkspreed #Profilio #innovation #portfolio #tech
 
