@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.03.2023 (announcement Textpad)
+Just upgraded to PHP 8.0 for #Textpad and that pesky error line is finally gone! #webdev #noerrors #codinglife
+
+### 12.03.2023 (announcement Lime)
+- Just made the switch to PHP 8.0 for our Lime system and finally got rid of that pesky error line. Things are running smoother than ever before! #lime #PHP8.0 #webdev #programming
+
 ### 12.03.2023 (announcement Share)
 - Just upgraded our Share.ga platform to php version 8.0 and bade farewell to that unsightly error message! #webdevelopment #phpupdate #techupdate
 
