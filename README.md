@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.03.2023 (announcement Share)
+- Just upgraded our Share.ga platform to php version 8.0 and bade farewell to that unsightly error message! #webdevelopment #phpupdate #techupdate
+
 ### 12.03.2023 (announcement Up2Date)
 - Just upgraded our PHP version to 8.0 for #Up2Date and finally got rid of that annoying error line! 🎉 #websiteimprovements #webdevelopment
 
