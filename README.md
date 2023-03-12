@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.03.2023 (announcement Up2Date)
+- Just upgraded our PHP version to 8.0 for #Up2Date and finally got rid of that annoying error line! 🎉 #websiteimprovements #webdevelopment
+
 ### 12.03.2023 (announcement Start2up)
 - We're reworking and relaunching our startup platform, start2up, to better support entrepreneurs and connect them with the resources they need to succeed. Stay tuned for updates! #start2up #entrepreneurship #startup #rebranding
 
