@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 12.03.2023 (announcement Critch)
+### 13.03.2023 (announcement Critch)
 - Just upgraded our PHP version to 8.0 for #Critch and finally got rid of that annoying error line! 🎉 #websiteimprovements #webdevelopment
 
 ### 12.03.2023 (announcement Textpad)
