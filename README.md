@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.03.2023 (announcement)
+- Data protection? 
+- We've got it covered! @LinkSpreed introduces regular backups and completes the final step for a new database solution on linkspreed.com.
+- Trust us to keep your data safe and secure. #LinkSpreed #DataProtection
+
 ### 13.03.2023 (announcement Critch)
 - Just upgraded our PHP version to 8.0 for #Critch and finally got rid of that annoying error line! 🎉 #websiteimprovements #webdevelopment
 
