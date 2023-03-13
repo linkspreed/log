@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.03.2023 (announcement Biospreed)
+- Building a bio page has never been easier! BioSpreed's latest release, version 31.0.0, is now live with improved templates, easy-to-use editing tools, and seamless integrations with popular website builders. Create a stunning bio page that truly represents you with BioSpreed. Try it out today! #BioSpreed #BioPageCreator #WebsiteBuilder
+
+### 13.03.2023 (announcement Snoogie)
+- Introducing the newest update to the ultimate bio page creator tool, Snoogie! With version 31.0.0 now live, you can easily create and customize your bio page with a variety of sleek templates, advanced design tools, and integrations with top website builders. Show off your personal brand with Snoogie. Get started now! #Snoogie #BioPageCreator #PersonalBrand
+
+### 13.03.2023 (announcement Biospreed)
 - https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
