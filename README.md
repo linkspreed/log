@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.03.2023 (announcement Storee)
+- We're reworking **Storee**!
+
 ### 14.03.2023 (announcement)
 We continued to work on Linkspreed's database and integrated a security node. 
 
