@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.03.2023 (announcement)
+We continued to work on Linkspreed's database and integrated a security node. 
+
+### 14.03.2023 (announcement Dreambuild)
+We continued to come up with creative plans for **Dreambuild**.
+
 ### 13.03.2023 (announcement Biospreed)
 - Building a bio page has never been easier! BioSpreed's latest release, version 31.0.0, is now live with improved templates, easy-to-use editing tools, and seamless integrations with popular website builders. Create a stunning bio page that truly represents you with BioSpreed. Try it out today! #BioSpreed #BioPageCreator #WebsiteBuilder
 
