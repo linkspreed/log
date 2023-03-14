@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.03.2023 (announcement)
+- At the moment we are extensively planning some projects around Linkspreed's own browser for android devices.
+
 ### 14.03.2023 (announcement Storee)
 - We're reworking **Storee**!
 
