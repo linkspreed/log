@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.03.2023 (announcement)
+- Exciting news! Just spent hours with the Linkspreed team, brainstorming and expanding on our business idea. Can't wait to see where this takes us! #BusinessIdeas #LinkSpeed #Collaboration
+
 ### 14.03.2023 (announcement Slinky)
 - We are currently working on a new update for **Slinky**.
 
