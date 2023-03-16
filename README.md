@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.03.2023 (announcement Mailspread)
+- We're still working on the landing page for **Mailspread**.
+
 ### 16.03.2023 (announcement)
 - We are working on new solutions for teams and startups!
 
