@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.03.2023 (announcement Linkspreed.com)
+- Exciting news! We're thrilled to announce that we're exploring a brand new feature for http://Linkspreed.com! Stay tuned for updates on this exciting development. #Linkspreed #newfeature #exploration
+
 ### 16.03.2023 (announcement Mailspread)
 - We're still working on the landing page for **Mailspread**.
 
