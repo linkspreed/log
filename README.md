@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.03.2023 (announcement)
+- Just hit a major open source milestone: our Github streak has hit 200 days! 
+- Thank you to all the amazing contributors and collaborators who have helped me keep it going #github #opensource #codinglife 🎉💻
+
 ### 16.03.2023 (announcement Linkspreed.com)
 - Exciting news! We're thrilled to announce that we're exploring a brand new feature for http://Linkspreed.com! Stay tuned for updates on this exciting development. #Linkspreed #newfeature #exploration
 
