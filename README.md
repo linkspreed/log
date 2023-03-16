@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.03.2023 (announcement Linkspreed.com)
+- The long-awaited Poke feature from Linkspeed is finally here! 
+- Now you can poke your friends and show them some love in the virtual world 🎉 #PokeFeature #Linkspeed
+
 ### 16.03.2023 (announcement)
 - Just hit a major open source milestone: our Github streak has hit 200 days! 
 - Thank you to all the amazing contributors and collaborators who have helped me keep it going #github #opensource #codinglife 🎉💻
