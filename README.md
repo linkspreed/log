@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.03.2023 (announcement)
+- We are working on new solutions for teams and startups!
+
 ### 15.03.2023 (announcement SmartPix)
 - Big things are happening at Linkspreed! Spent some time refining our organizational process for **SmartPix**. 
 - Our team is dedicated to streamlining operations for maximum success. #Productivity #Organization #Linkspreed
