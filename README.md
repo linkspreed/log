@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.03.2023 (announcement Linkspreed.com)
+- The wait is over! The first forum on Linkspreed.com is now online. Join the conversation and connect with like-minded individuals on our platform. #Linkspreed #OnlineForum #ConnectAndShare
+
+### 17.03.2023 (announcement Linkspreed.com)
+- We're excited to announce that we'll be working on the forum feature for Linkspreed.com! Stay tuned for more updates on this exciting new addition to our platform. #Linkspreed #ForumFeature #ComingSoon
+
 ### 17.03.2023 (announcement Niming)
 - We're pleased to announce that payment settings will be enabled on Niming as soon as Linkspreed becomes a real company. This means you can start selling and buying officially on our platform! #Niming #OnlineMarketplace #PaymentSettings
 
