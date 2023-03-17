@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.03.2023 (announcement Niming)
+- We're pleased to announce that payment settings will be enabled on Niming as soon as Linkspreed becomes a real company. This means you can start selling and buying officially on our platform! #Niming #OnlineMarketplace #PaymentSettings
+
+### 17.03.2023 (announcement Niming)
+- At Niming, we're always striving to improve our user experience. Our frontend has been updated with new features and enhancements to make buying and selling even easier! #Niming #OnlineMarketplace #FrontendImprovements
+
+### 17.03.2023 (announcement Niming)
+- Exciting news for Niming users! Our backend is now running smoothly, so you can enjoy a seamless experience when buying and selling on our platform. #Niming #OnlineMarketplace #BackendImprovements
+
 ### 16.03.2023 (announcement Linkspreed.com)
 - The long-awaited Poke feature from Linkspeed is finally here! 
 - Now you can poke your friends and show them some love in the virtual world 🎉 #PokeFeature #Linkspeed
