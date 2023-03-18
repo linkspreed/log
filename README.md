@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.03.2023 (announcement)
+- We are working on many new projects.
+
 ### 17.03.2023 (announcement Linkspreed.com)
 - The wait is over! The first forum on Linkspreed.com is now online. Join the conversation and connect with like-minded individuals on our platform. #Linkspreed #OnlineForum #ConnectAndShare
 
