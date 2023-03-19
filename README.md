@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.03.2023 (announcement Teamslite)
+- Exciting news! We've reworked and relaunched our platform Teamslite, but we're not stopping there. We'll continue to improve and enhance the platform to better serve our users. #Teamslite #platformimprovements #productdevelopment
+
 ### 19.03.2023 (announcement)
 - Time for a teamwork tech upgrade! 
 - Our team is on the hunt for better solutions to streamline our collaboration process. 
