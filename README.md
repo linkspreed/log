@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.03.2023 (announcement)
+- Exciting news from our team at Linkspreed! 
+- We're currently reworking some of our older projects to bring you even better results. Stay tuned for updates on our revamped services. #businessgrowth #innovation #Linkspreed
+
 ### 19.03.2023 (announcement Linkspreed.com)
 - 🚀 The future is looking bright for Linkspreed! We're working hard to bring you 30 forum sections with 5 forums each, making a total of 150 forums where you can connect with like-minded individuals and engage in meaningful discussions. Stay tuned for more updates! #Linkspreed #CommunityForums #StayConnected
 
