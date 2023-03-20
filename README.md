@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.03.2023 (announcement Workspreed)
+- **Workspreed** is running now on v5.5.
+
+### 20.03.2023 (announcement Workspreed)
+- We've reworked **Workspreed**.
+
 ### 19.03.2023 (announcement Teamslite)
 - Exciting news! We've reworked and relaunched our platform Teamslite, but we're not stopping there. We'll continue to improve and enhance the platform to better serve our users. #Teamslite #platformimprovements #productdevelopment
 
