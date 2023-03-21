@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.03.2023 (announcement)
+- At Linkspreed, we're always pushing the boundaries and exploring new horizons in technology. Our latest endeavor: delving into the exciting world of Cloudflare R2. Stay tuned for what's to come! #innovation #technology #CloudflareR2
+
+### 21.03.2023 (announcement)
 - We've put in a lot of hard work and dedication towards developing innovative solutions. Excited to see them in action! #innovation #hardworkpays
 
 ### 20.03.2023 (announcement Workspreed)
