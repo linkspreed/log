@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.03.2023 (announcement Payback.ga)
+- Exciting news - the Payback.ga platform is back and better than ever! Ready to earn rewards for your online purchases? Sign up now!" #paybackga #shopsmart #rewards
+
 ### 22.03.2023 (announcement)
 - We've been working hard all day on the relaunch of our discount network platforms. Coming soon! #discounts #networking #relaunch
 
