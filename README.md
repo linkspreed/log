@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.03.2023 (announcement Machine Learning)
+- 👨‍💻💻📈💡🤖 Still geeking out on some #MachineLearning scripts! Can't wait to see what kind of insights we can uncover. #DataScience #AI #TechJunkie 🤓
+
 ### 22.03.2023 (announcement Backpay)
 - Exciting news! Backpay has been relaunched with a new and improved platform! Experience seamless transactions and rewards like never before. #Backpay #Relaunch #BetterThanEver
 
