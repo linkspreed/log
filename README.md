@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.03.2023 (announcement Snoogie)
+- We've just revamped the AI modules for **Snoogie**! Our team is excited about the new changes and can't wait for you to see the improved performance. #AI #Snoogie #Rebooted
+
 ### 24.03.2023 (announcement Biospreed)
 - We've just revamped the AI modules for **Biospreed**! Our team is excited about the new changes and can't wait for you to see the improved performance. #AI #Biospreed #Rebooted
 
