@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.03.2023 (announcement Biospreed)
+- We've just revamped the AI modules for **Biospreed**! Our team is excited about the new changes and can't wait for you to see the improved performance. #AI #Biospreed #Rebooted
+
 ### 23.03.2023 (announcement)
 - We've taken a huge step towards sustainability by developing new eco-friendly business ideas. Let's make the world a better place, one green venture at a time. #sustainability #greenbusiness #innovation
 
