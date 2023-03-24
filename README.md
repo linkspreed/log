@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.03.2023 (announcement Linkspreed.com)
+- Exciting news! The database at Linkspreed.com just got a major upgrade. Finding the information you need has never been easier. Check it out! #Linkspreed #database #upgrade
+
 ### 22.03.2023 (announcement BeSave)
 - Just rewrote some files on BeSave 📝🖥️ to keep more doors open for future monetization 💰💸 opportunities. #techupdates #stayahead 🔮
 
