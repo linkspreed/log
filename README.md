@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.03.2023 (announcement [Cloud storage provider])
+- 🚀 Exciting news from #Linkspreed! 🔗 We're hard at work on our massive collection of 🌥️☁️ cloud storage providers. Stay tuned for updates! #cloudstorage #technews
+
 ### 24.03.2023 (announcement Snoogie)
 - Get excited #AI enthusiasts! Our new AI modules have arrived with a ton of fresh functions that will soon be available in our Premium Plan. Prepare to streamline your entire workflow in just a few weeks time 🚀 #ArtificialIntelligence #Optimization
 
