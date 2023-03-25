@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.03.2023 (announcement Metabox)
+- Exciting news! The beta version of the new cloud version may soon be launched on Metabox. Stay tuned for updates! #cloudcomputing #Metabox #technology
+
 ### 25.03.2023 (announcement [Cloud storage provider])
 - 🚀 Exciting news from #Linkspreed! 🔗 We're hard at work on our massive collection of 🌥️☁️ cloud storage providers. Stay tuned for updates! #cloudstorage #technews
 
