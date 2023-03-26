@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.03.2023 (announcement Tizza)
+- 👨‍💻 Currently pounding away at Tizza v10! 💻🔨 #softwaredevelopment #codinglife 🚀
+
 ### 26.03.2023 (announcement Cloud2Go)
 - 🎉🙌 Our Cloud2Go upgrade to v3.0.9 was a success! 🚀✨ #cloudtechnology #upgraded #success
 
