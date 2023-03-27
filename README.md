@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.03.2023 (announcement)
+- Just sent a cooperation email to @scaleway to explore the possibility of working together on a sustainable and affordable cloud storage solution for our users. Fingers crossed for a positive response! 🤞 #startup #cloudstorage #collaboration
+
 ### 26.03.2023 (announcement Cloudspreed)
 - 🌥️☁️ #Cloudspreed just released v3.0.9, bringing lightning-fast upload and download speeds to the cloud! Say goodbye to buffering and hello to seamless streaming! 📹🎬
 
