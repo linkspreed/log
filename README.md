@@ -2,6 +2,23 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.03.2023 (announcement)
+- We've registered Linkspreed as a company! 🚀
+
+### 29.03.2023 (announcement)
+- 📢 Attention all Linkspreed users! 🚀
+- We have some exciting news to share with you! 🎉
+- 🤝 We are thrilled to announce that we will be focusing on business matters for Linkspreed. 💼
+- 👨‍💼👩‍💼 Our team is working hard to bring you even more opportunities and features in the future. 💪
+- 🌟 Stay tuned for updates and get ready to take your Linkship experience to the next level! 🚀
+
+### 28.03.2023 (announcement)
+- 📢 Attention all Linkspreed users! 🚀
+- We have some exciting news to share with you! 🎉
+- 🤝 We are thrilled to announce that we will be focusing on business matters for Linkspreed. 💼
+- 👨‍💼👩‍💼 Our team is working hard to bring you even more opportunities and features in the future. 💪
+- 🌟 Stay tuned for updates and get ready to take your Linkship experience to the next level! 🚀
+
 ### 27.03.2023 (announcement)
 - Just sent a cooperation email to @scaleway to explore the possibility of working together on a sustainable and affordable cloud storage solution for our users. Fingers crossed for a positive response! 🤞 #startup #cloudstorage #collaboration
 
