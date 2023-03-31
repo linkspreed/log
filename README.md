@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.03.2023 (announcement Cloud2Go)
+- 👨‍💻🔧🌥️ Working hard to fix the #Cloud2Go issue as quickly as possible! Stay tuned for updates. #techsupport #cloudcomputing
+
 ### 29.03.2023 (announcement)
 - We've registered Linkspreed as a company! 🚀
 
