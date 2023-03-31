@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.03.2023 (announcement UltiCloud)
+- 🚀👨‍💻👩‍💻🔧🐜 Working hard on UltiCloud to squash that pesky bug! Our team is dedicated to providing the best experience for our users. #bugfix #UltiCloud #teamwork
+
 ### 31.03.2023 (announcement)
 - 🎉 Our team has been hard at work creating new solutions and updates for you! Stay tuned for more details coming soon! 💻🚀 #innovation #updates #solutions #teamwork
 
