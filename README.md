@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.03.2023 (announcement)
+- 🎉 Our team has been hard at work creating new solutions and updates for you! Stay tuned for more details coming soon! 💻🚀 #innovation #updates #solutions #teamwork
+
 ### 31.03.2023 (announcement Cloud2Go)
 - 🎉🌥️🔙 Cloud2Go is back online! We are excited to announce that our cloud services are up and running again. Thank you for your patience and loyalty. #cloudservices #technology #onlinestorage
 
