@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.03.2023 (announcement Cloudspreed)
+- 🚀 Exciting news! We're conducting beta tests and trials for Cloudspreed's upcoming paid plans, set to launch on cloud platforms within the next 1-2 weeks. Stay tuned for more updates! 💻☁️ #Cloudspreed #BetaTesting #CloudPlatforms #PaidPlans #ComingSoon
+
 ### 31.03.2023 (announcement UltiCloud)
 - 🚀👨‍💻👩‍💻🔧🐜 Working hard on UltiCloud to squash that pesky bug! Our team is dedicated to providing the best experience for our users. #bugfix #UltiCloud #teamwork
 
