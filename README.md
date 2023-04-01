@@ -2,10 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 01.04.2023 (announcement [Refund Policy])
+### 01.04.2023 (announcement [Cookie Policy])
 - https://user-images.githubusercontent.com/102324985/229289742-fdeaa6e1-b1b3-4317-8aa2-69bc67ef85a0.png
 
-### 01.04.2023 (announcement [Refund Policy])
+### 01.04.2023 (announcement [Cookie Policy])
 - 🍪 Attention everyone! We've made some changes to our cookie policy. 
 - Check out the link to stay up to date! 🍪 #cookies #privacy #updates
 - https://linkspreed.com/site-pages/Cookie_Policy
