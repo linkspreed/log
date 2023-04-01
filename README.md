@@ -2,6 +2,14 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.04.2023 (announcement [EULA])
+- https://user-images.githubusercontent.com/102324985/229290933-b7b5ed03-02a5-42f6-89e5-2005e025c5e4.png
+
+### 01.04.2023 (announcement [EULA])
+- 📢Attention everyone!👀 We've just updated our End User License Agreement (EULA)📝. 
+- Stay informed and check out the changes here:👉 
+- https://linkspreed.com/site-pages/EULA #EULA #updates #legal #termsandconditions
+
 ### 01.04.2023 (announcement [Cookie Policy])
 - https://user-images.githubusercontent.com/102324985/229289742-fdeaa6e1-b1b3-4317-8aa2-69bc67ef85a0.png
 
