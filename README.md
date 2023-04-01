@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.04.2023 (announcement [Imprint])
+- 📢🔥Big news alert!🔥📢 Our Imprint just got a major update! Check it out here: 
+- https://linkspreed.com/terms/about-us 🤩 #excitingupdates #companynews #Imprintupdate
+
 ### 31.03.2023 (announcement Cloudspreed)
 - 🚀 Exciting news! We're conducting beta tests and trials for Cloudspreed's upcoming paid plans, set to launch on cloud platforms within the next 1-2 weeks. Stay tuned for more updates! 💻☁️ #Cloudspreed #BetaTesting #CloudPlatforms #PaidPlans #ComingSoon
 
