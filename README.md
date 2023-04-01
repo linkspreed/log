@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.04.2023 (announcement Plop)
+- 🎉 Exciting news! 🎉 We're currently working on a new update for **Plop** 📱 Stay tuned for some awesome new features coming your way! #PlopUpdate #NewFeatures #ComingSoon 🚀
+
+### 01.04.2023 (announcement LinkLab)
+- 🚀 Exciting news! 🎉 We're currently in the works of a new update for **LinkLab**! 🤖 Stay tuned for some amazing new features that will make your life even easier! 🔍 #innovation #tech #updates #productivity #automation
+
 ### 01.04.2023 (announcement [Privacy Policy])
 - https://user-images.githubusercontent.com/102324985/229293963-56bd2a20-78d1-46c0-bc23-bc7b9e27541e.png
 
