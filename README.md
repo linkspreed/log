@@ -2,6 +2,14 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.04.2023 (announcement [Terms of Use])
+- https://user-images.githubusercontent.com/102324985/229292826-c5be5a35-e3f3-4275-953c-7ecd837dc8b1.png
+
+### 01.04.2023 (announcement [Terms of Use])
+- 📢 Attention everyone! 🚨 We have just updated our Terms of Use. 📝 
+- Make sure to check them out at https://linkspreed.com/terms/terms. 💻 
+- Stay informed and keep using our amazing services! 😎 #termsandconditions #update #linkspreed
+
 ### 01.04.2023 (announcement [Disclaimer])
 - https://user-images.githubusercontent.com/102324985/229291966-b125a124-2854-4851-b6ba-ac999dc5cd4b.png
 
