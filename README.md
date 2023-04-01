@@ -2,6 +2,14 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.04.2023 (announcement [Disclaimer])
+- https://user-images.githubusercontent.com/102324985/229291966-b125a124-2854-4851-b6ba-ac999dc5cd4b.png
+
+### 01.04.2023 (announcement [Disclaimer])
+- 📢 Attention all! 🚨 Our disclaimer has received an update. 📝 Check out the changes here: 
+- https://linkspreed.com/site-pages/Disclaimer. 
+- Stay informed and stay safe! 🔒 #DisclaimerUpdate #StaySafe #Linkspreed
+
 ### 01.04.2023 (announcement [EULA])
 - https://user-images.githubusercontent.com/102324985/229290933-b7b5ed03-02a5-42f6-89e5-2005e025c5e4.png
 
