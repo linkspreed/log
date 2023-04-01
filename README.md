@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.04.2023 (announcement [Privacy Policy])
+- https://user-images.githubusercontent.com/102324985/229293963-56bd2a20-78d1-46c0-bc23-bc7b9e27541e.png
+
+### 01.04.2023 (announcement [Privacy Policy])
+- 📢 Attention everyone! 🚨 We've just updated our Privacy Policy. 📝 
+- Your privacy is important to us, so please take a moment to check out the changes. 🔍 
+- Click the link to read the updated policy: 
+- https://linkspreed.com/terms/privacy-policy #privacy #dataprotection #transparency 🤝
+
 ### 01.04.2023 (announcement [Terms of Use])
 - https://user-images.githubusercontent.com/102324985/229292826-c5be5a35-e3f3-4275-953c-7ecd837dc8b1.png
 
