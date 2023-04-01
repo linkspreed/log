@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.04.2023 (announcement [Imprint])
+- https://user-images.githubusercontent.com/102324985/229287120-2da8dcf9-c624-46a4-bf50-ba09c037b726.png
+
+### 01.04.2023 (announcement [Imprint])
 - 📢🔥Big news alert!🔥📢 Our Imprint just got a major update! Check it out here: 
 - https://linkspreed.com/terms/about-us 🤩 #excitingupdates #companynews #Imprintupdate
 
