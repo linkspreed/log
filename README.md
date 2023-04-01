@@ -2,6 +2,14 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.04.2023 (announcement [Refund Policy])
+- https://user-images.githubusercontent.com/102324985/229288925-16dc1a82-f462-4df3-b6e0-7f988fcb12a2.png
+
+### 01.04.2023 (announcement [Refund Policy])
+- 📢👀 Heads up! Our refund policy has been updated. Check it out here: 
+- https://linkspreed.com/terms/refund 🔄 
+- Also, please note that we've changed our contact email. 👉 #customerservice #updates #refunds #emailchange
+
 ### 01.04.2023 (announcement [Acceptable Use Policy])
 - https://user-images.githubusercontent.com/102324985/229288020-1314fb01-ca1c-4632-bbcd-0dd0772e9901.png
 
