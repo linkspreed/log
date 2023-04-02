@@ -2,6 +2,27 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.04.2023 (announcement KitChat)
+- https://github.com/linkspreed/KitChat/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 02.04.2023 (announcement KitChat)
+- The launch of version 3.8 of **KitChat** was successful! 🥳
+- The new update is live now :)
+- https://kitchat.tk 🔗
+
+### 02.04.2023 (announcement KitChat)
+- We are now starting the launch of v3.8.
+
+### 02.04.2023 (announcement KitChat)
+- The servers are now ready for the launch of version 3.8 for **KitChat**.
+
+### 02.04.2023 (announcement KitChat)
+- The code is now ready for the launch of version 3.8 for **KitChat**.
+
+### 02.04.2023 (announcement KitChat)
+-  **KitChat** gets a big update today - we are going to launch v3.8. 😍
+
 ### 02.04.2023 (announcement BeYou)
 - 👩‍💻🚀 Big things are coming! We're currently working on version 3.8 of #BeYou, and we can't wait to share it with you all. #appdevelopment #innovation
 
