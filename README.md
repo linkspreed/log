@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 02.04.2023 (announcement BeYou)
+- Exciting news! 🎉👀 BeYou version 3.8 is now available! Check out our latest patch notes on GitHub and experience the new and improved features. #BeYou #Update #GitHub
+
+### 02.04.2023 (announcement KitChat)
+- 🍴📲 Hungry for some updates? Kitchat version 3.8 is now available! We've added some awesome new features and fixed some bugs. Check out the patch notes on GitHub and let us know what you think! #Kitchat #Updates
+
+### 02.04.2023 (announcement BeYou)
 - https://github.com/linkspreed/BeYou/blob/main/changelog.md
 - The entire changelog is now available on Github.
 
