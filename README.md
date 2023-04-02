@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.04.2023 (announcement BeYou)
+- 👩‍💻🚀 Big things are coming! We're currently working on version 3.8 of #BeYou, and we can't wait to share it with you all. #appdevelopment #innovation
+
+### 02.04.2023 (announcement Kitchat)
+- 👨‍💻💪 Exciting news! We're hard at work on version 3.8 of #Kitchat, bringing you even more amazing features. Stay tuned! #appdevelopment #tech
+
 ### 01.04.2023 (announcement Plop)
 -  https://github.com/linkspreed/Plop/blob/main/changelog.txt
 - The entire changelog is now available on Github.
