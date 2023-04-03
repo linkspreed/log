@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.04.2023 (announcement Storee)
+- Exciting news! We've just developed a new feature on our platform Storee that will take your shopping experience to the next level. Stay tuned for more updates!" #platformdevelopment #storee #shoppingtech
+
 ### 02.04.2023 (announcement BeYou)
 - Exciting news! 🎉👀 BeYou version 3.8 is now available! Check out our latest patch notes on GitHub and experience the new and improved features. #BeYou #Update #GitHub
 
