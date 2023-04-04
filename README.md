@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.04.2023 (announcement Storee)
+- 🎉Exciting news! Storee will be ready soon! 🛍️ This is great news for all future Whatsapp store owners 😃 #Storee #Whatsapp #OnlineShopping
+
+### 04.04.2023 (announcement Storee)
 - 🔨💻📈 Exciting news! We're continuing to work hard on Storee, the platform, to make it even better for all our users. Stay tuned for more updates! #Storee #platform #updates #hardwork
 
 ### 03.04.2023 (announcement Plop)
