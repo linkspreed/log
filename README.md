@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.04.2023 (announcement)
+- 👷‍♂️💻👷‍♀️ Exciting news! We're currently working on enhancing the infrastructure of Linkspreed.com to provide an even better user experience. Stay tuned for updates! #Linkspreed #InfrastructureUpgrade 🚀
+
 ### 04.04.2023 (announcement Storee)
 - 🎉Exciting news! Storee will be ready soon! 🛍️ This is great news for all future Whatsapp store owners 😃 #Storee #Whatsapp #OnlineShopping
 
