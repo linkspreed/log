@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.04.2023 (announcement Linkspreed.com)
+- 🎉 Exciting news! 🎉 We're working on premium packages for #Linkspreed! 💰💻 Stay tuned for more updates. #innovation #tech #startup
+
 ### 05.04.2023 (announcement)
 - 🎉👏 Exciting news! 🎉👏 We've completed the infrastructure work at linkspreed.com and transferred our database for added security 🔒💻. Our servers are now safer than ever! #Linkspreed #DatabaseSecurity #ServerSafety
 
