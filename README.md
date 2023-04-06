@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.04.2023 (announcement)
+- We've spent the afternoon and evening diving deep into the commercial regulations for Linkspreed. Knowledge is power! #business #entrepreneurship
+
 ### 06.04.2023 (announcement Cloud2Go)
 - 🎉🙌 Our Cloud2Go upgrade to v3.1.0 was a success! 🚀✨ #cloudtechnology #upgraded #success
 
