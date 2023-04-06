@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.04.2023 (announcement Linkspreed Helpdesk)
+- We are excited to announce that we are building the Linkspreed Helpdesk as the first official point of contact for all your support inquiries! #Linkspreed #Helpdesk #Support
+
 ### 06.04.2023 (announcement)
 - We've spent the afternoon and evening diving deep into the commercial regulations for Linkspreed. Knowledge is power! #business #entrepreneurship
 
