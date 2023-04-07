@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.04.2023 (announcement Linkspreed Helpdesk)
+- Exciting news! We're putting the finishing touches on our brand new helpdesk - Linkspreed Helpdesk - to provide top-notch customer support. Stay tuned for its launch! #customerexperience #helpdesk #Linkspreed
+
 ### 06.04.2023 (announcement Linkspreed Helpdesk)
 - We are excited to announce that we are building the Linkspreed Helpdesk as the first official point of contact for all your support inquiries! #Linkspreed #Helpdesk #Support
 
