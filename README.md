@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.04.2023 (announcement Tungolino)
+- 🚀 Exciting news! 🔧 We're currently working on #Tungolino and can't wait to share our progress with you all! 🙌 Stay tuned for updates. #tech #startup
+
 ### 07.04.2023 (announcement Linkspreed Helpdesk)
 - Exciting news! We're putting the finishing touches on our brand new helpdesk - Linkspreed Helpdesk - to provide top-notch customer support. Stay tuned for its launch! #customerexperience #helpdesk #Linkspreed
 
