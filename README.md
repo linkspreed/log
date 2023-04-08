@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.04.2023 (announcement Cloud2Go)
+- Exciting times ahead as we work on #Cloud2Go and run some business tests! Stay tuned for updates on our latest innovation in cloud technology. #digitaltransformation #cloudcomputing
+
 ### 07.04.2023 (announcement Tungolino)
 - 🚀 Exciting news! 🔧 We're currently working on #Tungolino and can't wait to share our progress with you all! 🙌 Stay tuned for updates. #tech #startup
 
