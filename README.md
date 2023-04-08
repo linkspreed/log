@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.04.2023 (announcement)
+- 🚨⚠️ Dreamhost is experiencing some server issues with their nameservers. Since Dreamhost is our hosting provider, it may affect the performance of our websites. We haven't experienced any impact yet. Dreamhost is working hard for a quick solution. 
+- https://dreamhoststatus.com
+- https://user-images.githubusercontent.com/102324985/230736512-b43c0ef2-1e90-455e-8414-6f45076cebca.png
+
 ### 08.04.2023 (announcement Cloud2Go)
 - Just reworked the landing page text on #Cloud2Go to make it even more user-friendly! And guess what? #Google login is now possible too! Check it out and make your cloud experience even smoother. #cloudcomputing #techupdates
 
