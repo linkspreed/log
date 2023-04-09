@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 10.04.2023 (announcement)
+### 09.04.2023 (announcement)
 - 🎉🤖🚀 We're approaching the end of our development journey for our amazing AI tools in this gorgeous market! #excited #AI #development 🙌🏼
 
 ### 09.04.2023 (announcement)
