@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.04.2023 (announcement)
+- Our team has been hard at work improving our payment gateway system for a smoother user experience on all our platforms. 💳💰 #PaymentGateway #UserExperience #Innovation
+
 ### 09.04.2023 (announcement linkspreed.com)
 - We have submitted Linkspreed for verification on Adsense, but we are also open to other ad networks. #advertising #digitalmarketing
 
