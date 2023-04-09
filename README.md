@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.04.2023 (announcement linkspreed.com)
+- We have submitted Linkspreed for verification on Adsense, but we are also open to other ad networks. #advertising #digitalmarketing
+
 ### 08.04.2023 (announcement)
 - 🚨⚠️ Dreamhost is experiencing some server issues with their nameservers. Since Dreamhost is our hosting provider, it may affect the performance of our websites. We haven't experienced any impact yet. Dreamhost is working hard for a quick solution. 
 - https://dreamhoststatus.com
