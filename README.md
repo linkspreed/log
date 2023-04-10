@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.04.2023 (announcement Adseasy)
+- We are continuing to work on our own Ad Network and refining it to make it even better! #advertising #networking #refinement
+
 ### 09.04.2023 (announcement)
 - 🚀 Exciting news! Our very first AI tool will soon be available on ai.linkspreed.com. Get ready to experience the power of artificial intelligence! #AI #technology 💻🤖🔍
 
