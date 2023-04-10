@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 09.04.2023 (announcement Adseasy)
+### 10.04.2023 (announcement Linkspreed AI)
+- Just witnessed the power of #LinkspreedAI and it's pure magic! The way it streamlines processes and improves efficiency is truly remarkable. #ArtificialIntelligence #Innovation
+
+### 10.04.2023 (announcement Adseasy)
 - We are continuing to work on our own Ad Network and refining it to make it even better! #advertising #networking #refinement
 
 ### 09.04.2023 (announcement)
