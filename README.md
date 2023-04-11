@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 10.04.2023 (announcement)
+### 11.04.2023 (announcement)
 - Juggling multiple projects like a pro! Exciting things in the works, stay tuned for updates #multitasking
 
 ### 10.04.2023 (announcement Linkspreed AI)
