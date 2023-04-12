@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.04.2023 (announcement Linkspreed AI)
+- 👨‍💻👩‍💻💻🤖🔬🧠 Exciting news! We're continuing to work on Linkspreed AI to enhance its capabilities and improve user experience. Stay tuned for more updates! #AI #innovation #futuretech
+
+### 12.04.2023 (announcement)
+- We're working on a bunch of exciting new updates and awesome new SaaS projects! #productivity #innovation #tech
+
 ### 11.04.2023 (announcement)
 - Juggling multiple projects like a pro! Exciting things in the works, stay tuned for updates #multitasking
 
