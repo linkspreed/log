@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.04.2023 (announcement Snoogie)
+- 🎉Exciting news alert! 🚨Snoogie just released version v32.0.0 and we've got all the patch notes up on Github. 🙌 Check it out now! #SnoogieUpdates #PatchNotes #Github
+
+### 13.04.2023 (announcement Biospreed)
+- 📢Exciting news! 🎉 Biospreed v32.0.0 is now live and we've shared the patch notes on Github 📝. Get ready to experience faster and smoother browsing 🚀 #Biospreed #Update #Github
+
+### 13.04.2023 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
