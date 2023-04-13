@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.04.2023 (announcement Snoogie)
+- 👨‍💻👩‍💻🚀 Exciting news! We're in the final stretch of v32.0.0 development for Biospreed. Can't wait to share the update with all of you soon! #tech #development #updates
+
+### 13.04.2023 (announcement Biospreed)
+- 🎉 Exciting news! 🎉 We're almost finished developing v32.0.0 of Biospreed! 🚀 Stay tuned for the latest updates! #Biospreed #softwareupdate #development
+
 ### 12.04.2023 (announcement Linkspreed AI)
 - 👨‍💻👩‍💻💻🤖🔬🧠 Exciting news! We're continuing to work on Linkspreed AI to enhance its capabilities and improve user experience. Stay tuned for more updates! #AI #innovation #futuretech
 
