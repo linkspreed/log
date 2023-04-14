@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.04.2023 (announcement)
+- Today we're working on our business plan, which we'll make public in the coming weeks for everyone to access.
+
 ### 13.04.2023 (announcement Snoogie)
 - 🎉Exciting news alert! 🚨Snoogie just released version v32.0.0 and we've got all the patch notes up on Github. 🙌 Check it out now! #SnoogieUpdates #PatchNotes #Github
 
