@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.04.2023 (announcement Snoogie)
+- We've just uploaded the new AI plugin for Snoogie to Version V5.0.0! Exciting news for our users, the new AI is now available on the platform 🎉 #AI #Snoogie #NewRelease
+
 ### 15.04.2023 (announcement Biospreed)
 - We have just uploaded the new AI plugin for Biospreed to version V5.0.0! Exciting news, as this latest AI is now available for all users on the platform 🚀 #AI #Biospreed #Version5
 
