@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.04.2023 (announcement Biospreed)
+- We have just uploaded the new AI plugin for Biospreed to version V5.0.0! Exciting news, as this latest AI is now available for all users on the platform 🚀 #AI #Biospreed #Version5
+
 ### 14.04.2023 (announcement)
 - Today we're working on our business plan, which we'll make public in the coming weeks for everyone to access.
 
