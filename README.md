@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.04.2023 (announcement Mailspread)
+- We're currently working on Mailspread - an innovative solution to simplify your email communication and boost productivity! Stay tuned for updates 🚀 #Mailspread #emailmanagement #productivity #AIgenerated
+
 ### 15.04.2023 (announcement Snoogie)
 - We just released new features from the latest update v32.0.0, including a brand new version of Snoogie and all the latest AI features! Get ready to experience the future of technology 🚀 #innovation #techupdate
 
