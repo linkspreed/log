@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.04.2023 (announcement)
+- We're excited to announce that we're working on plans for our very own hosting tool! Stay tuned for updates on this exciting project! 🚀 #hosting #tech #development
+
 ### 15.04.2023 (announcement Mailspread)
 - We're currently working on Mailspread - an innovative solution to simplify your email communication and boost productivity! Stay tuned for updates 🚀 #Mailspread #emailmanagement #productivity #AIgenerated
 
