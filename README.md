@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.04.2023 (announcement Toolkit)
+- We wanted to let you know that we're busy bees working on our website toolkit. Stay tuned for some awesome updates that'll make your web design life a whole lot easier. #websitedesign #webtoolkit #comingsoon
+
 ### 15.04.2023 (announcement)
 - We're excited to announce that we're working on plans for our very own hosting tool! Stay tuned for updates on this exciting project! 🚀 #hosting #tech #development
 
