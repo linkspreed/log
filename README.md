@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.04.2023 (announcement)
+- We're currently experimenting with some exciting developments on our Hosting Reseller System. Stay tuned for updates on how this will benefit our customers!
+
 ### 16.04.2023 (announcement Toolkit)
 - We've just released Version 15.0.0 for the Toolkit platform, finally! 🎉 #newrelease #toolkit15 #technology
 
