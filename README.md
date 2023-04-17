@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.04.2023 (announcement BeYou)
+-We've just released Patch 3 for Version 3.8 of BeYou! Time to update and enjoy the latest features of our amazing platform. #BeYou #Update #Patch3 #Release
+
+### 17.04.2023 (announcement Kitchat)
+- We are thrilled to announce the release of Patch 3 for Version 3.8 of Kitchat! Upgrade now to enjoy even more amazing features and enhancements! 🎉👨‍🍳 #Kitchat #Update #Foodies
+
 ### 16.04.2023 (announcement)
 - We're currently experimenting with some exciting developments on our Hosting Reseller System. Stay tuned for updates on how this will benefit our customers!
 
