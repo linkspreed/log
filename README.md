@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.04.2023 (announcement Linkspreed Play)
+- Exciting news! Our team is hard at work on an update for Linkspreed Play that's going to take your gameplay to the next level. Stay tuned for more info!
+
+### 17.04.2023 (announcement BeYou)
+- Exciting news! Our team is hard at work on an update for Linkspreed Play that's going to take your gameplay to the next level. Stay tuned for more info!
+
 ### 17.04.2023 (announcement BeYou)
 -We've just released Patch 3 for Version 3.8 of BeYou! Time to update and enjoy the latest features of our amazing platform. #BeYou #Update #Patch3 #Release
 
