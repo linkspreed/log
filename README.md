@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.04.2023 (announcement BioX)
+- 🎉👏Exciting news! 🌱🧬 Our team has achieved major breakthroughs in #BioX work development! 🚀👨‍🔬👩‍🔬 Stay tuned for what's next! #innovation #science #tech
+
+### 18.04.2023 (announcement BioX)
 - Exciting news! We're dedicating some time to focus on our minor platform project BioX. Stay tuned for updates on how this innovation will enhance our user experience. #BioX #MinorPlatformProject #Innovation
 
 ### 18.04.2023 (announcement Linkspreed Play)
