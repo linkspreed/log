@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.04.2023 (announcement Linkspreed Play)
+- Exciting news! We've just released version 1.6.0 of Linkspreed Play - our best one yet! 🎉 Check it out and let us know what you think! #LinkspreedPlay #newrelease #excitingupdates
+
+### 18.04.2023 (announcement Linkspreed Play)
 - Exciting news! Our team is hard at work on Linkspreed Play - stay tuned for a game-changing experience in the world of mobile gaming #LinkspreedPlay #GamingInnovations
 
 ### 17.04.2023 (announcement Linkspreed Play)
