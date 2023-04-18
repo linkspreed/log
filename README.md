@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.04.2023 (announcement)
+- 🚀 Exciting news! 🔥 We’ve officially started the countdown for the Cloud release on our Cloud solutions! ⏳ #CloudRelease #ExcitingTimes #TechUpdates 🌟
+
 ### 18.04.2023 (announcement BioX)
 - 🎉👏Exciting news! 🌱🧬 Our team has achieved major breakthroughs in #BioX work development! 🚀👨‍🔬👩‍🔬 Stay tuned for what's next! #innovation #science #tech
 
