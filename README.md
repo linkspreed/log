@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 19.04.2023 (announcement Linkspreed AI)
+- 🎉Excited to announce that we're building a new Github repository for #LinkspreedAI! 🔥Stay tuned for exciting updates on our latest project! 🔍🤖 #artificialintelligence #tech #programming #opensource
+
+### 19.04.2023 (announcement Linkspreed AI)
+- 🎉🚀🔥 Exciting news! 🔥🚀🎉 We just launched Linkspreed AI v1.3.0 - our latest and greatest version supported by the most popular Chat feature you've been asking for! Try it out now! 😍💬 #LinkspreedAI #ChatFeature #ProductRelease
+
+### 19.04.2023 (announcement Linkspreed AI)
 - 🚀 Exciting news everyone! 🎉 Linkspreed AI v1.3.0 is in the works and will be officially released soon! 🔜 Stay tuned for updates and get ready to take your AI game to the next level! 💪 #LinkspreedAI #ArtificialIntelligence #ComingSoon
 
 ### 19.04.2023 (announcement BioX)
