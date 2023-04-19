@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 19.04.2023 (announcement Linkspreed AI)
+- 👀🔗 Check out the Linkspreed AI changelog: https://github.com/linkspreed/Linkspreed_AI/blob/main/changelog.md
+
+### 19.04.2023 (announcement Linkspreed AI)
 - 🎉Excited to announce that we're building a new Github repository for #LinkspreedAI! 🔥Stay tuned for exciting updates on our latest project! 🔍🤖 #artificialintelligence #tech #programming #opensource
 
 ### 19.04.2023 (announcement Linkspreed AI)
