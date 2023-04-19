@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.04.2023 (announcement BioX)
+- Exciting news! We're putting our all into BioX - the ultimate Link platform. Stay tuned for updates on our progress 🚀 #BioX #LinkPlatform #Innovation
+
 ### 18.04.2023 (announcement)
 - 🚀 Exciting news! 🔥 We’ve officially started the countdown for the Cloud release on our Cloud solutions! ⏳ #CloudRelease #ExcitingTimes #TechUpdates 🌟
 
