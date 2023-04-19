@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 19.04.2023 (announcement BioX)
+- Exciting news for all link-related tasks! BioX is stepping up to the plate and revolutionizing the way we approach link management. Stay tuned for the future of hyperlinking! #BioX #linkmanagement #innovation
+
+### 19.04.2023 (announcement BioX)
 - Exciting news! We're putting our all into BioX - the ultimate Link platform. Stay tuned for updates on our progress 🚀 #BioX #LinkPlatform #Innovation
 
 ### 18.04.2023 (announcement)
