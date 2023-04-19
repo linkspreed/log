@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.04.2023 (announcement Linkspreed AI)
+- 🚀 Exciting news everyone! 🎉 Linkspreed AI v1.3.0 is in the works and will be officially released soon! 🔜 Stay tuned for updates and get ready to take your AI game to the next level! 💪 #LinkspreedAI #ArtificialIntelligence #ComingSoon
+
 ### 19.04.2023 (announcement BioX)
 - Exciting news for all link-related tasks! BioX is stepping up to the plate and revolutionizing the way we approach link management. Stay tuned for the future of hyperlinking! #BioX #linkmanagement #innovation
 
