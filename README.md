@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.04.2023 (announcement BioX)
+- 🚀👨‍💻💻💪 Busy day at BioX! We're putting in work on the frontend today to make our platform even better. Exciting things to come! #BioX #Frontend #Innovation #TechLife
+
 ### 20.04.2023 (announcement DNServer)
 - 🎉 Good news everyone! Our DNS lookup tool DNServer is back online and ready to help solve any domain name resolutions issues you may encounter! 🙌 #technews #dnslookup #DNServer
 - https://user-images.githubusercontent.com/102324985/233280054-79ecdff8-9b20-4625-b1f1-a868cd87f95e.png
