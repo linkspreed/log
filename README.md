@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.04.2023 (announcement BioX)
+- 👋 Hey, everyone! We want to know what you think about the new BioX logo and icon! 🤔 Share your thoughts with us! 🙌 #BioX #Logo #Icon #Design #Feedback #Community #Emojis
+- https://user-images.githubusercontent.com/102324985/233479114-eda6f776-6ed3-45e8-96a0-9e25c0d1cb10.png
+- https://user-images.githubusercontent.com/102324985/233479200-d49f92da-5fc6-4542-bafc-6940d0dd14c9.png
+
 ### 20.04.2023 (announcement)
 - 👨‍💼💻📝 Today's agenda: Organizational overhaul! We're revisiting past projects and brainstorming innovative solutions for future platforms. Let's get to work! #teamwork #innovation #productivity
 
