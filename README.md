@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.04.2023 (announcement DNServer)
+- 👨‍💻🔍💻🌐 Currently working on our #DNS lookup tool, DNServer. Making internet browsing faster and more secure is what we're all about! #tech #networking #websecurity #innovation
+
 ### 19.04.2023 (announcement Linkspreed AI)
 - 📢 Check out the brand new Github Repository for Linkspreed AI! 🚀💻 Make your projects even smarter with the latest AI technology. 🤖 Start innovating today! 🌟 #LinkspreedAI #AI #Github #innovation
 https://github.com/linkspreed/Linkspreed_AI
