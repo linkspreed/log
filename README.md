@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.04.2023 (announcement)
+- Exciting news! The team at Linkspreed is developing a fresh and innovative concept that we can't wait to share with you all. Stay tuned for updates!
+
 ### 20.04.2023 (announcement BioX)
 - 🚀👨‍💻💻💪 Busy day at BioX! We're putting in work on the frontend today to make our platform even better. Exciting things to come! #BioX #Frontend #Innovation #TechLife
 
