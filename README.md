@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.04.2023 (announcement BioX [API])
+- 👩‍💻Attention developers!👨‍💻 Have you heard of the BioX API? 🌐 Check out their documentation here: https://biox.ga/api-docs 📚 and start integrating it into your projects! 🔥 #API #BioX #developers #coding #tech
+
 ### 21.04.2023 (announcement BioX)
 - 🚀 We're conducting a massive test run on BioX to ensure flawless performance. 🧪 All features and functions are being thoroughly tested 🕵️‍♀️. Stay tuned for more updates! 👀 #BioX #Testing #Tech #Innovation
 
