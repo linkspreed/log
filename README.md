@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.04.2023 (announcement Linkspreed Browser)
+- 👨‍💻🌐🔨 Exciting news! Our team is putting together our very own Linkspreed Browser. Stay tuned for updates and get ready for a faster browsing experience. 🚀⏩ #Linkspreed #Browser #Technology #Innovation
+
 ### 21.04.2023 (announcement)
 - 👨‍💻👩‍💻💭💡📝🚀 Time to roll up our sleeves and get back to work! We're continuing to work on the landing page for our new concept and brainstorming new ideas. Let's do this! #teamwork #creativity #newconcept #startuplife
 
