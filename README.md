@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.04.2023 (announcement BioX)
+- 🚀 We're conducting a massive test run on BioX to ensure flawless performance. 🧪 All features and functions are being thoroughly tested 🕵️‍♀️. Stay tuned for more updates! 👀 #BioX #Testing #Tech #Innovation
+
+### 21.04.2023 (announcement BioX)
 - 🎉Exciting news!🎉 We're thrilled to announce that we're adding BioX to the Cloudflare network.💻🌐 This is a major win for our customers, as BioX will provide advanced security features and improve overall performance.🔒🚀 #cloudflare #security #performance
 
 ### 21.04.2023 (announcement BioX)
