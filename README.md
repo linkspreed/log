@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.04.2023 (announcement BioX)
+- 🚨Attention🚨: Our team is hard at work on BioX 💻🧬🔬 after Google Chrome removed the dangerous banner 🙅‍♀️🚫. Stay tuned for updates! #BioX #GoogleChrome #safetyfirst 🌟
+
+### 21.04.2023 (announcement)
+- 🎉Exciting news!🎉 We've been hard at work and have made significant progress on our new business concept. Stay tuned for more updates! 💼💡🚀 #entrepreneurship #innovation #startup
+
 ### 21.04.2023 (announcement)
 - 📢 Exciting news! 🎉 We're merging some older projects into our platform portfolio, all for your convenience. 💻📱 Check it out and let us know what you think! 💬 #technews #platformportfolio #innovation
 
