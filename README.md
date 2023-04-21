@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.04.2023 (announcement)
+- 📢 Exciting news! 🎉 We're merging some older projects into our platform portfolio, all for your convenience. 💻📱 Check it out and let us know what you think! 💬 #technews #platformportfolio #innovation
+
 ### 20.04.2023 (announcement BioX)
 - 👋 Hey, everyone! We want to know what you think about the new BioX logo and icon! 🤔 Share your thoughts with us! 🙌 #BioX #Logo #Icon #Design #Feedback #Community #Emojis
 - https://user-images.githubusercontent.com/102324985/233479114-eda6f776-6ed3-45e8-96a0-9e25c0d1cb10.png
