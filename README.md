@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.04.2023 (announcement Snoogie)
+- 👨‍💼👩‍💻💰💡🤖 Exciting news! We're putting together a price plan for Biospreed and Snoogie, and getting ready for our paid AI features launch in a few weeks! Stay tuned for more updates! #AI #pricing #excited
+
+### 22.04.2023 (announcement Biospreed)
+- 👨‍💼👩‍💻💰💡🤖 Exciting news! We're putting together a price plan for Biospreed and Snoogie, and getting ready for our paid AI features launch in a few weeks! Stay tuned for more updates! #AI #pricing #excited
+
 ### 22.04.2023 (announcement Franchise)
 - 🚀🎨 Excited to kick off our latest venture with Linkspreed Franchise! We're working hard to build out our landing page and perfect our business model. Stay tuned for more updates! #entrepreneur #creative #smallbusiness
 - https://user-images.githubusercontent.com/102324985/233800272-90f4c9e6-07d1-4006-85cb-b2d1653a8d7b.png
