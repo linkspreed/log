@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.04.2023 (announcement Oxygen)
+- 👨‍💻💻🌐 Exciting news! 💥 We're in the process of developing our very own web browser and it's going to be called Oxygen! 🔥 Stay tuned for more updates! 🔜 #OxygenBrowser #WebDevelopment #TechNews 🚀
+
 ### 21.04.2023 (announcement Linkspreed Browser)
 - 👨‍💻🌐🔨 Exciting news! Our team is putting together our very own Linkspreed Browser. Stay tuned for updates and get ready for a faster browsing experience. 🚀⏩ #Linkspreed #Browser #Technology #Innovation
 
