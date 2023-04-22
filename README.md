@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.04.2023 (announcement DNServer)
+- 🚀🌟 Our team just released v2.4 for DNServer, our powerful DNS lookup tool. 🔍👀 Start being more creative with your domain research and simplify your life today! #DNServer #newrelease #productivityboost
+
+### 22.04.2023 (announcement DNServer)
 - We're hard at work on #DNServer and can't wait to launch our newest version soon. Stay tuned for updates! #TechNews #InternetSafety #OnlineSecurity 🌟🎉👏
 
 ### 22.04.2023 (announcement Oxygen)
