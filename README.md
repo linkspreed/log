@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.04.2023 (announcement)
+- 🎨💡👨‍🎨 Excited to announce that we're still working on the brand new concept! Time to get those creative juices flowing 💪 #newbeginnings #innovation #designthinking
+
 ### 22.04.2023 (announcement DNServer)
 - 🚀🌟 Our team just released v2.4 for DNServer, our powerful DNS lookup tool. 🔍👀 Start being more creative with your domain research and simplify your life today! #DNServer #newrelease #productivityboost
 
