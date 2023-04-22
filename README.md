@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.04.2023 (announcement DNServer)
+- We're hard at work on #DNServer and can't wait to launch our newest version soon. Stay tuned for updates! #TechNews #InternetSafety #OnlineSecurity 🌟🎉👏
+
 ### 22.04.2023 (announcement Oxygen)
 - 👨‍💻💻🌐 Exciting news! 💥 We're in the process of developing our very own web browser and it's going to be called Oxygen! 🔥 Stay tuned for more updates! 🔜 #OxygenBrowser #WebDevelopment #TechNews 🚀
 
