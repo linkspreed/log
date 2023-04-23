@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.04.2023 (announcement Oxygen)
+- 🚀🔬👨‍💻 Our team at Oxygen is making incredible progress on our browser development! Exciting things to come 💻🌐 #tech #innovation #development #browsers
+
+### 23.04.2023 (announcement Oxygen)
 - 🌬️Breathe easy, #OxygenBrowser is in the works! Our team is hard at work bringing you a browsing experience that's fresh, clean, and seamless. Stay tuned for more updates! #tech #internet #web #innovation 👨‍💻🚀👩‍💻
 
 ### 22.04.2023 (announcement Snoogie)
