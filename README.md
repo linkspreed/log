@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.04.2023 (announcement Oxygen)
+- 🌬️Breathe easy, #OxygenBrowser is in the works! Our team is hard at work bringing you a browsing experience that's fresh, clean, and seamless. Stay tuned for more updates! #tech #internet #web #innovation 👨‍💻🚀👩‍💻
+
 ### 22.04.2023 (announcement Snoogie)
 - 👨‍💼👩‍💻💰💡🤖 Exciting news! We're putting together a price plan for Biospreed and Snoogie, and getting ready for our paid AI features launch in a few weeks! Stay tuned for more updates! #AI #pricing #excited
 
