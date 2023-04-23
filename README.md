@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.04.2023 (announcement)
+- 👨‍💻💾🚀 Still pushing boundaries with our experimentation of cloud storage solutions. Our team never stops innovating! #CloudComputing #Innovation #Tech
+
 ### 23.04.2023 (announcement Oxygen)
 - 🚀🔬👨‍💻 Our team at Oxygen is making incredible progress on our browser development! Exciting things to come 💻🌐 #tech #innovation #development #browsers
 
