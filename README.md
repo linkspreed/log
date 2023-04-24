@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.04.2023 (announcement Chatbot)
+- 💡 Exciting news! We've resumed development on our chatbot tool that we started a few months ago. Stay tuned for more updates! #creative #chatbot #innovation 🤖💬
+
 ### 24.04.2023 (announcement)
 - Excited to announce that we're working on our new franchise model! Let's get creative and bring this project to life 🙌🎉 #Franchise #Innovative #Expansion
 
