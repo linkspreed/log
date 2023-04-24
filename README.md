@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.04.2023 (announcement)
+- Excited to announce that we're working on our new franchise model! Let's get creative and bring this project to life 🙌🎉 #Franchise #Innovative #Expansion
+
 ### 24.04.2023 (announcement ShareNode)
 - 🚀Starting off our creative journey with ShareNode!🌟 Just checking out test runs to make sure everything is A-OK 😎 #ShareNode #testing #tech
 
