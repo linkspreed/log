@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.04.2023 (announcement ShareNode)
+- 🚀Starting off our creative journey with ShareNode!🌟 Just checking out test runs to make sure everything is A-OK 😎 #ShareNode #testing #tech
+
 ### 23.04.2023 (announcement)
 - 👨‍💻💾🚀 Still pushing boundaries with our experimentation of cloud storage solutions. Our team never stops innovating! #CloudComputing #Innovation #Tech
 
