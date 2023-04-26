@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.04.2023 (announcement ShareNode)
+- 🚀🙌 It's official! We're starting the final steps for ShareNode. Stay tuned for updates and get ready for an epic launch! #ShareNode #excitingtimes #blockchain #cryptocurrency
+
 ### 25.04.2023 (announcement Chatbot)
 - 🤖📱👥We're pushing forward with our super innovative Social Media Chatbot as a SaaS solution! Stay tuned for more updates. #AI #SaaS #Innovation 🚀
 
