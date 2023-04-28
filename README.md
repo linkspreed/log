@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.04.2023 (announcement Chatbot)
+- 🚀👩‍💻💬 We're continuously developing our social media chatbot to help boost marketing success! Stay tuned for exciting updates 🎉 #chatbot #digitalmarketing #innovation
+
+### 27.04.2023 (announcement)
+- 🚀 Exciting news! We've been working hard on expanding our reach to new platforms 📱🖥️ Stay tuned for updates and keep following us for more exciting developments! #technology #innovation #growth
+
+### 27.04.2023 (announcement Linkspreed.com)
+- 🎉📈 We're thrilled to announce that we've upgraded our first batch of verified volunteers to become moderators for Linkspreed.com! Their dedication to helping us maintain a safe and engaging platform is unparalleled. #Volunteers #Linkspreed #Moderators
+
 ### 26.04.2023 (announcement ShareNode)
 - 🚀🙌 It's official! We're starting the final steps for ShareNode. Stay tuned for updates and get ready for an epic launch! #ShareNode #excitingtimes #blockchain #cryptocurrency
 
