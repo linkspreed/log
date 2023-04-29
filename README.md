@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.04.2023 (announcement Slurch)
+- 🤔🌟 Guess what! 2 years ago we archived our project Slurch, but now we're reviving it and making it even better 🚀. Keep an eye out for Slurch, it's going to shake up the social media marketing game! 🙌 #excitingnews #newbeginnings #socialmedia #marketing 📈📲🎉
+
+### 29.04.2023 (announcement Slurch)
 - 🔜🎉 Don't get too excited yet, but... the team is working on an EPIC relaunch of Slurch! Stay tuned for imaginative updates! 😎🚀 #SlurchRelaunch #ExcitingThingsComingSoon
 
 ### 29.04.2023 (announcement Linkspreed Office)
