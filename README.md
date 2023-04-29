@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.04.2023 (announcement Qizz)
+- 🧠🤔💭 Ready for some brainstorming? We're conducting some test runs with Qizz! #innovation #testing #Qizz
+
 ### 29.04.2023 (announcement Slurch)
 - 🤔🌟 Guess what! 2 years ago we archived our project Slurch, but now we're reviving it and making it even better 🚀. Keep an eye out for Slurch, it's going to shake up the social media marketing game! 🙌 #excitingnews #newbeginnings #socialmedia #marketing 📈📲🎉
 
