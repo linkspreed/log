@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.04.2023 (announcement Slurch)
+- 🔜🎉 Don't get too excited yet, but... the team is working on an EPIC relaunch of Slurch! Stay tuned for imaginative updates! 😎🚀 #SlurchRelaunch #ExcitingThingsComingSoon
+
 ### 29.04.2023 (announcement Linkspreed Office)
 - 👀 A quick update on our latest venture: Linkspreed Office is under development and we've got big plans in the works 💻 Stay tuned for more details! #project #excitementbuilding #innovation 👨‍💻🌟👍
 
