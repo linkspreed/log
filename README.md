@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.04.2023 (announcement Linkspreed Office)
+- 👀 A quick update on our latest venture: Linkspreed Office is under development and we've got big plans in the works 💻 Stay tuned for more details! #project #excitementbuilding #innovation 👨‍💻🌟👍
+
 ### 28.04.2023 (announcement Joyn)
 - 🚀 Today marks the start of our continued development for Joyn! Our team is excited to bring innovative updates and features to make your experience even better 🤩 #Joyn #development #innovation.
 
