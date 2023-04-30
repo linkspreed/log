@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.04.2023 (announcement)
+- 👨‍💻👩‍💻 Currently, we're busy with a plethora of unique and exciting projects 🚀🌟. Our team is hard at work in the planning phases and we can't wait to share our progress with you soon! Stay tuned 😉 #teambuilding #creativity #excitement.
+
 ### 29.04.2023 (announcement Qizz)
 - 🧠🤔💭 Ready for some brainstorming? We're conducting some test runs with Qizz! #innovation #testing #Qizz
 
