@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.05.2023 (announcement Linkspreed.com)
+- 📅👉 Since May 1st, 2023, we've started airing some ads through Google Adsense on Linkspreed.com. Don't worry, they're not annoying and fit seamlessly with the website! #advertising #GoogleAdsense #Linkspreed 🌐📈
+
 ### 30.04.2023 (announcement ShareNode)
 - 🚀🌟Our team is hard at work on improving ShareNode! We're constantly brainstorming innovative ideas and implementing new features to make it even better for our users. Stay tuned for exciting updates!🌟🚀 #ShareNode #innovation #tech
 
