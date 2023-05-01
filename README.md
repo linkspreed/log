@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.05.2023 (announcement Slurch)
+- 🚀👨‍💻 Our team is super excited to announce that we're using the Adobe Express API for our project Slurch. 😍👌 We just submitted it for review and now we're crossing our fingers and toes 🤞 for a successful outcome. Stay tuned for updates! #Slurch #AdobeExpress #API #TechLove
+
+### 01.05.2023 (announcement Slurch)
 - 🧠💡 Working hard on Slurch and brainstorming some new plans! Can't wait to see what we come up with 🚀 #innovation #creativity #startuplife
 
 ### 01.05.2023 (announcement ShareNode)
