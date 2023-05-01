@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.05.2023 (announcement ShareNode)
+- 🇩🇪Hey there ShareNoders! Just a heads up, due to tax reasons, we can only accept users from Germany. You can select Germany as your country in the settings, but don't worry - we don't have any geo-blocking in place! 🌍🚫 #ShareNode #GermanyOnly #NoGeoBlocking
+- https://user-images.githubusercontent.com/102324985/235505524-f3fbd7ae-865b-4ec3-8938-ba55acf8759a.png
+
+### 01.05.2023 (announcement ShareNode)
 - 🚀👨‍💼👩‍💻 Keep the innovation flowing! We're hard at work on Sharenode, our game-changing new cloud solution. Stay tuned for updates! 🌩️💻📈 #Tech #Innovation #Sharenode #CloudComputing 🌟🤖👍
 
 ### 01.05.2023 (announcement)
