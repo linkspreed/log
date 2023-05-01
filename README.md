@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.05.2023 (announcement Slurch)
+- 🎉📷🙌Exciting news for Slurch users!🎉📷🙌 You can now import images directly from your Dropbox for all your social media posts!👀👍 #socialmedia #marketing #Slurch #Dropbox #imagery #innovation
+
+### 01.05.2023 (announcement Slurch)
 - 🚀👨‍💻 Our team is super excited to announce that we're using the Adobe Express API for our project Slurch. 😍👌 We just submitted it for review and now we're crossing our fingers and toes 🤞 for a successful outcome. Stay tuned for updates! #Slurch #AdobeExpress #API #TechLove
 
 ### 01.05.2023 (announcement Slurch)
