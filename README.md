@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.05.2023 (announcement Slurch)
+- 🧠💡 Working hard on Slurch and brainstorming some new plans! Can't wait to see what we come up with 🚀 #innovation #creativity #startuplife
+
 ### 01.05.2023 (announcement ShareNode)
 - 🇩🇪Hey there ShareNoders! Just a heads up, due to tax reasons, we can only accept users from Germany. You can select Germany as your country in the settings, but don't worry - we don't have any geo-blocking in place! 🌍🚫 #ShareNode #GermanyOnly #NoGeoBlocking
 - https://user-images.githubusercontent.com/102324985/235505524-f3fbd7ae-865b-4ec3-8938-ba55acf8759a.png
