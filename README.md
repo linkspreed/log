@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.05.2023 (announcement ShareNode)
+- 🚀👨‍💼👩‍💻 Keep the innovation flowing! We're hard at work on Sharenode, our game-changing new cloud solution. Stay tuned for updates! 🌩️💻📈 #Tech #Innovation #Sharenode #CloudComputing 🌟🤖👍
+
 ### 01.05.2023 (announcement)
 - 👨‍💻👩‍💻🔧🚀 Working hard on configuring our Adsense! Making sure things run smoothly for our users. Stay tuned for updates! 🤝💰💻📈 #Adsense #Configuration #WorkingHard #StayTuned #Updates #Success
 
