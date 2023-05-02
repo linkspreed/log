@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 02.05.2023 (announcement Slurch)
+- 🚀 We're currently working on a Bitly and Social Login integration for our amazing Social Media Marketing tool, Slurch! Stay tuned for more updates! 💻 #socialmedia #marketing #Slurch
+
+### 02.05.2023 (announcement Slurch)
 - 🚀🎨🤖 The team has been working hard on integrating Adobe Express with Slurch! Get ready for even more creative possibilities. #design #productivity #teamwork
 
 ### 01.05.2023 (announcement Slurch)
