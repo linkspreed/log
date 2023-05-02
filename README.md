@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.05.2023 (announcement Slurch)
+- 🚀🎨🤖 The team has been working hard on integrating Adobe Express with Slurch! Get ready for even more creative possibilities. #design #productivity #teamwork
+
 ### 01.05.2023 (announcement Slurch)
 - 🎉📷🙌Exciting news for Slurch users!🎉📷🙌 You can now import images directly from your Dropbox for all your social media posts!👀👍 #socialmedia #marketing #Slurch #Dropbox #imagery #innovation
 
