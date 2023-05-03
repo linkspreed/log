@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.05.2023 (announcement Snoogie)
+- 🚨Big news!🚨 Our team just updated FIVE plugins for Snoogie🐶. Check out the latest versions of our Image Optimization, Teams, Additional Blocks, Social Media Blocks, and Email Signature plugins! 🙌🏼 #UpgradeYourWebsite #SnoogiePlugins #WebDesign #OnlineMarketing 🌐🚀💻
+
+### 03.05.2023 (announcement Biospreed)
+- 🎉 Our team has updated 5 plugins for Biospreed! 🚀 These include: 🖼️ Image optimization plugin, 👥 Teams plugin, 🧱 Additional blocks, 📱 Additional social media blocks, and ✉️ Email signature plugin. Keep your website running smoothly with these enhanced features! #webdevelopment #Biospreed #pluginupdates
+
+### 03.05.2023 (announcement Snoogie)
 - 🚀 It's time to upgrade the plugins for Snoogie! 🎉 We're currently working on the plugins and will keep you all updated on the progress. Stay tuned! #Snoogie #plugins #webdevelopment #upgrades 🤖💻👨‍💻
 
 ### 03.05.2023 (announcement Biospreed)
