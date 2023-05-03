@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.05.2023 (announcement Snoogie)
+- 🎉🚀 We're proud to announce that we've successfully released Snoogie Version 33.0.0! 🎉🚀 But the work doesn't stop there - we'll be continuing development on some new features tonight! #Snoogie #Version33 #DevelopmentInProgress #Proud #ExcitedForTheFuture 💻📈🙌
+
+### 03.05.2023 (announcement Biospreed)
+- 🚀🌟 Our team is thrilled to announce the successful release of Biospreed Version 33.0.0! 🎉👏 However, we're not done yet and are working on some exciting developments tonight. Stay tuned for updates! #BiospreedVersion33 #SoftwareRelease #ExcitingDevelopments 🤖💻
+
+### 03.05.2023 (announcement Snoogie)
 - https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
