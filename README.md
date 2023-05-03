@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.05.2023 (announcement Linkspreed.com)
+- 👨‍💻👩‍💻📈 We are still hard at work on the new, future version v4.2 for Linkspreed.com and a few of our other social networks. #UpgradesComing #MoreInnovations #NewFeatures
+
 ### 03.05.2023 (announcement Snoogie)
 - 🚀📈 The development of Snoogie is now complete for version 33.0.0! 🎉🎊 All new features are live and available to users, with plugins up-to-date. Check out our full documentation and development history on Github. #Snoogie #development #GitHub #newfeatures
 
