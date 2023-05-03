@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.05.2023 (announcement Biospreed)
+- 📢 Big news! 🚨 We're thrilled to announce the release of version 33.0.0 for Biospreed tonight! 🎉 Get ready for some major upgrades and improvements! 🔥 #softwareupdate #excitingtimes #technews 🤖
+
+### 03.05.2023 (announcement Snoogie)
+- 📢 Big news! 🚨 We're thrilled to announce the release of version 33.0.0 for Snoogie tonight! 🎉 Get ready for some major upgrades and improvements! 🔥 #softwareupdate #excitingtimes #technews 🤖
+
 ### 02.05.2023 (announcement Slurch)
 - 🚀 We're currently working on a Bitly and Social Login integration for our amazing Social Media Marketing tool, Slurch! Stay tuned for more updates! 💻 #socialmedia #marketing #Slurch
 
