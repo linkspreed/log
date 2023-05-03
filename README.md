@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.05.2023 (announcement Snoogie)
+- 🚀📈 The development of Snoogie is now complete for version 33.0.0! 🎉🎊 All new features are live and available to users, with plugins up-to-date. Check out our full documentation and development history on Github. #Snoogie #development #GitHub #newfeatures
+
+### 03.05.2023 (announcement Biospreed)
+- 🔥 It's official! 🎉 Biospreed version 33.0.0 is now LIVE with all new features and updated plugins. 🚀 Thanks to our team's hard work, we've successfully concluded all development efforts. 🙌 Dive into our documentation on Github to see what's new and what's in the works! #Biospreed #TechUpdates #SoftwareDevelopment #Github 🤖💻📝
+
+### 03.05.2023 (announcement Snoogie)
 - 🚨Big news!🚨 Our team just updated FIVE plugins for Snoogie🐶. Check out the latest versions of our Image Optimization, Teams, Additional Blocks, Social Media Blocks, and Email Signature plugins! 🙌🏼 #UpgradeYourWebsite #SnoogiePlugins #WebDesign #OnlineMarketing 🌐🚀💻
 
 ### 03.05.2023 (announcement Biospreed)
