@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.05.2023 (announcement Gogola)
+- 🚨 Big news! 🔒We've just beefed up the security on Gogola's database to make it more secure! 💪 What's more? We've done it for long-term use! 📈 #DataSecurity #Gogola #LongTermSuccess 🤖
+
 ### 03.05.2023 (announcement Linkspreed.com)
 - 👨‍💻👩‍💻📈 We are still hard at work on the new, future version v4.2 for Linkspreed.com and a few of our other social networks. #UpgradesComing #MoreInnovations #NewFeatures
 
