@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.05.2023 (announcement Toolkit)
+- 🚨 Exciting news for Toolkit users 🚨 We just released the Email Signature Plugin! 💻💬✉️ Alongside the free & unlimited API, Email Signature is an additional benefit included in every Toolkit.ga account for free! 🙌 Sign up now & enjoy! #toolkit #emailsignature #freeAPI #signup #onthehouse
+
 ### 04.05.2023 (announcement UpNode)
 - 💻🛡️ Upnode's database is now safer and more equipped for long-term use! #Upnode #database #security #longterm
 
