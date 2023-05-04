@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.05.2023 (announcement ForJu)
+- 🚀🔜 We're currently working on ForJu, the first platform to receive version 4.2 before #Linkspreed.com! Stay tuned for exciting updates. #ForJu #innovation #technology 🌟
+
 ### 04.05.2023 (announcement Snoogie)
 - 🎉📢🙌 Exciting news alert: #SnoogieAPI is now FREE for all users with an account! 😍👍 Check out our user-friendly panel with detailed documentation and APIs 🔑📚 Stay tuned for more info on our social media channels next week! #APIforAll #DeveloperCommunity 🚀👨‍💻
 
