@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.05.2023 (announcement Biospreed)
+- Our team has released a smaller patch for Biospeed version 33.0.0 to fix some minor bugs! Keep zooming through life with our improved performance 🚀 #Biospeed #update #bugfixes
+
+### 04.05.2023 (announcement Snoogie)
+- 🎉 Introducing our latest update to Snoogie V33.0.0! 🚀 We've just released a smaller patch that fixes some minor bugs and improves overall performance. 🐛🛠️ Keep snoogling with ease and enjoy a seamless experience! #SnoogieUpdate #BugFixes #PerformanceBoost 🙌👍
+
 ### 04.05.2023 (announcement Toolkit)
 - 🚨🔍 Exciting news! 🎉🎉 Toolkit.ga is now connected with the Google Safe Browsing API 🤝👨‍💻. This means that all user URLs will now be checked for safety, keeping you safer online 🛡️🌐. Plus, we've also added some nifty new tools with this API.
 
