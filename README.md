@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 05.05.2023 (announcement)
+### 05.05.2023 (announcement Linkspreed Franchise)
+- 🎉 Big news! 🎉 We're excited to announce that we'll soon be accepting the first Linkspreed Franchise users! 🙌 Stay tuned for more details on our website and marketing materials. #LinkspreedFranchise #ComingSoon #ExcitingNewsAhead 🚀
+
+### 05.05.2023 (announcement Linkspreed Franchise)
 - 🚀💼 Our team is tirelessly working on perfecting our unbeatable franchise plan. 🔥💪 #franchise #businessgrowth #teamwork #strategy
 
 ### 05.05.2023 (announcement)
