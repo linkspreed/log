@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.05.2023 (announcement)
+- 🚀💼 Our team is tirelessly working on perfecting our unbeatable franchise plan. 🔥💪 #franchise #businessgrowth #teamwork #strategy
+
+### 05.05.2023 (announcement)
 - 🎊 We're thrilled to announce our partnership with Ebertlang Distribution for our future cloud storage needs. 🔍 Expect to see this partnership go live next week, so watch this space! 🚀 #cloudstorage #partnership #excitingnews
 
 ### 04.05.2023 (announcement ForJu)
