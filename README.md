@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.05.2023 (announcement)
+- 🎉 Breaking news! We just got our tax ID and registered for a partnership with Ebertlang Distribution. 😍 Our clouds will be back up and running by early next week, and for good! 💪 #partnershipgoals #cloudcomputing
+
 ### 05.05.2023 (announcement Linkspreed Franchise)
 - 🎉 Big news! 🎉 We're excited to announce that we'll soon be accepting the first Linkspreed Franchise users! 🙌 Stay tuned for more details on our website and marketing materials. #LinkspreedFranchise #ComingSoon #ExcitingNewsAhead 🚀
 
