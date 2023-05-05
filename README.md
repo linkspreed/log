@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.05.2023 (announcement ForJu)
+- 🚀 Big news! 🎉 We're currently working on ForJu v4.2, and the team is testing out a completely fresh new design! 🤩 Stay tuned for more updates and improvements to come. #ForJu #Version42 #newdesign #innovation #testing #exciting
+
 ### 05.05.2023 (announcement)
 - 🎉 Breaking news! We just got our tax ID and registered for a partnership with Ebertlang Distribution. 😍 Our clouds will be back up and running by early next week, and for good! 💪 #partnershipgoals #cloudcomputing
 
