@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.05.2023 (announcement)
+- 🤖🚀 Big news alert! 🎉👀 We've been working on bringing AI directly to our social networks 🤯🙌 Stay tuned for more details tomorrow! What do you think about the future of AI integrated with social media? #AI #socialmedia #technology #futurethinking
+
 ### 05.05.2023 (announcement ForJu)
 - 🎉 We are releasing the latest version of ForJu 4.2 tonight🚀 as a beta version.👨‍💻Stay tuned for an even better version that will be available soon for other similar platforms🌐 #ForJu #BetaVersion #SoftwareUpdate #Technology #NewRelease #StayTuned 🤩
 
