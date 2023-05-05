@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.05.2023 (announcement ForJu)
+- 🎉 We are releasing the latest version of ForJu 4.2 tonight🚀 as a beta version.👨‍💻Stay tuned for an even better version that will be available soon for other similar platforms🌐 #ForJu #BetaVersion #SoftwareUpdate #Technology #NewRelease #StayTuned 🤩
+
+### 05.05.2023 (announcement ForJu)
 - 🚀 Big news! 🎉 We're currently working on ForJu v4.2, and the team is testing out a completely fresh new design! 🤩 Stay tuned for more updates and improvements to come. #ForJu #Version42 #newdesign #innovation #testing #exciting
 
 ### 05.05.2023 (announcement)
