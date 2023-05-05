@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.05.2023 (announcement)
+- 🎊 We're thrilled to announce our partnership with Ebertlang Distribution for our future cloud storage needs. 🔍 Expect to see this partnership go live next week, so watch this space! 🚀 #cloudstorage #partnership #excitingnews
+
 ### 04.05.2023 (announcement ForJu)
 - 🚀🔜 We're currently working on ForJu, the first platform to receive version 4.2 before #Linkspreed.com! Stay tuned for exciting updates. #ForJu #innovation #technology 🌟
 
