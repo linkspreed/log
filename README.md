@@ -2,6 +2,27 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.05.2023 (announcement ForJu)
+- https://github.com/linkspreed/ForJu/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 05.05.2023 (announcement ForJu)
+- The launch of version 4.2 of **ForJu** was successful! 🥳
+- The new update is live now :)
+- https://forju.tk 🔗
+
+### 05.05.2023 (announcement ForJu)
+- We are now starting the launch of v4.2.
+
+### 05.05.2023 (announcement ForJu)
+- The servers are now ready for the launch of version 4.2 for **ForJu**.
+
+### 05.05.2023 (announcement ForJu)
+- The code is now ready for the launch of version 4.2 for **ForJu**.
+
+### 05.05.2023 (announcement ForJu)
+-  **ForJu** gets a big update today - we are going to launch v4.2. 😍
+
 ### 05.05.2023 (announcement)
 - 🤖🚀 Big news alert! 🎉👀 We've been working on bringing AI directly to our social networks 🤯🙌 Stay tuned for more details tomorrow! What do you think about the future of AI integrated with social media? #AI #socialmedia #technology #futurethinking
 
