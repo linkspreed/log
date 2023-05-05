@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.05.2023 (announcement ForJu)
+- 🚨🎉 Exciting news, ForJu version 4.2 is finally here! 🥳 Be the first to try out our Live Beta and get a sneak peek of what's to come for other social networks 😍 Have you downloaded it yet? #ForJu #NewRelease #LiveBeta 📲👀
+
+### 05.05.2023 (announcement ForJu)
 - https://github.com/linkspreed/ForJu/blob/main/changelog.md
 - The entire changelog is now available on Github.
 
