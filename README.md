@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.05.2023 (announcement Oxygen)
+- 📱🌐 Exciting news! We're expanding our Oxygen browser family! Say hello to Oxygen Mobile, designed for Android smartphones. 🚀 Ready to experience faster browsing on the go? #OxygenMobile #AndroidBrowser
+🤔 What features are you hoping to see in Oxygen Mobile? Let us know in the comments!
+
 ### 06.05.2023 (announcement ForJu)
 - 👨‍💻👩‍💻🌟 Team ForJu is still at it, making strides towards creating the ultimate platform for all your needs! 💻🚀 What are some features you'd love to see on ForJu? #ForJu #platform #development #technology 🤔
 
