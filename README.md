@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.05.2023 (announcement ForJu)
+- 👨‍💻👩‍💻🌟 Team ForJu is still at it, making strides towards creating the ultimate platform for all your needs! 💻🚀 What are some features you'd love to see on ForJu? #ForJu #platform #development #technology 🤔
+
 ### 06.05.2023 (announcement PinSec)
 - 🤖🔒 Just did a test run on the PinSec platform by Linkspreed! 💪🏼 Excited to begin promoting our social network on it next week! 🚀 Who else has tried using PinSec for their online security needs? #onlinesecurity #PinSec #Linkspreed
 
