@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 06.05.2023 (announcement Qizz)
+- We've created a brand new logo and icon for Qizz 🚀 But we want to know your thoughts! 😍 Do you love it or hate it? Let us know in the comments! 👇 #QizzLogo #OpinionsWelcome 🤔
+- https://user-images.githubusercontent.com/102324985/236626456-56de7c4b-745a-41e0-bc74-cc5ee22b5206.png
+
+### 06.05.2023 (announcement Qizz)
 - 🚀🤖 Introducing Qizz, our super innovative short quiz app! Stay tuned as we continue working on making Qizz the coolest app in town. 🎉📲 #quizapp #smallproject #innovation
 What types of quizzes would you like to see on Qizz? 🤔 Share your ideas with us! 👇👇👇
 
