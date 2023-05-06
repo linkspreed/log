@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.05.2023 (announcement Qizz)
+- 🚀🤖 Introducing Qizz, our super innovative short quiz app! Stay tuned as we continue working on making Qizz the coolest app in town. 🎉📲 #quizapp #smallproject #innovation
+What types of quizzes would you like to see on Qizz? 🤔 Share your ideas with us! 👇👇👇
+
 ### 06.05.2023 (announcement)
 - 👨‍💼💼👩‍💼 Our team is working hard to improve our franchise system and bring more opportunities for entrepreneurial success! 🚀🤑💼 Have you ever considered starting your own business with a franchise? 🤔 #entrepreneur #franchising #smallbusiness
 
