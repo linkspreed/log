@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.05.2023 (announcement PinSec)
+- 🤖🔒 Just did a test run on the PinSec platform by Linkspreed! 💪🏼 Excited to begin promoting our social network on it next week! 🚀 Who else has tried using PinSec for their online security needs? #onlinesecurity #PinSec #Linkspreed
+
 ### 06.05.2023 (announcement Qizz)
 - We've created a brand new logo and icon for Qizz 🚀 But we want to know your thoughts! 😍 Do you love it or hate it? Let us know in the comments! 👇 #QizzLogo #OpinionsWelcome 🤔
 - https://user-images.githubusercontent.com/102324985/236626456-56de7c4b-745a-41e0-bc74-cc5ee22b5206.png
