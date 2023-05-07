@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.05.2023 (announcement Profilio)
+- 🚀🤖We're deep into developing Profilio but already seeing great results in our tests! What features are you most excited to see in our upcoming release? Let us know! #tech #appdevelopment #comingsoon 💻📱💼
+
+### 07.05.2023 (announcement Profilio)
 - 🚀 We're thrilled to announce that our vCard generator Profilio is getting even better! 💻 Our team is hard at work to enhance your digital identity experience. 🌟 What features would you like to see added to our vCard generator? #digitalidentity #vCard #Profilio 🤔
 
 ### 06.05.2023 (announcement Oxygen)
