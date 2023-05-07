@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.05.2023 (announcement Profilio)
+- 🚀 We're thrilled to announce that our vCard generator Profilio is getting even better! 💻 Our team is hard at work to enhance your digital identity experience. 🌟 What features would you like to see added to our vCard generator? #digitalidentity #vCard #Profilio 🤔
+
 ### 06.05.2023 (announcement Oxygen)
 - 📱🌐 Exciting news! We're expanding our Oxygen browser family! Say hello to Oxygen Mobile, designed for Android smartphones. 🚀 Ready to experience faster browsing on the go? #OxygenMobile #AndroidBrowser
 🤔 What features are you hoping to see in Oxygen Mobile? Let us know in the comments!
