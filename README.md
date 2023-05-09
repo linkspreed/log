@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.05.2023 (announcement ShareNode)
+- 🎉🚀 Exciting news! ShareNode is officially up and running flawlessly! 🙌🏼🎉 Have you had a chance to check out our platform yet? Let us know in the comments below! #ShareNode #Blockchain #InvestmentOpportunities 💰👀
+
+### 08.05.2023 (announcement ShareNode)
+- 🚀👨‍💻👩‍💻 We're putting the finishing touches on ShareNode and getting our cloud storage platform ready! Who's excited to have a secure and reliable place to store all their files? 🤔 #ShareNode #CloudStorage #TechUpdates
+
+### 08.05.2023 (announcement)
+- 🚀 Exciting news! Today, we kick off our partnership with Ebertlang Distribution GmbH for our future cloud storage. 💻📱 What features do you look for in a cloud storage solution? Let us know in the comments! #cloudstorage #partnership #technews
+
 ### 07.05.2023 (announcement Profilio)
 - 🚀🤖We're deep into developing Profilio but already seeing great results in our tests! What features are you most excited to see in our upcoming release? Let us know! #tech #appdevelopment #comingsoon 💻📱💼
 
