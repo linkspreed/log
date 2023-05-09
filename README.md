@@ -2,6 +2,90 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.05.2023 (announcement Ples)
+- https://github.com/linkspreed/Ples/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.05.2023 (announcement Ples)
+- The launch of version 3.0 of **Ples** was successful! 🥳
+- The new update is live now :)
+- https://ples.ml 🔗
+
+### 09.05.2023 (announcement Ples)
+- We are now starting the launch of v3.0.
+
+### 09.05.2023 (announcement Ples)
+- The servers are now ready for the launch of version 3.0 for **Ples**.
+
+### 09.05.2023 (announcement Ples)
+- The code is now ready for the launch of version 3.0 for **Ples**.
+
+### 09.05.2023 (announcement Ples)
+-  **Ples** gets a big update today - we are going to launch v3.0. 😍
+
+### 09.05.2023 (announcement Shortcut)
+- https://github.com/linkspreed/Shortcut/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.05.2023 (announcement Shortcut)
+- The launch of version 3.0 of **Shortcut** was successful! 🥳
+- The new update is live now :)
+- https://shortcut.tk 🔗
+
+### 09.05.2023 (announcement Shortcut)
+- We are now starting the launch of v3.0.
+
+### 09.05.2023 (announcement Shortcut)
+- The servers are now ready for the launch of version 3.0 for **Shortcut**.
+
+### 09.05.2023 (announcement Shortcut)
+- The code is now ready for the launch of version 3.0 for **Shortcut**.
+
+### 09.05.2023 (announcement Shortcut)
+-  **Shortcut** gets a big update today - we are going to launch v3.0. 😍
+
+### 09.05.2023 (announcement Showit)
+- https://github.com/linkspreed/Showit/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.05.2023 (announcement Showit)
+- The launch of version 3.0 of **Showit** was successful! 🥳
+- The new update is live now :)
+- https://showit.tk 🔗
+
+### 09.05.2023 (announcement Showit)
+- We are now starting the launch of v3.0.
+
+### 09.05.2023 (announcement Showit)
+- The servers are now ready for the launch of version 3.0 for **Showit**.
+
+### 09.05.2023 (announcement Showit)
+- The code is now ready for the launch of version 3.0 for **Showit**.
+
+### 09.05.2023 (announcement Showit)
+-  **Showit** gets a big update today - we are going to launch v3.0. 😍
+
+### 09.05.2023 (announcement Streamvalley)
+- https://github.com/linkspreed/Streamvalley/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.05.2023 (announcement Streamvalley)
+- The launch of version 3.0 of **Streamvalley** was successful! 🥳
+- The new update is live now :)
+- https://streamvalley.tk 🔗
+
+### 09.05.2023 (announcement Streamvalley)
+- We are now starting the launch of v3.0.
+
+### 09.05.2023 (announcement Streamvalley)
+- The servers are now ready for the launch of version 3.0 for **Streamvalley**.
+
+### 09.05.2023 (announcement Streamvalley)
+- The code is now ready for the launch of version 3.0 for **Streamvalley**.
+
+### 09.05.2023 (announcement Streamvalley)
+-  **Streamvalley** gets a big update today - we are going to launch v3.0. 😍
+
 ### 09.05.2023 (announcement UltiCloud)
 - 🎉Exciting news!🎉 We're temporarily redirecting our Cloud UltiCloud to our new Cloud ShareNode until we come up with a plan for UltiCloud. Are you excited for this new development? Let us know in the comments! #cloudmigration #CloudShareNode #UltiCloud #techupdate 💻🚀👍
 
