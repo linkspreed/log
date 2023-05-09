@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.05.2023 (announcement Showit)
+- 🎉📺Exciting news! We've officially released Version 3.0 of Showit, the ultimate video streaming platform. 💻While we're still adding some final touches, all our new features are up for grabs. Check out the patch notes and documentation on github!📝 What's your favorite video streaming feature? #Showit #Videostreaming #Version3.0 #ExcitingUpdates
+
+### 09.05.2023 (announcement Shortcut)
+- 🚨Exciting News Alert🚨 Our team is thrilled to announce the release of Shortcut's Version 3.0 for our video streaming platform! 🎉🙌🎬 We've been working tirelessly to bring you new features, and we can't wait for you to experience them. Check GitHub for full patch notes and documentation. What do you think of our latest update? #ShortcutUpdates #videostreaming #newfeatures 📺💻
+
+### 09.05.2023 (announcement Ples)
+- 🎉📺🚀 Exciting news! Our team has just released version 3.0 of our Ples video streaming platform! 💻📹🙌 We worked hard to bring you new features and improved performance. Check out the patch notes and documentation on our GitHub page! 🔍📋 What's your favorite video to stream on Ples? 🎥🍿 #videostreaming #Ples3 #techupdates
+
+### 09.05.2023 (announcement Streamvalley)
+- 🎉 Exciting news, folks! Our team just released Version 3.0 for Streamvalley! We've got some tweaks left, but all the new features are up and running! Check out the patch notes and documentation on our Github! 🔥 What's your favorite new feature so far? #Streamvalley #newrelease 🚀
+
 ### 09.05.2023 (announcement Ples)
 - https://github.com/linkspreed/Ples/blob/main/changelog.md
 - The entire changelog is now available on Github.
