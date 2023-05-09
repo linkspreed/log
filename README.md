@@ -2,6 +2,28 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.05.2023 (announcement UltiCloud)
+- 🎉Exciting news!🎉 We're temporarily redirecting our Cloud UltiCloud to our new Cloud ShareNode until we come up with a plan for UltiCloud. Are you excited for this new development? Let us know in the comments! #cloudmigration #CloudShareNode #UltiCloud #techupdate 💻🚀👍
+
+### 09.05.2023 (announcement Petabyte)
+- 🌥️📂🔁 Our Cloud Petabyte is making a temporary detour to our new Cloud ShareNode while we work on a plan for Petabyte storage. How do you manage your big data needs? 🤔 #CloudStorage #DataManagement #TechTalk
+
+### 09.05.2023 (announcement Metabox)
+- 🔁 Attention, Metabox users! We're temporarily redirecting to our new Cloud ShareNode while we work on a plan for Metabox. What do you think about cloud storage solutions? 🤔 #CloudStorage #ShareNode #Metabox #UserOpinions
+
+### 09.05.2023 (announcement Linkspreed Photos)
+- 📸💻 Hey everyone! We're temporarily redirecting Linkspreed Photos to our new Cloud ShareNode while we draft a new plan. Have you had a chance to check out our Cloud ShareNode yet? Let us know your thoughts! #photoorganization #cloudstorage 🤔💭
+
+### 09.05.2023 (announcement Linkspreed Drive)
+- 🔗🚀Exciting news! We temporarily redirect Linkspreed Drive to our new Cloud ShareNode while we're designing a plan for it.👀 Have you tried our new ShareNode yet? Let us know your thoughts! #cloudstorage #LinkSpreedDrive #ShareNode #feedback
+
+### 09.05.2023 (announcement Cloudspreed)
+- 🔁 Hey there! We're temporarily redirecting Cloudspreed to our new Cloud ShareNode until we come up with a plan for Cloudspreed. Have you tried using our ShareNode yet? Let us know in the comments! 📨 #cloudstorage #newfeatures #innovations 💻
+
+### 09.05.2023 (announcement Cloud2Go)
+- 🔁 Hey guys, a quick update! We're temporarily redirecting Cloud2Go to our new Cloud ShareNode while we work on a plan for Cloud2Go. Have you tried our Cloud ShareNode yet? Let us know what you think! #CloudShareNode #Cloud2Go #CloudComputing 💻🌤️
+🤔 Do you prefer using Cloud2Go or the new Cloud ShareNode? Let us know in the comments! 😊
+
 ### 08.05.2023 (announcement ShareNode)
 - 🎉🚀 Exciting news! ShareNode is officially up and running flawlessly! 🙌🏼🎉 Have you had a chance to check out our platform yet? Let us know in the comments below! #ShareNode #Blockchain #InvestmentOpportunities 💰👀
 
