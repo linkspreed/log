@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.05.2023 (announcement)
+- 🤔👨‍💻🎥 Our team is working hard on configuring our video streaming platforms to make them even better! What features do you hope to see from us? #videostreaming #platformimprovements 💻🎬
+
+### 10.05.2023 (announcement)
 - 👩‍💻💻👨‍💻 Our team is hard at work on version 4.2 for even more social networks! Which social media platform are you most excited to see us on? 😍 #SocialMedia #Updates #NewFeatures
 
 ### 10.05.2023 (announcement Linkspreed AI)
