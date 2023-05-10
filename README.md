@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.05.2023 (announcement)
+- 📝🌊Exciting news, folks! We just requested a DPA agreement with @wasabi_cloud. 🙌 Are you familiar with this type of contract? Let us know in the comments below! 🔁 #dataprotection #cloudstorage #contracts 🤔 Have you signed a DPA recently?
+
 ### 09.05.2023 (announcement Showit)
 - 🎉📺Exciting news! We've officially released Version 3.0 of Showit, the ultimate video streaming platform. 💻While we're still adding some final touches, all our new features are up for grabs. Check out the patch notes and documentation on github!📝 What's your favorite video streaming feature? #Showit #Videostreaming #Version3.0 #ExcitingUpdates
 
