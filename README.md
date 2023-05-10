@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.05.2023 (announcement)
+- 👩‍💻💻👨‍💻 Our team is hard at work on version 4.2 for even more social networks! Which social media platform are you most excited to see us on? 😍 #SocialMedia #Updates #NewFeatures
+
 ### 10.05.2023 (announcement Linkspreed AI)
 - 🚀🤖 Our team is currently putting all the effort into developing Linkspeed AI! Are you excited to see what our new project can do? #AI #innovation 💻🌟 Let us know in the comments! What features would you like to see in our new AI system? #Brainstorming 🤔
 
