@@ -2,6 +2,69 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.05.2023 (announcement Seedspreed)
+- https://github.com/linkspreed/Seedspreed/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 11.05.2023 (announcement Seedspreed)
+- The launch of version 4.2 of **Seedspreed** was successful! 🥳
+- The new update is live now :)
+- https://seedspreed.cf 🔗
+
+### 11.05.2023 (announcement Seedspreed)
+- We are now starting the launch of v4.2.
+
+### 11.05.2023 (announcement Seedspreed)
+- The servers are now ready for the launch of version 4.2 for **Seedspreed**.
+
+### 11.05.2023 (announcement Seedspreed)
+- The code is now ready for the launch of version 4.2 for **Seedspreed**.
+
+### 11.05.2023 (announcement Seedspreed)
+-  **Seedspreed** gets a big update today - we are going to launch v4.2. 😍
+
+### 11.05.2023 (announcement Netavark)
+- https://github.com/linkspreed/Netavark/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 11.05.2023 (announcement Netavark)
+- The launch of version 4.2 of **Netavark** was successful! 🥳
+- The new update is live now :)
+- https://netavark.tk 🔗
+
+### 11.05.2023 (announcement Netavark)
+- We are now starting the launch of v4.2.
+
+### 11.05.2023 (announcement Netavark)
+- The servers are now ready for the launch of version 4.2 for **Netavark**.
+
+### 11.05.2023 (announcement Netavark)
+- The code is now ready for the launch of version 4.2 for **Netavark**.
+
+### 11.05.2023 (announcement Netavark)
+-  **Netavark** gets a big update today - we are going to launch v4.2. 😍
+
+### 11.05.2023 (announcement Linkspreed)
+- https://github.com/linkspreed/Linkspreed.com/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 11.05.2023 (announcement Linkspreed)
+- The launch of version 4.2 of **Linkspreed** was successful! 🥳
+- The new update is live now :)
+- https://linkspreed.com 🔗
+
+### 11.05.2023 (announcement Linkspreed)
+- We are now starting the launch of v4.2.
+
+### 11.05.2023 (announcement Linkspreed)
+- The servers are now ready for the launch of version 4.2 for **Linkspreed**.
+
+### 11.05.2023 (announcement Linkspreed)
+- The code is now ready for the launch of version 4.2 for **Linkspreed**.
+
+### 11.05.2023 (announcement Linkspreed)
+-  **Linkspreed** gets a big update today - we are going to launch v4.2. 😍
+
 ### 11.05.2023 (announcement Netavark)
 - 🚀 Big news! We're launching v4.2 of Netavark with a major upgrade - a brand new AI! 🎉 Get ready for an entirely new level of personalized content and recommendations. Who else can't wait to try it out? 🤔 #Netavark #AI #SocialMediaUpgrade
 
