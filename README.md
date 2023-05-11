@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.05.2023 (announcement)
+- 🌐🚀 Learning never stops at our team! 🔥 Right now, we're getting trained on the latest trends to provide you with the most innovative #cloudstorage solutions. What do you consider as the biggest challenge when it comes to storing your data online? Let us know 👇 #webinar #education
+
 ### 10.05.2023 (announcement)
 - 🤔👨‍💻🎥 Our team is working hard on configuring our video streaming platforms to make them even better! What features do you hope to see from us? #videostreaming #platformimprovements 💻🎬
 
