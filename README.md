@@ -2,6 +2,16 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.05.2023 (announcement Netavark)
+- 🚀 Big news! We're launching v4.2 of Netavark with a major upgrade - a brand new AI! 🎉 Get ready for an entirely new level of personalized content and recommendations. Who else can't wait to try it out? 🤔 #Netavark #AI #SocialMediaUpgrade
+
+### 11.05.2023 (announcement Seedspreed)
+- 🌱🚀 Exciting news! We're releasing v4.2 for Seedspread, our social network with brand new AI features TODAY!😍 Have you ever wondered how AI can enhance your social media experience?🤔 Share your thoughts with us in the comments below!👇 #Seedspread #AI #socialmedia
+
+### 11.05.2023 (announcement Linkspreed.com)
+- 🔥 Big News Alert!🔥 Our team has been working tirelessly to introduce the all-new AI feature in the latest version v4.2 of Linkspreed.com. Get ready for an enhanced browsing experience!👨‍💻👩‍💻 Share your thoughts in the comments👇 #NewFeatures #Linkspreed #AItechnology
+What feature are you most excited about in the latest version of Linkspreed.com? Let's chat! 💬
+
 ### 11.05.2023 (announcement)
 - 🌐🚀 Learning never stops at our team! 🔥 Right now, we're getting trained on the latest trends to provide you with the most innovative #cloudstorage solutions. What do you consider as the biggest challenge when it comes to storing your data online? Let us know 👇 #webinar #education
 
