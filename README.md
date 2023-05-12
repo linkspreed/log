@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.05.2023 (announcement Linkspreed.com)
+- 🚀👩‍🚀👨‍🚀 New futuristic design alert! Our team has just launched the updated Linkspreed.com website and it looks like it came straight from the future 🔮🌌 What do you think of our new look? Drop us a comment and let us know if you preferred our old design. #Linkspreed #FuturisticDesign #Feedback 🤔
+
 ### 12.05.2023 (announcement Seedspreed)
 - 🌱Exciting news!🌿 Seedspread just made a little design change inspired by Linkspreed. Take a look at screenshot 1 for the old design and screenshot 2 to see our new and improved look with small tweaks. What do you think of our new design? #seedspread #designchanges 💻📱🔍👀🤔
 - https://github.com/linkspreed/General_Linkspreed/assets/102324985/7426d6ce-9816-4d20-aece-ef27475e8e94
