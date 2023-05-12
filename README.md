@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.05.2023 (announcement Seedspreed)
+- 🌱Exciting news!🌿 Seedspread just made a little design change inspired by Linkspreed. Take a look at screenshot 1 for the old design and screenshot 2 to see our new and improved look with small tweaks. What do you think of our new design? #seedspread #designchanges 💻📱🔍👀🤔
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/7426d6ce-9816-4d20-aece-ef27475e8e94
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/f2fe309e-313f-40ff-ac31-897826c56011
+
 ### 12.05.2023 (announcement Linkspreed.com)
 - 🎉 It's official - we've completed a successful test run of our backend code for Linkspreed! 🙌 Version 4.2 is up and running smoothly, and we're excited to wrap up the configuration work. What features are you most looking forward to in the new version of Linkspreed? 🔍🚀 #LinkspreedUpdate #Version4.2 #ExcitingTimes
 
