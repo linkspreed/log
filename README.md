@@ -3,6 +3,18 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 12.05.2023 (announcement Netavark)
+- 🌐🤖 Hold onto your seats because the future of social media is here! What do you think AI's role will be in the evolution of social media? Netavark has now integrated AI capabilities into our platform. Get ready for an experience like never before. The official launch is just days away! 🚀🌟 #NetavarkAI #AIinSocialMedia #TheFutureIsNow
+
+### 12.05.2023 (announcement ForJu)
+- 📢 BIG ANNOUNCEMENT 📢 We're proud to share that ForJu now has AI technology integrated into our platform! What kind of AI features do you think will benefit social media users the most? Brace yourselves for the future of social media. The official launch is just around the corner! 🚀🤖 #ForJuAI #AIinSocialMedia #FutureTech
+
+### 12.05.2023 (announcement Seedspreed)
+- 🌱📲 Get ready to witness the power of AI in social media! How do you think AI will change the way we use social media? We're thrilled to announce that Seedspreed now has AI capabilities integrated into our platform. Stay tuned for the official release in the coming days! 🌟🤖 #SeedspreedAI #AIinSocialMedia #TheFutureIsNow
+
+### 12.05.2023 (announcement Linkspreed)
+- 🚨 BIG NEWS 🚨 We've finally integrated AI into our platform and connected it with a credit system! What feature are you most excited to see in our new AI-integrated platform? Get ready to experience the future of social media. Linkspreed AI goes live in just a few days! 🤖💰 #LinkspreedAI #AIinSocialMedia #TheFutureIsHere
+
+### 12.05.2023 (announcement Netavark)
 - 🎉 Exciting news! Our servers are now supporting the CronJob from Netavark! 💻🙌 Have you tried it out yet? Let us know in the comments below! #Netavark #ServerUpdate #TechTalk 💬
 
 ### 12.05.2023 (announcement Seedspreed)
