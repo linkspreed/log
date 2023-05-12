@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.05.2023 (announcement Linkspreed.com)
+- 🎉 It's official - we've completed a successful test run of our backend code for Linkspreed! 🙌 Version 4.2 is up and running smoothly, and we're excited to wrap up the configuration work. What features are you most looking forward to in the new version of Linkspreed? 🔍🚀 #LinkspreedUpdate #Version4.2 #ExcitingTimes
+
+### 12.05.2023 (announcement Seedspreed)
+- 🌱👏 We're thrilled to announce that our backend code for Seedspreed has passed all tests with flying colors! Version 4.2 is now officially ready for launch. What are you most excited about in the new version of Seedspreed? 🌟🚀 #SeedspreedUpdate #Version4.2 #FutureTech
+
+### 12.05.2023 (announcement ForJu)
+- 📢 We're excited to share that version 4.2 of our backend code for ForJu has been tested and is running flawlessly! 🎉 What features are you most excited to see in the new version of ForJu? Share with us in the comments below! 👇🚀 #ForJuUpdate #Version4.2 #ExcitingNews
+
+### 12.05.2023 (announcement Netavark)
+- 🚀✨ We're thrilled to announce that our team has completed testing for version 4.2 of our backend code for Netavark, and everything is running smoothly! What are you most excited about in the new version of Netavark? Share your thoughts with us below! 👇🌟 #NetavarkUpdate #Version4.2 #FutureTech
+
 ### 12.05.2023 (announcement Netavark)
 - 🌐🤖 Hold onto your seats because the future of social media is here! What do you think AI's role will be in the evolution of social media? Netavark has now integrated AI capabilities into our platform. Get ready for an experience like never before. The official launch is just days away! 🚀🌟 #NetavarkAI #AIinSocialMedia #TheFutureIsNow
 
@@ -11,7 +23,7 @@
 ### 12.05.2023 (announcement Seedspreed)
 - 🌱📲 Get ready to witness the power of AI in social media! How do you think AI will change the way we use social media? We're thrilled to announce that Seedspreed now has AI capabilities integrated into our platform. Stay tuned for the official release in the coming days! 🌟🤖 #SeedspreedAI #AIinSocialMedia #TheFutureIsNow
 
-### 12.05.2023 (announcement Linkspreed)
+### 12.05.2023 (announcement Linkspreed.com)
 - 🚨 BIG NEWS 🚨 We've finally integrated AI into our platform and connected it with a credit system! What feature are you most excited to see in our new AI-integrated platform? Get ready to experience the future of social media. Linkspreed AI goes live in just a few days! 🤖💰 #LinkspreedAI #AIinSocialMedia #TheFutureIsHere
 
 ### 12.05.2023 (announcement Netavark)
