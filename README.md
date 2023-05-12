@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.05.2023 (announcement Netavark)
+- 🎉 Exciting news! Our servers are now supporting the CronJob from Netavark! 💻🙌 Have you tried it out yet? Let us know in the comments below! #Netavark #ServerUpdate #TechTalk 💬
+
 ### 12.05.2023 (announcement Seedspreed)
 - We've finally solved the issue on Seedspreed that caused a connection break with Cloudflare infrastructure. 🙌🏼 Have you experienced any technical glitches lately? Let us know in the comments below! 👇🏼 #Seedspreed #bugfix #techproblems #cloudflare #techsupport
 
