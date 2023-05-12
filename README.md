@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.05.2023 (announcement Seedspreed)
+- We've finally solved the issue on Seedspreed that caused a connection break with Cloudflare infrastructure. 🙌🏼 Have you experienced any technical glitches lately? Let us know in the comments below! 👇🏼 #Seedspreed #bugfix #techproblems #cloudflare #techsupport
+
 ### 12.05.2023 (announcement Linkspreed AI)
 - 🚀 We're putting the finishing touches on Linkspreed AI before launch! 🔥 Who's excited to see how our AI-powered platform will revolutionize the way we work? 🤖 #LinkspreedAI #AI #ProductLaunch #ExcitingTimes
 
