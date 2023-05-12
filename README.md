@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.05.2023 (announcement Linkspreed AI)
+- 🚀 We're putting the finishing touches on Linkspreed AI before launch! 🔥 Who's excited to see how our AI-powered platform will revolutionize the way we work? 🤖 #LinkspreedAI #AI #ProductLaunch #ExcitingTimes
+
 ### 12.05.2023 (announcement Slurch)
 - 🎉 Big news! Slurch has been approved by Adobe Express! 🚀 This means our users will have access to the Adobe Express tool with the official launch of Slurch. 💻 Are you excited to try out this new feature? #Slurch #AdobeExpress #PhotoEditing 📸
 - https://github.com/linkspreed/log/assets/102324985/df9f545e-87f4-4b0a-8244-8d48e6c861ac
