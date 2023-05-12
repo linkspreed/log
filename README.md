@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.05.2023 (announcement ForJu)
+- 🚨 Exciting news, folks! 🔥 We've resolved the Post Reactions issue on ForJu and just released the new Reactions! 💥 What do you think about the new ones? ❤️😂😢😡👏 #ForJu #PostReactions #FeedbackNeeded 🤔
+
+### 12.05.2023 (announcement Linkspreed.com)
+- 🎉 Great news, everyone! 🎉 We've fixed the issue with Post Reactions on Linkspread and the new reactions are now live! 🚀 Try them out and let us know what you think in the comments below! 💬 #Linkspread #PostReactions #FeedbackWelcome
+
 ### 12.05.2023 (announcement Linkspreed.com)
 - 🚀👩‍🚀👨‍🚀 New futuristic design alert! Our team has just launched the updated Linkspreed.com website and it looks like it came straight from the future 🔮🌌 What do you think of our new look? Drop us a comment and let us know if you preferred our old design. #Linkspreed #FuturisticDesign #Feedback 🤔
 
