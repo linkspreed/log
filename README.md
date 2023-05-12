@@ -2,6 +2,61 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.05.2023 (announcement LinkLab)
+- 🎉 We're thrilled to announce that v24.0.0 of LinkLab now provides all users - existing and new - with FREE access to our API system, complete with extensive documentation 📚 #API #DeveloperTools
+Have you explored our API system yet? What features are you most excited to try out? 🤔
+
+### 13.05.2023 (announcement Plop)
+- 🎉 Big news! 🎉 We are thrilled to announce that the latest version of Plop, v24.0.0, is now offering its API system FOR FREE to all users! 🤩📚 And guess what? We've prepared a comprehensive documentation to guide you through every step! 📑💻📝 Ready to explore? 🌟 #PlopAPI #FreeForAll #TechTuesday 💻👨‍💻👩‍💻 Have you tried Plop's API system before? Let us know in the comments! ⬇️👀
+
+### 13.05.2023 (announcement LinkLab)
+- 🎉 We are thrilled to announce the successful launch of version 24.0.0 for LinkLab! 🚀 This is a major step forward before we venture into monetization. Have you tried the new version yet? Let us know what you think! #LinkLab #techupdate 💻
+
+### 13.05.2023 (announcement Plop)
+- 🚀 Exciting news! We are proud to announce the successful launch of version 24.0.0 for Plop before taking the step towards monetization in the future.🎉 What are your thoughts on this latest update? Let us know in the comments below! #PlopUpdate #SoftwareLaunch #ProductDevelopment
+
+### 13.05.2023 (announcement LinkLab)
+-  https://github.com/linkspreed/LinkLab/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 13.05.2023 (announcement LinkLab)
+- The launch of version 24.0.0 of **LinkLab** was successful! 🥳
+- The new update is live now :)
+- https://linklab.ga 🔗
+
+### 13.05.2023 (announcement LinkLab)
+- We are now starting the launch of v24.0.0.
+
+### 13.05.2023 (announcement LinkLab)
+- The servers are now ready for the launch of version 24.0.0 for **LinkLab**.
+
+### 13.05.2023 (announcement LinkLab)
+- The code is now ready for the launch of version 24.0.0 for **LinkLab**.
+
+### 13.05.2023 (announcement LinkLab)
+-  **LinkLab** gets a big update today - we are going to launch v24.0.0 . 😍
+
+### 13.05.2023 (announcement Plop)
+-  https://github.com/linkspreed/Plop/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 13.05.2023 (announcement Plop)
+- The launch of version 24.0.0 of **Plop ** was successful! 🥳
+- The new update is live now :)
+- https://plop.tk 🔗
+
+### 13.05.2023 (announcement Plop)
+- We are now starting the launch of v24.0.0 .
+
+### 13.05.2023 (announcement Plop)
+- The servers are now ready for the launch of version 24.0.0 for **Plop**.
+
+### 13.05.2023 (announcement Plop)
+- The code is now ready for the launch of version 24.0.0 for **Plop**.
+
+### 13.05.2023 (announcement Plop)
+-  **Plop** gets a big update today - we are going to launch v24.0.0 . 😍
+
 ### 12.05.2023 (announcement ForJu)
 - 🚨 Exciting news, folks! 🔥 We've resolved the Post Reactions issue on ForJu and just released the new Reactions! 💥 What do you think about the new ones? ❤️😂😢😡👏 #ForJu #PostReactions #FeedbackNeeded 🤔
 
