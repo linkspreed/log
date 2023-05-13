@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.05.2023 (announcement Linkspreed Franchise)
+- 🚀👀 Working hard on the Linkspreed franchise system today and wrapping up development on the landing page for the big release! What kind of franchises would you love to see under the Linkspreed umbrella? 🤔 #FranchiseGoals #Entrepreneurship #ExcitingThingsToCome
+
 ### 13.05.2023 (announcement Linkspreed.com)
 - 🎉🚀The whole Linkspreed team is thrilled to announce the full redesign of our platform! 🔥 Say goodbye to the old design you can still find on Seedspreed. We'll continue developing it and keeping it archived on our servers. But for now, enjoy a social network straight from the future! 🌟 #Linkspreed #Redesign #SocialMedia
 - https://github.com/linkspreed/General_Linkspreed/assets/102324985/81170e2f-d709-45ce-8487-56fad6dbd881
