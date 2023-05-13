@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.05.2023 (announcement Linkspreed Franchise)
+- 🎉🚀 We've got some exciting news! The Linkspreed Franchise website is officially live! 🙌🏼 Check it out at https://franchise.linkspreed.com/ and stay tuned for more announcements and documentation. 🔍 Have you explored the website yet? What do you think of it? #LinkspreedFranchise #FranchiseLaunch #WebsiteRelease
+
 ### 13.05.2023 (announcement Linkspreed Franchise)
 - 🚀👀 Working hard on the Linkspreed franchise system today and wrapping up development on the landing page for the big release! What kind of franchises would you love to see under the Linkspreed umbrella? 🤔 #FranchiseGoals #Entrepreneurship #ExcitingThingsToCome
 
