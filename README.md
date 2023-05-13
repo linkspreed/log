@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.05.2023 (announcement Seedspreed)
+- 🎉Great news!🎉 We've fixed the issue with Seedspreed's landing page🚀, it was incompatible with the new v4.2 version.💻 In the meantime, we've swapped it out with the old landing page from Linkspreed.com🌐. Have you already checked it out❓ #Seedspreed #Linkspreed #landingpage #updates
+
 ### 13.05.2023 (announcement LinkLab)
 - 🎉 We're thrilled to announce that v24.0.0 of LinkLab now provides all users - existing and new - with FREE access to our API system, complete with extensive documentation 📚 #API #DeveloperTools
 Have you explored our API system yet? What features are you most excited to try out? 🤔
