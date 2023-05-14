@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.05.2023 (announcement Linkspreed.com)
+- 📢 Attention! We're excited to announce our new platform internal notifications! From now on, you'll receive all platform updates through notifications@linkspreed.com 📨 Please note that this is a change and do not reply to these emails as they're not monitored by us. Have you updated your notification settings yet? #LinkspreedUpdates #PlatformNotifications 💬
+
 ### 14.05.2023 (announcement Linkspreed Franchise)
 - 🎉🚀 We've got some exciting news! The Linkspreed Franchise website is officially live! 🙌🏼 Check it out at https://franchise.linkspreed.com/ and stay tuned for more announcements and documentation. 🔍 Have you explored the website yet? What do you think of it? #LinkspreedFranchise #FranchiseLaunch #WebsiteRelease
 
