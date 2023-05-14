@@ -2,10 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 14.05.2023 (announcement Linkspreed Snoogie)
+### 14.05.2023 (announcement Snoogie)
 - 👀 Big news! Tonight we're monetizing Biospreed and Snoogie! 🎉 With your support, we can keep the innovation coming at Linkspreed Research Lab. 🔥 Get ready for some amazing new platforms and updates. Are you excited for what's to come? #Linkspreed #Innovation #PremiumPlans 💰
 
-### 14.05.2023 (announcement Linkspreed Biospreed)
+### 14.05.2023 (announcement Biospreed)
 - 👀 Big news! Tonight we're monetizing Biospreed and Snoogie! 🎉 With your support, we can keep the innovation coming at Linkspreed Research Lab. 🔥 Get ready for some amazing new platforms and updates. Are you excited for what's to come? #Linkspreed #Innovation #PremiumPlans 💰
 
 ### 14.05.2023 (announcement Linkspreed NearFS)
