@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.05.2023 (announcement Linkspreed NearFS)
+- 🚀 We're thrilled to announce our latest Github repo: Linkspreed_NearFS! 📂🔗 This distributed file system is fully compatible with IPFS and runs as a backend on the NEAR blockchain. 💻💪 Have you been looking for a reliable decentralized storage solution? Let us know! #Linkspreed #IPFS #NEARprotocol #DistributedStorage 🤔 What other blockchain-based applications are you excited to see in action?
+- https://github.com/linkspreed/Linkspreed_NearFS
+
 ### 14.05.2023 (announcement Linkspreed.com)
 - 📢 Attention! We're excited to announce our new platform internal notifications! From now on, you'll receive all platform updates through notifications@linkspreed.com 📨 Please note that this is a change and do not reply to these emails as they're not monitored by us. Have you updated your notification settings yet? #LinkspreedUpdates #PlatformNotifications 💬
 
