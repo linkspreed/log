@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.05.2023 (announcement ls_LLM_Search)
+- 🎉 Exciting news! 🎉 The Linkspreed Research Lab has just released a new Open Source LLM Search Engine! 🚀 Check it out on GitHub: https://github.com/linkspreed/ls_LLM_Search. 🔍 Have you tried it yet? What do you think? #opensource #LLMsearch #researchquestion
+
 ### 16.05.2023 (announcement Linkspreed Franchise)
 - 👀 Exciting news for entrepreneurs! We're now operating the distribution of Linkspreed Franchise and preparing to launch. 👨‍💼💼 Interested in becoming a franchise owner? Contact marc.herdina@linkspreed.com. 🙌 Who's ready to be their own boss? #franchise #entrepreneurship 💼👨‍
 
