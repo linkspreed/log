@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.05.2023 (announcement Linkspreed Franchise)
+- 👀👉 Hey there #franchise enthusiasts! You know what's 🔥hot🔥 right now? The one and only Linkspreed Franchise Program!👍 We're all about it and diving deeper into it every single day. What about you? Have you checked it out? 🤔 #LinkspreedFranchise #business #entrepreneur 🤝⬇️ Drop your thoughts below! ⬇️👇
+
 ### 16.05.2023 (announcement ls_LLM_Search)
 - 🎉 Exciting news! 🎉 The Linkspreed Research Lab has just released a new Open Source LLM Search Engine! 🚀 Check it out on GitHub: https://github.com/linkspreed/ls_LLM_Search. 🔍 Have you tried it yet? What do you think? #opensource #LLMsearch #researchquestion
 
