@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.05.2023 (announcement Linkspreed Franchise)
+- 👀 Exciting news for entrepreneurs! We're now operating the distribution of Linkspreed Franchise and preparing to launch. 👨‍💼💼 Interested in becoming a franchise owner? Contact marc.herdina@linkspreed.com. 🙌 Who's ready to be their own boss? #franchise #entrepreneurship 💼👨‍
+
 ### 15.05.2023 (announcement)
 - 🚀💻 Today has been all about improving our products! We've been hard at work developing new updates and platforms to boost their quality. But what new features would YOU love to see? Comment below! #TechUpdates #ProductDevelopment 🤔
 
