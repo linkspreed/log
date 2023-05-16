@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.05.2023 (announcement)
+- 🚀💻 Today has been all about improving our products! We've been hard at work developing new updates and platforms to boost their quality. But what new features would YOU love to see? Comment below! #TechUpdates #ProductDevelopment 🤔
+
 ### 14.05.2023 (announcement Snoogie)
 - 👀 Big news! Tonight we're monetizing Biospreed and Snoogie! 🎉 With your support, we can keep the innovation coming at Linkspreed Research Lab. 🔥 Get ready for some amazing new platforms and updates. Are you excited for what's to come? #Linkspreed #Innovation #PremiumPlans 💰
 
