@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.05.2023 (announcement Linkspreed Office)
+- 🚀👨‍💼👩‍💼We're thrilled to keep developing Linkspreed Office, a free tool for companies as a workspace. Have you tried it yet? What features do you think would make it even more awesome? 🔧💻 #Linkspreed #OfficeTools #Entrepreneurship
+
 ### 16.05.2023 (announcement Linkspreed Franchise)
 - 👀👉 Hey there #franchise enthusiasts! You know what's 🔥hot🔥 right now? The one and only Linkspreed Franchise Program!👍 We're all about it and diving deeper into it every single day. What about you? Have you checked it out? 🤔 #LinkspreedFranchise #business #entrepreneur 🤝⬇️ Drop your thoughts below! ⬇️👇
 
