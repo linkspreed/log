@@ -1,6 +1,9 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ...#
+## All changes that we will make from 12.07.2022 will appear here ...
+
+### 17.05.2023 (announcement Contribution)
+- 🎨👩‍💻🔧 We've been working hard on a new and improved version of our platform, Contribution. It's all about helping small businesses and startups succeed in the business world 🌍💪 Do you think it could be a great addition to the franchise family? Let us know! #contribution #smallbusiness #startup #entrepreneurship
 
 ### 17.05.2023 (announcement Linkspreed Office)
 - 📢We're excited to share that we're still working on Linkspreed Office improvements, but we're also exploring how it can be integrated into our franchise system! 🌟Do you have any suggestions or ideas on how it can be implemented? 💭#Linkspreed #Franchise #Improvements
