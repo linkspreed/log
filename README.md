@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.05.2023 (announcement Linkspreed Franchise)
+- 👨‍💼👩‍💼📝👨‍🏫📚👨‍💻 Our team is pushing forward with #Linkspreed Franchise! 💼🤝 We're currently drafting a contract to welcome future partners and planning demos, webinars, and trainings to establish the perfect Franchise Family. 🤝💪 What valuable lessons have you learned from joining/partnering with a franchise? #entrepreneurship #smallbusiness
+
 ### 17.05.2023 (announcement Contribution)
 - 🎨👩‍💻🔧 We've been working hard on a new and improved version of our platform, Contribution. It's all about helping small businesses and startups succeed in the business world 🌍💪 Do you think it could be a great addition to the franchise family? Let us know! #contribution #smallbusiness #startup #entrepreneurship
 
