@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.05.2023 (announcement Netavark)
+- Attention Netavark users! 🙌 We'll soon upgrade to version 4.2.1! 🎉 This update addresses reported bugs🐛 in the source code! Our team has worked hard to fix it, so expect a more stable experience!😄 Any particular feature you're excited about? Let us know! #Netavark #Update #BugFixes ❤️🎉🔥
+
+### 18.05.2023 (announcement Seedspreed)
+- 🌱🐛 Exciting news! We'll be releasing version 4.2.1 for Seedspreed in the next few hours 🎉 We squashed some pesky bugs that were reported by our amazing community! 🙌 What do you love most about Seedspreed? Let us know in the comments below! #seedspreed #bugfixes #communitylove
+
+### 18.05.2023 (announcement ForJu)
+- Hey, ForJu fans! 🎉 We've got some awesome news coming your way! 🚀 Our latest version 4.2.1 is about to drop and we've fixed 🛠️ some of the bugs you've reported! How excited are you? 😍 #ForJu #BugFixes #NewRelease
+
+### 18.05.2023 (announcement Linkspreed.com)
+- 🎉 Heads up! We'll be rolling out version 4.2.1 of Linkspreed.com in the next few hours, which includes fixes for bugs reported by you! 🐛 Our team has been working hard to make sure you have the best user experience. What's your favorite feature on Linkspreed.com? #Linkspreed #BugFix #UserExperience 🤔
+
 ### 18.05.2023 (announcement Linkspreed Office)
 - 👨‍💻👩‍💼 We're constantly working on improving Linkspreed Office! 💻💪 In fact, we are trying out several new solutions that we think you'll love. 🤔 Which features would you like to see added next? Let us know! #office #productivity #innovate
 
