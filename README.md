@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.05.2023 (announcement Linkspreed.com)
+- 📱🚀 Have you ever used Linkspreed on your mobile device? 🤔 Did you know that you can now download the Linkspreed APK APP by simply clicking on the notification that appears at the bottom left of your screen? 🔥 This feature is exclusively available on small screens and compatible only with Android devices. #Linkspreed #APK #MobileUsage 💻 Are you excited to try it out?
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/d3368d77-fede-48fe-bfeb-e7efd8aad6ee
+
 ### 19.05.2023 (announcement Connected)
 - 📢 We are thrilled to announce that we have updated our decentralized social network Connected to the latest version v4.2.1 🎉 Join us to experience the improved performance and enhanced features! 🙌 Have you downloaded the update yet? #ConnectedUpdate #DecentralizedNetwork 💻📱
 
