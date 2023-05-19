@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.05.2023 (announcement Connected)
+- 🔁 We're updating our decentralized social network Connected from version 4.1.5 to v4.2 and then to v4.2.1 today! 📱💻 Have you tried Connected yet? 💬 Let us know in the comments! #decentralized #socialnetwork #updatenow
+
 ### 19.05.2023 (announcement Netavark)
 - 📢 Hey Netavark users! We just released version 4.2.1 🎉 It includes bug fixes reported by you! 🐛 Check out the patch notes on GitHub 🔍 What's your favorite new feature? Let us know in the comments below 👇 #Netavark #Version421 #Update #BugFixes
 
