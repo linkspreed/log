@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.05.2023 (announcement Linkspreed Office)
+- 👨‍💻👩‍💻 We're still hard at work on Linkspreed Office and the 2 parallel options we're developing for it! What do you think these options could be? 🤔 #LinkspreedOffice #InnovativeSolutions #BrainstormingWednesday
+
 ### 19.05.2023 (announcement Linkspreed.com)
 - 📱🚀 Have you ever used Linkspreed on your mobile device? 🤔 Did you know that you can now download the Linkspreed APK APP by simply clicking on the notification that appears at the bottom left of your screen? 🔥 This feature is exclusively available on small screens and compatible only with Android devices. #Linkspreed #APK #MobileUsage 💻 Are you excited to try it out?
 - https://github.com/linkspreed/General_Linkspreed/assets/102324985/d3368d77-fede-48fe-bfeb-e7efd8aad6ee
