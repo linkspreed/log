@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.05.2023 (announcement)
+- 👨‍💻👩‍💻 Today was all about coding! We worked on lots of code blocks that'll be used in upcoming updates and platforms. 😎 Which platform are YOU most excited to see our code in? 🤔 #codinglife #updates #futuretech
+
 ### 19.05.2023 (announcement Linkspreed Franchise)
 - 🚀👨‍💼 Exciting news! We're continuing to develop our Linkspreed franchise system. Are you interested in becoming a part of our growing network? Let us know in the comments! #franchise #businessgrowth 💼🌟
 
