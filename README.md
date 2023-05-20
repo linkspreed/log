@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.05.2023 (announcement Linkspreed Franchise)
+- 🚀😎Exciting news from the #Linkspreed team!💪🏼 We're working tirelessly on improving our franchise system for all of our partners!👨‍👩‍👧‍👦😍 What do you look for in a successful franchise?🤔 #BusinessGoals #FranchiseOpportunities #Entrepreneurship
+
 ### 20.05.2023 (announcement)
 - 👨‍💻📊 We are developing our own software for bookkeeping to avoid relying on expensive solutions. And for you, we're creating a SaaS version where you can access our bookkeeping software for free! What features do you want to see in our software? 🤔 #bookkeeping #software #SaaS #free
 
