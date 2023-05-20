@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.05.2023 (announcement)
+- 👨‍💻📊 We are developing our own software for bookkeeping to avoid relying on expensive solutions. And for you, we're creating a SaaS version where you can access our bookkeeping software for free! What features do you want to see in our software? 🤔 #bookkeeping #software #SaaS #free
+
+### 20.05.2023 (announcement)
 - 🌍💰🤑Have you ever wondered about international tax laws for franchises?🤔 Our team is heavily focused on navigating these complex issues. Let's chat about it! #internationaltax #franchising #doyouknowyourtaxes 🤔
 
 ### 20.05.2023 (announcement)
