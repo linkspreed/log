@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.05.2023 (announcement Linkspreed Franchise)
+- We're cooking up something big for our franchise system! 👀🍔 Can you guess what it might be? Comment below with your ideas! #FranchiseGrowth #ComingSoon #HintHint 🤫 Who's ready for the big reveal?
+
 ### 20.05.2023 (announcement Linkspreed Franchise)
 - 🚀😎Exciting news from the #Linkspreed team!💪🏼 We're working tirelessly on improving our franchise system for all of our partners!👨‍👩‍👧‍👦😍 What do you look for in a successful franchise?🤔 #BusinessGoals #FranchiseOpportunities #Entrepreneurship
 
