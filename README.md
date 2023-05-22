@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.05.2023 (announcement Linkspreed Franchise)
+- 🎉Exciting news! We've submitted a profile on FranchiseUNIVERSUM for our franchise system. Can't wait for our first franchisees to join us! Have you ever considered opening a franchise? Let us know in the comments 😊 #FranchiseOpportunities #BusinessGrowth 💼
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/278ebf30-be3a-4b94-8bf2-a3caf8a923c1
+
 ### 22.05.2023 (announcement Linkspreed)
 - 👀🚀 #ExcitingNews! We're thrilled to announce that we're working on new updates and platforms that will be release in the following weeks! Which updates are you most looking forward to? 😍👨‍💻 #NewFeatures #StayTuned #Interactive #QuestionOfTheDay
 
