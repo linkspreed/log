@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.05.2023 (announcement)
+- 👨‍💻👩‍💼📈 We're diving into creating our own accounting software! Have any must-have features in mind? Share your thoughts with us in the comments below! 💭 #accounting #softwaredevelopment #smallbusiness #entrepreneurship
+
+### 22.05.2023 (announcement Linkspreed Office)
+- 🚀 Big news from the Linkspreed team! We've designed a solid plan separating our video communication platform from our beloved Linkspreed office. Are you excited for the future of our tech? #Linkspreed #Office #VideoComm #TechNews 💭 What do you think the separation will mean for our users? Let us know!
+
 ### 22.05.2023 (announcement Linkspreed Franchise)
 - 🎉Exciting news! We've submitted a profile on FranchiseUNIVERSUM for our franchise system. Can't wait for our first franchisees to join us! Have you ever considered opening a franchise? Let us know in the comments 😊 #FranchiseOpportunities #BusinessGrowth 💼
 - https://github.com/linkspreed/General_Linkspreed/assets/102324985/278ebf30-be3a-4b94-8bf2-a3caf8a923c1
