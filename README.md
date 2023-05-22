@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.05.2023 (announcement Linkspreed)
+- 👀🚀 #ExcitingNews! We're thrilled to announce that we're working on new updates and platforms that will be release in the following weeks! Which updates are you most looking forward to? 😍👨‍💻 #NewFeatures #StayTuned #Interactive #QuestionOfTheDay
+
+### 22.05.2023 (announcement Linkspreed Franchise)
+- 🎬 Lights, camera, action! 🎥 We’re excited to report that our team is hard at work on expanding the Linkspreed Franchise! 🙌🏼 What kind of franchise would you like to see from us? Let us know in the comments below! #Linkspreed #Franchise #Expansion 🎉
+
 ### 21.05.2023 (announcement Linkspreed Franchise)
 - We're cooking up something big for our franchise system! 👀🍔 Can you guess what it might be? Comment below with your ideas! #FranchiseGrowth #ComingSoon #HintHint 🤫 Who's ready for the big reveal?
 
