@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.05.2023 (announcement Franchise)
+- 🎉🤝 Our team has been hard at work refining the Linkspreed Franchise! 🚀🙌 What are your favorite franchise experiences? Are there any cool new features you're hoping to see in Linkspreed? Let us know in the comments! #goodnews #franchiseupdate #gamingcommunity 🎮🕹️👾
+
 ### 23.05.2023 (announcement BioX)
 - 👨‍💻👩‍💼💼💰💻📚 We're still working hard on developing our own accounting software! 💻📈 What features do you think are most important in financial software? #accounting #tech #business #softwaredevelopment 🤔
 
