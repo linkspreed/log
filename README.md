@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.05.2023 (announcement BioX)
+- 🔬💻👨‍🔬 We're hard at work on Biox 3.0.3 and can't wait to share it with you all! What new features are you hoping to see in this latest version? #Biox #SoftwareUpdate #Tech #Science 🤖🧬
+
 ### 23.05.2023 (announcement Linkspreed Office)
 - 👀 Hey folks, have you checked out the new Linkspreed Office online? 🔗 We're still working hard to develop and improve it, so stay tuned for even more exciting updates! 🤩💻 Have you used it yet? What's your favorite feature so far? #LinkspreedOffice #OnlineWorking 💡
 
