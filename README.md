@@ -3,6 +3,36 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.05.2023 (announcement BioX)
+- 👨‍💻👩‍💼💼💰💻📚 We're still working hard on developing our own accounting software! 💻📈 What features do you think are most important in financial software? #accounting #tech #business #softwaredevelopment 🤔
+
+### 23.05.2023 (announcement BioX)
+- 🌟 Exciting news coming soon! We're planning to release a Github repository for BioX within the next few days, where you can easily check all the patch notes. 📝 Are you excited to take a closer look? 🤔 #BioX #Github #PatchNotes #ExcitingNews
+
+### 23.05.2023 (announcement BioX)
+- 🌿👨‍💻📈 Exciting news! We're proud to announce that BioX Version 3.0.3 is now available online. 🎉🚀 What new features are you most excited to try out? #BioX #Version3point0point3 #NewFeatures #Biology #Genetics #Research 💻🧬🔬
+
+### 23.05.2023 (announcement BioX)
+- https://github.com/linkspreed/BioX/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 23.05.2023 (announcement BioX)
+- The launch of version 3.0.3 of **BioX** was successful! 🥳
+- The new update is live now :)
+- https://biox.ga 🔗
+
+### 23.05.2023 (announcement BioX)
+- We are now starting the launch of v3.0.3.
+
+### 23.05.2023 (announcement BioX)
+- The servers are now ready for the launch of version 3.0.3 for **BioX**.
+
+### 23.05.2023 (announcement BioX)
+- The code is now ready for the launch of version 3.0.3 for **BioX**.
+
+### 23.05.2023 (announcement BioX)
+-  **BioX** gets a big update today - we are going to launch v3.0.3. 😍
+
+### 23.05.2023 (announcement BioX)
 - 🔬💻👨‍🔬 We're hard at work on Biox 3.0.3 and can't wait to share it with you all! What new features are you hoping to see in this latest version? #Biox #SoftwareUpdate #Tech #Science 🤖🧬
 
 ### 23.05.2023 (announcement Linkspreed Office)
