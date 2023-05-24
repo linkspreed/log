@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.05.2023 (announcement BioX)
+- 🎉👀 Our system just got an upgrade! BioX now has an integrated Google Safe Browsing API to keep you safe from cyber attacks 🔒💻 How important is online safety to you? #cybersecurity #onlinesafety #internetsecurity 🤔
+
+### 24.05.2023 (announcement BioX)
 - 👨‍💻👩‍💻 We are busy bee-ing on the backend and some features of BioX! 💡 Have you used our app before?🤔 Let us know what you think in the comments below! 👇 #BioX #softwaredevelopment #appdevelopment #tech #feedback welcome! 🤗
 
 ### 24.05.2023 (announcement BioX)
