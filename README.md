@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.05.2023 (announcement BioX)
+- 👨‍💻👩‍💻 Exciting update! We're currently working on the Github Repository for BioX. 🌱🧬 Are you interested in contributing to our open-source project? Let us know! #BioX #OpenSource #Github #Contribute 🤝 What kind of BioX features would you like to see in our repository?
+
+### 24.05.2023 (announcement BioX)
+- 🌿We're planting big ideas for our #BioX platform! 🚀Our team is working hard to create the ultimate platform for bio and short links!🤓 Want to join our mission and make your links stand out even more? Let's grow together!👊 What features would you like to see on #BioX?🤔
+
 ### 24.05.2023 (announcement Franchise)
 - 🎉🤝 Our team has been hard at work refining the Linkspreed Franchise! 🚀🙌 What are your favorite franchise experiences? Are there any cool new features you're hoping to see in Linkspreed? Let us know in the comments! #goodnews #franchiseupdate #gamingcommunity 🎮🕹️👾
 
