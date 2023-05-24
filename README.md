@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.05.2023 (announcement BioX)
+- 👨‍💻👩‍💻 We are busy bee-ing on the backend and some features of BioX! 💡 Have you used our app before?🤔 Let us know what you think in the comments below! 👇 #BioX #softwaredevelopment #appdevelopment #tech #feedback welcome! 🤗
+
+### 24.05.2023 (announcement BioX)
+- 🌱🔬🤖 Breaking news: Our Github Repository for BioX is now live! Check it out here: 👉 https://github.com/linkspreed/BioX 👈 Tell us, what features would you like to see in future updates? #biotech #opensource #AI #coding #innovation #feedbackwelcome
+
+### 24.05.2023 (announcement BioX)
 - 👨‍💻👩‍💻 Exciting update! We're currently working on the Github Repository for BioX. 🌱🧬 Are you interested in contributing to our open-source project? Let us know! #BioX #OpenSource #Github #Contribute 🤝 What kind of BioX features would you like to see in our repository?
 
 ### 24.05.2023 (announcement BioX)
