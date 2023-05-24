@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.05.2023 (announcement BioX)
+- 🎉👨‍💻🚀 Exciting news! We've completed all backend developments for BioX. 🌱🌻🌿 Have you noticed the new platform features? Let us know which ones you love the most! #BioX #backenddevelopments #platformfeatures 💬
+
+### 24.05.2023 (announcement BioX)
 - 🎉🚀🔥 Attention BioX community! We have a new feature - you can now sign in with your Google account 🙌🏽🎉 Super easy and quick. Have you tried it yet? Share your experience with us #BioX #GoogleSignIn 🤔 Did it work smoothly for you?
 
 ### 24.05.2023 (announcement BioX)
