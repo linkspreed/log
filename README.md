@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.05.2023 (announcement BioX)
+- 🎉🚀🔥 Attention BioX community! We have a new feature - you can now sign in with your Google account 🙌🏽🎉 Super easy and quick. Have you tried it yet? Share your experience with us #BioX #GoogleSignIn 🤔 Did it work smoothly for you?
+
+### 24.05.2023 (announcement BioX)
 - 🎉👀 Our system just got an upgrade! BioX now has an integrated Google Safe Browsing API to keep you safe from cyber attacks 🔒💻 How important is online safety to you? #cybersecurity #onlinesafety #internetsecurity 🤔
 
 ### 24.05.2023 (announcement BioX)
