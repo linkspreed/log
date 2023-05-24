@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.05.2023 (announcement Pixly)
+- We've just released Pixly v3.0.4, a major update with a new user interface, improved performance, and new tools for editing photos. ✨
+https://github.com/linkspreed/Pixly
+
+### 24.05.2023 (announcement Pixly)
 - We're excited to announce that we're now working on a GitHub repository for Pixly! 🎉 This will make it easier for everyone to contribute to the project and help us make Pixly even better. Stay tuned for more updates! 📸 #Pixly #OpenSource #GitHub
 
 ### 24.05.2023 (announcement Pixly)
