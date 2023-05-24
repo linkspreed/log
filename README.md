@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.05.2023 (announcement Linkspreed Office)
+- We're hard at work on Linkspreed Office, the future of productivity! 👷‍♂️👷‍♀️ Stay tuned for more updates soon. 👀 #LinkspreedOffice #productivity #officetools 💻📄
+
 ### 24.05.2023 (announcement Pixly)
 - We've just released Pixly v3.0.4, a major update with a new user interface, improved performance, and new tools for editing photos. ✨
 https://github.com/linkspreed/Pixly
