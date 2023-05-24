@@ -8,6 +8,27 @@
 ### 24.05.2023 (announcement Pixly)
 - Pixly v3.0.4 is here! 🎉 This update includes new filters, improved performance, and bug fixes. What are you most excited about in this update? 📸 #Pixly #PhotoEditing #AppUpdates
 
+### 23.05.2023 (announcement Pixly)
+- https://github.com/linkspreed/Pixly/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 23.05.2023 (announcement Pixly)
+- The launch of version 3.0.4 of **Pixly** was successful! 🥳
+- The new update is live now :)
+- https://pixly.tk 🔗
+
+### 23.05.2023 (announcement Pixly)
+- We are now starting the launch of v3.0.4.
+
+### 23.05.2023 (announcement Pixly)
+- The servers are now ready for the launch of version 3.0.4 for **Pixly**.
+
+### 23.05.2023 (announcement Pixly)
+- The code is now ready for the launch of version 3.0.4 for **Pixly**.
+
+### 23.05.2023 (announcement Pixly)
+-  **Pixly** gets a big update today - we are going to launch v3.0.4. 😍
+
 ### 24.05.2023 (announcement Pixly)
 - 🎨🌐Exciting news for all the photo lovers out there! We're currently working on a small update for our free, accountless image editor in the browser, Pixly.👩‍🎨📸What feature are you most excited to see in the upcoming update? #PixlyUpdate #ImageEditingMadeEasy 💻🖱️
 
