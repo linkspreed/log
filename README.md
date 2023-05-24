@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.05.2023 (announcement Pixly)
+- 🎨🌐Exciting news for all the photo lovers out there! We're currently working on a small update for our free, accountless image editor in the browser, Pixly.👩‍🎨📸What feature are you most excited to see in the upcoming update? #PixlyUpdate #ImageEditingMadeEasy 💻🖱️
+
 ### 24.05.2023 (announcement BioX)
 - 🎉👨‍💻🚀 Exciting news! We've completed all backend developments for BioX. 🌱🌻🌿 Have you noticed the new platform features? Let us know which ones you love the most! #BioX #backenddevelopments #platformfeatures 💬
 
