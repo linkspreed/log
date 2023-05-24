@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.05.2023 (announcement Pixly)
+- We're excited to announce that we're now working on a GitHub repository for Pixly! 🎉 This will make it easier for everyone to contribute to the project and help us make Pixly even better. Stay tuned for more updates! 📸 #Pixly #OpenSource #GitHub
+
+### 24.05.2023 (announcement Pixly)
+- Pixly v3.0.4 is here! 🎉 This update includes new filters, improved performance, and bug fixes. What are you most excited about in this update? 📸 #Pixly #PhotoEditing #AppUpdates
+
+### 24.05.2023 (announcement Pixly)
 - 🎨🌐Exciting news for all the photo lovers out there! We're currently working on a small update for our free, accountless image editor in the browser, Pixly.👩‍🎨📸What feature are you most excited to see in the upcoming update? #PixlyUpdate #ImageEditingMadeEasy 💻🖱️
 
 ### 24.05.2023 (announcement BioX)
