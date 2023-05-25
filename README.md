@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.05.2023 (announcement)
+- 📢 Attention all marketing gurus! 📢 We're thrilled to announce that we're currently planning two brand new platforms in the SaaS realm that will run on WhatsApp and potentially even SMS! 😍 Are you as excited as we are? Stay tuned as we have some super cool projects in the works just for you! 🤩 #SaaS #WhatsAppMarketing #SMSMarketing
+
 ### 25.05.2023 (announcement Contribution)
 - 🚀 Big news! We're currently working on a major update for our startup platform Contribution! 💻📈 Want to know what new features we're bringing to the table? Stay tuned! 🔥 #ContributionPlatform #StartupNews
 
