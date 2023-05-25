@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.05.2023 (announcement Contribution)
+- 🚀 Big news! We're currently working on a major update for our startup platform Contribution! 💻📈 Want to know what new features we're bringing to the table? Stay tuned! 🔥 #ContributionPlatform #StartupNews
+
 ### 25.05.2023 (announcement Linkspreed Franchise)
 - 📣 Today marks the start of our mission to find partners for Linkspreed Franchise! 🌟 Want to join the team? Shoot us an email at marc.herdina@linkspreed.com and let's talk business! 💼 Who's excited to be part of our growing community? #LinkspreedFranchise #JoinTheTeam 💪🏼
 
