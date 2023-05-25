@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.05.2023 (announcement BioX)
+- Hey guys! 👋 Have you heard? We're currently testing some functions on our BioX platform 🌱💻 We're so excited about the potential these could bring! 🤩 Have you tested it out yet? 🧐 Tell us what you think in the comments! #BioX #testing #innovation 🚀
+
 ### 25.05.2023 (announcement Linkspreed Office)
 - 🚨 Exciting news, folks! The official Linkspreed Office Repository is now live on Github at https://github.com/linkspreed/Linkspreed_Office 🎉👩‍💻👨‍💻 Access our latest features, updates, and more. Have you checked it out yet? #Linkspreed #OpenSource #OfficeRepository 💼
 
