@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.05.2023 (announcement Linkspreed Franchise)
+- 📣 Today marks the start of our mission to find partners for Linkspreed Franchise! 🌟 Want to join the team? Shoot us an email at marc.herdina@linkspreed.com and let's talk business! 💼 Who's excited to be part of our growing community? #LinkspreedFranchise #JoinTheTeam 💪🏼
+
 ### 25.05.2023 (announcement BioX)
 - 🎉🚀 BIG NEWS! 🚀🎉 Our team has automatically assigned Free & Unlimited access to all users on BioX! Whether you're a new or existing user, you can now enjoy unlimited access to all resources.🙌 👉👉 Have you checked out the latest additions to our platform? 
 
