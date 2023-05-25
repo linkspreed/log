@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.05.2023 (announcement BioX)
+- 🎉🚀 BIG NEWS! 🚀🎉 Our team has automatically assigned Free & Unlimited access to all users on BioX! Whether you're a new or existing user, you can now enjoy unlimited access to all resources.🙌 👉👉 Have you checked out the latest additions to our platform? 
+
+### 25.05.2023 (announcement BioX)
 - Hey guys! 👋 Have you heard? We're currently testing some functions on our BioX platform 🌱💻 We're so excited about the potential these could bring! 🤩 Have you tested it out yet? 🧐 Tell us what you think in the comments! #BioX #testing #innovation 🚀
 
 ### 25.05.2023 (announcement Linkspreed Office)
