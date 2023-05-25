@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.05.2023 (announcement Linkspreed Office)
+- 🚀 Exciting news! We're creating a Github repository for Linkspeed Office! 🎉 Stay tuned for updates on our progress and be sure to let us know what features you'd like to see in the repository 👀 #GitHub #LinkspeedOffice #OpenSource 💻 What kind of resources do you want to see in our Github repo?
+
+### 25.05.2023 (announcement Linkspreed Office)
+- 🎉🚀 Exciting news! We've temporarily halted development on Linkspreed office because it's NOW LIVE at https://office.linkspreed.com! Stay tuned for more announcements coming in the following weeks! Have you tried Linkspreed Office yet? Let us know! 💻🤔 #LinkspreedOffice #ProductLaunch
+
+### 25.05.2023 (announcement Linkspreed Office)
 - 👷‍♀️👷‍♂️Our team is putting in the work to improve Linkspreed office and we can't wait to share the updates with you! What are some of your favorite features in a great workspace? #officegoals #architecture #designthinking
 
 ### 25.05.2023 (announcement Linkspreed Franchise)
