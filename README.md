@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.05.2023 (announcement)
+- 🚀 We're working hard on TWO new platforms that will be insanely useful for everyone in WhatsApp and SMS marketing. Get ready for some awesome features that we're going to show off - FOR FREE! 💸 But we want to know: What features do you think are essential in a good marketing platform? Let us know in the comments below! 👇 #marketing #digitalmarketing #SMSmarketing #WhatsAppmarketing #platforms
+
+### 25.05.2023 (announcement)
 - 📢 Attention all marketing gurus! 📢 We're thrilled to announce that we're currently planning two brand new platforms in the SaaS realm that will run on WhatsApp and potentially even SMS! 😍 Are you as excited as we are? Stay tuned as we have some super cool projects in the works just for you! 🤩 #SaaS #WhatsAppMarketing #SMSMarketing
 
 ### 25.05.2023 (announcement Contribution)
