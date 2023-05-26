@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 25.05.2023 (announcement [Machine Learning])
+### 26.05.2023 (announcement Start2Up)
+- 👨‍💻👩‍💻🌟 Our team is currently conducting tests on our Start2Up platform, which we're planning to enhance in the future.🚀🔥 Are you excited for the new changes? What features would you like to see added? #Start2Up #BetaTesting #TechUpdate
+
+### 26.05.2023 (announcement [Machine Learning])
 - 🤖🧠 Exciting news! We're currently working on some amazing #MachineLearning solutions for our users. 🚀 What kind of ML solutions would you like to see? Share your ideas with us in the comments below! #AI #innovation
 
 ### 25.05.2023 (announcement)
