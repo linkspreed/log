@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.05.2023 (announcement ShareNode)
+- 🚀Exciting news! ShareNode has successfully passed a rigorous testing phase over the past few weeks. We're thrilled to announce that we are now offering it as a franchise opportunity! 😍But, for now, it won't be available as a standalone solution. What franchise opportunities are you most interested in? #ShareNode #Franchising #Opportunities ⚡️
+
 ### 27.05.2023 (announcement Linkspreed Deepmind)
 - 🤖🧠 Exciting news coming tomorrow! We're announcing the launch of #Linkspreed Deepmind in our social media post. But today, we're already diving into our new #machinelearning project! What do you think the future holds for AI? 🤔 #AI #tech #innovation
 
