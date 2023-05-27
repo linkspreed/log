@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.05.2023 (announcement Linkspreed Deepmind)
+- 🤖🧠 Exciting news coming tomorrow! We're announcing the launch of #Linkspreed Deepmind in our social media post. But today, we're already diving into our new #machinelearning project! What do you think the future holds for AI? 🤔 #AI #tech #innovation
+
 ### 26.05.2023 (announcement Start2Up)
 - 👨‍💻👩‍💻🌟 Our team is currently conducting tests on our Start2Up platform, which we're planning to enhance in the future.🚀🔥 Are you excited for the new changes? What features would you like to see added? #Start2Up #BetaTesting #TechUpdate
 
