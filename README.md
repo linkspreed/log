@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.05.2023 (announcement Teamly)
+- 🚀 We're excited to share that we're currently building Teamly - a beta version of our business software! 🎉 This tool will help us manage our franchise partners and streamline our overall Linkspreed operations. 🔍 Once complete, we'll be offering it to B2B customers. 💻 Can't wait to see the impact it'll have! Have you ever used a business management software? #Teamly #Linkspreed #B2B #BusinessManagement #BetaSoftware
+
 ### 28.05.2023 (announcement)
 - 🤔📈💻 Our team is hard at work developing a new accounting software. Even though we don't have a name yet, we have a crystal-clear vision! Stay tuned for updates. #accounting #software #innovation
 
