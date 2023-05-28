@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.05.2023 (announcement)
+- 🤔📈💻 Our team is hard at work developing a new accounting software. Even though we don't have a name yet, we have a crystal-clear vision! Stay tuned for updates. #accounting #software #innovation
+
 ### 28.05.2023 (announcement Linkspreed B2B)
 - 📝🤝🏢 Our B2B product portfolio is getting a revamp! We're defining what we offer to better serve businesses. 🚀 What products would you like to see from us? #B2B #BusinessGrowth #ProductDevelopment
 
