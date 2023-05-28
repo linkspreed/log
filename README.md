@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.05.2023 (announcement Linkspreed B2B)
+- 📝🤝🏢 Our B2B product portfolio is getting a revamp! We're defining what we offer to better serve businesses. 🚀 What products would you like to see from us? #B2B #BusinessGrowth #ProductDevelopment
+
+### 28.05.2023 (announcement Linkspreed B2B)
 - 🚀👨‍💼 We are thrilled to share that we are expanding our B2B systems at Linkspreed! Over the next few months, we'll be rolling out new features and updates to better serve our clients. 🔥 Stay tuned for exciting announcements! What B2B features would you like to see? #Linkspreed #B2B #Innovation
 
 ### 27.05.2023 (announcement ShareNode)
