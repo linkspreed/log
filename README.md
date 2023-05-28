@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.05.2023 (announcement Linkspreed B2B)
+- 🚀👨‍💼 We are thrilled to share that we are expanding our B2B systems at Linkspreed! Over the next few months, we'll be rolling out new features and updates to better serve our clients. 🔥 Stay tuned for exciting announcements! What B2B features would you like to see? #Linkspreed #B2B #Innovation
+
 ### 27.05.2023 (announcement ShareNode)
 - 🚀Exciting news! ShareNode has successfully passed a rigorous testing phase over the past few weeks. We're thrilled to announce that we are now offering it as a franchise opportunity! 😍But, for now, it won't be available as a standalone solution. What franchise opportunities are you most interested in? #ShareNode #Franchising #Opportunities ⚡️
 
