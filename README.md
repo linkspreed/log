@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.05.2023 (announcement Linkspreed B2B)
+- 🚀👨‍💼👩‍💼Exciting news on the horizon! We're expanding our B2B product portfolio and can't wait to share with you all the innovative solutions we have in store. What type of B2B products are you most interested in? Let us know in the comments below! #B2B #productlaunch #innovation 🤔
+
 ### 29.05.2023 (announcement Teamy)
 - 🎉 Exciting news! 🎉 Our project Teamy is now on Cloudflare and connected to Google Search Console. 🌎🔒🔎 Have you tried it out yet? Let us know what you think! #webdevelopment #cloudflare #google #teamy 💻🌐👨🏽‍💻
 
