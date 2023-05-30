@@ -2,7 +2,7 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 29.05.2023 (announcement Qizz)
+### 30.05.2023 (announcement Qizz)
 - 🚀 Our team is hard at work on our platform, Qizz! 💪🏼 We can't wait to bring you an exciting experience filled with quizzes, challenges, and rewards 🎉 Who else is pumped to test their knowledge and win big?! 🔍 #Qizz #Trivia #ChallengeAccepted 🤔
 
 ### 29.05.2023 (announcement Linkspreed B2B)
