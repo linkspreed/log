@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.05.2023 (announcement Qizz)
+- 🎉🚀 Great News! Our platform Qizz is now connected to Cloudflare infrastructure and added to Google Search Console! 🔍👨‍💻 Have you tried Qizz yet? What's your experience? #cloudflare #googlesearchconsole #onlinetesting #quiz #interactivelearning 🤔💡
+
+### 30.05.2023 (announcement Qizz)
 - 🎉 Big news! Qizz has just revealed their new logo/icon! 🎨 It may look familiar as it was already on the old platform, but we're so excited to see it in action again. What do you think of the new design? 😍 #Qizz #newlogo #excitingtimes
 
 ### 30.05.2023 (announcement Qizz)
