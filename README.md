@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.05.2023 (announcement Qizz)
+- 🎉 Big news! Qizz has just revealed their new logo/icon! 🎨 It may look familiar as it was already on the old platform, but we're so excited to see it in action again. What do you think of the new design? 😍 #Qizz #newlogo #excitingtimes
+
+### 30.05.2023 (announcement Qizz)
 - 🚨 Big news, folks! You can now use your Google account to log in or sign up to Qizz! 🎉 No more forgetting passwords or spending time on registration forms. 👍 Have you given it a try yet? Let us know your thoughts! 💭 #GoogleSignIn #QizzTrivia #OnlineQuiz
 
 ### 30.05.2023 (announcement Qizz)
