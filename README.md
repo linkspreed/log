@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.05.2023 (announcement)
+- 🚀Exciting news!🚀 We've been hard at work developing new and innovative platforms for you👨‍💻. And we're still working on updates for our current platform to make it even better!💪 What kind of new features are you hoping for? Share your ideas with us in the comments!👇 #innovation #platforms #updates 🌟
+
 ### 30.05.2023 (announcement Qizz)
 - 🚀 Our team is hard at work on our platform, Qizz! 💪🏼 We can't wait to bring you an exciting experience filled with quizzes, challenges, and rewards 🎉 Who else is pumped to test their knowledge and win big?! 🔍 #Qizz #Trivia #ChallengeAccepted 🤔
 
