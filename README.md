@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.05.2023 (announcement Qizz)
+- 🎉📩🤝 Exciting update! Our team has successfully linked the SMTP server with Qizz! Now, you can send emails from the platform itself. 🚀📧💪 Have you tried it yet? How has your experience been? #QizzSMTP #EmailMarketing #GrowYourBusiness
+
+### 30.05.2023 (announcement Qizz)
 - 🚀👨‍💻We're busy working on #Qizz - our online quiz platform!📚🎓 With Qizz, you'll be able to test your knowledge 🧠 and create your own quizzes to share with friends and compete 🎮 with each other! Are you excited to start creating quizzes of your own?🤔 #quiz #learning 🤔
 
 ### 30.05.2023 (announcement)
