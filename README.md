@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.05.2023 (announcement Qizz)
+- 🚀👨‍💻We're busy working on #Qizz - our online quiz platform!📚🎓 With Qizz, you'll be able to test your knowledge 🧠 and create your own quizzes to share with friends and compete 🎮 with each other! Are you excited to start creating quizzes of your own?🤔 #quiz #learning 🤔
+
 ### 30.05.2023 (announcement)
 - 🚀Exciting news!🚀 We've been hard at work developing new and innovative platforms for you👨‍💻. And we're still working on updates for our current platform to make it even better!💪 What kind of new features are you hoping for? Share your ideas with us in the comments!👇 #innovation #platforms #updates 🌟
 
