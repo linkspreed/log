@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 28.05.2023 (announcement Linkspreed B2B)
+### 29.05.2023 (announcement Qizz)
+- 🚀 Our team is hard at work on our platform, Qizz! 💪🏼 We can't wait to bring you an exciting experience filled with quizzes, challenges, and rewards 🎉 Who else is pumped to test their knowledge and win big?! 🔍 #Qizz #Trivia #ChallengeAccepted 🤔
+
+### 29.05.2023 (announcement Linkspreed B2B)
 - 🚀👨‍💼👩‍💼Exciting news on the horizon! We're expanding our B2B product portfolio and can't wait to share with you all the innovative solutions we have in store. What type of B2B products are you most interested in? Let us know in the comments below! #B2B #productlaunch #innovation 🤔
 
 ### 29.05.2023 (announcement Teamy)
