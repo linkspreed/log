@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 31.05.2023 (announcement)
+- 📊💻 After a long day of sales, we're diving back into our accounting software and developing a new SaaS solution! 💡 What features would you love to see in a cloud-based accounting software? #smallbusiness #accounting #SaaS
+
+### 31.05.2023 (announcement)
 - 👨‍💻 We're continuing to develop our accounting software to make it truly independent of other providers! 💳 What features do you value most in accounting software? #accounting #software #development 💬
 
 ### 31.05.2023 (announcement Qizz)
