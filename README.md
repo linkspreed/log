@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.05.2023 (announcement)
+- 👨‍💻 We're continuing to develop our accounting software to make it truly independent of other providers! 💳 What features do you value most in accounting software? #accounting #software #development 💬
+
+### 31.05.2023 (announcement Qizz)
+- 🎉 Big announcement! 🎉 We've officially finished the development of Qizz until the next update! 🚀 Get ready for the new Qizz, launching on June 2nd on social media! 🔥 Don't forget to check out https://qizz.cf for more! 💻 Have you played Qizz before? What's your favorite category? 🤔 #Qizz #newupdate #comingsoon #interactive #quizgame
+
 ### 31.05.2023 (announcement Qizz)
 - 🚨 We're conducting a HUGE internal test on the Qizz platform to make sure everything runs smoothly before release day! 🔍👨‍💻🧐 Want to be a part of our testing crew? Reply with a 💥emoji! #QizzTesting #GameOn #TechTesters #JoinTheCrew
 
