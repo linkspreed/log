@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.05.2023 (announcement Quika)
+- 🎉 Big news, folks! We've finally named our accounting software - say hello to Quika! 🤑💰 But before we start popping the champagne, we want to know - what are some of the most important features you look for in accounting software? #Quika #AccountingMadeEasy 💻📈
+
 ### 31.05.2023 (announcement)
 - 📊💻 After a long day of sales, we're diving back into our accounting software and developing a new SaaS solution! 💡 What features would you love to see in a cloud-based accounting software? #smallbusiness #accounting #SaaS
 
