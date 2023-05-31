@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.05.2023 (announcement Qizz)
+- 🚨 We're conducting a HUGE internal test on the Qizz platform to make sure everything runs smoothly before release day! 🔍👨‍💻🧐 Want to be a part of our testing crew? Reply with a 💥emoji! #QizzTesting #GameOn #TechTesters #JoinTheCrew
+
 ### 30.05.2023 (announcement Qizz)
 - 🎉🚀 Great News! Our platform Qizz is now connected to Cloudflare infrastructure and added to Google Search Console! 🔍👨‍💻 Have you tried Qizz yet? What's your experience? #cloudflare #googlesearchconsole #onlinetesting #quiz #interactivelearning 🤔💡
 
