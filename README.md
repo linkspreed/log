@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.06.2023 (announcement Quika)
+- 🎉Quika's new logo and icon are finally here! 🚀👀 We're thrilled to unveil our fresh new look. What do you think? 🤔Let us know in the comments below! #Quika #branding #newlook 👀
+
+### 01.06.2023 (announcement Quika)
 - 🎨💻 Currently working on designing the logo and icon for Quika! Can't wait to see it come to life. What design elements do YOU think make a great logo? #Quika #Design #LogoDesign 🤔
 
 ### 01.06.2023 (announcement Linkspreed B2B)
