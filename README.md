@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.06.2023 (announcement Quika)
+- Our team is dedicated to improving the Quika software to provide you with the best experience! 💻👨‍💻👩‍💻  #QuikaUpdates #SoftwareDevelopment 🤔
+
+### 01.06.2023 (announcement Linkspreed B2B)
+- We're expanding our B2B portfolio even further! 💼💻 Are you a business looking for innovative solutions? Let us know which areas you're interested in! #B2B #expansion #innovation 🤔 What's one challenge you've faced in your business that you wish you had a better solution for?
+
+### 01.06.2023 (announcement Linkspreed B2B)
+- 👨‍💻👩‍💼💼📈 We are busy expanding our comprehensive B2B portfolio! Exciting times are ahead for our business partners 👀🤩What kind of services or products are you looking for to optimize your business? Let's chat! #B2B #portfolio #businessgrowth #collaboration
+
 ### 31.05.2023 (announcement Quika)
 - 🎉 Big news, folks! We've finally named our accounting software - say hello to Quika! 🤑💰 But before we start popping the champagne, we want to know - what are some of the most important features you look for in accounting software? #Quika #AccountingMadeEasy 💻📈
 
