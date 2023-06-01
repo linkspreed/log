@@ -2,6 +2,102 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.06.2023 (announcement Ples)
+- 🎉 Hot off the press: Ples just launched Version 3.0.1 of our video streaming platform! 🚀 What new features are you most excited to try out? 🔍 #PlesVideo #VideoStreaming #NewRelease
+
+### 01.06.2023 (announcement Shortcut)
+- 🎉📺 Shortcut just released Version 3.0.1 of our video streaming platform! 🚀🙌 Have you updated yet? What feature are you most excited about? #ShortcutStreaming #Update #VideoStreaming 🎥
+
+### 01.06.2023 (announcement Streamvalley)
+- 🎥🌊 Exciting news! We just released version 3.0.1 for #Streamvalley, our video streaming platform. Experience faster load times and smoother playback. Have you updated yet? Let us know in the comments! #videostreaming #techupdate 💻👀
+
+### 01.06.2023 (announcement Showit)
+- 📣 Attention all streamers! 🎥📺 We just released version 3.0.1 of Showit, our top-notch video streaming platform! 🚀💻 What new features are you most excited to try out? Let us know in the comments below! 👇 #Showit #VideoStreaming #UpgradeAlert
+
+### 01.06.2023 (announcement Ples)
+- https://github.com/linkspreed/Ples/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 01.06.2023 (announcement Ples)
+- The launch of version 3.0.1 of **Ples** was successful! 🥳
+- The new update is live now :)
+- https://ples.ml 🔗
+
+### 01.06.2023 (announcement Ples)
+- We are now starting the launch of v3.0.1.
+
+### 01.06.2023 (announcement Ples)
+- The servers are now ready for the launch of version 3.0.1 for **Ples**.
+
+### 01.06.2023 (announcement Ples)
+- The code is now ready for the launch of version 3.0.1 for **Ples**.
+
+### 01.06.2023 (announcement Ples)
+-  **Ples** gets a big update today - we are going to launch v3.0.1. 😍
+
+### 01.06.2023 (announcement Shortcut)
+- https://github.com/linkspreed/Shortcut/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 01.06.2023 (announcement Shortcut)
+- The launch of version 3.0.1 of **Shortcut** was successful! 🥳
+- The new update is live now :)
+- https://shortcut.tk 🔗
+
+### 01.06.2023 (announcement Shortcut)
+- We are now starting the launch of v3.0.1.
+
+### 01.06.2023 (announcement Shortcut)
+- The servers are now ready for the launch of version 3.0.1 for **Shortcut**.
+
+### 01.06.2023 (announcement Shortcut)
+- The code is now ready for the launch of version 3.0.1 for **Shortcut**.
+
+### 01.06.2023 (announcement Shortcut)
+-  **Shortcut** gets a big update today - we are going to launch v3.0.1. 😍
+
+### 01.06.2023 (announcement Showit)
+- https://github.com/linkspreed/Showit/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 01.06.2023 (announcement Showit)
+- The launch of version 3.0.1 of **Showit** was successful! 🥳
+- The new update is live now :)
+- https://showit.tk 🔗
+
+### 01.06.2023 (announcement Showit)
+- We are now starting the launch of v3.0.1.
+
+### 01.06.2023 (announcement Showit)
+- The servers are now ready for the launch of version 3.0.1 for **Showit**.
+
+### 01.06.2023 (announcement Showit)
+- The code is now ready for the launch of version 3.0.1 for **Showit**.
+
+### 01.06.2023 (announcement Showit)
+-  **Showit** gets a big update today - we are going to launch v3.0.1. 😍
+
+### 01.06.2023 (announcement Streamvalley)
+- https://github.com/linkspreed/Streamvalley/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 01.06.2023 (announcement Streamvalley)
+- The launch of version 3.0.1 of **Streamvalley** was successful! 🥳
+- The new update is live now :)
+- https://streamvalley.tk 🔗
+
+### 01.06.2023 (announcement Streamvalley)
+- We are now starting the launch of v3.0.1.
+
+### 01.06.2023 (announcement Streamvalley)
+- The servers are now ready for the launch of version 3.0.1 for **Streamvalley**.
+
+### 01.06.2023 (announcement Streamvalley)
+- The code is now ready for the launch of version 3.0.1 for **Streamvalley**.
+
+### 01.06.2023 (announcement Streamvalley)
+-  **Streamvalley** gets a big update today - we are going to launch v3.0.1. 😍
+
 ### 01.06.2023 (announcement Showit)
 - 👨‍💻💻👩‍💼 We're currently working on the newest version, 3.0.1, of Showit - our amazing video streaming platform! 🎥🤩 What features would you like to see added or improved in this new version? #Showit #Streaming #Video #Update 🙌🏽
 
