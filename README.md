@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.06.2023 (announcement)
+- 👀📱🤖 Exciting news! We're planning a new project that will be offered as a franchise. Introducing our automated WhatsApp marketing tool for SaaS businesses! 🚀 What are your thoughts on using WhatsApp for marketing? #WhatsappMarketing #SaaS #FranchiseOpportunity
+
 ### 01.06.2023 (announcement Ples)
 - 🎉 Hot off the press: Ples just launched Version 3.0.1 of our video streaming platform! 🚀 What new features are you most excited to try out? 🔍 #PlesVideo #VideoStreaming #NewRelease
 
