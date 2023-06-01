@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.06.2023 (announcement Quika)
+- 🎉 Hooray! 🎉 We’ve added Quika to our Cloudflare Network and Google Search Console! 😍 Our website is now faster and optimized for search engines. 🔍 Have you heard of Quika before? 💭 Let us know in the comments! #cloudflare #googlesearchconsole #websiteoptimization
+
+### 01.06.2023 (announcement Quika)
 - 🎉Quika's new logo and icon are finally here! 🚀👀 We're thrilled to unveil our fresh new look. What do you think? 🤔Let us know in the comments below! #Quika #branding #newlook 👀
 
 ### 01.06.2023 (announcement Quika)
