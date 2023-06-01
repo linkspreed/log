@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 01.06.2023 (announcement)
+### 01.06.2023 (announcement Botchat)
+- 🚀 Exciting news from our team! We're thrilled to announce our newest project, Botchat - an automated WhatsApp marketing tool offered as a franchise in the SaaS industry. 💬📈 Any marketing experts out there interested in jumping on board? 
+
+### 01.06.2023 (announcement Botchat)
 - 👀📱🤖 Exciting news! We're planning a new project that will be offered as a franchise. Introducing our automated WhatsApp marketing tool for SaaS businesses! 🚀 What are your thoughts on using WhatsApp for marketing? #WhatsappMarketing #SaaS #FranchiseOpportunity
 
 ### 01.06.2023 (announcement Ples)
