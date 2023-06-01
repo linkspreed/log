@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.06.2023 (announcement Quika)
+- 🎨💻 Currently working on designing the logo and icon for Quika! Can't wait to see it come to life. What design elements do YOU think make a great logo? #Quika #Design #LogoDesign 🤔
+
 ### 01.06.2023 (announcement Linkspreed B2B)
 - 🚀 Exciting news! 🔥 We’re expanding our B2B software product line-up! 🙌🏼 What features do you think we should focus on? 🤔 #B2B #Software #ProductDevelopment 💻
 
