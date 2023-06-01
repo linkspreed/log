@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.06.2023 (announcement Linkspreed B2B)
+- 🚀 Exciting news! 🔥 We’re expanding our B2B software product line-up! 🙌🏼 What features do you think we should focus on? 🤔 #B2B #Software #ProductDevelopment 💻
+
+### 01.06.2023 (announcement Quika)
+- 🚀 Our team is hard at work developing the Quika software! 💻💪 Are you excited to see what new features we'll be bringing to the table? Let us know! #QuikaSoftware #DevelopmentInProgress 🤔 What features are you hoping to see in the next update?
+
 ### 01.06.2023 (announcement Quika)
 - Our team is dedicated to improving the Quika software to provide you with the best experience! 💻👨‍💻👩‍💻  #QuikaUpdates #SoftwareDevelopment 🤔
 
