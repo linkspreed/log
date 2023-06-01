@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.06.2023 (announcement Showit)
+- 👨‍💻💻👩‍💼 We're currently working on the newest version, 3.0.1, of Showit - our amazing video streaming platform! 🎥🤩 What features would you like to see added or improved in this new version? #Showit #Streaming #Video #Update 🙌🏽
+
+### 01.06.2023 (announcement Shortcut)
+- 🎥🚀 Exciting news! We're currently working on version 3.0.1 for Shortcut, our video streaming platform.👨‍💻 What new features would you like to see added? #Shortcut #VideoStreaming #Upgrade #NewFeatures 🤔
+
+### 01.06.2023 (announcement Ples)
+- 🚀🤖👨‍💻 We're currently working on version 3.0.1 for Ples! 🙌 Have you tried our latest updates yet? Let us know your feedback in the comments below! 🤔 #PlesMigration #PlesSupport
+
+### 01.06.2023 (announcement Streamvalley)
+- 🚀 Exciting news, folks! 🔥 We're currently in the works of version 3.0.1 for Streamvalley 🎉 Stay tuned for the latest updates and improvements on our platform. 🤔 What features are you looking forward to the most? Share with us below! #Streamvalley #SoftwareUpdate #ExcitingNews
+
 ### 01.06.2023 (announcement Quika)
 - 🎉 Hooray! 🎉 We’ve added Quika to our Cloudflare Network and Google Search Console! 😍 Our website is now faster and optimized for search engines. 🔍 Have you heard of Quika before? 💭 Let us know in the comments! #cloudflare #googlesearchconsole #websiteoptimization
 
