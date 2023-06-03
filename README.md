@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.06.2023 (announcement Linkspreed B2B)
+- 📈 Our B2B tool collection is growing by the day! We currently have over 20 tools, but we're aiming to hit 200... or possibly even more! Which tool are you excited to see in our expanded lineup? 🤔 #B2BTools #ProductExpansion #WhatWillBeNext
+
+### 03.06.2023 (announcement Linkspreed B2B)
 - 📢 Hey, friends! Great news from our team. We're busy expanding our B2B product range to cater to your business needs. From innovative software solutions to latest hardware techs, we're crafting products that'll help you thrive. #B2B #ProductPortfolio #Innovation #BusinessGrowth
 
 ### 03.06.2023 (announcement Botchat)
