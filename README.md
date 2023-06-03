@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.06.2023 (announcement Botchat)
+- 🚀🤖📱 Exciting news! We're working hard on our new project #Botchat, the ultimate #WhatsApp marketing tool for businesses. 🤑💰💯 Who else is excited to level up their marketing game? #digitalmarketing #chatbots #automation
+
 ### 03.06.2023 (announcement Quika)
 - 🚀 Hey everyone, exciting news - we're currently running some tests on the Quika platform to make sure it's rock solid! 🌟 Have any of you tried Quika? What are your thoughts so far? Let us know! #QuikaTesting #FeedbackWelcome 😄
 
