@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.06.2023 (announcement Linkspreed Deepmind)
+- 🔬🧠🚀 Our team is making amazing progress on #Linkspreed Deepmind! Excited to see where this technology will take us in the future 🌟 Have you had any experiences with AI that blew your mind? Share them with us in the comments below! 💬 #AI #MachineLearning #Technology
+
 ### 03.06.2023 (announcement Botchat)
 - 👋 Hey there! We love the look of the Botchat frontend! 😍 But we all know that the backend is where the true challenges lie! 💪 #BackendDevelopment #Botchat #WebDevelopment 🌐
 
