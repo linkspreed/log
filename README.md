@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.06.2023 (announcement Botchat)
+- 🤖💬📱 Exciting news! We're using Node.js for our Botchat project on our personal WhatsApp server! Who else is experimenting with Node.js for their chatbots? Let's connect! #Nodejs #Chatbot #Botchat
+
 ### 03.06.2023 (announcement Linkspreed Deepmind)
 - 🔬🧠🚀 Our team is making amazing progress on #Linkspreed Deepmind! Excited to see where this technology will take us in the future 🌟 Have you had any experiences with AI that blew your mind? Share them with us in the comments below! 💬 #AI #MachineLearning #Technology
 
