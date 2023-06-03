@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.06.2023 (announcement Linkspreed B2B)
+- 📢 Hey, friends! Great news from our team. We're busy expanding our B2B product range to cater to your business needs. From innovative software solutions to latest hardware techs, we're crafting products that'll help you thrive. #B2B #ProductPortfolio #Innovation #BusinessGrowth
+
 ### 03.06.2023 (announcement Botchat)
 - 🤖💬📱 Exciting news! We're using Node.js for our Botchat project on our personal WhatsApp server! Who else is experimenting with Node.js for their chatbots? Let's connect! #Nodejs #Chatbot #Botchat
 
