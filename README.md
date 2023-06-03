@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.06.2023 (announcement Quika)
+- 🚀 Hey everyone, exciting news - we're currently running some tests on the Quika platform to make sure it's rock solid! 🌟 Have any of you tried Quika? What are your thoughts so far? Let us know! #QuikaTesting #FeedbackWelcome 😄
+
 ### 03.06.2023 (announcement Linkspreed Deepmind)
 - 🌟🤖 Our team is busy developing a new addition to our #MachineLearning tool collection: Linkspreed Deepmind! 👨‍💻👩‍💻 Stay tuned for updates on this exciting project! What other ML tools are you curious about? #AI #DataScience #Tech #Innovation 🤔
 
