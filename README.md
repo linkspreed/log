@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.06.2023 (announcement Botchat)
+- 👋 Hey there! We love the look of the Botchat frontend! 😍 But we all know that the backend is where the true challenges lie! 💪 #BackendDevelopment #Botchat #WebDevelopment 🌐
+
+### 03.06.2023 (announcement Botchat)
 - 🚀🤖📱 Exciting news! We're working hard on our new project #Botchat, the ultimate #WhatsApp marketing tool for businesses. 🤑💰💯 Who else is excited to level up their marketing game? #digitalmarketing #chatbots #automation
 
 ### 03.06.2023 (announcement Quika)
