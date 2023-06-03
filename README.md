@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.06.2023 (announcement Linkspreed Deepmind)
+- 🌟🤖 Our team is busy developing a new addition to our #MachineLearning tool collection: Linkspreed Deepmind! 👨‍💻👩‍💻 Stay tuned for updates on this exciting project! What other ML tools are you curious about? #AI #DataScience #Tech #Innovation 🤔
+
+### 02.06.2023 (announcement)
+- 🌟 Our creativity knows no bounds! 💡 Today, we spent the day brainstorming and coming up with innovative solutions. What's the most creative idea you've come up with recently? Share with us in the comments below! #Creativity #Innovation #ThinkOutsideTheBox 🤔
+
 ### 01.06.2023 (announcement Botchat)
 - 🚀 Exciting news from our team! We're thrilled to announce our newest project, Botchat - an automated WhatsApp marketing tool offered as a franchise in the SaaS industry. 💬📈 Any marketing experts out there interested in jumping on board? 
 
