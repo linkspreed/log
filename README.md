@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.06.2023 (announcement)
+- 🔬💻🚀 The Linkspreed Research Lab has been diving deep into NodeJS lately for possible updates and to provide platforms with NodeJS. We're making great strides! Have you used NodeJS before? What has been your experience? #NodeJS #WebDevelopment #TechUpdate
+
 ### 03.06.2023 (announcement Linkspreed B2B)
 - 📈 Our B2B tool collection is growing by the day! We currently have over 20 tools, but we're aiming to hit 200... or possibly even more! Which tool are you excited to see in our expanded lineup? 🤔 #B2BTools #ProductExpansion #WhatWillBeNext
 
