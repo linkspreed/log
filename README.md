@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.06.2023 (announcement Linkspreed B2B)
+- 🚀👩‍💻Just had an awesome day at the office learning more about B2B solutions and attending a webinar!💡👨‍💼We are excited to bring our ideas to companies!👏💼What do you think are the most crucial aspects of B2B products?🤔 #B2Bproducts #webinar #businesssolutions
+
+### 04.06.2023 (announcement Linkspreed Oxygen)
+- 🔬🌐👨‍💻 Exciting update! Our team is working round the clock to perfect Linkspreed Oxygen, our very own browser. 🚀 What features would you love to see in a browser? #LinkspreedOxygen #BrowserUpdate #WebBrowsing #TechTalk
+
 ### 04.06.2023 (announcement)
 - 🔬💻🚀 The Linkspreed Research Lab has been diving deep into NodeJS lately for possible updates and to provide platforms with NodeJS. We're making great strides! Have you used NodeJS before? What has been your experience? #NodeJS #WebDevelopment #TechUpdate
 
