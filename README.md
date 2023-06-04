@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.06.2023 (announcement)
+- 🎉🤪 We're constantly running fun and insane tests with NodeJS! What's the craziest test you've ever run in your career? Share with us! #NodeJS #testing #funwithcode
+
 ### 04.06.2023 (announcement Botchat)
 - 🤖🧑‍💻🔍 #Botchat is progressing steadily! We're conducting some midterm tests to check its capabilities. What's your favorite feature in chatbots, and how do you see them adding value to businesses? Let's chat! 💬 #AI #CustomerExperience #TechTrends
 
