@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.06.2023 (announcement Snoogie)
+- 🎉🚨Introducing the brand new Snoogie version 34.0.0 - packed with amazing features🚀🔥 Have you tried it yet?🤔 Share your thoughts with us👇 #Snoogie #NewVersion #UpgradeTime
+
+### 05.06.2023 (announcement Biospreed)
+- 🎉🚀 Our team is thrilled to announce the release of Biospreed Version 34.0.0. 🔥💻 This update includes exciting new features and improvements to enhance your browsing experience. Have you tried it out yet? Let us know what you think! #Biospreed #NewRelease #BrowserUpgrade 🤔💭
+
+### 05.06.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 05.06.2023 (announcement Snoogie)
+- The launch of version 34.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 05.06.2023 (announcement Snoogie)
+- We are now starting the launch of v34.0.0.
+
+### 05.06.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 34.0.0 for **Snoogie**.
+
+### 05.06.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 34.0.0 for **Snoogie**.
+
+### 05.06.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v34.0.0. 😍
+
+### 05.06.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 05.06.2023 (announcement Biospreed)
+- The launch of version 34.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 05.06.2023 (announcement Biospreed)
+- We are now starting the launch of v34.0.0.
+
+### 05.06.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 34.0.0 for **Biospreed**.
+
+### 05.06.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 34.0.0 for **Biospreed**.
+
+### 05.06.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v34.0.0. 😍
+
 ### 04.06.2023 (announcement)
 - 🚀 Get ready for a 𝗕𝗜𝗚 surprise! We're already prepping for our upcoming update, but it won't go live until June 5th. 😱 Can you guess what it could be? 🤔 #UpdateLaunch #ExcitingNews #StayTuned #WhatCouldItBe
 
