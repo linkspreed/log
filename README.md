@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.06.2023 (announcement)
+- 🚀 Get ready for a 𝗕𝗜𝗚 surprise! We're already prepping for our upcoming update, but it won't go live until June 5th. 😱 Can you guess what it could be? 🤔 #UpdateLaunch #ExcitingNews #StayTuned #WhatCouldItBe
+
+### 04.06.2023 (announcement)
 - 🎉🤪 We're constantly running fun and insane tests with NodeJS! What's the craziest test you've ever run in your career? Share with us! #NodeJS #testing #funwithcode
 
 ### 04.06.2023 (announcement Botchat)
