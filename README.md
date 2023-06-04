@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.06.2023 (announcement Botchat)
+- 🤖🧑‍💻🔍 #Botchat is progressing steadily! We're conducting some midterm tests to check its capabilities. What's your favorite feature in chatbots, and how do you see them adding value to businesses? Let's chat! 💬 #AI #CustomerExperience #TechTrends
+
 ### 04.06.2023 (announcement Linkspreed B2B)
 - 🚀👩‍💻Just had an awesome day at the office learning more about B2B solutions and attending a webinar!💡👨‍💼We are excited to bring our ideas to companies!👏💼What do you think are the most crucial aspects of B2B products?🤔 #B2Bproducts #webinar #businesssolutions
 
