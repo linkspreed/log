@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.06.2023 (announcement Gogola)
+- 🚀🎉 We've decided to give Gogola a fresh start with the same functionalities, after its recent poor performance and domain issues. Are you excited for the revamped platform? Drop your thoughts below! #GogolaRelaunch #TechUpdates 💻
+
 ### 05.06.2023 (announcement Share)
 - 🎉 Hey all! Great news - Share platform is back and LIVE 🚀 Check it out at https://share.linkspreed.com! 💻 Are you excited to explore all the amazing features Share has to offer? #SharePlatform #Onlinetools #CollaborateBetter #LetsShareTogether 🤗
 
