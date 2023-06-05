@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.06.2023 (announcement BioX)
+- 🚨BREAKING NEWS🚨 BioX is back online with the new link https://biox.linkspreed.com after Gabon deleted all .ga domains! 🔥💻 Get all the info on updates and new features on Github. Who's excited to use BioX again? #BioX #online #technews 💻🌎
+
+### 05.06.2023 (announcement BioX)
 - 🚨Attention🚨 The first affected website due to Gabon's domain deletion, BioX, will soon be back online! We're taking about an hour to re-implement it into our system. Who else is relieved to hear this news? #GabonDomainShutdown #BioX #ThankfulForUpdates 🙌❤️
 
 ### 05.06.2023 (announcement)
