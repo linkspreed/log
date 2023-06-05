@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.06.2023 (announcement)
+- 🎉🚀Our tools are back online! 💻🔧 We're excited to share that we've overcome the .ga domain issue and our links are now live on the internet! 🌐 Stay tuned for more updates and let us know how we can help you maximize your online presence. 🤔 #onlinetools #domainissue #internetlinks
+
 ### 06.06.2023 (announcement LinkLab)
 - 🚀🌐 Good news! LinkLab is back online and accessible at https://linklab.gq! 💻👨‍💻 Are you ready to explore our platform and connect with fellow professionals? 🔍💬 #LinkLab #Networking #OnlineCommunity #Tech #DigitalTransformation
 
