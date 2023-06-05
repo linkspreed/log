@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.06.2023 (announcement BioX)
+- 🚨Attention🚨 The first affected website due to Gabon's domain deletion, BioX, will soon be back online! We're taking about an hour to re-implement it into our system. Who else is relieved to hear this news? #GabonDomainShutdown #BioX #ThankfulForUpdates 🙌❤️
+
+### 05.06.2023 (announcement)
+- 🚨 IMPORTANT ANNOUNCEMENT 🚨 Due to the recent conflict between Freenom and Gabon, 7 million .ga domains were deleted, including a few of our sites. But don't worry! We'll have them back up and running under a new domain with no data loss. Check out our Github for updates! 
+
 ### 05.06.2023 (announcement Snoogie)
 - 🎉🚨Introducing the brand new Snoogie version 34.0.0 - packed with amazing features🚀🔥 Have you tried it yet?🤔 Share your thoughts with us👇 #Snoogie #NewVersion #UpgradeTime
 
