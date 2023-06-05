@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.06.2023 (announcement Chirp)
+- 📢 Attention bird lovers! 🦜🌳🌞 Chirp platform is back online and better than ever! 🎉👍 Visit us now at https://chirp.linkspreed.com and start chirping with your feathered friends. 🐦🤗 Tell us, what's your favorite bird call? 🤔 #ChirpOnline #TweetWithBirds #FavoriteBirdCall
+
+### 05.06.2023 (announcement Chirp)
+- 🚨 ALERT 🚨 Chirp is currently offline due to the deletion of 7 million TLD domains .ga 😱 But no worries, our team is working hard to get the platform back up and running 💪 Want to stay updated? Check out our Github page for more info 🤓 #ChirpOffline #WorkingHard #StayTuned 
+
 ### 05.06.2023 (announcement Ceal)
 - 🎉 Hey, Ceal is back online! 🚀 Our new URL is → https://ceal.linkspreed.com 😍 Join us on our exciting journey as we continue to offer premium services. How has your experience with Ceal been so far? 🤔 #CealOnline #NewURL #PremiumServices
 
