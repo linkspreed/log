@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.06.2023 (announcement Ceal)
+- 🆕🚨 Ceal platform is temporarily offline due to the deletion of 7 million TLD domains .ga. But our team is working hard to bring the platform back online, better than ever! Check out our Github page for updates and more info.👨‍💻💬 #CealPlatform #Offline #GitHub
+
 ### 05.06.2023 (announcement BioX)
 - 🚨BREAKING NEWS🚨 BioX is back online with the new link https://biox.linkspreed.com after Gabon deleted all .ga domains! 🔥💻 Get all the info on updates and new features on Github. Who's excited to use BioX again? #BioX #online #technews 💻🌎
 
