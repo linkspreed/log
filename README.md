@@ -2,6 +2,30 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.06.2023 (announcement Share)
+- 🎉 Hey all! Great news - Share platform is back and LIVE 🚀 Check it out at https://share.linkspreed.com! 💻 Are you excited to explore all the amazing features Share has to offer? #SharePlatform #Onlinetools #CollaborateBetter #LetsShareTogether 🤗
+
+### 05.06.2023 (announcement Metabox)
+- 🚨 ATTENTION 🚨: Metabox is back online and accessible at https://metabox.linkspreed.com! 💻🙌 Have you tried it out yet? Let us know in the comments! 💬 #Metabox #Linkspreed #OnlineNow #InteractiveTech #JoinTheConversation 🤖👩‍💻👨‍💻
+
+### 05.06.2023 (announcement Rank)
+- 🎉Happy News!🎉 Rank platform is now back online and can be accessed through the domain https://rank.linkspreed.com. 💻 Excited to see what new features they have added.🤔 Have you checked it out yet?👀 #RankPlatform #OnlineAgain #NewFeatures #EngageWithUs
+
+### 05.06.2023 (announcement Toolbox)
+- 🎉🚀 Our favorite platform, Toolbox, is back online and we can all access it now at https://toolbox.linkspreed.com 🤩💻 Don't forget to utilize its helpful features for efficient work! Have you tried it yet? #Toolbox #Productivity #OnlineResources 💡What's your favorite Toolbox feature?
+
+### 05.06.2023 (announcement Share)
+- 🚨IMPORTANT UPDATE🚨 Our platform Share is currently offline due to the deletion of 7 million TLD Domains .ga 😭 Don't worry though, our team is working tirelessly to get things back up and running! 🤞 Stay tuned for updates on our Github page. 
+
+### 05.06.2023 (announcement Metabox)
+- 🚨Attention🚨: Metabox platform is currently offline due to the deletion of 7 million .ga TLD domains. Our team is working to bring the platform back online ASAP. We've posted more info on Github. Any suggestions on how we can improve the platform once it's back up? #Metabox 💻🌐
+
+### 05.06.2023 (announcement Rank)
+- 🚨 ALERT 🚨 Due to the deletion of 7 million TLD domains .ga, our beloved Rank Platform is temporarily offline. Fear not, our team is working hard to get us back up and running. Stay tuned for updates on Github.
+
+### 05.06.2023 (announcement Toolbox)
+- 🚨Attention🚨 Toolbox platform is currently offline due to the deletion of 7 million TLD domains .ga. But fear not, our team is working diligently to bring the platform back online. Stay tuned for updates on our Github.
+
 ### 05.06.2023 (announcement Chirp)
 - 📢 Attention bird lovers! 🦜🌳🌞 Chirp platform is back online and better than ever! 🎉👍 Visit us now at https://chirp.linkspreed.com and start chirping with your feathered friends. 🐦🤗 Tell us, what's your favorite bird call? 🤔 #ChirpOnline #TweetWithBirds #FavoriteBirdCall
 
