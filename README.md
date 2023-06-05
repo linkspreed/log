@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.06.2023 (announcement Ceal)
+- 🎉 Hey, Ceal is back online! 🚀 Our new URL is → https://ceal.linkspreed.com 😍 Join us on our exciting journey as we continue to offer premium services. How has your experience with Ceal been so far? 🤔 #CealOnline #NewURL #PremiumServices
+
+### 05.06.2023 (announcement Ceal)
 - 🆕🚨 Ceal platform is temporarily offline due to the deletion of 7 million TLD domains .ga. But our team is working hard to bring the platform back online, better than ever! Check out our Github page for updates and more info.👨‍💻💬 #CealPlatform #Offline #GitHub
 
 ### 05.06.2023 (announcement BioX)
