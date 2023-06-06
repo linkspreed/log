@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.06.2023 (announcement Oxgen)
+- 👨‍💻🌐🚀 Breaking News: We're developing a One Page Landing page for our Oxygen browser where you can download it on your Windows devices!💻🖱️📲Who's excited to check it out⁉️ #OxygenBrowser #DownloadNow #BrowserExperience #TechiesUnite
+
 ### 06.06.2023 (announcement Botchat)
 - 💻🤖📱 We're still hard at work on BotChat and running some initial basic tests. Have you thought about using a chatbot for your business? 🤔 #chatbot #AI #digitalmarketing
 
