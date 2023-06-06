@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 06.06.2023 (announcement Oxygen)
+- 🎉 Big news, friends! Our beta program's download page is finally ready and we're getting ready to launch the Oxygen page! 🔜 Are you excited about this upcoming release? Let us know in the comments! 🚀 #Oxygen #BetaTesting #Software #Excited #ComingSoon
+
+### 06.06.2023 (announcement Oxygen)
 - 🎉🌐🛠️ We are currently working on the presentation page for the Oxygen browser! You will be able to download the software there too 😍 The page will probably be online tonight already! Are you excited to try out the Oxygen browser? #OxygenBrowser #Download #NewBrowser 🤔💻
 
 ### 06.06.2023 (announcement UpNode)
