@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.06.2023 (announcement UpNode)
+- 🚨Attention!🚨We're currently working tirelessly to bring UpNode back online.👨‍💻👩‍💻 We apologize for any inconvenience caused during this temporary downtime⏳. Have any questions or concerns? Feel free to drop them in the comments below!👇 #UpNode #OnlineAgain #TechIssues❌❎ What's the longest time you've gone without access to an online service?🤔
+
+### 06.06.2023 (announcement Oxygen)
+- 🎉👀 The Oxygen download page is officially on its way! 🔜 Keep an eye out for the new updates and enhancements coming your way. What new features are you hoping to see? 😍 #OxygenBuilder #WebsiteDesign #WebDevelopment 💻🌐
+
 ### 06.06.2023 (announcement Oxygen)
 - 🎉 Big news, friends! Our beta program's download page is finally ready and we're getting ready to launch the Oxygen page! 🔜 Are you excited about this upcoming release? Let us know in the comments! 🚀 #Oxygen #BetaTesting #Software #Excited #ComingSoon
 
