@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.06.2023 (announcement Upnode)
+- 📢 We're excited to announce that UpNode platform is finally making a comeback! 🎉 Our team is working hard on the relaunch - stay tuned for more updates 🔜 Have you ever used UpNode before? What features are you looking forward to the most? #UpNodeReturns #Relaunch
+
 ### 06.06.2023 (announcement)
 - 🎉🚀Our tools are back online! 💻🔧 We're excited to share that we've overcome the .ga domain issue and our links are now live on the internet! 🌐 Stay tuned for more updates and let us know how we can help you maximize your online presence. 🤔 #onlinetools #domainissue #internetlinks
 
