@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.06.2023 (announcement UpNode)
+- 🎉Guess what? UpNode is back, and we're excited to announce that we're back under our old domain! 🙌 Keep an eye out as we work on making some adjustments within the next few days. 👀What new features would you like to see us add to UpNode? 🤔 #UpNode #website #features
+
+### 07.06.2023 (announcement Oxygen)
+- 🌐 Hey guys, we've got some exciting news - You can now download the Oxygen Browser through our official website! 🙌🏼 Check out the link here 👉🏼 https://oxygen.linkspreed.com/ Have you given it a try yet? What do you think? 😍 #oxygenbrowser #downloadnow #webbrowsing #onlinesurfing
+
 ### 06.06.2023 (announcement UpNode)
 - 🚨Attention!🚨We're currently working tirelessly to bring UpNode back online.👨‍💻👩‍💻 We apologize for any inconvenience caused during this temporary downtime⏳. Have any questions or concerns? Feel free to drop them in the comments below!👇 #UpNode #OnlineAgain #TechIssues❌❎ What's the longest time you've gone without access to an online service?🤔
 
