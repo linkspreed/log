@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.06.2023 (announcement Oxygen)
+- 🎉🌐🛠️ We are currently working on the presentation page for the Oxygen browser! You will be able to download the software there too 😍 The page will probably be online tonight already! Are you excited to try out the Oxygen browser? #OxygenBrowser #Download #NewBrowser 🤔💻
+
 ### 06.06.2023 (announcement UpNode)
 - 🚀📈 Exciting news! We're relaunching UpNode today and it will be back online tonight! 💻🌐🙌 Are you as excited as we are? What's your favorite feature of UpNode? Let us know in the comments below! #UpNodeRelaunch #OnlineAgain #InvestingMadeEasy
 
