@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.06.2023 (announcement Botchat)
+- 💻🤖📱 We're still hard at work on BotChat and running some initial basic tests. Have you thought about using a chatbot for your business? 🤔 #chatbot #AI #digitalmarketing
+
 ### 06.06.2023 (announcement Upnode)
 - 📢 We're excited to announce that UpNode platform is finally making a comeback! 🎉 Our team is working hard on the relaunch - stay tuned for more updates 🔜 Have you ever used UpNode before? What features are you looking forward to the most? #UpNodeReturns #Relaunch
 
