@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.06.2023 (announcement UpNode)
+- 👀🚀 UpNode platform is back up and running smoothly! We're putting finishing touches on it for an even better experience 🤩 Have you tried it out yet? What features do you think UpNode should have? #UpNode #PlatformImprovements #TechUpdates
+
+### 07.06.2023 (announcement UpNode)
 - 🎉Guess what? UpNode is back, and we're excited to announce that we're back under our old domain! 🙌 Keep an eye out as we work on making some adjustments within the next few days. 👀What new features would you like to see us add to UpNode? 🤔 #UpNode #website #features
 
 ### 07.06.2023 (announcement Oxygen)
