@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.06.2023 (announcement)
+- 🚧 We're currently working on a subdomain system solution to prepare for the future! 😎 While it might take a bit longer than expected since our team's time is limited during the summer season, we're still pushing forward. 🔨
+
 ### 07.06.2023 (announcement BotChat)
 - 🚀 We're still hard at work on BotChat, our WhatsApp marketing solution! 💬📈 Excited to see the impact it will have on our client's businesses. Have you ever used messaging apps for marketing? Let us know in the comments! #BotChat #WhatsAppMarketing #DigitalMarketing 💻📱
 
