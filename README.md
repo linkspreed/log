@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.06.2023 (announcement Quika)
+- 👋 Hey everyone! Quika is constantly evolving and we're currently running some minor tests on our platform. However, our BETA Version is still available for you to use! Have you already tried it out? Let us know your thoughts and suggestions in the comments below! 💬 #QuikaUpdate #BetaTesting #UserFeedback
+
 ### 07.06.2023 (announcement Joyn)
 - 🚧📲👀 Exciting news! We're currently working on the download landing page for Joyn! 🔜👨‍💻 Are you as excited as we are?
 
