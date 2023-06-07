@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.06.2023 (announcement Oxygen)
+- 🎉 Our team's putting the finishing touches on Oxygen's new landing page! 🚀
+
 ### 07.06.2023 (announcement)
 - 🚧 We're currently working on a subdomain system solution to prepare for the future! 😎 While it might take a bit longer than expected since our team's time is limited during the summer season, we're still pushing forward. 🔨
 
