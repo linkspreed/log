@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.06.2023 (announcement UpNode)
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/937a1473-b830-464f-82fe-61383205fc10
+- 📈 Check out the latest activity statistics on UpNode! We'll be revealing these stats in an upcoming social media post and they're also available on our website. Have you checked them out yet? #UpNode #statistics #dataanalytics 💻📊
+
+### 07.06.2023 (announcement UpNode)
 - 👀🚀 UpNode platform is back up and running smoothly! We're putting finishing touches on it for an even better experience 🤩 Have you tried it out yet? What features do you think UpNode should have? #UpNode #PlatformImprovements #TechUpdates
 
 ### 07.06.2023 (announcement UpNode)
