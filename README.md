@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.06.2023 (announcement Joyn)
+- 🚧📲👀 Exciting news! We're currently working on the download landing page for Joyn! 🔜👨‍💻 Are you as excited as we are?
+
+### 07.06.2023 (announcement Joyn)
+- 🎉🎈 Hey everyone, great news! Joyn, the social network powered by Linkspreed, is back online and fully functioning again! 🚀 Come and connect with old friends, meet new ones and discover exciting content! 🔥👥 Who else is excited to join? #LinkUp #Joyn #SocialMedia 💬
+
+### 07.06.2023 (announcement Joyn)
 - 🛠️ We're working hard on fixing the issue with Joyn! Sorry for any inconvenience caused. 👷‍♂️ Any tips or suggestions on how we can improve our platform's performance? Let us know in the comments! #Joyn #FixingTheIssue #ImprovedPerformance 🚀
 
 ### 07.06.2023 (announcement UpNode)
