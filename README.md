@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.06.2023 (announcement Joyn)
+- 👨‍💻👩‍💻We are busy working on the Joyn website so you can finally download the app! Exciting, right?🎉👍Tell us, have you tried Joyn before?🤔
+
 ### 08.06.2023 (announcement Analytix)
 - 🎉 Exciting News 🎉 We have added Analytix to our subdomain system 🚀 That means that the domain analytix.tk will now redirect to analytix.linkspreed.com 🤝 Rest assured, you can still use everything as before and no data will be lost 💻 Have you checked it out yet⁉️ #Analytix #Linkspreed #Subdomain
 
