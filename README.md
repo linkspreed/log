@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.06.2023 (announcement Analytix)
+- 🎉 Exciting News 🎉 We have added Analytix to our subdomain system 🚀 That means that the domain analytix.tk will now redirect to analytix.linkspreed.com 🤝 Rest assured, you can still use everything as before and no data will be lost 💻 Have you checked it out yet⁉️ #Analytix #Linkspreed #Subdomain
+
+### 08.06.2023 (announcement Airr)
+- 📢 Hey, folks! We have some exciting news to share with you! 🥳 Airr has been added to our subdomain system. ✅ Your favorite http://airr.tk will now redirect you to http://airr.linkspreed.com. 🚀 Keep using it the way you used to! Any queries? Hit us up! 😎 #airr
+
 ### 08.06.2023 (announcement Adseasy)
 - 📣Exciting news! 💥 Our subdomain system now includes Adseasy on adseasy.tk ✨ Redirecting you to adseasy.linkspreed.com - same easy-to-use interface, no data loss. Have you tried Adseasy yet? 🔧 #Adseasy #Linkspreed #EasyToUse #DataSolutions 💻 Any questions?
 
