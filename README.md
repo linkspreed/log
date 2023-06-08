@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.06.2023 (announcement Besave)
+- 🚀🛡️ Exciting news! We just integrated our Besave platform with Cloudflare network to provide faster loading time and enhanced security 🔒🌐. Have you tried it yet? Share your thoughts with us! #Besave #cloudflare #security #fasterloading ⚡️💻
+
+### 08.06.2023 (announcement Articly)
+- 🎉Big announcement!🎉 We've added Articly to our subdomain system!🚀 Starting today, articly.tk will redirect you to articly.linkspreed.com. But don't worry, you can still use the platform as usual.💻 Any questions about the change? Let us know! #Articly #Linkspreed #Subdomain #TechUpdates 😎
+
 ### 08.06.2023 (announcement Joyn)
 - 👨‍💻👩‍💻We are busy working on the Joyn website so you can finally download the app! Exciting, right?🎉👍Tell us, have you tried Joyn before?🤔
 
