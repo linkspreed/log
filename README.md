@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.06.2023 (announcement Adseasy)
+- 📣Exciting news! 💥 Our subdomain system now includes Adseasy on adseasy.tk ✨ Redirecting you to adseasy.linkspreed.com - same easy-to-use interface, no data loss. Have you tried Adseasy yet? 🔧 #Adseasy #Linkspreed #EasyToUse #DataSolutions 💻 Any questions?
+
 ### 07.06.2023 (announcement Oxygen)
 - 🎉 Our team's putting the finishing touches on Oxygen's new landing page! 🚀
 
