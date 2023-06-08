@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.06.2023 (announcement Joyn)
+- 📢 The wait is finally over! 🎉 You can now download the Joyn App, our very own social network, from this link: https://joyn.linkspreed.com/. 📱 Keep an eye out on our social media channels for more exciting updates and sneak peeks in the coming days! 😉
+
 ### 08.06.2023 (announcement Besave)
 - 🚀🛡️ Exciting news! We just integrated our Besave platform with Cloudflare network to provide faster loading time and enhanced security 🔒🌐. Have you tried it yet? Share your thoughts with us! #Besave #cloudflare #security #fasterloading ⚡️💻
 
