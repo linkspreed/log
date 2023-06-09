@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.06.2023 (annoucement Cheezz)
+- 🎉Attention everyone! We have exciting news!🎉 Cheezz has just been added to our subdomain system! 👀👌That means https://cheezz.tk now redirects to https://cheezz.linkspreed.com. Don't worry, nothing changes for you - you can continue to use the platform as usual. Have you tried it out yet? #Cheezz #linkspreed #subdomains #technology 💻🌐
+
+### 09.06.2023 (annoucement Callcloud)
+- 📢 Big news! 🎉 We've just added Callcloud to our subdomain system! 🔗 You'll now be redirected from https://callcloud.cf to https://callcloud.linkspreed.com, but don't worry, everything will remain the same on your end! 🙌🏼 Have you tried Callcloud yet? What do you think? #Callcloud #CloudComputing 💻
+
 ### 09.06.2023 (annoucement B2B)
 - 🎉Exciting news!🎉 We're constantly expanding our product portfolio with various B2B tools🔧 that we can offer to potential clients in the future. Which B2B tools do you think are essential in today's business world? Let us know in the comments! #B2B #ProductPortfolio #BusinessGrowth 🔝
 
