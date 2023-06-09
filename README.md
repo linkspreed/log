@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.06.2023 (annoucement B2B)
+- 🎉Exciting news!🎉 We're constantly expanding our product portfolio with various B2B tools🔧 that we can offer to potential clients in the future. Which B2B tools do you think are essential in today's business world? Let us know in the comments! #B2B #ProductPortfolio #BusinessGrowth 🔝
+
 ### 09.06.2023 (announcement Botchat)
 - 🤖 Exciting news! We just added Botchat to our subdomain system 🎉 Check out https://botchat.cf to be redirected to https://botchat.linkspreed.com. Don't worry, nothing changes for you in terms of usage and data 💻 Have you tried using Botchat yet? #Botchat #Subdomain #Technology 😍
 
