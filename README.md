@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.06.2023 (announcement Botchat)
+- 🤖 Exciting news! We just added Botchat to our subdomain system 🎉 Check out https://botchat.cf to be redirected to https://botchat.linkspreed.com. Don't worry, nothing changes for you in terms of usage and data 💻 Have you tried using Botchat yet? #Botchat #Subdomain #Technology 😍
+
+### 09.06.2023 (announcement Biospreed)
+- 🚨 Big news! 🔊 We've just added Biospreed to our subdomain system! 👏🏼 From now on https://biospreed.tk will redirect you to https://biospreed.linkspreed.com, but don't worry, everything stays the same! 🙌🏼 Are you excited to keep using this awesome platform? 🔗 #Biospreed #Linkspreed #Upgrades #TechNews 🤖
+
+### 09.06.2023 (announcement BeYou)
+- 🚀 Exciting news! We've just added BeYou to our subdomain system 🎉 Head to https://beyou.cf and you'll be redirected to https://beyou.linkspreed.com - don't worry, nothing is changing in your user experience 🙌 Have you checked out BeYou yet? #BeYourself #UserExperience 💻📲
+
+### 09.06.2023 (announcement Besave)
+- 🚨Exciting news, folks!🚨We've added Besave to our subdomain system! 🔝🎉 Now, https://besave.tk will redirect you to https://besave.linkspreed.com.💻🔗 But don't worry, you can keep using the platform with all of your existing data as usual. 👍 So, are you ready to explore?🤔 #Besave #Linkspreed #Subdomain #TechUpgrade 💻😎
+
 ### 08.06.2023 (announcement Joyn)
 - 📢 The wait is finally over! 🎉 You can now download the Joyn App, our very own social network, from this link: https://joyn.linkspreed.com/. 📱 Keep an eye out on our social media channels for more exciting updates and sneak peeks in the coming days! 😉
 
