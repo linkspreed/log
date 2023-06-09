@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.06.2023 (annoucement Kitchat)
+- 👨‍💻👩‍💻 We're working hard on version 3.9 of Kitchat with some awesome new features! 🔥 But it won't be ready for a few more days as it's still in the Linkspreed Research Lab 🧪. Who's excited for the launch? 🚀 #KitchenChat #Version3point9 #UpdatesComingSoon
+
+### 10.06.2023 (annoucement BeYou)
+- 🚀 Exciting news, BeYou fans! We're currently working on the amazing Version 3.9, but it's still in the Linkspreed Research Lab. 🤔 What features do you hope to see in this update? Let us know in the comments! #BeYouUpgrades #Version3.9ComingSoon #LinkspreedResearchLab 🧐
+
+### 10.06.2023 (annoucement BeYou)
+- 🚀 Exciting news, BeYou fans! We're currently working on the amazing Version 3.9, but it's still in the Linkspreed Research Lab. 🤔 What features do you hope to see in this update? Let us know in the comments! #BeYouUpgrades #Version3.9ComingSoon #LinkspreedResearchLab 🧐
+
 ### 09.06.2023 (annoucement Cheezz)
 - 🎉Attention everyone! We have exciting news!🎉 Cheezz has just been added to our subdomain system! 👀👌That means https://cheezz.tk now redirects to https://cheezz.linkspreed.com. Don't worry, nothing changes for you - you can continue to use the platform as usual. Have you tried it out yet? #Cheezz #linkspreed #subdomains #technology 💻🌐
 
