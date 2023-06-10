@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.06.2023 (announcement Kitchat)
+- 🚀Attention all #Kitchat users!🚀 We're excited to announce the release of Version 3.9 Patch 3 🔥🎉 Get ready for some fantastic new features and improvements 🙌🏻 Don't forget to check out the Changelog and all important info on our Github Repository👀 What do you think of the update? #feedback #updates #technology 💻
+
+### 10.06.2023 (announcement BeYou)
+- 🎉 Big news alert! 🎉 Our team just released Version 3.9 Patch 3 for BeYou, with awesome new features and improvements 🚀 Check out our Github repository for the changelog and all the important details! Did you already update? What's your favorite new feature? #BeYou #NewRelease #CommunityFeedback
+
+### 10.06.2023 (announcement BeYou)
+- https://github.com/linkspreed/BeYou/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 10.06.2023 (announcement BeYou)
+- The launch of version 3.9 of **BeYou** was successful! 🥳
+- The new update is live now :)
+- https://beyou.cf 🔗
+
+### 10.06.2023 (announcement BeYou)
+- We are now starting the launch of v3.9.
+
+### 10.06.2023 (announcement BeYou)
+- The servers are now ready for the launch of version 3.9 for **BeYou**.
+
+### 10.06.2023 (announcement BeYou)
+- The code is now ready for the launch of version 3.9 for **BeYou**.
+
+### 10.06.2023 (announcement BeYou)
+-  **BeYou** gets a big update today - we are going to launch v3.9. 😍
+
+### 10.06.2023 (announcement KitChat)
+- https://github.com/linkspreed/KitChat/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 10.06.2023 (announcement KitChat)
+- The launch of version 3.9 of **KitChat** was successful! 🥳
+- The new update is live now :)
+- https://kitchat.tk 🔗
+
+### 10.06.2023 (announcement KitChat)
+- We are now starting the launch of v3.9.
+
+### 10.06.2023 (announcement KitChat)
+- The servers are now ready for the launch of version 3.9 for **KitChat**.
+
+### 10.06.2023 (announcement KitChat)
+- The code is now ready for the launch of version 3.9 for **KitChat**.
+
+### 10.06.2023 (announcement KitChat)
+-  **KitChat** gets a big update today - we are going to launch v3.9. 😍
+
 ### 10.06.2023 (annoucement Write)
 - 🎉 Great news! We've fixed the layout problem on our Write platform! 🙌🏼 Now you can write without any distractions. Have you tried it yet? Let us know in the comments! #WritePlatform #LayoutFix #HappyWriting 😊💻📝
 
