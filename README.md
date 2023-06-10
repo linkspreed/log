@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.06.2023 (announcement Linkspreed Assistant)
+- 🎉📣The moment we've been waiting for is finally here! You can now download both versions of the Linkspreed Assistant at https://assistant.linkspreed.com/ 🚀 Keep an eye out for our upcoming social media posts about it in the coming weeks! Have you already tried it out yet? #Linkspreed #Assistant #DownloadNow 😍✨
+
 ### 10.06.2023 (announcement Plop)
 - 🎉 It's official! Version 25.0.0 of Plop has been released and we couldn't be more proud! 🙌🏼 Check out the online update now and find the latest documentation and changelog on Github. Have you updated yet? Share your experience with us! #plop #update #github 💻
 
