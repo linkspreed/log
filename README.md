@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.06.2023 (annoucement Write)
+- 🎉 Great news! We've fixed the layout problem on our Write platform! 🙌🏼 Now you can write without any distractions. Have you tried it yet? Let us know in the comments! #WritePlatform #LayoutFix #HappyWriting 😊💻📝
+
 ### 10.06.2023 (annoucement Kitchat)
 - 👋 Hey #KitchenLovers! Our team has been hard at work perfecting the latest #KitChat update to make it even more awesome. 🤩 Unfortunately, we won't be able to release it for a few more days. 😔 But we promise it will be worth the wait! 👍 What are you most excited to see in the new update? #KitchenTalk #FoodieChat
 
