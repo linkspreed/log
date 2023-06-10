@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.06.2023 (announcement Cloud2Go)
+- 🚨 Exciting news! 🚨 We've just added Cloud2Go to our subdomain system! 🔥🌩️ 👉 https://cloud2go.tk now redirects to https://cloud2go.linkspreed.com, but don't worry, everything remains the same on the front-end! 😎 Have you checked it out yet? #Cloud2Go #Linkspreed #Technology 🔧🤖
+
+### 11.06.2023 (announcement Chitter)
+- 🎉Exciting news! We have added Chitter to our subdomain system🚀. Now https://chitter.ml will redirect you to https://chitter.linkspreed.com. Don't worry, nothing will change and you can keep using the platform as usual💻. Have you tried Chitter yet? #Chitter #Linkspreed #Subdomain #SocialMedia📱😃
+
 ### 10.06.2023 (announcement Linkspreed Assistant)
 - 🎉📣The moment we've been waiting for is finally here! You can now download both versions of the Linkspreed Assistant at https://assistant.linkspreed.com/ 🚀 Keep an eye out for our upcoming social media posts about it in the coming weeks! Have you already tried it out yet? #Linkspreed #Assistant #DownloadNow 😍✨
 
