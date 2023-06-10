@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.06.2023 (announcement Mailspread)
+- 🎉BIG NEWS!🎉 Our Mailspread landing page is now live and ready for you to use! 🙌🏼 Plus, it's completely FREE! 🎁 What are you waiting for? Sign up now at https://mailspread.cf and let us know how we can make your experience even better! 😊 #Mailspread #FreeService #EmailMarketing 📧
+
+### 10.06.2023 (announcement Mailspread)
 - 🚀 Ready, set, go! 💌 Our team is putting the finishing touches on Mailspread's landing page before our final release. We'll be wrapping things up in about an hour. Who else is excited to try out our new features? 💻 #Mailspread #FinalRelease #ProductivityTools
 
 ### 10.06.2023 (announcement Kitchat)
