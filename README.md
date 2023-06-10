@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.06.2023 (announcement Mailspread)
+- 🚀 Ready, set, go! 💌 Our team is putting the finishing touches on Mailspread's landing page before our final release. We'll be wrapping things up in about an hour. Who else is excited to try out our new features? 💻 #Mailspread #FinalRelease #ProductivityTools
+
 ### 10.06.2023 (announcement Kitchat)
 - 🚀Attention all #Kitchat users!🚀 We're excited to announce the release of Version 3.9 Patch 3 🔥🎉 Get ready for some fantastic new features and improvements 🙌🏻 Don't forget to check out the Changelog and all important info on our Github Repository👀 What do you think of the update? #feedback #updates #technology 💻
 
