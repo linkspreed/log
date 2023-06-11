@@ -2,6 +2,30 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.06.2023 (announcement Toolkit)
+- 🎉 We have exciting news, folks! 🚀 Our team just released Toolkit v16.0.0! 🙌🏼 This newest version comes packed with awesome features and improvements. 😍 Who's already started using it? Let us know in the comments! 👇🏼 #Toolkit16 #ProductivityTools #Updates #Teamwork 💻👨‍💼👩‍💼
+
+### 11.06.2023 (announcement Toolkit)
+- https://github.com/linkspreed/Toolkit/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 11.06.2023 (announcement Toolkit)
+- The launch of version 16.0.0 of **Toolkit** was successful! 🥳
+- The new update is live now :)
+- https://toolkit.ga 🔗
+
+### 11.06.2023 (announcement Toolkit)
+- We are now starting the launch of v16.0.0.
+
+### 11.06.2023 (announcement Toolkit)
+- The servers are now ready for the launch of version 16.0.0 for **Toolkit**.
+
+### 11.06.2023 (announcement Toolkit)
+- The code is now ready for the launch of version 16.0.0 for **Toolkit**.
+
+### 11.06.2023 (announcement Toolkit)
+-  **Toolkit** gets a big update today - we are going to launch v16.0.0. 😍
+
 ### 11.06.2023 (announcement CrossQA)
 - 🚨Exciting news alert🚨: We just added CrossQA to our subdomain system! 🔜 https://crossqa.tk now redirects you to https://crossqa.linkspreed.com. Don't worry, nothing changes for you, all your data remains unaffected! 🙌 Have you tried CrossQA yet? 💻 #QualityAssurance #Testing #CrossQA
 
