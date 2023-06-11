@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.06.2023 (announcement Linkspreed B2B)
+- 👨‍💼💼👩‍💼 Attention all B2B professionals! We're hard at work expanding our product portfolio to meet your business needs. What products or features would make our lineup irresistible to you? Let us know! 🤔 #B2B #productportfolio #feedback
+
+### 11.06.2023 (announcement)
+- 🚀Attention tech enthusiasts!👩‍💻 We just updated the full list of our awesome web projects in the Github Repository👀 Check it out on: github.com/linkspreed/linkspreed_uptime 🤖Which one are you most excited to explore?? #webdev #opensource #github
+
 ### 11.06.2023 (announcement Cloud2Share)
 - 📢 Great news! We just added Cloud2Share to our subdomain system! 🔍 Visit our new URL https://cloud2share.linkspreed.com instead of https://cloud2share.tk 🌩️ No worries, you can still use it as before, with all your data. Any questions? 😀 #Cloud2Share #Linkspreed #TechChange
 
