@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.06.2023 (announcement CrossQA)
+- 🚨Exciting news alert🚨: We just added CrossQA to our subdomain system! 🔜 https://crossqa.tk now redirects you to https://crossqa.linkspreed.com. Don't worry, nothing changes for you, all your data remains unaffected! 🙌 Have you tried CrossQA yet? 💻 #QualityAssurance #Testing #CrossQA
+
+### 11.06.2023 (announcement Critch)
+- 🎉Exciting news! We've just added Critch to our subdomain system🎊👏🏻Your Critch.cf link will now redirect you to https://critch.linkspreed.com without any changes to your account🚀So why wait? Keep enjoying all of Critch's amazing features🤩 Have you tried the platform yet? #Critch #Subdomain #Linkspreed #Technology
+
+### 11.06.2023 (announcement Contribution)
+- 📣Breaking News📣Our subdomain system just got an upgrade! 💻🚀 Check out https://contribution.tk which now redirects to https://contribution.linkspreed.com. Don't worry, everything stays the same for you on the front-end. Have you tried it out yet? #NewUpgrade #Subdomains #WebDevelopment
+
+### 11.06.2023 (announcement Connected)
+- 🚨BIG NEWS🚨We've just added #Connected to our Subdomain system!🤩 Check out https://connected.tk which now directs you to https://connected.linkspreed.com!👨‍💻💻 Don't worry, nothing changes in your usual platform usage🧘‍♀️🧘‍♂️ So, who's excited?💥 #technology #data #users
+
 ### 11.06.2023 (announcement Linkspreed B2B)
 - 👨‍💼💼👩‍💼 Attention all B2B professionals! We're hard at work expanding our product portfolio to meet your business needs. What products or features would make our lineup irresistible to you? Let us know! 🤔 #B2B #productportfolio #feedback
 
