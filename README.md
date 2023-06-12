@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.06.2023 (announcement)
+- We've got some 🔥 new and cool projects in the works that you won't want to miss. Are you excited to see what we have in store? #NewProjects #StayTuned #ExcitingThingsComingUp What type of projects would you like to see us tackle next? 💡
+
 ### 12.06.2023 (announcement Dreambuild)
 - 🚨 Exciting news! 🚨 We've just added Dreambuild to our subdomain system! 😎🌟👏 Head over to https://dreambuild.tk which will now direct you to https://dreambuild.linkspreed.com. Don't worry, your data and experience won't change at all! 👍👌👀 Have you tried out Dreambuild yet? #Dreambuild #WebDevelopment #Linkspreed
 
