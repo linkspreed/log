@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.06.2023 (announcement Dreambuild)
+- 🚨 Exciting news! 🚨 We've just added Dreambuild to our subdomain system! 😎🌟👏 Head over to https://dreambuild.tk which will now direct you to https://dreambuild.linkspreed.com. Don't worry, your data and experience won't change at all! 👍👌👀 Have you tried out Dreambuild yet? #Dreambuild #WebDevelopment #Linkspreed
+
+### 12.06.2023 (announcement DNServer)
+- 🚀 Hey guys! We've just added DNServer to our subdomain system 🔥 Check out https://dnserver.cf which now redirects you to https://dnserver.linkspreed.com 💻 Don't worry, you can still use the platform with all your existing data 🤝 So, are you excited for this technical update? #DNServer #Subdomain #TechUpdate
+
+### 12.06.2023 (announcement Downflix)
+- 🚀 Exciting news! We just added Downflix to our subdomain system 👉https://downflix.cf now redirects to https://downflix.linkspreed.com. But don't worry, nothing changes for you! You can still access the platform with all your data as usual. Have you tried it yet? 😍 #Downflix #subdomain #linkspreed
+
+### 12.06.2023 (announcement Diskit)
+- 📢 Attention, Diskit users!🚨 We've recently integrated Diskit into our subdomain system.😉 So, now when you access https://diskit.tk, you'll be directed to https://diskit.linkspreed.com.💻 Don't worry, your platform experience remains the same with no data loss or changes.👍 Have you tried it yet?🤔 #Diskit #Subdomain #Linkspreed #WebDevelopment
+
+### 12.06.2023 (announcement Deepage)
+- 🎉 Exciting news everyone! 🎉 We've just added Deepage to our subdomain system. 🔗 https://deepage.tk now redirects to https://deepage.linkspreed.com, but don't worry, everything works just as before! 👍🏼 Have you checked out the amazing features of Deepage yet? #Deepage #Subdomain #Linkspreed 💻🌐 What do you think of this new update? Let us know!
+
+### 12.06.2023 (announcement Datify)
+- 🚀 Big news! We've added Datify to our subdomain system 🎉 Don't worry, everything stays the same, but you'll notice we've changed our URL. Check it out at https://datify.cf! Have you used Datify before? What do you like/dislike about it? #datify #subdomains #techupdates 💻
+
 ### 11.06.2023 (announcement Toolkit)
 - 🎉 We have exciting news, folks! 🚀 Our team just released Toolkit v16.0.0! 🙌🏼 This newest version comes packed with awesome features and improvements. 😍 Who's already started using it? Let us know in the comments! 👇🏼 #Toolkit16 #ProductivityTools #Updates #Teamwork 💻👨‍💼👩‍💼
 
