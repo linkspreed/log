@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.06.2023 (announcement Gogola)
+- 🎉Exciting news! 🎊We've just added Gogola to our Subdomain system! 🔗https://gogola.ml will now redirect you to 🔗https://gogola.linkspreed.com. Don't worry, everything stays the same for you, just a technical change in the background. Have you already tried it out? #Gogola #Subdomains #Linkspreed 💻📱
+
+### 13.06.2023 (announcement GetPro)
+- 🎉Exciting news! We've just added GetPro to our subdomain system!🚀🌐Visit https://getpro.gq and you'll be redirected to https://getpro.linkspreed.com, no changes in usage.💻📈 Have you tried GetPro yet? What's your favorite feature? #GetPro #Linkspreed #Subdomain #TechUpdates
+
+### 13.06.2023 (announcement ForJu)
+- 📢 Hey, #ForJu users! We've just added ForJu to our subdomain system! 🔗 Now, https://forju.tk will redirect you to https://forju.linkspreed.com. 🤖 Don't worry, nothing will change for you, everything will work smoothly as before. 🙌 How do you feel about this integration? #userfeedback
+
+### 13.06.2023 (announcement FlipX)
+- 🎉BIG NEWS!🎉 We just added FlipX to our subdomain system! 🔗https://flipx.tk🔗redirects to 🔗https://flipx.linkspreed.com🔗. Don't worry, your data stays the same!🙌 Any questions?🤔 #FlipX #Linkspreed #subdomains #technews
+
 ### 12.06.2023 (announcement)
 - We've got some 🔥 new and cool projects in the works that you won't want to miss. Are you excited to see what we have in store? #NewProjects #StayTuned #ExcitingThingsComingUp What type of projects would you like to see us tackle next? 💡
 
