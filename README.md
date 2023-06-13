@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.06.2023 (announcement)
+- 🚀📈 We're excited to announce that we're working on expanding @Linkspreed's business model! 💼🌍 What new markets do you think we should explore? #expansion #businessgrowth #ideas
+
+
 ### 13.06.2023 (announcement Gogola)
 - 🎉Exciting news! 🎊We've just added Gogola to our Subdomain system! 🔗https://gogola.ml will now redirect you to 🔗https://gogola.linkspreed.com. Don't worry, everything stays the same for you, just a technical change in the background. Have you already tried it out? #Gogola #Subdomains #Linkspreed 💻📱
 
