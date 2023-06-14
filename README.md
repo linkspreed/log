@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.06.2023 (announcement)
+- 🚀 We're currently working on many exciting new projects! 💡 From innovative tech solutions to eco-friendly initiatives, we're always striving to make a positive impact. Which project are you most excited to hear about? 🤔 #NewBeginnings #PositiveChange #Innovation
+
+### 14.06.2023 (announcement)
+- 🚨Exciting news!🚨 Our team has developed new strategies for future sales tasks. 💪🏼💰📈 How do you think these strategies will impact our sales performance? Let us know in the comments below! #sales #strategy #growth #innovation 💼👨‍💼👩‍💼
+
 ### 13.06.2023 (announcement)
 - 🚀📈 We're excited to announce that we're working on expanding @Linkspreed's business model! 💼🌍 What new markets do you think we should explore? #expansion #businessgrowth #ideas
 
