@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 15.06.2023 (announcement)
+- 📱🔍We're diving deeper into Flutter's capabilities and how it can be used to create the ultimate app for our platform! Have you ever used Flutter? Share your experience with us in the comments below!👇 #FlutterDevelopment #AppDevelopment #Technology 🚀
+
+### 15.06.2023 (announcement)
 - 👨‍💻👩‍💻🔨🚀 We're currently working hard on updates and new software to make your user experience even better! What features would you like to see in our upcoming releases? #softwaredevelopment #updates #userexperience 💻📈
 
 ### 14.06.2023 (announcement)
