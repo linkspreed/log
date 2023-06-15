@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.06.2023 (announcement)
+- 👨‍💻👩‍💻🔨🚀 We're currently working hard on updates and new software to make your user experience even better! What features would you like to see in our upcoming releases? #softwaredevelopment #updates #userexperience 💻📈
+
 ### 14.06.2023 (announcement)
 - 🚀 We're currently working on many exciting new projects! 💡 From innovative tech solutions to eco-friendly initiatives, we're always striving to make a positive impact. Which project are you most excited to hear about? 🤔 #NewBeginnings #PositiveChange #Innovation
 
