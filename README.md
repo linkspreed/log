@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.06.2023 (announcement Linkspreed.com)
+- 🔨👷‍♀️ Right now we're tackling some general tasks for our main platform, Linkspreed.com. What improvements would you love to see on our site? Share your ideas in the comments below! 🤔 #linkspreed #SEO #webdevelopment 💻🌐
+
 ### 16.06.2023 (announcement Profilio)
 - 🚨 Exciting news! 🚨 Our team has just completed the development of Profilio - and we're proud to say that it's now available to EVERYONE with our Free & Unlimited Plan! 🎉 Create the perfect virtual business card and stand out from the crowd! 💻 #Profilio #VirtualBusinessCard #Networking
 
