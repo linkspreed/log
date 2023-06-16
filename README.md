@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.06.2023 (announcement)
+- 🔍 We're doing our monthly routine check to make sure all our domains are working perfectly. This time we're also testing out the first subdomain redirections. How cool is that? 😎 Have you ever experimented with subdomain redirections? Let us know in the comments below! #RoutineCheck #DomainManagement #SubdomainRedirections 🤔
+
 ### 16.06.2023 (announcement KitChat)
 - 📢News! KitChat is now available on our Subdomain system 🎉🎊! Visit https://kitchat.tk and get redirected to https://kitchat.linkspreed.com. No worries! Your data remains the same 😎. Excited to continue using our platform? #KitChat #Subdomain #Linkspreed 😍👍❤️
 
