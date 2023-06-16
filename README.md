@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.06.2023 (announcement Profilio)
+- 🚨 Exciting news! 🚨 Our team has just completed the development of Profilio - and we're proud to say that it's now available to EVERYONE with our Free & Unlimited Plan! 🎉 Create the perfect virtual business card and stand out from the crowd! 💻 #Profilio #VirtualBusinessCard #Networking
+
+### 16.06.2023 (announcement Profilio)
 - 👩‍💻👨‍💼🌐🚀 We're pushing forward with developing our platform Profilio! Have you had a chance to check it out yet? Let us know what you think in the comments below! #Profilio #Development #Tech #Feedback 🤔💬
 
 ### 16.06.2023 (announcement)
