@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.06.2023 (announcement KitChat)
+- 📢News! KitChat is now available on our Subdomain system 🎉🎊! Visit https://kitchat.tk and get redirected to https://kitchat.linkspreed.com. No worries! Your data remains the same 😎. Excited to continue using our platform? #KitChat #Subdomain #Linkspreed 😍👍❤️
+
+### 16.06.2023 (announcement Kisk)
+- 🚨 Big news! 🚨 Our subdomain system just got even better with the addition of Kisk! 👏🏼😍 That means https://kisk.tk now redirects to https://kisk.linkspreed.com - but don't worry, nothing changes for you on the front end. 🌟 Have you tried Kisk yet? Let us know below! 👇🏼 #linkspreed #webdevelopent #kisk #subdomains
+
+### 16.06.2023 (announcement Joyn)
+- 📢 Exciting news! We've just added Joyn to our subdomain system. 🔗 https://joyn.tk now redirects to 🔗 https://joyn.linkspreed.com. Don't worry, nothing changes for you in terms of platform usage or data. Have you tried Joyn? What features do you like most? #Joyn #Linkspreed #Subdomain #Technology #Interactive
+
+### 16.06.2023 (announcement Ignyte)
+- 🎉Exciting news!🎉We just added Ignyte to our subdomain system!🔥👀 Check out https://ignyte.tk👈& it will redirect you to https://ignyte.linkspreed.com!✨Don't worry, your data is safe & you can continue using the platform as usual🙌 Have you tried Ignite yet?🤔 #IgnyteUpdates
+
+### 16.06.2023 (announcement Icecloud)
+- 🎉 We're excited to announce that IceCloud is now a part of our subdomain system! 🔗 Head over to https://icecloud.cf and you'll be redirected to https://icecloud.linkspreed.com. Don't worry, everything will work the same, it's just a technical update. 🤖 Have you tried IceCloud yet? What's your favorite feature? #IceCloudUpdate #LinkspreedTech 💻
+
 ### 15.06.2023 (announcement)
 - 📱🔍We're diving deeper into Flutter's capabilities and how it can be used to create the ultimate app for our platform! Have you ever used Flutter? Share your experience with us in the comments below!👇 #FlutterDevelopment #AppDevelopment #Technology 🚀
 
