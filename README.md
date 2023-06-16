@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.06.2023 (announcement)
+- 🔍 Just doing some internal product checks to ensure we're bringing you the best possible experience! 👀 What are your favorite features of our products? Let us know in the comments! #productcheck #userfeedback 💬
+
+### 16.06.2023 (announcement)
 - 🔍 We're doing our monthly routine check to make sure all our domains are working perfectly. This time we're also testing out the first subdomain redirections. How cool is that? 😎 Have you ever experimented with subdomain redirections? Let us know in the comments below! #RoutineCheck #DomainManagement #SubdomainRedirections 🤔
 
 ### 16.06.2023 (announcement KitChat)
