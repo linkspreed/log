@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.06.2023 (announcement Hutty)
+- 👨‍💻🎉 The long-awaited moment has finally arrived! We've completed the final development work on Hutty after its relaunch! 🚀 Stay tuned for more exciting updates about this on our social media channels soon! #HuttyRelaunch #SocialMediaBuzz
+
+### 18.06.2023 (announcement Hutty)
 - 🚀 Hey there, Hutty fans! We're putting the finishing touches on our platform's relaunch and we couldn't be more excited! 🔧🔨 What features are you most looking forward to checking out? Let us know in the comments below! #HuttyRelaunch #NewAndImproved
 
 ### 17.06.2023 (announcement)
