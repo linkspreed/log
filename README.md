@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.06.2023 (announcement Storpad)
+- 🚨 Big news! 🔥 We just added Storpad to our subdomain system.👌 Check it out: https://storpad.tk now redirects to https://storpad.linkspreed.com. 😎 Don't worry, nothing changes for you. You can continue using the platform with all your existing data. ✅ Have you already checked it out? #storpad #linkspreed #subdomain #techupdate 🤔 What do you think about this change?
+
+### 18.06.2023 (announcement Linkcream)
+- 🔥🚀 Exciting news! We've just added Linkcream to our subdomain system! 👀👌 This means that https://linkcream.tk will now redirect you to https://linkcream.linkspreed.com. Don't worry, your account details and data will remain unchanged. 💻😎 Have you checked it out yet? #technews #Linkcream #subdomain #websitedesign
+
+### 18.06.2023 (announcement Lime)
+- 🚨 Exciting news alert! 🚨 Lime has been added to our subdomain system! 😍 Visit https://lime.gq and you'll be redirected to https://lime.linkspreed.com – but don't worry, you can still use the platform the same way you always have! 🙌 Any questions? 💭 #LimeLove #SubdomainSatisfaction
+
+### 18.06.2023 (announcement LaaS)
+- 📢 Exciting news! 🎉 We've just added LaaS to our subdomain system at https://laas.ml! 🔗 You'll now be redirected to https://laas.linkspreed.com, but don't worry, nothing changes for you when using the platform 🙌 Have you tried it yet? 😎 #Laas #linkspreed #subdomains #webdevelopment #techquestion
+
+### 18.06.2023 (announcement Linkspreed Research Lab)
+- 📣 Big news alert! The Linkspreed Research Lab is now live at https://lab.linkspreed.com! 🙌🎉 Leave us a message and let us know what topics you're most excited to see us explore! Stay tuned for more updates on our social media channels. #research #innovation 💡🔬
+
 ### 18.06.2023 (announcement Linkspreed Research Lab)
 - 🚀🔬Exciting news alert! We're thrilled to announce the launch of our Contact Page for the Linkspeed Research Lab! 🎉👩‍💻👨‍💼Have any questions or feedback for us? We'd love to hear from you! 🤔💬 #LinkspeedResearchLab #ContactUs #Innovation #Research #GetInTouch
 
