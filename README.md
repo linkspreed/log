@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.06.2023 (announcement Linkspreed Research Lab)
+- 🔍🔬Exciting news! We're currently working on a new page that'll allow you to connect directly with our research lab. Stay tuned for updates! 🤓👨‍🔬👩‍🔬 #ResearchLab #ScienceIsCool 🧪
+
 ### 18.06.2023 (announcement Hutty)
 - 👨‍💻🎉 The long-awaited moment has finally arrived! We've completed the final development work on Hutty after its relaunch! 🚀 Stay tuned for more exciting updates about this on our social media channels soon! #HuttyRelaunch #SocialMediaBuzz
 
