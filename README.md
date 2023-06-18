@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.06.2023 (announcement Linkspreed Research Lab)
+- 🚀🔬Exciting news alert! We're thrilled to announce the launch of our Contact Page for the Linkspeed Research Lab! 🎉👩‍💻👨‍💼Have any questions or feedback for us? We'd love to hear from you! 🤔💬 #LinkspeedResearchLab #ContactUs #Innovation #Research #GetInTouch
+
+### 18.06.2023 (announcement Linkspreed Research Lab)
 - 🚀 Hey guys, we're working on something really cool! Our team is building a small website that will allow you to have direct contact with our Research Lab 🔍🧪. Have you ever wanted to chat with scientists and ask them questions? 🤔 Keep an eye out for updates on our progress and let us know what kind of topics you'd be interested in learning more about. #ResearchLab #Science #Innovation 💡
 - https://github.com/linkspreed/General_Linkspreed/assets/102324985/9f4c2a5a-fd78-406c-aee9-6b56ae07c5b2
 
