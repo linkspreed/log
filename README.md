@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.06.2023 (announcement Hutty)
+- 🚀 Hey there, Hutty fans! We're putting the finishing touches on our platform's relaunch and we couldn't be more excited! 🔧🔨 What features are you most looking forward to checking out? Let us know in the comments below! #HuttyRelaunch #NewAndImproved
+
+### 17.06.2023 (announcement)
+- 🌈 We're working to enhance the diversity of our platform solutions! 💻📱What features would you like to see added to our platform to better reflect and serve diverse communities? #diversitymatters #inclusion #platformsolutions 🤔
+
 ### 16.06.2023 (announcement Linkspreed.com)
 - 🎉👏 Exciting news! We're thrilled to announce that we've successfully completed all the general tasks on linkspreed.com 🚀 What's your favorite feature on the website? Let us know in the comments 👇 #linkspreed #website #tech #achievement
 
