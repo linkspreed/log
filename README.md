@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.06.2023 (announcement Grown)
+- 🎉🔥 Grown is back and better than ever! Our platform has been relaunched and is now live. However, we're not done yet! We're still working hard to improve the platform in the coming days. 💪 Have you checked out the new and improved Grown yet? #Grown #relaunch #onlinenow
+
 ### 19.06.2023 (announcement)
 - 🚀Exciting news! We're currently working on new updates and AI capabilities for all 3 of our business sectors simultaneously! 🤖🌟Which one are you most excited to see in action? Let us know in the comments below! #AI #Updates #Business #Innovation
 
