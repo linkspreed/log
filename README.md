@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.06.2023 (announcement)
+- 🚨Big news alert!🚨 Our team is working hard on restoring the Firelaps & Linkcream platforms in the near future 🔥🍦 Exciting times ahead! What features do you want to see on our platforms? Let us know in the comments below 👇 #Firelaps #Linkcream #FutureUpdates 🚀
+
 ### 19.06.2023 (announcement Mailspread)
 - 📧🎉 Exciting news! We've just added Mailspread to our subdomain system. 👀 Check out https://mailspread.cf, which now redirects you to https://mailspread.linkspreed.com. ✅ Don't worry, nothing changes for you - you can continue to use the platform with all your data as usual! 🤔 Have you tried Mailspread yet? #emailmarketing #digitalmarketing
 
