@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.06.2023 (announcement)
+- 🚀Exciting news! We're currently working on new updates and AI capabilities for all 3 of our business sectors simultaneously! 🤖🌟Which one are you most excited to see in action? Let us know in the comments below! #AI #Updates #Business #Innovation
+
+### 19.06.2023 (announcement)
+- 📣 Attention! We've just sent out some exciting collaboration news! 🤩 Stay tuned to our social media channels for updates and behind-the-scenes sneak peeks! 🔍 Who's ready to guess who we're partnering with? 🤔 #CollaborationAnnouncement #Teaser #GuessWho
+
 ### 18.06.2023 (announcement Storpad)
 - 🚨 Big news! 🔥 We just added Storpad to our subdomain system.👌 Check it out: https://storpad.tk now redirects to https://storpad.linkspreed.com. 😎 Don't worry, nothing changes for you. You can continue using the platform with all your existing data. ✅ Have you already checked it out? #storpad #linkspreed #subdomain #techupdate 🤔 What do you think about this change?
 
