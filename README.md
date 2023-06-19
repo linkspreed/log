@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.06.2023 (announcement Mailspread)
+- 📧🎉 Exciting news! We've just added Mailspread to our subdomain system. 👀 Check out https://mailspread.cf, which now redirects you to https://mailspread.linkspreed.com. ✅ Don't worry, nothing changes for you - you can continue to use the platform with all your data as usual! 🤔 Have you tried Mailspread yet? #emailmarketing #digitalmarketing
+
+### 19.06.2023 (announcement LSily)
+- 🎉 Exciting news! We've added Lsily to our subdomain system! 🔗 Now, https://lsily.tk redirects to https://lsily.linkspreed.com, but don't worry, nothing changes for you! 💻 You can keep using the platform with all your existing data. Have you tried Lsily yet? #lsily #linkmanagement #subdomains 🤔 What are your favorite features on Lsily?
+
+### 19.06.2023 (announcement LSNews)
+- 📣 Exciting news! 🚨 We just added LSNews to our subdomain system! 🥳 Check out https://lsnews.cf which now redirects you to https://lsnews.linkspreed.com. Don't worry, your data remains unchanged. 💻🔒 Have you tried out LSNews yet? What do you think of it? 🤔 #LSNews #Subdomain #Linkspreed
+
+### 19.06.2023 (announcement LinkLab)
+- 🎉 Exciting News! 🎉 We've just added LinkLab to our Subdomain system 🚀 Check it out 👉 https://linklab.gq now redirects to https://linklab.linkspreed.com. But don't worry, everything is still the same for you! 👍 Have you already tried it out? Let us know in the comments below! 👇 #LinkLab #Subdomain #TechnicalUpgrade
+
+### 19.06.2023 (announcement Firelaps)
+- 🔥🐎 Exciting news! We've just added Firelaps to our subdomain system! 🎉🚀 Now https://firelaps.cf will redirect you to https://firelaps.linkspreed.com, but don't worry, you can continue using the platform with all your existing data as usual. Have you tried Firelaps yet? #racing #gamers #tech #firelaps
+
 ### 19.06.2023 (announcement Grown)
 - 🎉🔥 Grown is back and better than ever! Our platform has been relaunched and is now live. However, we're not done yet! We're still working hard to improve the platform in the coming days. 💪 Have you checked out the new and improved Grown yet? #Grown #relaunch #onlinenow
 
