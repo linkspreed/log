@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.06.2023 (announcement)
+- 🎉 Big news 🎉 We've decided to start screen recording our daily website analysis summaries starting from June 19, 2023. Exciting, right? We'll be uploading the videos to YouTube, but not all will be public. Keep an eye out, and we may share some gems with you 😉 Do you have any tips for our recordings? #webanalytics #screenrecording #YouTube #sharingiscaring 😎
+
+### 19.06.2023 (announcement)
+- 🎉 Big news 🎉 We've decided to start screen recording our daily website analysis summaries starting from June 19, 2023. Exciting, right? We'll be uploading the videos to YouTube, but not all will be public. Keep an eye out, and we may share some gems with you 😉 Do you have any tips for our recordings? #webanalytics #screenrecording #YouTube #sharingiscaring 😎
+
 ### 19.06.2023 (announcement)
 - 🚨Big news alert!🚨 Our team is working hard on restoring the Firelaps & Linkcream platforms in the near future 🔥🍦 Exciting times ahead! What features do you want to see on our platforms? Let us know in the comments below 👇 #Firelaps #Linkcream #FutureUpdates 🚀
 
