@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.06.2023 (announcement Musiccloud)
+- 🎵🎧 Exciting news! We've just added Musiccloud to our subdomain system. 🎉 You can now access it through https://musiccloud.cf which will lead you to https://musiccloud.linkspreed.com. Don't worry, nothing changes in terms of using the platform and all your existing data is still there. Have you tried Musiccloud yet? 🤔 #MusicLovers #Musiccloud #TechUpgrades
+
+### 20.06.2023 (announcement Metaspace)
+- 🚀🔥 Exciting news guys! We just added Metaspace to our subdomain system 🙌🏻🎉 Now, when you visit https://metaspace.tk, you'll be redirected to https://metaspace.linkspreed.com. Don't worry, there won't be any changes in the way you use the platform! Have you used Metaspace before? What do you think of it? 🤔 #Metaspace #Linkspreed #Subdomain #TechTalk
+
+### 20.06.2023 (announcement Memevid)
+- 👀Exciting news! We just added Memevid to our subdomain system🤩. Don't worry, nothing changes for you!🙌 You can continue to use the platform as usual without any data loss.📈 Check it out at https://memevid.tk and tell us your favorite meme in the comments!👇 #memevid #techupdate #memes #socialmedia
+
+### 20.06.2023 (announcement Mapsli)
+- 🌍🗺️📍 Exciting news! We've just added Mapsli to our subdomain system 🎉🎉 Simply head to https://mapsli.tk and you'll be directed to https://mapsli.linkspreed.com. Don't worry, nothing will change for you! You can continue to use the platform with all the same data 🙌 Have you used Mapsli before? What's your favorite feature? #Mapsli #Navigation #GPS
+
 ### 20.06.2023 (announcement)
 - 🎉 Big news 🎉 We've decided to start screen recording our daily website analysis summaries starting from June 19, 2023. Exciting, right? We'll be uploading the videos to YouTube, but not all will be public. Keep an eye out, and we may share some gems with you 😉 Do you have any tips for our recordings? #webanalytics #screenrecording #YouTube #sharingiscaring 😎
 
