@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.06.2023 (announcement)
+- 🎉 Exciting news! We're developing new hosting solutions for the remaining PHP 7.4 platforms. 💻💡 What features would you like to see in these new solutions? Share with us in the comments! #webhosting #PHP7.4 #innovation 💬
+
+### 20.06.2023 (announcement Grown)
+- 🌱🚀 Exciting update - our team is still hard at work improving Grown! 🙌 Have you noticed any changes to the app recently? Let us know your thoughts! 🤔 #GrownApp #ProductUpdates #FeedbackWelcome #TeamEffort
+
 ### 20.06.2023 (announcement Musiccloud)
 - 🎵🎧 Exciting news! We've just added Musiccloud to our subdomain system. 🎉 You can now access it through https://musiccloud.cf which will lead you to https://musiccloud.linkspreed.com. Don't worry, nothing changes in terms of using the platform and all your existing data is still there. Have you tried Musiccloud yet? 🤔 #MusicLovers #Musiccloud #TechUpgrades
 
