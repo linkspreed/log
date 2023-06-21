@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.06.2023 (announcement Grown)
+- 🎨🖌️ We're currently working on a new logo and icon for Grown! Do you have any ideas or suggestions that we can consider? We'd love to hear your thoughts! #LogoDesign #Branding #Grown #GraphicDesign 💭👀
+
+### 21.06.2023 (announcement Grown)
 - 👷‍♀️👷‍♂️ We're still working on Grown after the relaunch! 💻💪 Have you checked out the new features yet? Let us know what you think! 🤔 #Grown #Updates #StayTuned 🌱🌿
 
 ### 21.06.2023 (announcement Linkspreed Search)
