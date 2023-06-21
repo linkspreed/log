@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.06.2023 (announcement Grown)
+- 👷‍♀️👷‍♂️ We're still working on Grown after the relaunch! 💻💪 Have you checked out the new features yet? Let us know what you think! 🤔 #Grown #Updates #StayTuned 🌱🌿
+
 ### 21.06.2023 (announcement Linkspreed Search)
 - 🔍🌐 Have you heard about our new project? Linkspreed Search is our latest addition to the search engine family, joining Twig as our own personalized search options! 🌳🌿 Who's excited to try out both options and let us know their favorite features? #SearchEngine #TwigSearch
 
