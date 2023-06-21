@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.06.2023 (announcement Linkspreed Search)
+- 🔍🌐 Have you heard about our new project? Linkspreed Search is our latest addition to the search engine family, joining Twig as our own personalized search options! 🌳🌿 Who's excited to try out both options and let us know their favorite features? #SearchEngine #TwigSearch
+
+### 21.06.2023 (announcement Snaplink)
+- 🎉🌍 Our Snaplink platform is now connected with the Google Safe Browsing API, making it even safer for our users! This integration provides real-time protection against dangerous websites and phishing attacks. Have you noticed a difference in your browsing experience with Snaplink? #onlinesafety #cybersecurity 🤔
+
 ### 20.06.2023 (announcement)
 - 🎉 Exciting news! We're developing new hosting solutions for the remaining PHP 7.4 platforms. 💻💡 What features would you like to see in these new solutions? Share with us in the comments! #webhosting #PHP7.4 #innovation 💬
 
