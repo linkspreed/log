@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.06.2023 (announcement Netsky)
+- 🚨 Hey folks! Exciting update for our users: We've added Netsky to our subdomain system! 🎉🔥👀 This means that https://netsky.tk now redirects to https://netsky.linkspreed.com with no changes to the platform's functionality. Have you tried it out yet? 🔍🤔 #Netsky #Subdomain #Linkspreed
+
+### 21.06.2023 (announcement Netavark)
+- 🎉Big news!🎉 We just added Netavark to our subdomain system!👏🏽 Now when you visit https://netavark.tk, you'll automatically be redirected to https://netavark.linkspreed.com. Don't worry, nothing has changed - you can continue using the platform as usual with all your existing data!💻💾 Have you checked it out?🤔 #Netavark #Linkspreed #TechUpdate #ImprovedExperience
+
+### 21.06.2023 (announcement MyDancX)
+- 🎉Exciting news!🎉 We just added MyDancX to our subdomain system! 🔗Now when you go to https://mydancx.cf, you'll be redirected to https://mydancx.linkspreed.com. Don't worry, everything stays the same on the surface. 🤓Have you tried out MyDancX yet? What's your favorite feature? #MyDancX #subdomains #linkspreed 🤔
+
+### 21.06.2023 (announcement MyBuy)
+- 🎉📈 Exciting news! We've just added MyBuy to our subdomain system! 👀👉 Now, when you visit https://mybuy.cf, you'll be redirected to https://mybuy.linkspreed.com without any changes to your user experience. Have you tried it yet? #MyBuy #Subdomains #LinkspreedTech 💻📱🛒
+
 ### 21.06.2023 (announcement Grown)
 - 🎉 Exciting news! Check out the new logo and icon of our relaunched platform Grown. We can't wait for you to see what we have in store for you. 🔍 Have you explored the new features yet? Let us know in the comments below. #Grown #Relaunch #NewLogo #NewIcon 🌱
 - https://github.com/linkspreed/log/assets/102324985/a0d3f3a4-877b-46a0-ab00-080be381cf2e
