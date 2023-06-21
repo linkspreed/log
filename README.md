@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 21.06.2023 (announcement Grown)
+- 🎉 Exciting news! Check out the new logo and icon of our relaunched platform Grown. We can't wait for you to see what we have in store for you. 🔍 Have you explored the new features yet? Let us know in the comments below. #Grown #Relaunch #NewLogo #NewIcon 🌱
+- https://github.com/linkspreed/log/assets/102324985/a0d3f3a4-877b-46a0-ab00-080be381cf2e
+- https://github.com/linkspreed/log/assets/102324985/56132edf-5bb2-4f81-9270-dcea11def41b
+
+### 21.06.2023 (announcement Grown)
 - 🎨🖌️ We're currently working on a new logo and icon for Grown! Do you have any ideas or suggestions that we can consider? We'd love to hear your thoughts! #LogoDesign #Branding #Grown #GraphicDesign 💭👀
 
 ### 21.06.2023 (announcement Grown)
