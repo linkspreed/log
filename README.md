@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.06.2023 (announcement Linkspreed Search)
+- 🚀 Our team just finished the launch of Linkspreed Search! 💻 Currently, we're configuring the platform to optimize your search experience. 🔍 What are your favorite search filters to use? Let us know in the comments! #SearchEngine #Linkspreed #TechUpdates
+
+### 22.06.2023 (announcement Linkspreed Search)
 - 🔍👀 Attention all search engine users! We're excited to share that our team is working on a brand new project called Linkspreed Search 💻💡 Say goodbye to complicated search engines and hello to a simple and efficient way to find what you need online 💪🏼🌐 Who's excited to give it a try? #LinkspreedSearch #AlternativeSearchEngine #SimplicityWins 🤝
 
 ### 22.06.2023 (announcement Niming)
