@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.06.2023 (announcement Linkspreed Search)
+- 🔍👀 Attention all search engine users! We're excited to share that our team is working on a brand new project called Linkspreed Search 💻💡 Say goodbye to complicated search engines and hello to a simple and efficient way to find what you need online 💪🏼🌐 Who's excited to give it a try? #LinkspreedSearch #AlternativeSearchEngine #SimplicityWins 🤝
+
 ### 22.06.2023 (announcement Niming)
 - 🎉 Big news! We've added Niming to our subdomain system! Visit https://niming.tk and you'll be automatically redirected to https://niming.linkspreed.com. No need to worry, everything works the same. Have you ever used Niming before? Tell us your experience below! #Niming #Subdomain #Linkspreed 💻👏
 
