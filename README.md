@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.06.2023 (announcement Niming)
+- 🎉 Big news! We've added Niming to our subdomain system! Visit https://niming.tk and you'll be automatically redirected to https://niming.linkspreed.com. No need to worry, everything works the same. Have you ever used Niming before? Tell us your experience below! #Niming #Subdomain #Linkspreed 💻👏
+
+### 22.06.2023 (announcement Nither)
+- 🚀 Exciting News! We just added Nither to our subdomain system 🎉 Now when you visit https://nither.tk, you'll automatically be redirected to https://nither.linkspreed.com without any hassle 🎯 Rest assured, all your existing data will be accessible as before! 💻 Have you checked out the enhanced features yet? #SimplifyYourLife #NitherUpdates
+
+### 22.06.2023 (announcement NodX)
+- 🚀 Exciting news! We've just added NodX to our subdomain system. 😎🔗 Now, https://nodx.tk will redirect you to https://nodx.linkspreed.com. But don't worry - nothing changes for you! 🤓 Have you already tried the platform with all your existing data? 💻 #NodX #Linkspreed #Subdomain #TechnicalUpdate
+
+### 22.06.2023 (announcement Ondu)
+- 🎉Exciting news!🎉 We just added Ondu to our subdomain system!👌🏼🤩👍🏼Find us at https://ondu.linkspreed.com now. Don't worry, your data will remain safe and you can continue using all of our great features as usual.😎‼️Have you tried Ondu yet? What's your favorite feature? #ondu #linkspreed #subdomain #techupdate #userfeedback
+
+### 22.06.2023 (announcement Onlypaid)
+- 🎉Hey everyone! Exciting news🎉 We just added Onlypaid to our subdomain system. 🚨https://onlypaid.tk now redirects to https://onlypaid.linkspreed.com. But don't worry, nothing changes on your end. 🙌 You can still use the platform with all your existing data.📊 Have you already tried it out? Let us know!👇 #Onlypaid #Subdomain #Linkspreed #TechnicalUpgrade
+
+### 22.06.2023 (announcement NewsNode)
+- 📢 Exciting news for all our users! We've just added Newsnode to our subdomain system 🔗 https://newsnode.linkspreed.com 🔗 But don't worry, nothing changes for you. You can still use the platform with all your existing data as usual. 🤩 Have you already tried it out? #Newsnode #Subdomain #Linkspreed #TechToday ⚡️
+
 ### 22.06.2023 (announcement Linkcream)
 - 🎉Linkcream is back and better than ever! 🚀 After a few months of downtime, our platform is up and running on PHP 7.4. We can't wait for the next big update with PHP 8.0. What do you think about the new improvements? Let us know in the comments! #Linkcream #PHP #webdevelopment 💻
 
