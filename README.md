@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.06.2023 (announcement Linkcream)
+- 🎉Linkcream is back and better than ever! 🚀 After a few months of downtime, our platform is up and running on PHP 7.4. We can't wait for the next big update with PHP 8.0. What do you think about the new improvements? Let us know in the comments! #Linkcream #PHP #webdevelopment 💻
+
+### 22.06.2023 (announcement Firelaps)
+- 🔥👀 Firelaps is BACK! 🎉 After a few months of hibernation, our platform is ready to rock and roll once again. 💪💻 Did you know that we're still operating on PHP 7.4? We'll be upgrading to PHP 8.0 in the next big update. 😎 Are you excited for what's to come? Let us know in the comments! #Firelaps #Update #PHP8.0
+
 ### 22.06.2023 (announcement Grown)
 - 🌱🚀 We're thrilled to announce that Grown's test run was a success and it's now ready for use! 🌱🚀 Keep an eye out for more info in an upcoming social media post in the next few days. Have you tried it yet?
 
