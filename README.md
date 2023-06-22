@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.06.2023 (announcement)
+- 🔬🤔 We're getting experimental with Oracle Cloud and their solutions for our software projects! Have any of you used it before, and if so, what were your thoughts? 🤔👨‍💻 #OracleCloud #SoftwareDevelopment #TechTalk
+
+### 22.06.2023 (announcement)
 - 👨‍💻👩‍💼🔧 We're putting our heads together to create hosting solutions for different platforms like Firelaps and Linkcream. Which platform do you use the most? Let us know in the comments below! #hosting #webdevelopment #innovativeideas
 
 ### 21.06.2023 (announcement Netsky)
