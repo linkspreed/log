@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.06.2023 (announcement)
+- 👨‍💻👩‍💼🔧 We're putting our heads together to create hosting solutions for different platforms like Firelaps and Linkcream. Which platform do you use the most? Let us know in the comments below! #hosting #webdevelopment #innovativeideas
+
 ### 21.06.2023 (announcement Netsky)
 - 🚨 Hey folks! Exciting update for our users: We've added Netsky to our subdomain system! 🎉🔥👀 This means that https://netsky.tk now redirects to https://netsky.linkspreed.com with no changes to the platform's functionality. Have you tried it out yet? 🔍🤔 #Netsky #Subdomain #Linkspreed
 
