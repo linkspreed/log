@@ -3,6 +3,15 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.06.2023 (announcement Linkspreed Search)
+- 🔍🌐👀 Exciting news! We've just launched our new search engine, Linkspreed Search! 🎉🚀🙌 Check it out at https://search.linkspreed.com and let us know what you think! 💭🤔 Keep an eye on our social media for more updates and features. What's your favorite search engine? #LinkspreedSearch #NewSearchEngine #ExploreMore
+
+### 22.06.2023 (announcement Linkspreed Search)
+- 👀 Check out the sleek and stylish logo and icon for Linkspreed Search! 🤩 What do you think of the design? Share your thoughts with us using #LinkspreedSearch and let's start a conversation! 💬 #design #branding #feedback
+- https://github.com/linkspreed/log/assets/102324985/cbb746e0-a322-4a35-a789-c695133fe2bd
+- https://github.com/linkspreed/log/assets/102324985/cdfe2827-38db-456b-9f24-5472a8d23fbe
+- https://github.com/linkspreed/log/assets/102324985/2dde2077-8cd5-4223-8bdf-691a982bb640
+
+### 22.06.2023 (announcement Linkspreed Search)
 - 🚀 Our team just finished the launch of Linkspreed Search! 💻 Currently, we're configuring the platform to optimize your search experience. 🔍 What are your favorite search filters to use? Let us know in the comments! #SearchEngine #Linkspreed #TechUpdates
 
 ### 22.06.2023 (announcement Linkspreed Search)
