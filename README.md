@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.06.2023 (announcement Grown)
+- 🌱🚀 We're thrilled to announce that Grown's test run was a success and it's now ready for use! 🌱🚀 Keep an eye out for more info in an upcoming social media post in the next few days. Have you tried it yet?
+
+### 22.06.2023 (announcement Grown)
 - 🚀🔬We've just finished the development phase of #Grown and we're putting it to the test before giving the green light! Can't wait to share this exciting project with you all! 😍🌱 Have you tried any sustainable products lately? Let us know! #sustainability #greentech
 
 ### 22.06.2023 (announcement Grown)
