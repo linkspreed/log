@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.06.2023 (announcement Grown)
+- 🚀👨‍💻 We're putting the finishing touches on the Grown platform before we wrap up developments for the next update. What features are you most excited to see on the platform? Share with us! #GrownPlatform #DevelopmentInProgress 💻👀
+
 ### 22.06.2023 (announcement)
 - 🔬🤔 We're getting experimental with Oracle Cloud and their solutions for our software projects! Have any of you used it before, and if so, what were your thoughts? 🤔👨‍💻 #OracleCloud #SoftwareDevelopment #TechTalk
 
