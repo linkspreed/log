@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 22.06.2023 (announcement Grown)
+- 🚀🔬We've just finished the development phase of #Grown and we're putting it to the test before giving the green light! Can't wait to share this exciting project with you all! 😍🌱 Have you tried any sustainable products lately? Let us know! #sustainability #greentech
+
+### 22.06.2023 (announcement Grown)
 - 🚀👨‍💻 We're putting the finishing touches on the Grown platform before we wrap up developments for the next update. What features are you most excited to see on the platform? Share with us! #GrownPlatform #DevelopmentInProgress 💻👀
 
 ### 22.06.2023 (announcement)
