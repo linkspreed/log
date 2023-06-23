@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.06.2023 (announcement Pixly)
+- 🎉 Exciting news! We've just added Pixly to our subdomain system 🌟👏 Visit https://pixly.tk and get redirected to https://pixly.linkspreed.com without losing any data 🤩 Have you tried out our new platform yet? Let us know in the comments! #Pixly #Linkspreed #Subdomain #Upgrade
+
+### 23.06.2023 (announcement PinSec)
+- 🎉Exciting news!🎉 We just added our new PinSec platform to our subdomain system!🔒 🔐If you use https://pinsec.tk, don't worry, you'll be redirected to https://pinsec.linkspreed.com seamlessly.🚀 Do you have any questions about PinSec?🤔 #cybersecurity #security #tech
+
+### 23.06.2023 (announcement PinPix)
+- 🎉Exciting news! We just added our PinPix platform to our subdomain system! 🔗Check it out at https://pinpix.linkspreed.com, but don't worry, nothing changes in your usage. It's just a technical upgrade in the background. Have you tried it yet? #PinPix #subdomain #upgrade 🤔
+
+### 23.06.2023 (announcement Petabyte)
+- 🎉 Exciting news! 📢 We've just added our platform Petabyte to our subdomain system! 🔍 Check it out on https://petabyte.ml which will now redirect you to https://petabyte.linkspreed.com 🌐 No changes for you, just some technical improvements in the background! 🤓 Are you excited to keep using it? Let us know! #Petabyte #Data #TechUpdates 🐾
+
+### 23.06.2023 (announcement Peek)
+- 🎉 Exciting news! We've just added Peek to our subdomain system 🚀 Check out https://peek.ml which now redirects you to https://peek.linkspreed.com. Don't worry, your data is safe and everything works the same as before. Have you tried Peek yet? #subdomains #dataanalytics 💻📈
+
+### 23.06.2023 (announcement Paycount)
+- 🎉 Exciting news! We've just added Paycount to our subdomain system 🙌 Now, https://paycount.cf will redirect you to https://paycount.linkspreed.com. Don't worry, your data will stay the same 🤝 Have you tried Paycount yet? Let us know below! #Paycount #Subdomain #Linkspreed
+
 ### 23.06.2023 (announcement)
 - 🚀🧪 Exciting news! We're working on a new crazy test project that will blow your mind! 🔥 Stay tuned for updates and let us know in the comments what kind of project you would like to see us tackle next! 🤔 #Testing #Innovation #NewProject
 
