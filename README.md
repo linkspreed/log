@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.06.2023 (announcement Grown)
+- 🚀👨‍💻 Hey, Grown community! We're currently working on a new update for our platform and we can't wait to share it with you! What new features would you like to see included in this update? Let us know in the comments below! 💬 #GrownUpdates #StayTuned 🌱
+
 ### 22.06.2023 (announcement Linkspreed Search)
 - 🔍🌐👀 Exciting news! We've just launched our new search engine, Linkspreed Search! 🎉🚀🙌 Check it out at https://search.linkspreed.com and let us know what you think! 💭🤔 Keep an eye on our social media for more updates and features. What's your favorite search engine? #LinkspreedSearch #NewSearchEngine #ExploreMore
 
