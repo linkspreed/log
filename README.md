@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.06.2023 (announcement)
+- 🚀🧪 Exciting news! We're working on a new crazy test project that will blow your mind! 🔥 Stay tuned for updates and let us know in the comments what kind of project you would like to see us tackle next! 🤔 #Testing #Innovation #NewProject
+
 ### 23.06.2023 (announcement Grown)
 - 🚀👨‍💻 Hey, Grown community! We're currently working on a new update for our platform and we can't wait to share it with you! What new features would you like to see included in this update? Let us know in the comments below! 💬 #GrownUpdates #StayTuned 🌱
 
