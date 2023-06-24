@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.06.2023 (announcement)
+- 🤔🔬👨‍🔬 Curious minds at work! We're exploring the possibilities of combining Oracle products with Linkspreed. Have you ever tried this combo before? Share your thoughts and experiences with us! #Oracle #Linkspreed #techexperiment #collaboration 💻🚀
+
 ### 23.06.2023 (announcement Pixly)
 - 🎉 Exciting news! We've just added Pixly to our subdomain system 🌟👏 Visit https://pixly.tk and get redirected to https://pixly.linkspreed.com without losing any data 🤩 Have you tried out our new platform yet? Let us know in the comments! #Pixly #Linkspreed #Subdomain #Upgrade
 
