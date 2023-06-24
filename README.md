@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.06.2023 (announcement Podhub)
+- 🚨 Big news! 🚨 We've just added Podhub to our subdomain system! 🎉👏🏼 Now https://podhub.cf will redirect you to https://podhub.linkspreed.com. Don't worry, your experience won't change at all, it's just a technical update. 🤓 Have you checked out Podhub yet? Let us know! #Podcast #TechUpdate #Linkspreed 🎙️📈
+
+### 24.06.2023 (announcement Poddy)
+- 🎉Exciting news - we've added Poddy to our subdomain system!🎧🎙️💻🌐 Visit https://poddy.tk to be redirected to https://poddy.linkspreed.com, but don't worry, nothing changes for you in terms of platform usage or data. Have you tried using Poddy yet? #Podcast #Subdomain #Linkspreed #Tech #Data 🤔
+
+### 24.06.2023 (announcement Plop)
+- 🎉 Exciting news! We just added Plop to our subdomain system 🚀 Now, when you visit https://plop.tk, you'll be redirected to https://plop.linkspreed.com. Don't worry, everything will work the same way as before, we just made some technical updates in the background 🔧 Have you already tried it out? Let us know in the comments below! #PlopUpgrade #SubdomainSystem #Linkspreed 💻
+
+### 24.06.2023 (announcement Ples)
+- 🎉Exciting news!🎉 We've just added Ples to our subdomain system! 🔗 https://ples.ml now redirects to 🔗 https://ples.linkspreed.com. Don't worry, nothing changes for you, you can continue using the platform with all your existing data as usual. 😎 #Ples #Linkspreed #Subdomain #TechUpdate Any questions? 😉
+
 ### 24.06.2023 (announcement)
 - 🤔🔬👨‍🔬 Curious minds at work! We're exploring the possibilities of combining Oracle products with Linkspreed. Have you ever tried this combo before? Share your thoughts and experiences with us! #Oracle #Linkspreed #techexperiment #collaboration 💻🚀
 
