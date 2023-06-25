@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.06.2023 (announcement SkyUp)
+- 🌟Exciting news! We're pushing the boundaries of innovation with our latest project: SkyUp!🚀Today, we're experimenting with the @OracleCloud to see what new technologies we can bring to the project.💻What do you think will be the key to our success with SkyUp? #tech #innovation
+
+### 25.06.2023 (announcement)
+- 🚀📱 Exciting news: we're working on a super cool new project where anyone can create their own web app! 💻🌐 It's a long-term project, but we're already buzzing with ideas. Who's ready to join us on this journey? #WebApp #Innovation #TechProject 🤖👨‍💻 What kinds of web apps would you create?
+
 ### 25.06.2023 (announcement Realpin)
 - 🎉 Exciting news! 🎉 We've just added Realpin to our subdomain system 🚀🌟 Now, https://realpin.tk will redirect you to https://realpin.linkspreed.com - but don't worry, your experience won't change at all! 👍 Have you tried our Realpin platform yet? Let us know in the comments! 💬 #Realpin #Linkspreed #Subdomain #TechnicalUpgrade
 
