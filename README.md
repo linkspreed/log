@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.06.2023 (announcement Realpin)
+- 🎉 Exciting news! 🎉 We've just added Realpin to our subdomain system 🚀🌟 Now, https://realpin.tk will redirect you to https://realpin.linkspreed.com - but don't worry, your experience won't change at all! 👍 Have you tried our Realpin platform yet? Let us know in the comments! 💬 #Realpin #Linkspreed #Subdomain #TechnicalUpgrade
+
+### 25.06.2023 (announcement Quika)
+- 🎉 Big news! Quika has been added to our subdomain system. 🚀 Head to https://quika.tk which now directs you to https://quika.linkspreed.com. Don't worry, everything remains the same in terms of usability and data. 👍 Have you used Quika before? Let us know in the comments! #Quika #SubdomainUpdate #Linkspreed
+
+### 25.06.2023 (announcement Quexy)
+- 🎉 Exciting news 🎉 We just added Quexy to our subdomain system! Now, when you visit https://quexy.cf, you'll be redirected to https://quexy.linkspreed.com! Don't worry, everything will work just as it did before. Any questions? #QuexyUpdates 💻👀
+
+### 25.06.2023 (announcement QRMe)
+- 🚨Exciting news!🚨We've just added QRMe to our subdomain system! 🔗https://qrme.cf now redirects to 🔗https://qrme.linkspreed.com. Don't worry, your account will function normally with all your existing data. Have you tried using QRMe yet? #QRMe #Subdomain #Linkspreed 📲😎👨‍💻⚙️
+
+### 25.06.2023 (announcement Qizz)
+- 🎉 Exciting news! 🚨 We just added Qizz to our subdomain system! 🔗 Head over to https://qizz.linkspreed.com to continue using the platform with all your existing data. 🙌 Don't worry, nothing will change for you as a user. Have you tried Qizz yet? 💭 #qizz #linkspreed #subdomains #quiztime
+
+### 25.06.2023 (announcement Profilio)
+- 📣 Hey guys! Big news: we just added Profilio to our subdomain system 🎉. When you go to https://profilio.cf, you'll be redirected to https://profilio.linkspreed.com, but don't worry! Everything stays the same for you on the platform. Have you checked it out yet? Any questions? #Profilio #Linkspreed #Subdomain #Updates 🤔❓
+
 ### 24.06.2023 (announcement Podhub)
 - 🚨 Big news! 🚨 We've just added Podhub to our subdomain system! 🎉👏🏼 Now https://podhub.cf will redirect you to https://podhub.linkspreed.com. Don't worry, your experience won't change at all, it's just a technical update. 🤓 Have you checked out Podhub yet? Let us know! #Podcast #TechUpdate #Linkspreed 🎙️📈
 
