@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 26.06.2023 (announcement Linkspreed Search)
+- 📱🚀 Our team has been making incredible strides in developing the android app for Linkspreed Search! We can't wait to share it with all of you in the coming days and weeks. Who's excited to try it out? 🙋‍♀️🙋‍♂️ #LinkspreedSearch #AndroidApp #ExcitingUpdates
+
+### 26.06.2023 (announcement Linkspreed Search)
 - 📱👨‍💻 We're currently developing the Android app for Linkspeed Search! 🚀 Stay tuned for updates and get ready to take your searches to the next level 🔍💪 Have you tried our web version yet? Let us know in the comments! #LinkspeedSearch #AndroidApp #SearchEngine
 
 ### 26.06.2023 (announcement Grown)
