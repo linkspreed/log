@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.06.2023 (announcement Showit)
+- 🎉BIG NEWS🎉 Showit is now a part of our subdomain system!🤩👀💻 But don't worry, nothing changes for you 😉👍 All your existing data is safe and you can continue to use the platform as you normally would. Have you checked out our new link?👀 #Showit #Linkspreed #Webdesign. What do you think about this change? 🔎↩️
+
+### 26.06.2023 (announcement Shortrack)
+- 📢 Exciting news, everyone! 🎉 We've added Shortrack to our subdomain system, which means https://shortrack.tk now redirects to https://shortrack.linkspreed.com! 🚀 But don't worry, you can still use the platform as usual with all your existing data. 👍 Have you tried it yet? 🤔 #Shortrack #Linkspreed #Subdomain #NewFeature
+
+### 26.06.2023 (announcement Shortcut)
+- 🎉Exciting news! We've just added a shortcut to our subdomain system! 🔗https://shortcut.tk now redirects to https://shortcut.linkspreed.com. Nothing changes in terms of using the platform with all your existing data as usual. Have you tried it out yet? #Shortcut #Subdomain
+
+### 26.06.2023 (announcement ShareNode)
+- 📢 Attention! We just added ShareNode to our subdomain system! 🔗 Head to https://sharenode.tk and get redirected to https://sharenode.linkspreed.com. 🤖 Don't worry, nothing changes - you can keep using the platform with all existing data. 🤩 Have you checked it out yet? #ShareNode #SubdomainSystem #Linkspreed #Interaction
+
+### 26.06.2023 (announcement Seedspreed)
+- 🌱🚀 Exciting news! We just added Seedspreed to our subdomain system 🎉🌐 With https://seedspreed.cf, you'll now be redirected to https://seedspreed.linkspreed.com. But don't worry, nothing changes for you! You can keep using the platform with all your existing data as usual. Have you tried it yet? #Seedspreed #Linkspreed #Subdomain #Update 💻🌿
+
+### 26.06.2023 (announcement Reply)
+- 🚀Exciting update!🚀 We've recently added Reply to our subdomain system! 🎉 Now, https://reply.cf will take you to https://reply.linkspreed.com. Don't worry, nothing changes for you! But, we'd love to know - Have you used Reply before? Let us know in the comments below! #Reply #Subdomain #Linking #Technology #Interactive
+
 ### 25.06.2023 (announcement SkyUp)
 - 🌟Exciting news! We're pushing the boundaries of innovation with our latest project: SkyUp!🚀Today, we're experimenting with the @OracleCloud to see what new technologies we can bring to the project.💻What do you think will be the key to our success with SkyUp? #tech #innovation
 
