@@ -3,6 +3,30 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 26.06.2023 (announcement Grown)
+- 🎉 Big news alert! 🎉 We just released the latest version of Grown - v3.0.0! 🚀💻 Exciting new features and improvements await you! 😍 Have you updated yet? Let us know in the comments! 👇 #Grown #NewRelease #TechUpdates 🤖💡
+
+### 26.06.2023 (announcement Grown)
+- https://github.com/linkspreed/Grown/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 26.06.2023 (announcement Grown)
+- The launch of version 3.0.0 of **Grown** was successful! 🥳
+- The new update is live now :)
+- https://grown.tk 🔗
+
+### 26.06.2023 (announcement Grown)
+- We are now starting the launch of v3.0.0.
+
+### 26.06.2023 (announcement Grown)
+- The servers are now ready for the launch of version 3.0.0 for **Grown**.
+
+### 26.06.2023 (announcement Grown)
+- The code is now ready for the launch of version 3.0.0 for **Grown**.
+
+### 26.06.2023 (announcement Grown)
+-  **Grown** gets a big update today - we are going to launch v3.0.0. 😍
+
+### 26.06.2023 (announcement Grown)
 - 👀 Hey there, Grown enthusiasts! We're currently putting in major work on our platform, fine-tuning every element to make it even better for you! 💪💻 What are some features you're most excited about? Let us know in the comments! #Grown #PlatformImprovements #CommunityFeedback 🌱
 
 ### 26.06.2023 (announcement Showit)
