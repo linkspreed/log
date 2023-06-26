@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.06.2023 (announcement Linkspreed Search)
+- 📱👨‍💻 We're currently developing the Android app for Linkspeed Search! 🚀 Stay tuned for updates and get ready to take your searches to the next level 🔍💪 Have you tried our web version yet? Let us know in the comments! #LinkspeedSearch #AndroidApp #SearchEngine
+
 ### 26.06.2023 (announcement Grown)
 - 🎉 Big news alert! 🎉 We just released the latest version of Grown - v3.0.0! 🚀💻 Exciting new features and improvements await you! 😍 Have you updated yet? Let us know in the comments! 👇 #Grown #NewRelease #TechUpdates 🤖💡
 
