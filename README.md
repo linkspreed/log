@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 27.06.2023 (announcement Linkspreed Search)
+- 📱🔍📲 Hey there! Did you know that if you're using Linkspreed Search on your mobile device for the first time, you'll get a suggestion to download the official app? 🤔 Have you tried it out yet? Let us know in the comments! #LinkspreedSearch #mobileapp #download #userexperience
+
+### 27.06.2023 (announcement Linkspreed Search)
+- 📲🤖 Want to boost your Android device's search speed? Look no further than the Linkspreed Search App! 🚀 It's now available for download at https://search.linkspreed.com/app. Have you tried it yet? #Linkspreed #SearchApp #Android 🤔
+
+### 27.06.2023 (announcement Linkspreed Search)
 - 🚀 Hey folks! We're cooking up something special here 🔍📱 A landing page for the all-new Android app for Linkspreed Search! Stay tuned for updates and let us know what features you'd love to see in the app 🤔 #linkspreed #android #app #search #update
 
 ### 27.06.2023 (announcement Linkspreed Search)
