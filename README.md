@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.06.2023 (announcement Snippite)
+- 🎉Exciting update! We've added Snippite to our subdomain system 🌟Now, https://snippite.tk redirects to https://snippite.linkspreed.com. Don't worry, nothing changes for you in terms of using the platform with all existing data! Have you checked out the new features? #Snippite #Linkspreed #Subdomains 💻📱💡What do you love most about Snippite?
+
+### 27.06.2023 (announcement Snaplink)
+- 🎉 Great news! We've just added Snaplink to our Subdomain system 🔗 https://snaplink.tk now redirects you to https://snaplink.linkspreed.com. Don't worry, everything will stay the same for you and you can keep using the platform as usual 🤝 Do you have any questions? #Snaplink #Subdomain #Linkspreed
+
+### 27.06.2023 (announcement Smartpix)
+- 🚨 Big announcement! 🚨 We've just added Smartpix to our subdomain system! 😍🙌 You can now be redirected to https://smartpix.linkspreed.com through https://smartpix.cf without any changes to your usage. 💻📱 Have you tried it out yet? Let us know your experience in the comments below! 👇 #Smartpix #Linkspreed #Subdomain #Technology #Updates.
+
+### 27.06.2023 (announcement Slurch)
+- 🎉Exciting news! 🎉 We just added Slurch to our Subdomain system. 🔗 https://slurch.tk now forwards to 🔗 https://slurch.linkspreed.com. But no worries, your user experience and all data remain the same. Have you used Slurch before? What has been your experience? #Slurch #Subdomains #Linkspreed 🤔
+
+### 27.06.2023 (announcement Slinky)
+- 🎊Great news! We’ve just added Slinky to our subdomain system! 🔗Slinky.ml now redirects to https://slinky.linkspreed.com, but don't worry, everything will work the same!🤝 Have you already tried out Slinky? Let us know! #subdomains #techupdate 🤖👨‍💻👩‍💻
+
+### 27.06.2023 (announcement Sitespace)
+- 🚀 Exciting News 🚀 We've just added Sitespace to our Subdomain System!🎉👏 🔗 https://sitespace.tk now redirects to https://sitespace.linkspreed.com, but don't worry, your data remains the same.👌😍 Have you noticed any changes? Let us know!🤔 #Sitespace #Subdomain #Linkspreed #Technology
+
 ### 26.06.2023 (announcement Linkspreed Search)
 - 📱🚀 Our team has been making incredible strides in developing the android app for Linkspreed Search! We can't wait to share it with all of you in the coming days and weeks. Who's excited to try it out? 🙋‍♀️🙋‍♂️ #LinkspreedSearch #AndroidApp #ExcitingUpdates
 
