@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.06.2023 (announcement Linkspreed Search)
+- 🚀📱Our team is on the move! We're currently working on enhancing the Android app for Linkspread Search, and we can't wait to show you the results🙌🏼👀 Are you excited to see what's next for our app? Let us know in the comments! #LinkspreadSearch #AndroidUpdate #AppDevelopment
+
 ### 27.06.2023 (announcement Snippite)
 - 🎉Exciting update! We've added Snippite to our subdomain system 🌟Now, https://snippite.tk redirects to https://snippite.linkspreed.com. Don't worry, nothing changes for you in terms of using the platform with all existing data! Have you checked out the new features? #Snippite #Linkspreed #Subdomains 💻📱💡What do you love most about Snippite?
 
