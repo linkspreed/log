@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.06.2023 (announcement Start2up)
+- 🚀 Exciting news! We just added Start2Up to our subdomain system. Check it out at 👉 https://start2up.tk 👈 It now redirects you to 👉 https://start2up.linkspreed.com 👈 Don't worry, nothing changes for you - same platform, same data! 😊 Have you tried it yet? #Start2Up #NewRedirect 🌐
+
+### 28.06.2023 (announcement Spypy)
+- 📢 Exciting news! We just added Spypy to our Subdomain system! 🎉🔐 Check out https://spypy.cf which now redirects you to https://spypy.linkspreed.com. 🌐 Don't worry, nothing changes for you while using the platform. It's just a technical update in the background. 🖥️🔒 Ready to explore? Any cool features you're excited to try? #SpypyUpdate #EnhancedSecurity 😎🔍🔒
+
+### 28.06.2023 (announcement Soundchest)
+- 🚀 Exciting news! 🎉 We've just added Soundchest to our subdomain system! ✨💻🎧 Now, when you visit https://soundchest.cf, you'll be redirected to the new link https://soundchest.linkspreed.com. Don't worry, everything will remain the same for you, just a technical background update! 😊👍 Still, have any questions? Drop them below! 👇 #SoundchestUpdate #NewLink #SameGreatPlatform
+
+### 28.06.2023 (announcement Snoogie)
+- 🚀 We're thrilled to announce that our subdomain system just got an upgrade! 🎉🔧 Visit https://snoogie.tk, and it will now redirect you to https://snoogie.linkspreed.com. Don't worry, nothing changes for you in terms of usability! Keep enjoying our platform as usual. 😊 Have you checked it out yet? #SubdomainUpgrade #Snoogie
+
 ### 27.06.2023 (announcement Linkspreed Search)
 - 📱🔍📲 Hey there! Did you know that if you're using Linkspreed Search on your mobile device for the first time, you'll get a suggestion to download the official app? 🤔 Have you tried it out yet? Let us know in the comments! #LinkspreedSearch #mobileapp #download #userexperience
 
