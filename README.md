@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.06.2023 (announcement)
+- 🧠 Brainstorming time! 🌟 We're working on marketing our awesome products - L2B and LinkSpeed Franchise. 🚀✨ How about we hit the streets with a fun guerrilla campaign? 🤔💡 Have any cool ideas? Share them with us! 👇 #MarketingMagic #StayCreative
+
 ### 29.06.2023 (announcement Tasksboard)
 - 🎉 Hey fellow Taskers! Exciting news! We've just added Tasksboard to our Subdomain system 🚀 Check it out: https://tasksboard.tk now redirects you to https://tasksboard.linkspreed.com. But don't worry, nothing changes for you in terms of platform usage or data 📊🗂️ So, can you spot any differences? Let us know! #TasksboardUpdates #SmoothTransition
 
