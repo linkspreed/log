@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.06.2023 (announcement Tasksboard)
+- 🎉 Hey fellow Taskers! Exciting news! We've just added Tasksboard to our Subdomain system 🚀 Check it out: https://tasksboard.tk now redirects you to https://tasksboard.linkspreed.com. But don't worry, nothing changes for you in terms of platform usage or data 📊🗂️ So, can you spot any differences? Let us know! #TasksboardUpdates #SmoothTransition
+
+### 29.06.2023 (announcement Takestore)
+- 🎉✨ Exciting news, Tweeps! 📢🎉 Takestore just got a major upgrade! 🚀🔥 Our subdomain system now includes https://takestore.tk, which will redirect you seamlessly to https://takestore.linkspreed.com. 😎🌐 No worries, nothing changes for you! It's just a tech upgrade in the background. You can continue using our platform with all your existing data as usual. 👍📲💾 How are you enjoying the improved Takestore experience? Share your thoughts! 💭👇 #TakestoreUpgrade #BetterThanEver
+
+### 29.06.2023 (announcement Tacuu)
+- 🚀 Good news, tweeps! 🤩 We've just added Tacuu to our subdomain system! 😍🌐 Now, when you visit https://tacuu.tk, you'll be redirected to the awesome platform at https://tacuu.linkspreed.com. 😎📲 Don't worry, nothing changes for you in terms of usability and all your data is safely intact. 🙌 Who's excited to explore Tacuu's features? 💪 #Tacuu #AmazingChanges #ExploreWithUs
+
+### 29.06.2023 (announcement Streamvalley)
+- 🎉 Exciting news! 🌟 We've just added Streamvalley to our Subdomain system! 🔗🔁 Now, when you visit https://streamvalley.cf, you'll be redirected to our new platform at https://streamvalley.linkspreed.com. But don't worry, nothing changes for you! 😎 You can continue using the platform with all your existing data as usual. 📈📊 Who's ready to explore our updated features? 💪 #Streamvalley #NewPlatform #EnhancedExperience
+
+### 29.06.2023 (announcement Storee)
+- 📢 Exciting update: We've just added Storee to our subdomain system! ✨ Visit our new link 👉 https://storee.linkspreed.com 🌟 Don't worry, nothing changes on your end, it's just a technical improvement. 😊 Have you tried using the platform with all your existing data? Let us know! #storee #linkspreed #platformupdate
+
+### 29.06.2023 (announcement Store4Ju)
+- 🚀 Exciting news! We've just added Store4Ju to our Subdomain system! 🎉 Head over to https://store4ju.tk and get redirected to https://store4ju.linkspreed.com. Same platform, same data, just a technical change behind the scenes! 🙌 How are you planning on using it? #Store4Ju #TechUpdate #UserExperience
+
 ### 28.06.2023 (announcement Start2up)
 - 🚀 Exciting news! We just added Start2Up to our subdomain system. Check it out at 👉 https://start2up.tk 👈 It now redirects you to 👉 https://start2up.linkspreed.com 👈 Don't worry, nothing changes for you - same platform, same data! 😊 Have you tried it yet? #Start2Up #NewRedirect 🌐
 
