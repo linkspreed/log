@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.06.2023 (announcement)
+- 🌐 We're working on a groundbreaking transparent contract to take the market by storm with L2B in the future! 🚀📝💼 Can't wait to share more details with you all! What features do you think should be included in this contract? Share your ideas! #TransparentContract #L2BMarketEntry
+
+### 29.06.2023 (announcement L2B)
+- 🚀🔍 Hey there! We're thrilled to announce our latest project: an innovative L2B (linkspreed to Business) product focused on AI-generated content! 🤖✨ Are you curious about how this cutting-edge technology can revolutionize your business? Drop us a line and let's chat! 💬👇 #AI #L2B #Innovation #FutureOfWork
+
+### 29.06.2023 (announcement)
 - 🧠 Brainstorming time! 🌟 We're working on marketing our awesome products - L2B and LinkSpeed Franchise. 🚀✨ How about we hit the streets with a fun guerrilla campaign? 🤔💡 Have any cool ideas? Share them with us! 👇 #MarketingMagic #StayCreative
 
 ### 29.06.2023 (announcement Tasksboard)
