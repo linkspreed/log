@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.06.2023 (announcement)
+- 🎉Calling all developers and franchisees! 🚀 We're super excited to share that we're working on a groundbreaking project at Linkspreed Franchise! 🔥🌟 Although it's in the early development stage and not publicly available yet, we can't wait to bring it to you! Stay tuned for updates! 😍📲 #Innovation #ComingSoon #LinkspreedFranchise
+
 ### 30.06.2023 (announcement Teamspreed)
 - 🌐🔃Exciting news! We've just added Teamspreed to our Subdomain system! Check it out at teamspreed.cf, now redirecting you to teamspreed.linkspreed.com. Don't worry, everything remains the same on the platform, just a technical change in the background. 🚀🔧
 
