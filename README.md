@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.06.2023 (announcement Teamspreed)
+- 🌐🔃Exciting news! We've just added Teamspreed to our Subdomain system! Check it out at teamspreed.cf, now redirecting you to teamspreed.linkspreed.com. Don't worry, everything remains the same on the platform, just a technical change in the background. 🚀🔧
+
+### 30.06.2023 (announcement Teamslite)
+- 🌐 Exciting news! 🎉 We've just added Teamslite to our Subdomain system! 😍🚀 Now, when you visit https://teamslite.tk, you'll be redirected to https://teamslite.linkspreed.com. Don't worry, nothing changes in terms of your data and platform usage! 😊🔒💪 Have you already tried it out? Let us know your experience in the comments below! 👇 #Teamslite #Updates
+
+### 30.06.2023 (announcement Teamix)
+- 🚀 Exciting news! We've just added #Teamix to our Subdomain system! Visit our new link 👉 https://teamix.linkspreed.com 👈 Nothing changes for you on the surface - keep enjoying the platform seamlessly! 👥 Have you checked out the new features yet? #TeamixUpgrade
+
+### 30.06.2023 (announcement Taya)
+- 🎉 Exciting news! We just added Taya to our Subdomain system! 🌐➡️ No worries, though, https://taya.cf will now redirect you to https://taya.linkspreed.com seamlessly. 💻✨ So, what else can you do? Have a blast exploring the platform and making the most of your existing data! 🚀💪 #Taya #Subdomain #SeamlessTransition Question: Have you tried out the new platform yet? 😊
+
 ### 29.06.2023 (announcement)
 - 🌐 We're working on a groundbreaking transparent contract to take the market by storm with L2B in the future! 🚀📝💼 Can't wait to share more details with you all! What features do you think should be included in this contract? Share your ideas! #TransparentContract #L2BMarketEntry
 
