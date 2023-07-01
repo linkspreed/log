@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.07.2023 (announcement Toolkit)
+- 🚀 Exciting update! 🎉 We've just added a new toolkit to our subdomain system. 🔧🌐🔍 Now, instead of using https://toolkit.gq, you'll be redirected to our upgraded platform at https://toolkit.linkspreed.com. 😍✨ Don't worry, everything remains the same while being more technically advanced! 🤓💻 Have you already explored the toolkit? 🧐 #NewToolkit #UpgradeTime #SameGreatExperience
+
+### 01.07.2023 (announcement Tizza)
+- 🎉🌐 Exciting news, folks! We've just added Tizza to our Subdomain system! 😎✨🔀 Check it out ➡️ https://tizza.tk, which now redirects you to https://tizza.linkspreed.com. Same fantastic platform, just a technical upgrade in the background. 🖥️💯 #SubdomainSystem #UpgradeQuestion: Have you already explored our enhanced Tizza experience? Let us know what you think! 😊✍️👇
+
+### 01.07.2023 (announcement Textpad)
+- 📢 Exciting news, peeps! We just added Textpad to our subdomain system! 🎉🔗💻 Now, when you visit https://textpad.cf, you will be redirected to our new platform at https://textpad.linkspreed.com. 🔄🚀 Don't worry, everything stays the same for you. 🙌📝 Have you checked it out yet? #Textpad #NewPlatform #SameGreatFeatures 🤔
+
+### 01.07.2023 (announcement Teamy)
+- 🎉 Exciting news! 🎉 We just added Teamy to our Subdomain system 🛠️🔧 Now https://teamy.tk directs you to https://teamy.linkspreed.com. Same incredible platform, just a small technical update in the background 🌟✨ So, worry not! 🤗 Tell us, have you explored all the features in Teamy yet? 🤔 #TeamyUpdate #SameGreatPlatform
+
 ### 30.06.2023 (announcement)
 - 🎉Calling all developers and franchisees! 🚀 We're super excited to share that we're working on a groundbreaking project at Linkspreed Franchise! 🔥🌟 Although it's in the early development stage and not publicly available yet, we can't wait to bring it to you! Stay tuned for updates! 😍📲 #Innovation #ComingSoon #LinkspreedFranchise
 
