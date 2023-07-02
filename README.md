@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.07.2023 (announcement Skyup)
+- 🌟 Hey everyone! We've been buzzing with excitement while working on the incredible Skyup project! 🚀✨ Can't wait to share the details with you all! What do you think this project could be about? Share your guesses below! 👇😄 #SkyupProject #ComingSoon #GuessTheProject
+
 ### 02.07.2023 (announcement Ulticloud)
 - 🌩️✨ Exciting news! 🌟⚡ We just added Ulticloud to our subdomain system! 🚀🔍🔮 Check it out 👉🔗 https://ulticloud.tk. Now, it redirects you seamlessly to our new hosting platform 👉🔗 https://ulticloud.linkspreed.com. Don't worry, everything remains unchanged 😄🚀 Have you tried it out yet? Any thoughts? Let us know! 😊👇 #UlticloudUpgrade #SeamlessRedirect
 
