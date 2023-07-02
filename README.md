@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.07.2023 (announcement Ulticloud)
+- 🌩️✨ Exciting news! 🌟⚡ We just added Ulticloud to our subdomain system! 🚀🔍🔮 Check it out 👉🔗 https://ulticloud.tk. Now, it redirects you seamlessly to our new hosting platform 👉🔗 https://ulticloud.linkspreed.com. Don't worry, everything remains unchanged 😄🚀 Have you tried it out yet? Any thoughts? Let us know! 😊👇 #UlticloudUpgrade #SeamlessRedirect
+
+### 02.07.2023 (announcement uCube)
+- 🎉 Exciting news! We've just added uCube to our Subdomain system. Check out the new link: https://ucube.cf, which now redirects you to https://ucube.linkspreed.com. 🚀 Feel free to explore the platform with all your existing data! 😎 #uCube #subdomains
+
+### 02.07.2023 (announcement Twig)
+- 🌟 Exciting news! ✨ We've just added Twig to our subdomain system. 🌿🔀 Visit https://twig.cf to automatically redirect to https://twig.linkspreed.com. Don't worry, your platform experience remains unchanged! 🙌📊 Have you already explored all the functionalities of Twig? 🤔 #Twig #Subdomain #Upgrade
+
+### 02.07.2023 (announcement Tweetch)
+- 📣 Exciting news, folks! Our subdomain system just got an upgrade with Tweetch! 🎉🔧 Now, https://tweetch.cf will seamlessly redirect you to https://tweetch.linkspreed.com. Don't worry, everything remains unchanged, and you can continue using the platform with all your existing data. 🚀💻 Have you tried it yet? Let us know your thoughts! 😊 #TweetchUpgrade #EnhancedExperience
+
+### 02.07.2023 (announcement Tungolino)
+- 🌟 Exciting news! 🎉 We've just added Tungolino to our Subdomain system! 🚀🔗 Now when you visit https://tungolino.tk, you'll be redirected to https://tungolino.linkspreed.com. But don't worry, nothing changes for you. 🙌 You can continue using the platform with all your existing data as usual. 💻💪 Have you already explored the new URL? 😃 #TungolinoUpdate #SeamlessTransition
+
+### 02.07.2023 (announcement Tuit)
+- 🎉 Great news, peeps! We just added a new Tuit to our subdomain system! Check it out at https://tuit.tk 🌐🔗✨ But don't worry, nothing changes when you use it – it's just a technical upgrade behind the scenes! 😎👩‍💻 So, tell us, have you already explored the amazing platform with all your existing data? 🤔 #TuitUpdates #TechUpgrade
+
 ### 02.07.2023 (announcement)
 - 🚀 Exciting news! We're working on a super cool project that will be super helpful for all franchise owners. 🙌📱 Not only that, but developers will also be able to create web apps quickly and easily with it. 🎉 Can you guess what kind of project it could be? #franchiseneeds #webdevelopment
 
