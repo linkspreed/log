@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.07.2023 (announcement)
+- 🚀 Exciting news! We're working on a super cool project that will be super helpful for all franchise owners. 🙌📱 Not only that, but developers will also be able to create web apps quickly and easily with it. 🎉 Can you guess what kind of project it could be? #franchiseneeds #webdevelopment
+
 ### 01.07.2023 (announcement Toolkit)
 - 🚀 Exciting update! 🎉 We've just added a new toolkit to our subdomain system. 🔧🌐🔍 Now, instead of using https://toolkit.gq, you'll be redirected to our upgraded platform at https://toolkit.linkspreed.com. 😍✨ Don't worry, everything remains the same while being more technically advanced! 🤓💻 Have you already explored the toolkit? 🧐 #NewToolkit #UpgradeTime #SameGreatExperience
 
