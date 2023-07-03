@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.07.2023 (announcement Skyup)
+- Just had a mind-blowing day experimenting with VPS servers for our awesome project Skyup! 🚀✨ Wanna know more about VPS and how it can level up your projects? Share your thoughts and experiences with us! #VPS #serverlove #Skyup 😎🌐🖥️ What's your most memorable server moment? 🤔
+
+### 03.07.2023 (announcement Skyup)
+- 🌟 Exciting progress at #ProjectSkyup today! 😄✨ We're thrilled to share that we've achieved significant development milestones, paving the way for success! 🚀🔥 However, there's still a long journey ahead. Any guesses on what this secret project could be? 🕵️‍♀️🤔 #StayTuned #BigRevealComingSoon
+
 ### 03.07.2023 (announcement Web5)
 - 🌐 Exciting news! We've added #Web5 to our subdomain system. Check out the new link: https://web5.linkspreed.com 🚀 Don't worry, nothing changes for you! It's all happening seamlessly in the background. 👩‍💻👨‍💻 Have you already explored the enhanced platform? Let us know! #Upgrade #WeAreHereForYou
 
