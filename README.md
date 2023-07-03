@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.07.2023 (announcement Web5)
+- 🌐 Exciting news! We've added #Web5 to our subdomain system. Check out the new link: https://web5.linkspreed.com 🚀 Don't worry, nothing changes for you! It's all happening seamlessly in the background. 👩‍💻👨‍💻 Have you already explored the enhanced platform? Let us know! #Upgrade #WeAreHereForYou
+
+### 03.07.2023 (announcement UpNode)
+- 🚀 Exciting news! We just added UpNode to our subdomain system! 😍🌐 Check out our updated link: https://upnode.linkspreed.com. Don't worry, everything remains the same for you - just a technical upgrade! 🙌🔧 Feel free to continue using the platform with all your existing data. 📊💻 Any thoughts on this update? #UpNodeUpgrade #TechRevamp
+
+### 03.07.2023 (announcement UpDown)
+- 📢 Exciting news! 🚀 We've just added UpDown to our Subdomain system! 😎🔗 Now, when you visit https://updown.ml, you'll be redirected to https://updown.linkspreed.com. Rest assured, nothing changes for you - it's all happening seamlessly in the background! 🔄💻✨ Have you already tried it out? Let us know your experience! 😊 #UpDownUpdate #SeamlessIntegration
+
+### 03.07.2023 (announcement Up2Date)
+- 📢🌐 Exciting news! 🥳 We've just added Up2Date to our Subdomain system! 👏🔝 Now, when you visit https://up2date.cf, you'll be redirected to our new domain https://up2date.linkspreed.com. Don't worry, nothing changes for you! 💻✨ Your platform experience remains the same with all your existing data. 📊📁 Have you noticed the seamless transition? Let us know! 😄👇 #Up2Date #NewDomain #SameExperience #Feedback
+
 ### 02.07.2023 (announcement Skyup)
 - 🌟 Hey everyone! We've been buzzing with excitement while working on the incredible Skyup project! 🚀✨ Can't wait to share the details with you all! What do you think this project could be about? Share your guesses below! 👇😄 #SkyupProject #ComingSoon #GuessTheProject
 
