@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.07.2023 (announcement)
+- 🚀 Our subdomain system is nearing completion as we're about to connect all our domains to the subdomain .linkspreed.com successfully. Today, we wrap up the setup and wish you continued joy in utilizing our free software capabilities. 🥳🎉 Have you explored our diverse range of tools? Which one is your favorite? #software #subdomains #tools
+
+### 04.07.2023 (announcement)
 - 📢 Exciting news! 🎉📅 Linkspreed is now on Calendly! 🙌🔗 Book your personal meeting with us using the link https://calendly.com/linkspreed. 🗓️✨ We'll be incorporating this link more often in the future... so stay tuned! 😉🚀 Have you already scheduled a meeting with us? #Linkspreed #Calendly #BookNow
 
 ### 03.07.2023 (announcement Skyup)
