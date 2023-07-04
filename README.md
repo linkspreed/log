@@ -3,6 +3,27 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.07.2023 (announcement)
+- 🚀 Exciting news! We've just completed the Subdomain System on linkspreed.com! 🎉 Stay tuned for more details on 06.07.2023. 🔍 Have you ever used subdomains? Share your experience and let us know your thoughts! #subdomains #linkspreed #webdevelopment
+
+### 04.07.2023 (announcement Zlit)
+- 🎉 Exciting news! We've just added Zlit to our Subdomain system! Check out the new link: https://zlit.tk, redirecting you to https://zlit.linkspreed.com. 🚀 Nothing changes for you while using the platform! It's just a technical upgrade in the background. 😎🔧 Question: Have you already tried out Zlit? Let us know your thoughts! #ZlitUpgrade #NewLink
+
+### 04.07.2023 (announcement Yourpod)
+- 📢 Exciting news! 🎉 YourPod just got added to our Subdomain system! 🚀 Check out our new link: https://yourpod.cf, which will now redirect you to https://yourpod.linkspreed.com. Don't worry, nothing changes in terms of functionality! 🙌🏼 Have you already explored the platform with all your existing data? Let us know! 😊 #YourPod #SubdomainUpdate
+
+### 04.07.2023 (announcement Write)
+- 📝✨ Exciting news, folks! We've just added Write to our Subdomain system! 🎉🔗 Now, https://write.cf will redirect you to https://write.linkspreed.com. Don't worry, nothing changes in your experience. It's all happening behind the scenes! 🌐🔧 So, are you ready to continue using our platform with all your existing data? Let us know! 😊👇 #WriteUpdates #UserExperience
+
+### 04.07.2023 (announcement Wrap)
+- 📢 Exciting news! 🎉 We just added Wrap to our Subdomain system. 🌐🔗 Now, https://wrap.gq will redirect you to https://wrap.linkspreed.com. No worries, everything stays the same for you! 🙌📊 Have you already tried it out? Let us know how it's going! 😊 #Wrap #Subdomain #Upgrade
+
+### 04.07.2023 (announcement Workspreed)
+- 📢 Exciting news! 🎉 We've just added Workspreed to our Subdomain system! 🔗🚀 Now, when you visit https://workspreed.tk, you'll be redirected to our new platform at https://workspreed.linkspreed.com. But don't worry, nothing changes for you! 😌🙌 You can continue using the platform with all your existing data. Have you tried it yet? Let us know! 😊 #Workspreed #Upgrade #NewPlatform
+
+### 04.07.2023 (announcement Write)
+- 🚀📝✨ Exciting news! We just relaunched our platform Write to fix the pesky 500 error on our website. But fear not, all your current data is safe and nothing has changed for you! 🎉💪💻 Have you noticed any improvements since the relaunch? Let us know! #WriteRelaunch #BugFix #Feedback
+
+### 04.07.2023 (announcement)
 - 🚀 Our subdomain system is nearing completion as we're about to connect all our domains to the subdomain .linkspreed.com successfully. Today, we wrap up the setup and wish you continued joy in utilizing our free software capabilities. 🥳🎉 Have you explored our diverse range of tools? Which one is your favorite? #software #subdomains #tools
 
 ### 04.07.2023 (announcement)
