@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.07.2023 (announcement)
+- 📢 Exciting news! 🎉📅 Linkspreed is now on Calendly! 🙌🔗 Book your personal meeting with us using the link https://calendly.com/linkspreed. 🗓️✨ We'll be incorporating this link more often in the future... so stay tuned! 😉🚀 Have you already scheduled a meeting with us? #Linkspreed #Calendly #BookNow
+
 ### 03.07.2023 (announcement Skyup)
 - Just had a mind-blowing day experimenting with VPS servers for our awesome project Skyup! 🚀✨ Wanna know more about VPS and how it can level up your projects? Share your thoughts and experiences with us! #VPS #serverlove #Skyup 😎🌐🖥️ What's your most memorable server moment? 🤔
 
