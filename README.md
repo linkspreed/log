@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.07.2023 (announcement)
+- 🔨📱 Working hard on our latest project for Linkspreed Franchise, developers, and other models! 🚀🔧 What features would you love to see in this app? Share your ideas using #AppBuildingProjekt 🤩💡 #Linkspreed #TechTalk
+
 ### 04.07.2023 (announcement)
 - 🚀 Exciting news! We've just completed the Subdomain System on linkspreed.com! 🎉 Stay tuned for more details on 06.07.2023. 🔍 Have you ever used subdomains? Share your experience and let us know your thoughts! #subdomains #linkspreed #webdevelopment
 
