@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 05.07.2023 (announcement)
+- 🧪📱 Hey everyone! Guess what? We're cooking up something super cool here at Linkspreed! 🤫🔥 Our top-secret App Generator is in full swing! 🚀✨ Have any ideas for the kind of app you'd love to see? Share your thoughts below! ✍️💡 #AppGenerator #SecretProject 
+
+### 05.07.2023 (announcement Skyup)
+- 🌟 Newsflash! Our team is blazing ahead with our powerful project Skyup! 🚀✨ We're taking flight towards new horizons! What features would you love to see in this epic project? Share your ideas with us! #SkyupProject #InnovationJourney ✨🌌
+
+### 05.07.2023 (announcement)
 - 🔨📱 Working hard on our latest project for Linkspreed Franchise, developers, and other models! 🚀🔧 What features would you love to see in this app? Share your ideas using #AppBuildingProjekt 🤩💡 #Linkspreed #TechTalk
 
 ### 04.07.2023 (announcement)
