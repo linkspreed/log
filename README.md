@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.07.2023 (announcement Skyup)
+- 🚀 We're thrilled to announce that we're finally launching our project #Skyup on real live servers! 🌟 This brings us one step closer to a major milestone... Are you as excited as we are? 😁✨ #technews #development
+
+### 05.07.2023 (announcement)
+- 🔍📝 Today, we dove deep into B2B SaaS contracts, brainstorming ways to make them ultra-transparent for you! 🤝💼 What features or details would make a contract feel crystal clear and user-friendly to you? Share your thoughts! #B2BSaaS #TransparencyMatters
+
 ### 05.07.2023 (announcement)
 - 🧪📱 Hey everyone! Guess what? We're cooking up something super cool here at Linkspreed! 🤫🔥 Our top-secret App Generator is in full swing! 🚀✨ Have any ideas for the kind of app you'd love to see? Share your thoughts below! ✍️💡 #AppGenerator #SecretProject 
 
