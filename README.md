@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.07.2023 (announcement L2B)
+- We're making progress to ensure L2B contracts are as transparent as possible, right from the start! 🚀🔍 Have you ever had a transparent contract experience before? Share your stories! 😄✍️ #TransparentContracts #L2BLaunch #ShareYourExperience
+
 ### 06.07.2023 (announcement)
 - 🚀 We're super excited to keep working on our app building project! 📲 Stay tuned for some amazing updates coming your way! ✨ What features would you like to see in our app? Share your ideas! 💡 #appdevelopment #comingsoon
 
