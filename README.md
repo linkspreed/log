@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.07.2023 (announcement)
+- 🚀 We're super excited to keep working on our app building project! 📲 Stay tuned for some amazing updates coming your way! ✨ What features would you like to see in our app? Share your ideas! 💡 #appdevelopment #comingsoon
+
 ### 05.07.2023 (announcement Skyup)
 - 🚀 We're thrilled to announce that we're finally launching our project #Skyup on real live servers! 🌟 This brings us one step closer to a major milestone... Are you as excited as we are? 😁✨ #technews #development
 
