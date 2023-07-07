@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.07.2023 (announcement FL-APP_171)
+- 🚀📱 Big news! We've made significant progress on our FL-APP_171 project today! 🙌🎉 Our team has been working tirelessly to develop this amazing app. Can't wait to share more details with you! What features would you like to see in our app? #FLAPP171 #AppDevelopment
+
 ### 06.07.2023 (announcement Skyup)
 - 🚀 We're tirelessly working on Project Skyup! 🌌 Our team is brainstorming innovative ideas to take it to new heights! 🙌 Exciting updates coming soon! Stay tuned! 🔥💡✨ Tell us, what features would you like to see in this futuristic project? 🛸🤔 #ProjectSkyup #InnovationInProgress
 
