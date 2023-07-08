@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.07.2023 (announcement)
+- 🎉 Hey there! Guess what? 🤔 We're currently working on an incredible AI tool that will blow your mind! 🚀🤩 Stay tuned to discover how this revolutionary technology will enhance your life. What features would you like to see in this tool? Share your ideas below! 👇 #AIToolInProgress #ExcitingTimes
+
+### 08.07.2023 (announcement FL-APP_171)
+- 🚀 Hey everyone! 🌟 The entire team is working diligently on Project FL-APP_171. 🤓👩‍💻 Any thoughts or suggestions on how we can make this app amazing? Share your ideas using #ProjectFLAPP171! 💡📱 Let's collaborate and make it the best app ever! What features would you like to see? 🤔 #AppDevelopment #TeamWorkMakesTheDreamWork
+
 ### 07.07.2023 (announcement FL-APP_171)
 - 🚀📱 Big news! We've made significant progress on our FL-APP_171 project today! 🙌🎉 Our team has been working tirelessly to develop this amazing app. Can't wait to share more details with you! What features would you like to see in our app? #FLAPP171 #AppDevelopment
 
