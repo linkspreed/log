@@ -1,6 +1,9 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here 
+## All changes that we will make from 12.07.2022 will appear here
+
+### 09.07.2023 (announcement Voiceclub)
+- 📢🤖 We've heard your wish! 🎉✨ We're on a roll, working tirelessly on VoiceClub, our mind-blowing machine learning TTS application. 🎙️🔊 Want to be part of the adventure? Share your thoughts and ideas! 💭🚀 #VoiceClub #MachineLearning #TTS #ComingSoon 🌟 What features would you love to see in VoiceClub? Let us know! 👇🤔
 
 ### 09.07.2023 (announcement Linkspreed Clouds)
 - 🌩️ Exciting news ahead! 🚀📅 On July 10th, 2023, we're planning to release Version 3.1.1 ⚡️ for some of our amazing cloud services! 💻🌥️ Are you ready for the new updates? Share your thoughts below! 💭👇 #CloudServices #UpgradeTime #StayTuned #ExcitingTimes
