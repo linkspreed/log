@@ -1,6 +1,9 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ...
+## All changes that we will make from 12.07.2022 will appear here 
+
+### 09.07.2023 (announcement Linkspreed Clouds)
+- Did you think we would neglect our cloud platforms? Never! We're currently working on a super cool update! 🌩️🚀 What features would you love to see in our revamped cloud platform? Share your ideas below! #CloudUpdate #ExcitingTimes
 
 ### 09.07.2023 (announcement L2B)
 - 🔎🚀 Exploring exciting areas for B2B SaaS companies on our L2B platforms! We're constantly working to improve and expand our services. Which business sectors do you think are ripe for digital transformation? Share your thoughts! 💡📈 #B2B #SaaS #DigitalTransformation
