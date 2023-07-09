@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.07.2023 (announcement Linkspreed Office)
+- 🎉 Exciting news! We're super thrilled to announce that we'll be using the amazing #LinkspreedOffice for our own projects! 🚀💼 Have you tried it yet? Share your experience or tell us why you're excited to try it out! 😄 #ProductivityBoost #WorkSmarter
+
 ### 09.07.2023 (announcement Contribution)
 - 🌟 Calling all young startups! 🚀 We're thrilled to be working on a platform designed exclusively for you. 💡 Join our mission to revolutionize the startup world! 💪 What features would be a game-changer for your business? Share your thoughts! 🔥 #StartupLife #Innovation
 
