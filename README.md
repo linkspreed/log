@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here
 
+### 09.07.2023 (announcement Linkspreed AI)
+- 🚀🧠 Exciting news! Our team is working tirelessly to enhance the capabilities of Linkspreed AI, the future of revolutionary artificial intelligence! 🌟💻 What features do you hope to see in the next update? Share your thoughts! #LinkspreedAI #ArtificialIntelligence #Innovation
+
 ### 09.07.2023 (announcement Voiceclub)
 - 📢🤖 We've heard your wish! 🎉✨ We're on a roll, working tirelessly on VoiceClub, our mind-blowing machine learning TTS application. 🎙️🔊 Want to be part of the adventure? Share your thoughts and ideas! 💭🚀 #VoiceClub #MachineLearning #TTS #ComingSoon 🌟 What features would you love to see in VoiceClub? Let us know! 👇🤔
 
