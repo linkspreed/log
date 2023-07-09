@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.07.2023 (announcement)
+- 🚀 Get ready for some AI magic! ✨✨ We're thrilled to announce that we're working on our second AI tool. 🤖🔧 Stay tuned for updates and let us know what kind of AI solutions you'd love to see! 💡💭 #AI #TechWizardryQuestion: What are some challenges you face that you think AI could help solve? 🤔🌟
+
 ### 09.07.2023 (announcement Linkspreed Office)
 - 🎉 Exciting news! We're super thrilled to announce that we'll be using the amazing #LinkspreedOffice for our own projects! 🚀💼 Have you tried it yet? Share your experience or tell us why you're excited to try it out! 😄 #ProductivityBoost #WorkSmarter
 
