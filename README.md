@@ -1,6 +1,9 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here
+## All changes that we will make from 12.07.2022 will appear here ...
+
+### 09.07.2023 (announcement Contribution)
+- 🌟 Calling all young startups! 🚀 We're thrilled to be working on a platform designed exclusively for you. 💡 Join our mission to revolutionize the startup world! 💪 What features would be a game-changer for your business? Share your thoughts! 🔥 #StartupLife #Innovation
 
 ### 09.07.2023 (announcement Linkspreed AI)
 - 🚀🧠 Exciting news! Our team is working tirelessly to enhance the capabilities of Linkspreed AI, the future of revolutionary artificial intelligence! 🌟💻 What features do you hope to see in the next update? Share your thoughts! #LinkspreedAI #ArtificialIntelligence #Innovation
