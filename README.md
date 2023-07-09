@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.07.2023 (announcement L2B)
+- 🔎🚀 Exploring exciting areas for B2B SaaS companies on our L2B platforms! We're constantly working to improve and expand our services. Which business sectors do you think are ripe for digital transformation? Share your thoughts! 💡📈 #B2B #SaaS #DigitalTransformation
+
+### 09.07.2023 (announcement)
+- 📢 Hey there! We've been exploring advertising networks for our platforms, but honestly, we're not super thrilled about ads, ya know? 🙅‍♂️ What about you? Do you enjoy seeing ads on your favorite websites or apps? Share your thoughts! #Advertising #UserOpinion
+
 ### 08.07.2023 (announcement)
 - 🎉 Hey there! Guess what? 🤔 We're currently working on an incredible AI tool that will blow your mind! 🚀🤩 Stay tuned to discover how this revolutionary technology will enhance your life. What features would you like to see in this tool? Share your ideas below! 👇 #AIToolInProgress #ExcitingTimes
 
