@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here 
 
 ### 09.07.2023 (announcement Linkspreed Clouds)
+- 🌩️ Exciting news ahead! 🚀📅 On July 10th, 2023, we're planning to release Version 3.1.1 ⚡️ for some of our amazing cloud services! 💻🌥️ Are you ready for the new updates? Share your thoughts below! 💭👇 #CloudServices #UpgradeTime #StayTuned #ExcitingTimes
+
+### 09.07.2023 (announcement Linkspreed Clouds)
 - Did you think we would neglect our cloud platforms? Never! We're currently working on a super cool update! 🌩️🚀 What features would you love to see in our revamped cloud platform? Share your ideas below! #CloudUpdate #ExcitingTimes
 
 ### 09.07.2023 (announcement L2B)
