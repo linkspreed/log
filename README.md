@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.07.2023 (announcement Linkspreed AIDA)
+- 🚀 Exciting news! 🎉 We're making great strides in our project #LinkspreedAIDA (Artificial Intelligence for Daily Applications)! 🤖✨ What if AI could simplify your daily tasks? 📝💡 How would you use AI to make your life easier? Share your thoughts! 👇 #AI #Tech #Innovation
+
 ### 10.07.2023 (announcement UltiCloud)
 - 🚀🌥️ Just released version 3.1.1 of our amazing Ulticloud platform! 💻✨ This update brings new features and improvements to enhance your cloud experience. 😍🔥 Have you already explored its awesomeness? 😏💡 #Ulticloud #cloudcomputing
 
