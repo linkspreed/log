@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.07.2023 (announcement [Clouds])
+- 🌩️📲 Ready to level up our cloud systems! We're kicking off the update to Version 3.1.1 today. 🚀 Excited to bring you enhanced features and improved performance! 🌟 Have you ever experienced a system update? Share your thoughts below! 👇 #CloudUpdate #TechTuesday
+
+### 10.07.2023 (announcement [Clouds])
+- 🔁 Exciting news! We have lifted the redirection from our cloud platforms to ShareNode. 🎉💻 Now you can enjoy uninterrupted access to all your favorite features. 🚀✨ Have you already explored ShareNode? Let us know your thoughts below! #CloudPlatform #ShareNode
+
 ### 09.07.2023 (announcement)
 - 🚀 Get ready for some AI magic! ✨✨ We're thrilled to announce that we're working on our second AI tool. 🤖🔧 Stay tuned for updates and let us know what kind of AI solutions you'd love to see! 💡💭 #AI #TechWizardryQuestion: What are some challenges you face that you think AI could help solve? 🤔🌟
 
