@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.07.2023 (announcement Contribution)
+- 🚀 Hey everyone! Guess what? We're currently working on Contribution, our amazing platform for startups! 🌟💼 Join us on this journey as we empower entrepreneurs to take their ideas to new heights. Are you a startup founder? Drop us a comment below and tell us about your venture! 🌍💡 #Contribution #Startups #Innovation
+
 ### 11.07.2023 (announcement Linkspreed AIDA)
 - 🎉 Exciting news! We're thrilled to announce that Linkspreed AIDA is now an official project of the Linkspreed Group. 🚀 Join us in celebrating this milestone! 🥳✨ What are your thoughts on this collaboration? Share your opinions using #LinkspreedAIDA #LinkspreedGroup 🤝💼 #ExcitingCollaboration
 
