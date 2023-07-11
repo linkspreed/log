@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.07.2023 (announcement SkyUp)
+- 🚀 Hey SkyUp fans! Guess what? We're still soaring high with our incredible project! ✈️✨ Curious to know what's brewing in our magical lab? Stay tuned for updates! 🌟🔬 #SkyUpProject #InnovationInProgress
+
 ### 11.07.2023 (announcement Linkspreed AI)
 - 🔥 Exciting news! 🎉 We're making incredible progress with our #Linkspreed AI, getting ready to take the final steps. 🤖✨ Have you ever experienced the power of artificial intelligence? Share your thoughts and let us know how it has impacted your life! 🌟 #AI #TechRevolution
 
