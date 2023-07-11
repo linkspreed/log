@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.07.2023 (announcement Linkspreed AIDA)
+- 🔬🚀 Exciting news, folks! We are pushing ahead with our groundbreaking Mega AI project AIDA! 🤖✨ Join us on this incredible journey as we dive deeper into the world of artificial intelligence. 🌐💡 What aspects of AI fascinate you the most? Share your thoughts! #AI #AIDA #FutureTech
+
 ### 10.07.2023 (announcement Linkspreed AIDA)
 - 🚀 Exciting news! 🎉 We're making great strides in our project #LinkspreedAIDA (Artificial Intelligence for Daily Applications)! 🤖✨ What if AI could simplify your daily tasks? 📝💡 How would you use AI to make your life easier? Share your thoughts! 👇 #AI #Tech #Innovation
 
