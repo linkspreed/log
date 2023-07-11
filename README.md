@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.07.2023 (announcement Linkspreed AIDA)
+- 🎉 Exciting news! We're thrilled to announce that Linkspreed AIDA is now an official project of the Linkspreed Group. 🚀 Join us in celebrating this milestone! 🥳✨ What are your thoughts on this collaboration? Share your opinions using #LinkspreedAIDA #LinkspreedGroup 🤝💼 #ExcitingCollaboration
+
+### 11.07.2023 (announcement Linkspreed AIDA)
 - 🚀 We're on a mission to develop Linkspreed AIDA, our AI project, to be as flawless as possible for all of you! 🤖✨ What do you think AI can help us achieve in the future? Share your thoughts! #AI #innovation #futuretech
 
 ### 11.07.2023 (announcement Linkspreed AIDA)
