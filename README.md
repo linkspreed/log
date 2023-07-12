@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.07.2023 (announcement Linkspreed AIDA)
+- 🤖🚀 Our team is on fire, making great progress on our super intelligent AI solution, Linkspreed AIDA! 🙌🔥 Have you ever interacted with an AI? Share your experiences and let us know what you think! 😄✨ #AI #Technology #LinkspreedAIDA
+
 ### 11.07.2023 (announcement SkyUp)
 - 🚀 Hey SkyUp fans! Guess what? We're still soaring high with our incredible project! ✈️✨ Curious to know what's brewing in our magical lab? Stay tuned for updates! 🌟🔬 #SkyUpProject #InnovationInProgress
 
