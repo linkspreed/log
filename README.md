@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.07.2023 (announcement)
+- 🔍🤝 Ready for some partnership magic? ✨✨✨ For the next 3 hours, we're on a mission to find new partners! If you're interested in joining the Linkspreed Group family, don't hesitate to get in touch. 🤝💼 #partnershipopportunity #joinus #LetsCollaborate 🌐📧 Drop us a DM and let's chat about the exciting possibilities! 💡🌍 What kind of partnership are you looking for? 🤔
+
 ### 12.07.2023 (announcement Linkspreed AIDA)
 - 🤖🚀 Our team is on fire, making great progress on our super intelligent AI solution, Linkspreed AIDA! 🙌🔥 Have you ever interacted with an AI? Share your experiences and let us know what you think! 😄✨ #AI #Technology #LinkspreedAIDA
 
