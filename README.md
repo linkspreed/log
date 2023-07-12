@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.07.2023 (announcement SkyUp)
+- 🌌🚀 Exciting times at SkyUp! 🌟✨ We're making progress on our latest project, SkyUp. 🛩️📝 Stay tuned for some sky-high adventures! ✈️😎 What kind of destinations would you like to see us fly to? ✈️✨ #SkyUp #AviationDreams
+
 ### 12.07.2023 (announcement)
 - 🔍🤝 Ready for some partnership magic? ✨✨✨ For the next 3 hours, we're on a mission to find new partners! If you're interested in joining the Linkspreed Group family, don't hesitate to get in touch. 🤝💼 #partnershipopportunity #joinus #LetsCollaborate 🌐📧 Drop us a DM and let's chat about the exciting possibilities! 💡🌍 What kind of partnership are you looking for? 🤔
 
