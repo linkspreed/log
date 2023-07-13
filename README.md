@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.07.2023 (announcement Contribution)
+- 🚀 Hey there! Guess what? We are currently working on an awesome platform for startups called Contribution! 🌟💼 Are you an aspiring entrepreneur? Drop a 💪 if you're excited about this project! Don't forget to use #ContributionStartups. What features would you love to see on our platform? Share your thoughts below! 👇 #StartupLife
+
 ### 13.07.2023 (announcement Dreambuild)
 - We are done with the development of our Dreambuild platform! Stay tuned for our next update. 🚀 #DreamBuild
 
