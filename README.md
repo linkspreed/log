@@ -2,6 +2,14 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.07.2023 (announcement Linkspreed AIDA)
+- Introducing our new 🆕 logo and 💡 icon for Linkspreed AIDA! We're proud to unveil our new look, which reflects our commitment to providing our customers with the ⭐ best possible experience ⭐. 🚀
+- https://github.com/linkspreed/log/assets/102324985/ec199476-0831-4c69-a41c-7e19211bdf39
+- https://github.com/linkspreed/log/assets/102324985/4170d2af-9c68-4d95-b73e-439e979dd065
+
+### 13.07.2023 (announcement L2B)
+- We're expanding our L2B portfolio with new B2B SaaS apps. These new apps will help our customers improve their businesses. Stay tuned for more updates! 🚀☁️💼 #L2B #SaaS #B2B #Software #Cloud #Business
+
 ### 13.07.2023 (announcement SkyUp)
 - 🚀 We're making great progress on our Skyup project! ✨✨ Stay tuned for some exciting updates coming your way soon! 🌟🌟 What features would you like to see in our new app? 📱💭 #SkyupProject #AppDevelopment
 
