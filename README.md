@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.07.2023 (announcement Dreambuild)
+- We're working hard on our Dreambuild project and we're almost done! We can't wait to share it with the world. 🚀 #DreamBuild
+
 ### 13.07.2023 (announcement Linkspreed AIDA)
 - Introducing our new 🆕 logo and 💡 icon for Linkspreed AIDA! We're proud to unveil our new look, which reflects our commitment to providing our customers with the ⭐ best possible experience ⭐. 🚀
 - https://github.com/linkspreed/log/assets/102324985/ec199476-0831-4c69-a41c-7e19211bdf39
