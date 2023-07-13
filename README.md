@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.07.2023 (announcement Contribution)
+- 🔧🚀 We're constantly pushing the boundaries with Contribution, our platform for startups! 💪🌟 Tell us, what features would you love to see added to enhance your entrepreneurial journey? 🌐💼 #StartupLife #Contribution #Innovation
+
 ### 12.07.2023 (announcement SkyUp)
 - 🌌🚀 Exciting times at SkyUp! 🌟✨ We're making progress on our latest project, SkyUp. 🛩️📝 Stay tuned for some sky-high adventures! ✈️😎 What kind of destinations would you like to see us fly to? ✈️✨ #SkyUp #AviationDreams
 
