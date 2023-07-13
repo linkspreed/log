@@ -3,6 +3,13 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.07.2023 (announcement Dreambuild)
+- Dreambuild is taking off! Introducing our new logo, designed to reflect our commitment to creativity, innovation, and collaboration. 🚀 💡 🤝
+- https://github.com/linkspreed/log/assets/102324985/15e0fda9-9288-4728-b0d9-c4022b985366
+- https://github.com/linkspreed/log/assets/102324985/1849c224-3028-43ab-8b81-137f8e3e104f
+- https://github.com/linkspreed/log/assets/102324985/2080cfad-c4bd-4870-a3ed-76030a98ec2d
+- https://github.com/linkspreed/log/assets/102324985/d4fe9d97-1aa7-47a5-aeb0-052f13d15740
+
+### 13.07.2023 (announcement Dreambuild)
 - We're working hard on our Dreambuild project and we're almost done! We can't wait to share it with the world. 🚀 #DreamBuild
 
 ### 13.07.2023 (announcement Linkspreed AIDA)
