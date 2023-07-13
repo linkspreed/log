@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.07.2023 (announcement SkyUp)
+- 🚀 We're making great progress on our Skyup project! ✨✨ Stay tuned for some exciting updates coming your way soon! 🌟🌟 What features would you like to see in our new app? 📱💭 #SkyupProject #AppDevelopment
+
+### 13.07.2023 (announcement Linkspreed AIDA)
+- 🚀 Exciting news! We're making great progress on our project Linkspreed AIDA for AI! 🤖💪 Stay tuned for groundbreaking updates. What features would you like to see in an AI-powered project? Share your thoughts! #AI #LinkspreedAIDA #ProjectUpdate 🌟
+
 ### 13.07.2023 (announcement Contribution)
 - 🔧🚀 We're constantly pushing the boundaries with Contribution, our platform for startups! 💪🌟 Tell us, what features would you love to see added to enhance your entrepreneurial journey? 🌐💼 #StartupLife #Contribution #Innovation
 
