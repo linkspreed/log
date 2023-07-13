@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.07.2023 (announcement Dreambuild)
+- We are done with the development of our Dreambuild platform! Stay tuned for our next update. 🚀 #DreamBuild
+
+### 13.07.2023 (announcement Dreambuild)
 - Dreambuild is taking off! Introducing our new logo, designed to reflect our commitment to creativity, innovation, and collaboration. 🚀 💡 🤝
 - https://github.com/linkspreed/log/assets/102324985/15e0fda9-9288-4728-b0d9-c4022b985366
 - https://github.com/linkspreed/log/assets/102324985/1849c224-3028-43ab-8b81-137f8e3e104f
