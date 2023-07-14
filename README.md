@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.07.2023 (announcement Linkspreed AIDA)
+- 🚀 Exciting progress update! 📈🔍 We're thrilled to share that we're making great strides with our project #LinkSpeedAIDA. 🤩🔧 But we need your help! What features would you like to see in this innovative tool? Comment below and let's shape the future of #digitalresearch together! 🌐💡 #StayConnected
+
 ### 13.07.2023 (announcement Contribution)
 - 🚀 Hey there! Guess what? We are currently working on an awesome platform for startups called Contribution! 🌟💼 Are you an aspiring entrepreneur? Drop a 💪 if you're excited about this project! Don't forget to use #ContributionStartups. What features would you love to see on our platform? Share your thoughts below! 👇 #StartupLife
 
