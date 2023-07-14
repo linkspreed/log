@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 13.07.2023 (announcement Linkspreed AIDA)
+### 14.07.2023 (announcement L2B)
+- 📢 Hey everyone! Exciting news! We're currently working on a price list for our amazing L2B products! 🎉 Get ready for some mind-blowing tariff solutions! 🔥💼 What kind of pricing options would you love to see? Share your thoughts! 💭✨ #L2Bproducts #pricing #innovation
+
+### 14.07.2023 (announcement Linkspreed AIDA)
 - 🚀 Exciting progress update! 📈🔍 We're thrilled to share that we're making great strides with our project #LinkSpeedAIDA. 🤩🔧 But we need your help! What features would you like to see in this innovative tool? Comment below and let's shape the future of #digitalresearch together! 🌐💡 #StayConnected
 
 ### 13.07.2023 (announcement Contribution)
