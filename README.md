@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 15.07.2023 (announcement L2B)
+- 🚀 Hey #L2B community! We're committed to crafting an irresistible pricing strategy that suits your needs! 💰💼 Help us out by sharing your thoughts on what you'd consider a fair price for our amazing services. 🤔💭 What factors influence your decision when choosing a subscription? Let us know! 👇 #CustomerInput
+
+### 15.07.2023 (announcement L2B)
 - 🚀 Exciting news! We're making great progress on L2B (Linkspreed to Business)🔥💼 Our team is super pumped about this project! Who else is excited about bridging the gap between online content and business growth? Share your thoughts! 😄📈 #L2B #BusinessGrowth #ContentMarketing
 
 ### 15.07.2023 (announcement SkyUp)
