@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.07.2023 (announcement SkyUp)
+- 🔨🚀 Making progress on the backend of our project SkyUp! Exciting things are brewing behind the scenes 😎✨ What features or improvements would you love to see in our app? Share your ideas below! ⬇️📲 #SkyUpProject #AppDevelopment #TechUpdate
+
+### 15.07.2023 (announcement Linkspreed AIDA)
+- Our team has been working tirelessly on improving the speed and design of the AIDA Beta platform! 🚀🎨 Check out the sleek new look and let us know what you think! 😍👇 #AIDABeta #UserExperience #FeedbackWelcome
+
 ### 15.07.2023 (announcement Contribution)
 - 🎉 Exciting news! 🚀 We've successfully completed the development work on Contribution! 🎊 Get ready to dive into a stronger platform for startups. 🌟💪 What features or improvements would you like to see on our platform? Share your thoughts! #Contribution #Startups #Feedback
 
