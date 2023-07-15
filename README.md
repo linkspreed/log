@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.07.2023 (announcement)
+- 👀 Are you interested in joining forces with us? We're on the lookout for business partners to join our growing family 🤝💼 Whether it's L2B or Linkspreed Franchise or any other service, we want to hear from you! 🌟 Drop us a message if you're interested, and let's take the first step towards success together! 🚀 #BusinessOpportunity #JoinUs #Entrepreneurship 💼🤝🌟🚀 Any specific area you're interested in exploring? 🌍🔍
+
 ### 15.07.2023 (announcement L2B)
 - 🚀 Hey #L2B community! We're committed to crafting an irresistible pricing strategy that suits your needs! 💰💼 Help us out by sharing your thoughts on what you'd consider a fair price for our amazing services. 🤔💭 What factors influence your decision when choosing a subscription? Let us know! 👇 #CustomerInput
 
