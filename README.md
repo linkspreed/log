@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.07.2023 (announcement Slurch)
+- 🤩 Exciting news ahead! 🚀 We're thrilled to announce that we're embarking on a major test run of our revolutionary platform, Slurch! 🙌🎉 Get ready to experience a seamless and game-changing tech journey! 🌟 Are you as pumped as we are? 😎 #Slurch #TestRun #TechRevolution 💻💥
+
+### 16.07.2023 (announcement Slurch)
 - 🔧 Our team is hard at work on our amazing platform Slurch! 🚀 We're bringing you the best features and improvements. What's your favorite thing about Slurch? Let us know! 😄 #SlurchUpdates #TechGuru
 
 ### 16.07.2023 (announcement L2B)
