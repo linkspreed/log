@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.07.2023 (announcement Linkspreed AIDA)
+- 🔗🚀 Exciting news! We're making great progress on our super cool project, Linkspreed AIDA! 😎✨ Stay tuned for updates and sneak peeks! 💪🔍 What features are you most excited to see in this innovative tool? Let us know! 👇 #LinkspreedAIDA #ProjectUpdate
+
 ### 15.07.2023 (announcement)
 - 👀 Are you interested in joining forces with us? We're on the lookout for business partners to join our growing family 🤝💼 Whether it's L2B or Linkspreed Franchise or any other service, we want to hear from you! 🌟 Drop us a message if you're interested, and let's take the first step towards success together! 🚀 #BusinessOpportunity #JoinUs #Entrepreneurship 💼🤝🌟🚀 Any specific area you're interested in exploring? 🌍🔍
 
