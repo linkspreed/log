@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.07.2023 (announcement SkyUp)
+- 🔝 Our team is rocking it with #SkyUp project! ✨✈️ Stay tuned for some exciting updates soon. Want to know more about our progress? Share your thoughts below! 😄👇 #ProjectSkyUp #Aviation #Innovation
+
 ### 16.07.2023 (announcement Linkspreed AIDA)
 - 🔧🚀 We've made some extra configurations to Linkspreed AIDA, like setting up our email server. 📧✨ Have you ever had to configure an email server? Share your experiences and tips! #LinkspreedAIDA #ConfigurationUpdates
 
