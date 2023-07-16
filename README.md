@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.07.2023 (announcement L2B)
+- 🌐 Hey there! 👋 We're currently working on some amazing tariffs exclusively for L2B users! 💥💼 Stay tuned for incredible deals and perks coming your way soon! 🤩💸
+
+### 16.07.2023 (announcement L2B)
 - 🚀 We've got some incredible developments in the pipeline. Stay tuned for updates on our latest project! 🌟 What new features would you like to see on L2B? Share your thoughts with us! 💭 #L2B #development #innovation
 
 ### 16.07.2023 (announcement Slurch)
