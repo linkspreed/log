@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.07.2023 (announcement L2B)
+- 🚀 We've got some incredible developments in the pipeline. Stay tuned for updates on our latest project! 🌟 What new features would you like to see on L2B? Share your thoughts with us! 💭 #L2B #development #innovation
+
 ### 16.07.2023 (announcement Slurch)
 - 🤩 Exciting news ahead! 🚀 We're thrilled to announce that we're embarking on a major test run of our revolutionary platform, Slurch! 🙌🎉 Get ready to experience a seamless and game-changing tech journey! 🌟 Are you as pumped as we are? 😎 #Slurch #TestRun #TechRevolution 💻💥
 
