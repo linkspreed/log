@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.07.2023 (announcement Slurch)
+- 🔧 Our team is hard at work on our amazing platform Slurch! 🚀 We're bringing you the best features and improvements. What's your favorite thing about Slurch? Let us know! 😄 #SlurchUpdates #TechGuru
+
 ### 16.07.2023 (announcement L2B)
 - 🚀 Exciting news! We're currently working on our L2B Landing Page to make it even more amazing! 🌟 Stay tuned for some awesome updates. Have any suggestions or specific features you'd like to see? Share your thoughts with us! ✨🤔 #L2B #WebDesign
 
