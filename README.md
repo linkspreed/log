@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.07.2023 (announcement Linkspreed AIDA)
+- 🔧🚀 We've made some extra configurations to Linkspreed AIDA, like setting up our email server. 📧✨ Have you ever had to configure an email server? Share your experiences and tips! #LinkspreedAIDA #ConfigurationUpdates
+
+### 16.07.2023 (announcement Linkspreed AIDA)
 - 🔗🚀 Exciting news! We're making great progress on our super cool project, Linkspreed AIDA! 😎✨ Stay tuned for updates and sneak peeks! 💪🔍 What features are you most excited to see in this innovative tool? Let us know! 👇 #LinkspreedAIDA #ProjectUpdate
 
 ### 15.07.2023 (announcement)
