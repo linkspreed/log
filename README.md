@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.07.2023 (announcement L2B)
+- 🚀 Exciting news! We're currently working on our L2B Landing Page to make it even more amazing! 🌟 Stay tuned for some awesome updates. Have any suggestions or specific features you'd like to see? Share your thoughts with us! ✨🤔 #L2B #WebDesign
+
 ### 16.07.2023 (announcement SkyUp)
 - 🔝 Our team is rocking it with #SkyUp project! ✨✈️ Stay tuned for some exciting updates soon. Want to know more about our progress? Share your thoughts below! 😄👇 #ProjectSkyUp #Aviation #Innovation
 
