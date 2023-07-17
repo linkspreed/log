@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.07.2023 (announcement SkyUp)
+- 🌟Hey everyone! Guess what? We're making great progress on our project #SkyUp! 🚀✨ Exciting times ahead! Want to know more about it? Drop us a comment below and let us know what you're most curious about! 😄👇 #ProjectUpdate #InnovationInProgress #StayTuned
+
 ### 16.07.2023 (announcement L2B)
 - 🌐 Hey there! 👋 We're currently working on some amazing tariffs exclusively for L2B users! 💥💼 Stay tuned for incredible deals and perks coming your way soon! 🤩💸
 
