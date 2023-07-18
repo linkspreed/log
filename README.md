@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.07.2023 (announcement)
+- 🌟 Hey everyone! We've got some exciting news! 🎉 Check out our profile on Startbase, a platform for innovative organizations! 🚀🔗 Click here to visit ➡️ https://startbase.com/organization/linkspreed/. 🌐📲 Have you ever used Startbase? Any other cool platforms you recommend? Let us know! 👇
+
+### 18.07.2023 (announcement)
 - 📈🤝 We're busy brainstorming new sales strategies to connect with more people! Excited to see @Linkspreed grow alongside us 🌱💼 How do you think we can expand our reach even further? #SalesStrategies #GrowthOpportunities
 
 ### 17.07.2023 (announcement SkyUp)
