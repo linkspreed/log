@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.07.2023 (announcement)
+- 📈🤝 We're busy brainstorming new sales strategies to connect with more people! Excited to see @Linkspreed grow alongside us 🌱💼 How do you think we can expand our reach even further? #SalesStrategies #GrowthOpportunities
+
 ### 17.07.2023 (announcement SkyUp)
 - 🌟Hey everyone! Guess what? We're making great progress on our project #SkyUp! 🚀✨ Exciting times ahead! Want to know more about it? Drop us a comment below and let us know what you're most curious about! 😄👇 #ProjectUpdate #InnovationInProgress #StayTuned
 
