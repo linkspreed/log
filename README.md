@@ -2,6 +2,78 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.07.2023 (announcement Toolkit)
+- 📣 We've just released version 17.0.0 of our Toolkit! 🎉🚀 It's packed with awesome features and enhancements. 💪🔧 Have you already updated? Let us know what you think! 😊 #Toolkit #NewRelease #FeedbackPlease 🌟🔥 Have you explored the new version yet? What's your favorite feature so far? 🤔💭
+
+### 20.07.2023 (announcement LinkLab)
+- 📢 Hey LinkLab users! We're thrilled to announce the release of Version 26.0.0 of our amazing software! 🎉🚀 It comes with several exciting features and improvements! 😍🔥 Have you updated yet? Share your thoughts and let us know what you think! #LinkLab #SoftwareUpdate 💻💡 What's your favorite feature in this new version? 👀
+
+### 20.07.2023 (announcement Plop)
+- Hey Plop fam! 🎉 We've just dropped Plop Version 26.0.0! 🚀💥 It's packed with amazing features and bug fixes. 🙌🔥 Have you updated yet? If so, what's your favorite improvement? Share with us! 😄✨ #PlopVersion26 #NewRelease #UpgradeTime
+
+### 20.07.2023 (announcement Toolkit)
+- https://github.com/linkspreed/Toolkit/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 20.07.2023 (announcement Toolkit)
+- The launch of version 17.0.0 of **Toolkit** was successful! 🥳
+- The new update is live now :)
+- https://toolkit.ga 🔗
+
+### 20.07.2023 (announcement Toolkit)
+- We are now starting the launch of v17.0.0.
+
+### 20.07.2023 (announcement Toolkit)
+- The servers are now ready for the launch of version 17.0.0 for **Toolkit**.
+
+### 20.07.2023 (announcement Toolkit)
+- The code is now ready for the launch of version 17.0.0 for **Toolkit**.
+
+### 20.07.2023 (announcement Toolkit)
+-  **Toolkit** gets a big update today - we are going to launch v17.0.0. 😍
+
+### 20.07.2023 (announcement Plop)
+-  https://github.com/linkspreed/Plop/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 20.07.2023 (announcement Plop)
+- The launch of version 26.0.0 of **Plop ** was successful! 🥳
+- The new update is live now :)
+- https://plop.tk 🔗
+
+### 20.07.2023 (announcement Plop)
+- We are now starting the launch of v26.0.0 .
+
+### 20.07.2023 (announcement Plop)
+- The servers are now ready for the launch of version 26.0.0 for **Plop**.
+
+### 20.07.2023 (announcement Plop)
+- The code is now ready for the launch of version 26.0.0 for **Plop**.
+
+### 20.07.2023 (announcement Plop)
+-  **Plop** gets a big update today - we are going to launch v26.0.0 . 😍
+
+### 20.07.2023 (announcement LinkLab)
+-  https://github.com/linkspreed/LinkLab/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 20.07.2023 (announcement LinkLab)
+- The launch of version 26.0.0 of **LinkLab** was successful! 🥳
+- The new update is live now :)
+- https://linklab.ga 🔗
+
+### 20.07.2023 (announcement LinkLab)
+- We are now starting the launch of v26.0.0.
+
+### 20.07.2023 (announcement LinkLab)
+- The servers are now ready for the launch of version 26.0.0 for **LinkLab**.
+
+### 20.07.2023 (announcement LinkLab)
+- The code is now ready for the launch of version 26.0.0 for **LinkLab**.
+
+### 20.07.2023 (announcement LinkLab)
+-  **LinkLab** gets a big update today - we are going to launch v26.0.0 . 😍
+
 ### 20.07.2023 (announcement)
 - 🔥 Our creative team has been working hard and we're excited to announce that three amazing updates are coming your way tonight! 🚀 Stay tuned for the big reveal! Which update are you most excited about? 😍 #excitingupdates #staytuned
 
