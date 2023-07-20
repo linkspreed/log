@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.07.2023 (announcement)
+- 🔥 Our creative team has been working hard and we're excited to announce that three amazing updates are coming your way tonight! 🚀 Stay tuned for the big reveal! Which update are you most excited about? 😍 #excitingupdates #staytuned
+
+### 20.07.2023 (announcement)
+- 📢 Unfortunately, Freenom has discontinued its service for .ml domains, causing our .ml domains to stop working. 😔 But worry not, as we've already integrated our platforms into the subdomain system! 🚀 Have you ever experienced such domain hiccups before? Share your stories with us! 🌐💬 #DomainIssues #SubdomainSystem
+
 ### 20.07.2023 (announcement Dash)
 - 📢🚀 Hey everyone! Big news! 🎉 We're thrilled to announce that we're cooking up something special! 🌟✨ Introducing Dash, our brand new SaaS project! 🚀💡 Get ready for an exciting journey with #Dash! What features would you like to see in this new project? Share your thoughts below! 👇😄 #SaaS #NewProject
 
