@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.07.2023 (announcement Snoogie)
+- 🎉📢 Hey Snoogie users! We just rolled out version 35.0.0 of our platform! 🚀🔥 Exciting improvements and bug fixes await you. 😍💪 Have you updated yet? Let us know your thoughts and experiences with the latest version! 🤔💭 #SnoogieUpdates #Version35 #FeedbackWelcome
+
+### 21.07.2023 (announcement Biospreed)
+- 📢 Exciting news! 🎉 We are thrilled to announce the release of Version 35.0.0 for our Biospreed platform! 🚀🌱 Experience enhanced performance, new features, and bug fixes. 📲💪 Have you updated your Biospreed yet? If not, what are you waiting for? 😄 #BiospreedUpdate #NewFeatures
+
+### 21.07.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 21.07.2023 (announcement Snoogie)
+- The launch of version 35.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 21.07.2023 (announcement Snoogie)
+- We are now starting the launch of v35.0.0.
+
+### 21.07.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 35.0.0 for **Snoogie**.
+
+### 21.07.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 35.0.0 for **Snoogie**.
+
+### 21.07.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v35.0.0. 😍
+
+### 21.07.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 21.07.2023 (announcement Biospreed)
+- The launch of version 35.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 21.07.2023 (announcement Biospreed)
+- We are now starting the launch of v35.0.0.
+
+### 21.07.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 35.0.0 for **Biospreed**.
+
+### 21.07.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 35.0.0 for **Biospreed**.
+
+### 21.07.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v35.0.0. 😍
+
 ### 20.07.2023 (announcement Toolkit)
 - 📣 We've just released version 17.0.0 of our Toolkit! 🎉🚀 It's packed with awesome features and enhancements. 💪🔧 Have you already updated? Let us know what you think! 😊 #Toolkit #NewRelease #FeedbackPlease 🌟🔥 Have you explored the new version yet? What's your favorite feature so far? 🤔💭
 
