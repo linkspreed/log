@@ -1,6 +1,9 @@
-# The long log :)
+w# The long log :)
 
 ## All changes that we will make from 12.07.2022 will appear here ...
+
+### 22.07.2023 (announcement)
+- 🔧 We've got a lot of exciting updates in the works! Stay tuned over the next few weeks for some awesome surprises coming your way! 🎉 What kind of updates are you most excited about? Let us know! 😄 #ComingSoon #Updates #ExcitingTimes
 
 ### 22.07.2023 (announcement)
 - 🔍🌐 Seeking new and powerful partners for #Linkspreed! Want to join forces? 🤝💪 Slide into our DMs now! 💬📩 Tell us, what qualities do you think make a great partner? 🤔 #PartnershipOpportunity
