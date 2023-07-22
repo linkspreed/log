@@ -2,6 +2,9 @@ w# The long log :)
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.07.2023 (announcement L2B)
+- 🔎 Hey there! 👋 We're currently cooking up a demo for one of our new B2B CRM systems! 🚀 Want a sneak peek? 😎 Drop a 🙋‍♂️ if you're interested and we'll make sure to keep you updated! 💌 #CRM #B2B #DemoTime
+
 ### 22.07.2023 (announcement)
 - 🔧 We've got a lot of exciting updates in the works! Stay tuned over the next few weeks for some awesome surprises coming your way! 🎉 What kind of updates are you most excited about? Let us know! 😄 #ComingSoon #Updates #ExcitingTimes
 
