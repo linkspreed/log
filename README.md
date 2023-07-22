@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.07.2023 (announcement)
+- 🔍🌐 Seeking new and powerful partners for #Linkspreed! Want to join forces? 🤝💪 Slide into our DMs now! 💬📩 Tell us, what qualities do you think make a great partner? 🤔 #PartnershipOpportunity
+
+### 22.07.2023 (announcement)
+- 🚀 We're working on our new SaaS solution to boost overall productivity! 💪🔥 Exciting times ahead! 🎉💼 Are you looking for ways to enhance productivity in your work? Share your thoughts and favorite productivity hacks below! ⬇️🤔 #ProductivityBoost #SaaSLife
+
+### 22.07.2023 (announcement)
+- 🤖💻 Exciting news! We're currently working on some amazing Open Source projects with AI. 🌟🔓 Want to know more about our latest developments? Share your thoughts and ideas below! #OpenSource #AI #Innovation 🚀 What kind of AI applications are you most interested in?
+
 ### 21.07.2023 (announcement Snoogie)
 - 🎉📢 Hey Snoogie users! We just rolled out version 35.0.0 of our platform! 🚀🔥 Exciting improvements and bug fixes await you. 😍💪 Have you updated yet? Let us know your thoughts and experiences with the latest version! 🤔💭 #SnoogieUpdates #Version35 #FeedbackWelcome
 
