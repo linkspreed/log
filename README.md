@@ -1,6 +1,9 @@
-w# The long log :)
+# The long log :)
 
 ## All changes that we will make from 12.07.2022 will appear here ...
+
+### 22.07.2023 (announcement L2B)
+- 🚀🔍 Hey there, #L2B enthusiasts! Exciting news! 🎉✨ We're currently working on revamping our L2B Landing Page to provide you with an even better user experience! 📝🖥️ What features or improvements would you love to see on our page? Drop your ideas below! 💡👇 #UserFeedback #WebsiteRevamp
 
 ### 22.07.2023 (announcement L2B)
 - 🔎 Hey there! 👋 We're currently cooking up a demo for one of our new B2B CRM systems! 🚀 Want a sneak peek? 😎 Drop a 🙋‍♂️ if you're interested and we'll make sure to keep you updated! 💌 #CRM #B2B #DemoTime
