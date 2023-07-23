@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.07.2023 (announcement)
+- 🌐 Expanding our network of partners is our top priority! 🤝✨ Join us as we connect with like-minded individuals and organizations. Interested in collaboration? Let us know! 🤝🌍 #Networking #PartnershipGrowth #CollaborationOpportunity 🤝
+
+### 23.07.2023 (announcement LR)
+- 🔍🌍 Exciting news! 🤩 We're diving into the world of Augmented Reality (AR) to unlock its endless possibilities! 🚀💡 Join us on this incredible journey and tell us: have you ever tried AR? 📲✨ #AR #ExploringPossibilities #InteractiveTweet
+
 ### 23.07.2023 (announcement Dash)
 - 🎉 Exciting news! 🎉 We've made the final decision that Dash is the ultimate blend of B2B and B2C, and guess what? It's also available as a franchise model! 🚀💼🤝 Are you into B2B or B2C? Or maybe you're considering becoming a Dash franchisee? Tell us your thoughts! #Dash #B2B #B2C #Franchise
 
