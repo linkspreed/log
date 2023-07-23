@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.07.2023 (announcement Dash)
+- 🎉 Exciting news! 🎉 We've made the final decision that Dash is the ultimate blend of B2B and B2C, and guess what? It's also available as a franchise model! 🚀💼🤝 Are you into B2B or B2C? Or maybe you're considering becoming a Dash franchisee? Tell us your thoughts! #Dash #B2B #B2C #Franchise
+
+### 23.07.2023 (announcement Dash)
+- 🔥 Hey there! 👋 We're still working on Dash, our super cool project! 🚀 What features would you love to see in this new app? Share your ideas using #DashDreams and let's make it an epic experience together! 🙌✨ #TechTalk #AppDevelopment 💡💻💭
+
+### 23.07.2023 (announcement Dash)
 - 🚀 Introducing Dash! 🎉 Our brand new SaaS solution from Linkspreed that is revolutionizing productivity and collaboration! 💪✨ Say goodbye to outdated tools and hello to seamless teamwork! 🌟✨ Who's ready to accelerate their workflows with Dash? 😍 #Dash #ProductivityBoost 💼👥🚀 What feature are you most excited about? 🤔
 
 ### 22.07.2023 (announcement L2B)
