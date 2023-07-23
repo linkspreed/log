@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.07.2023 (announcement Dash)
+- 🚀 Introducing Dash! 🎉 Our brand new SaaS solution from Linkspreed that is revolutionizing productivity and collaboration! 💪✨ Say goodbye to outdated tools and hello to seamless teamwork! 🌟✨ Who's ready to accelerate their workflows with Dash? 😍 #Dash #ProductivityBoost 💼👥🚀 What feature are you most excited about? 🤔
+
 ### 22.07.2023 (announcement L2B)
 - 🚀🔍 Hey there, #L2B enthusiasts! Exciting news! 🎉✨ We're currently working on revamping our L2B Landing Page to provide you with an even better user experience! 📝🖥️ What features or improvements would you love to see on our page? Drop your ideas below! 💡👇 #UserFeedback #WebsiteRevamp
 
