@@ -3,6 +3,18 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.07.2023 (announcement)
+- 📢 Hey #Linkspreed fam! We've got some exciting news brewing 🌟 We're planning to launch an official status page for all our programs! 🚀 Stay tuned for updates. In the meantime, what features or information would you love to see on the status page? Drop your suggestions below! 👇 #ComingSoon
+
+### 23.07.2023 (announcement Linkspreed Lambda)
+- 🔨🤖 We're crafting our groundbreaking AI and Machine Learning program, Linkspreed Lambda! 🌟 Exciting times lie ahead! 💪💡 Are you ready to embrace the power of AI? 🚀🌐 #AI #MachineLearning #LinkspreedLambda 🤔 How do you envision AI shaping our future?
+
+### 23.07.2023 (announcement Linkspreed AIDA)
+- 🔬 We're making progress with Linkspreed AIDA, our cutting-edge project! 🚀🔗🔍 Excited to share the latest updates soon! Stay tuned! 😍 #AI #LinkspreedAIDA #TechProgress
+
+### 23.07.2023 (announcement LR)
+- 🔬👩‍🔬 Hey there, fellow tech enthusiasts! 🌟✨ Exciting news from the Linkspreed Research lab! 🧪🧠 We're currently experimenting with an amazing LR (Linkspreed Reality) application 📲🌐 It's a super cool toolbox built on ARcore! 🛠️🔍 Have you ever tried any augmented reality apps? 🤔🌈 #LinkspreedReality #ARcoreExperiment
+
+### 23.07.2023 (announcement)
 - 🌐 Expanding our network of partners is our top priority! 🤝✨ Join us as we connect with like-minded individuals and organizations. Interested in collaboration? Let us know! 🤝🌍 #Networking #PartnershipGrowth #CollaborationOpportunity 🤝
 
 ### 23.07.2023 (announcement LR)
