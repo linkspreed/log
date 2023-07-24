@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.07.2023 (announcement Dash)
+- 🔥 Exciting news, Dash development is going strong! 🚀 We've been working hard to enhance its features and improve user experience. 💪 What do you think would make Dash even better? Share your thoughts below! 👇 #DashDevelopment #UserFeedback #ImprovementIdeas
+
+### 24.07.2023 (announcement Dash)
 - 🚀 Hey there! We're working hard on our awesome Dash platform to boost productivity! 💪🔥 Have you ever wished for a tool that could streamline your tasks and make your workday more efficient?
 
 ### 23.07.2023 (announcement)
