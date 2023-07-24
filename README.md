@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.07.2023 (announcement Dash)
+- 🚀 Hey there! We're working hard on our awesome Dash platform to boost productivity! 💪🔥 Have you ever wished for a tool that could streamline your tasks and make your workday more efficient?
+
 ### 23.07.2023 (announcement)
 - 📢 Hey #Linkspreed fam! We've got some exciting news brewing 🌟 We're planning to launch an official status page for all our programs! 🚀 Stay tuned for updates. In the meantime, what features or information would you love to see on the status page? Drop your suggestions below! 👇 #ComingSoon
 
