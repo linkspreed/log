@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.07.2023 (announcement L2B)
+- 🔗🚀 Exciting news! We're making steady progress on L2B (Linkspreed to Business), a game-changing project! 🎉🔥✨ Stay tuned for updates and let us know how you think this could revolutionize the way we do business! 💼🌍 #L2B #GameChanger #BusinessRevolution 🤔 How do you envision L2B transforming the future of business? 💭
+
 ### 24.07.2023 (announcement Dash)
 - 🔥 Exciting news, Dash development is going strong! 🚀 We've been working hard to enhance its features and improve user experience. 💪 What do you think would make Dash even better? Share your thoughts below! 👇 #DashDevelopment #UserFeedback #ImprovementIdeas
 
