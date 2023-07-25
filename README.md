@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.07.2023 (announcement L2B)
+- 📢 Exciting news! The L2B Page is now available! 💻🎉 Discover everything you need to know and get in touch with us! 🤝📞 Click here to access the page: https://l2b.linkspreed.com. Have you checked it out yet? What do you think? 🤔 #L2BPage #LinkUp #GetConnected
+
+### 25.07.2023 (announcement L2B)
 - 🌐 Exciting news! We're making progress on L2B and will soon unveil our new online page! 🚀🔥 Connect with us there to discuss all things L2B! 💻📱 What features are you most looking forward to exploring? Share your thoughts! 😊 #L2BOnlinePage #ComingSoon
 
 ### 25.07.2023 (announcement)
