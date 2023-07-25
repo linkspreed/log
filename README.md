@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.07.2023 (announcement L2B)
+- 🌐 Exciting news! We're making progress on L2B and will soon unveil our new online page! 🚀🔥 Connect with us there to discuss all things L2B! 💻📱 What features are you most looking forward to exploring? Share your thoughts! 😊 #L2BOnlinePage #ComingSoon
+
 ### 25.07.2023 (announcement)
 - 📣Calling all entrepreneurs! 🙌🏼 We're on the lookout for new partners to join our digital revolution! 💻🌍 If you're ready to take your business to the next level with L2B or build your own startup with Linkspreed Franchise, let's connect! 🤝 Drop us a message and let's chat! 😊 #DigitalTransformation #StartupOpportunity
 
