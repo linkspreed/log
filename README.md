@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.07.2023 (announcement L2B)
+- 🌟🎉 Get ready for something BIG! We have a tiny sneak peek coming your way... Can you guess what it is? 🤔 #ExcitingNews #SneakPeek #GuessWhatItIs
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/c6ebe7c9-43f0-43f5-ae8a-a055f0699c09
+
+### 25.07.2023 (announcement L2B)
 - 🔗🚀 Exciting news! We're making steady progress on L2B (Linkspreed to Business), a game-changing project! 🎉🔥✨ Stay tuned for updates and let us know how you think this could revolutionize the way we do business! 💼🌍 #L2B #GameChanger #BusinessRevolution 🤔 How do you envision L2B transforming the future of business? 💭
 
 ### 24.07.2023 (announcement Dash)
