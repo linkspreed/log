@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.07.2023 (announcement Linkspreed Dash)
+- 🚀 Hey everyone! We're working on something super exciting called Linkspreed Dash! 🌟 It's a revolutionary tool that will change the way you browse the web! 🌐💥 Can you guess what awesome features it might have? Share your thoughts! 😄✨ #LinkspreedDash #WebBrowsingRevolution
+
 ### 25.07.2023 (announcement L2B)
 - 📢 Exciting news! The L2B Page is now available! 💻🎉 Discover everything you need to know and get in touch with us! 🤝📞 Click here to access the page: https://l2b.linkspreed.com. Have you checked it out yet? What do you think? 🤔 #L2BPage #LinkUp #GetConnected
 
