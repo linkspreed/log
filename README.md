@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.07.2023 (announcement Linkspreed.com)
+- 👀 Have you noticed that we made a slight adjustment to our logo on https://linkspreed.com? Check it out now and let us know what you think! 🌟 #LogoUpdate #Rebranding 🎨 Did the new design catch your eye? 🤔
+
+### 25.07.2023 (announcement Linkspreed.com)
+- 🔥 Check out the new color code on https://linkspreed.com! We've transformed from #ffa500 to #ff914d. Have you noticed the changes? A vibrant new shade of orange! 😍🍊 What do you think of the transformation? #colorupdate
+
 ### 25.07.2023 (announcement Linkspreed Dash)
 - 🚀 Hey everyone! We're working on something super exciting called Linkspreed Dash! 🌟 It's a revolutionary tool that will change the way you browse the web! 🌐💥 Can you guess what awesome features it might have? Share your thoughts! 😄✨ #LinkspreedDash #WebBrowsingRevolution
 
