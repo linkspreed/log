@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.07.2023 (announcement Linkspreed Uptime)
+- 📢 Introducing our latest project, Linkspreed Uptime! 🚀🔍 Check out our brand new logo and icon for this exciting venture. Can you guess what our status page will look like? 🤔 #LinkspreedUptime #LogoReveal #ExcitingTimes 😎💫 What do you think about the new design? Let us know!
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/1f5383d7-fc36-4816-abe1-7ff49d26ad01
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/f5e9e0e1-4ff3-484f-b1a1-c8bf75278729
+
 ### 26.07.2023 (announcement Linkspreed Status)
 - 🔧🌐 We're delivering on our promise! We're currently working on a Status Page for Linkspreed, where you can easily check the online status with just one click! 😎📲 Stay tuned for updates! Any features you'd like to see on the Status Page? Let us know! #Linkspreed #StatusPage
 
