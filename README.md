@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.07.2023 (announcement Linkspreed Status)
+- 🎉 Exciting news! 🎉 The Status Page of Linkspreed is finally live! Check it out at https://status.linkspreed.com 🚀🌐 Stay up-to-date with our services and never miss an update again! 📢 Have you already visited our new Status Page? What are your thoughts? 😃 #Linkspreed #StatusPage
+
 ### 27.07.2023 (announcement Linkspreed Uptime)
 - 🔗🚀 Exciting times ahead with our project #LinkspreedUptime! 🎉🙌 We're continuing to work hard and make progress. Stay tuned for updates! 😃✨ What features would you like to see in our app? Share your ideas below! 👇 #TechProject #Innovation
 
