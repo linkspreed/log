@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.07.2023 (announcement Linkspreed Uptime)
+- 📧🚀 Exciting news! Our mail server for Linkspreed Uptime is now up and running! 🎉✉️ Say goodbye to email delays and hello to seamless communication! 📩💨 Have you already experienced the improved performance? Share your thoughts! 💭👇 #LinkspreedUptime #MailServerPerfection
+
+### 27.07.2023 (announcement Linkspreed Uptime)
+- 🎉 Great news, folks! 🎉 Linkspreed Uptime is now 100% 🍪 Cookie Compliant! 🙌🏼✅ We've made sure your browsing experience aligns with the latest regulations. No more pesky pop-ups or hidden trackers! 😌💪🏼 Share your thoughts! Are you happy with this update? Let us know! 😊 #CookieCompliance #ImprovedBrowsing
+
 ### 27.07.2023 (announcement Linkspreed Status)
 - 🎉 Exciting news! 🎉 The Status Page of Linkspreed is finally live! Check it out at https://status.linkspreed.com 🚀🌐 Stay up-to-date with our services and never miss an update again! 📢 Have you already visited our new Status Page? What are your thoughts? 😃 #Linkspreed #StatusPage
 
