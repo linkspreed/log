@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 27.07.2023 (announcement Linkspreed Uptime)
+- 🌐📢 We've integrated our contact info website l2b.linkspreed.com into our official system and status page for easy access to our L2B applications! 🤝✨ Have you checked it out yet? Let us know your thoughts! 😊💬 #L2B #WebsiteIntegration #StatusUpdate
+
+### 27.07.2023 (announcement Linkspreed Uptime)
+- 🎉🚀 Introducing Linkspreed Uptime, our brand new project is finally complete! Check it out at https://uptime.linkspreed.com 🌐 Stay tuned on social media for more updates! 📲💻 Have you ever experienced any issues with website uptime? Let us know your thoughts! 😊🤔 #LinkspreedUptime #WebsiteReliability
+
+### 27.07.2023 (announcement Linkspreed Uptime)
 - 📧🚀 Exciting news! Our mail server for Linkspreed Uptime is now up and running! 🎉✉️ Say goodbye to email delays and hello to seamless communication! 📩💨 Have you already experienced the improved performance? Share your thoughts! 💭👇 #LinkspreedUptime #MailServerPerfection
 
 ### 27.07.2023 (announcement Linkspreed Uptime)
