@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.07.2023 (announcement Linkspreed CaLM)
+- 🚀 Introducing our latest game-changer - Linkspreed CaLM! 🤖💥 Brace yourself for an extraordinary experience powered by our cutting-edge AI technology. 🌟 What comes to your mind when you think about the future of AI? Share your thoughts! #AI #LinkspreedCaLM
+
 ### 27.07.2023 (announcement Linkspreed Uptime)
 - 🌐📢 We've integrated our contact info website l2b.linkspreed.com into our official system and status page for easy access to our L2B applications! 🤝✨ Have you checked it out yet? Let us know your thoughts! 😊💬 #L2B #WebsiteIntegration #StatusUpdate
 
