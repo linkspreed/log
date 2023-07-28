@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.07.2023 (announcement Linkspreed CaLM)
+- 📢 Exciting news! 🎉 Our team at Linkspreed CaLM is making tremendous progress! 🚀💪 #Innovators #TechUpdate 🌟 What features would you like to see in our upcoming release? Share your thoughts! 👇😃 #UserFeedback
+
+### 28.07.2023 (announcement Linkspreed CaLM)
 - 🚀 Introducing our latest game-changer - Linkspreed CaLM! 🤖💥 Brace yourself for an extraordinary experience powered by our cutting-edge AI technology. 🌟 What comes to your mind when you think about the future of AI? Share your thoughts! #AI #LinkspreedCaLM
 
 ### 27.07.2023 (announcement Linkspreed Uptime)
