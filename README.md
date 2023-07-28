@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.07.2023 (announcement Linkspreed CaLM)
+- 🚀 Exciting news! Our third AI application, CaLM, has officially joined the Linkspreed Family! 🎉 Find it on our Status Page and integrated into our system. How will you incorporate CaLM's smart capabilities into your daily routine? Share your ideas! 💡 #AI #LinkspreedFamily #CaLM
+
+### 28.07.2023 (announcement Linkspreed CaLM)
 - 📢 Exciting news! 🎉 Our team at Linkspreed CaLM is making tremendous progress! 🚀💪 #Innovators #TechUpdate 🌟 What features would you like to see in our upcoming release? Share your thoughts! 👇😃 #UserFeedback
 
 ### 28.07.2023 (announcement Linkspreed CaLM)
