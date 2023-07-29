@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.07.2023 (announcement Botchat)
+- 🤖💬 Exciting news! We're currently working on enhancing our Botchat feature to make it even more amazing! 🚀✨ Have you ever tried chatting with our bots? Share your experience and let us know what improvements you'd like to see! 😄👇 #Botchat #Enhancements #UserFeedback
+
 ### 29.07.2023 (announcement Linkspreed CaLM)
 - 📢 Hey everyone, guess what?! 🎉 We have officially unveiled the brand new CaLM icon and logo! 🌟 What do you guys think about the fresh new look? 😍 Share your thoughts with us using #CaLMnewlook and let's start a conversation! 🗣️💬 #Rebranding #FeedbackWelcome 🤔🎨
 - https://github.com/linkspreed/General_Linkspreed/assets/102324985/bfdeb020-fcbf-4e9c-b060-5cc3de869e9a
