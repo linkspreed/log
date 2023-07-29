@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.07.2023 (announcement Linkspreed CaLM)
+- 🚀 We're thrilled to share that our team is hard at work on CaLM, our latest project! 🔥👩‍💻 Stay tuned for exciting updates and be part of the journey by using #CaLMProject. 🌟 What features would you like to see in CaLM? Share your thoughts! 💭👇 #TeamworkMakesTheDreamWork
+
+### 29.07.2023 (announcement Linkspreed CaLM)
 - We're thrilled to share that we're making amazing progress on CaLM! 🚀💪 Our team is working tirelessly to bring you the best experience ever! 😎💻 Stay tuned for updates and let us know: what features are you most excited about? 🤔 #CaLM #ExcitingTimes
 
 ### 28.07.2023 (announcement Linkspreed CaLM)
