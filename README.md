@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.07.2023 (announcement Linkspreed CaLM)
+- 📢 Hey everyone, guess what?! 🎉 We have officially unveiled the brand new CaLM icon and logo! 🌟 What do you guys think about the fresh new look? 😍 Share your thoughts with us using #CaLMnewlook and let's start a conversation! 🗣️💬 #Rebranding #FeedbackWelcome 🤔🎨
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/bfdeb020-fcbf-4e9c-b060-5cc3de869e9a
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/67e35996-eb3f-4d9f-9c22-8913e63db245
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/43ac2b21-090e-4ed6-a5cb-0a25e93ee1cf
+
+### 29.07.2023 (announcement Linkspreed CaLM)
 - 🚀 We're thrilled to share that our team is hard at work on CaLM, our latest project! 🔥👩‍💻 Stay tuned for exciting updates and be part of the journey by using #CaLMProject. 🌟 What features would you like to see in CaLM? Share your thoughts! 💭👇 #TeamworkMakesTheDreamWork
 
 ### 29.07.2023 (announcement Linkspreed CaLM)
