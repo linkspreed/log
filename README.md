@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.07.2023 (announcement Botchat)
+- 🆕 Exciting news! We've been busy enhancing Botchat, our automated Whatsapp and SMS tool 🤖💬 It's now smarter, faster, and more user-friendly! Have you tried it yet? Share your experience with us! 😊 #Botchat #Automation #Whatsapp #SMS
+
 ### 30.07.2023 (announcement CaLM)
 - 🔬 Exciting update! 🌟 We're making great progress with CaLM, our cutting-edge project! 🚀💡 Stay tuned for mind-blowing advancements. 😎✨ What features do you hope to see in CaLM? Share your thoughts below! 🤔👇 #CaLMproject #InnovationInProgress
 
