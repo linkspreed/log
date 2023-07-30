@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.07.2023 (announcement CaLM)
+- 🔬 Exciting update! 🌟 We're making great progress with CaLM, our cutting-edge project! 🚀💡 Stay tuned for mind-blowing advancements. 😎✨ What features do you hope to see in CaLM? Share your thoughts below! 🤔👇 #CaLMproject #InnovationInProgress
+
+### 30.07.2023 (announcement Linkspreed AIDA)
+- 🚀🌐 Breaking news! Our team is thrilled to announce that we're currently working on enhancing the incredible #LinkspreedAIDA! 🤩✨ What features or improvements would you like to see in our upcoming release? Share your ideas below! #TechUpgrades #FeedbackPlease 🙌🔧💡
+
+### 30.07.2023 (announcement Skyup)
+- 🚀 We're making great strides with SkyUp! ✈️✨ Exciting updates are in the works! 🎉 Stay tuned for more information soon! 📢🔜 #SkyUp #AviationUpdates #ExcitingTimes
+
 ### 29.07.2023 (announcement Botchat)
 - 🤖💬 Exciting news! We're currently working on enhancing our Botchat feature to make it even more amazing! 🚀✨ Have you ever tried chatting with our bots? Share your experience and let us know what improvements you'd like to see! 😄👇 #Botchat #Enhancements #UserFeedback
 
