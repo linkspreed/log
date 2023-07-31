@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 31.07.2023 (announcement)
+- 🔍🤝 Seeking forward-thinking business partners to join us on our journey! 🌟✨ Want to collaborate and shape the future together? Let's connect! 🌐🤝 #BusinessPartners #FutureGoals 💼🌍 What qualities are you looking for in a potential partner? Let us know! 👇😊
+
+### 31.07.2023 (announcement)
 - 🔥 Hey everyone! We're always striving to bring you the coolest and most innovative updates and projects. 💡✨ What kind of updates or new features would you love to see from us? Share your ideas! #innovation #newprojects
 
 ### 31.07.2023 (announcement Botchat)
