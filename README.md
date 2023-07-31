@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.07.2023 (announcement)
+- 🔥 Hey everyone! We're always striving to bring you the coolest and most innovative updates and projects. 💡✨ What kind of updates or new features would you love to see from us? Share your ideas! #innovation #newprojects
+
+### 31.07.2023 (announcement Botchat)
+- 📱🤖 Exciting news! We're making great progress on Botchat, our automated project for WhatsApp! 🚀💬 Have you ever imagined having a witty bot to chat with on WhatsApp? Share your thoughts below! #Botchat #WhatsApp #AI
+
 ### 30.07.2023 (announcement Botchat)
 - 🆕 Exciting news! We've been busy enhancing Botchat, our automated Whatsapp and SMS tool 🤖💬 It's now smarter, faster, and more user-friendly! Have you tried it yet? Share your experience with us! 😊 #Botchat #Automation #Whatsapp #SMS
 
