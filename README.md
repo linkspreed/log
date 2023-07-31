@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.08.2023 (announcement LaaS)
+- 🔗🚀 Exciting news! We are currently working on LaaS - Linkspreed as a Service! 🌐✨
+
 ### 31.07.2023 (announcement)
 - 🔍🤝 Seeking forward-thinking business partners to join us on our journey! 🌟✨ Want to collaborate and shape the future together? Let's connect! 🌐🤝 #BusinessPartners #FutureGoals 💼🌍 What qualities are you looking for in a potential partner? Let us know! 👇😊
 
