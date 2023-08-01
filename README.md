@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.08.2023 (announcement LaaS)
+- 🎉 Check out the fresh look of LaaS (Linkspreed as a Service)! 🖼️🔗 Our brand new logo and icon have arrived. What do you think of the striking design? 😍❓ #LaaS #branding #newlook
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/566ed413-1e2f-4285-9a8f-248fd2a24e2b
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/9b21533b-45fc-4bbe-aa48-5fde64b5bf71
+
+### 01.08.2023 (announcement LaaS)
 - 🌐 Introducing our latest project: LaaS - Linkspreed as a Service! 🚀💻
 - https://github.com/linkspreed/log/assets/102324985/f754c839-b0dd-4d43-95e6-0a1a89e9ab2d
 
