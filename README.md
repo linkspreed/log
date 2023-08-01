@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.08.2023 (announcement Uptime)
+- 🚀 Exciting update! 📈🔍 Your website's Monitor and Heartbeat data will now be stored in our database for 30 days before being deleted for security reasons. 🗂️🔒 What do you think of this change? How do you usually analyze your website's performance? Share your thoughts below! 😊 #WebsiteMonitoring #DataSecurity
+
 ### 01.08.2023 (announcement LaaS)
 - 🔗🚀 Exciting news! We are currently working on LaaS - Linkspreed as a Service! 🌐✨
 
