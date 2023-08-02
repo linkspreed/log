@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.08.2023 (announcement Linkspreed GROUP)
+- 📢 Hey there! Want to know more about the awesome Linkspreed GROUP? 🌐 Check out our website at https://group.linkspreed.com and discover how we're revolutionizing the industry! 🚀💼 Don't miss out! #LinkspreedGROUP #Innovation 🌟
+
 ### 02.08.2023 (announcement)
 - 📚🔜 Exciting news! We're working on a fantastic update for our eBook platform! 🎉✨ Get ready for improved features, sleek design, and enhanced reading experience. 🌟💻 What features do you want to see in our update? Share your ideas below! 👇 #eBookUpdate #ComingSoon
 
