@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.08.2023 (announcement)
+- 📚🔜 Exciting news! We're working on a fantastic update for our eBook platform! 🎉✨ Get ready for improved features, sleek design, and enhanced reading experience. 🌟💻 What features do you want to see in our update? Share your ideas below! 👇 #eBookUpdate #ComingSoon
+
+### 02.08.2023 (announcement Linkspreed Group)
+- 🚀 We're currently working on a groovy new landing and information page for the Linkspreed Group! 🎉🔥 Stay tuned for some exciting updates! 😎✨ Have any suggestions for what we should include? Drop them below! 👇🤔 #LinkspreedGroup #ComingSoon #WebDesign
+
 ### 01.08.2023 (announcement LaaS)
 - 🌐 Check out the sneak peek of our exciting project LaaS! 🚀🔥 Our initial landing page is now live at https://laas.linkspreed.com. 😍🎉 Have you visited it? Share your thoughts! 🤔💭 Don't forget to stay tuned for more updates! 💪 #LaaS #ComingSoon #GetReady
 
