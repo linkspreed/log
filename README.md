@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.08.2023 (announcement Linkspreed Franchise)
+- 🎓 Calling all students! 📚 Exciting news! 🎉 We're currently working on a BETA program called Linkspreed Franchise, exclusively for you! 🤩🚀 Join us in revolutionizing education! 🌟 Reply with a 🎓 if you're interested in becoming part of this game-changing program! 😍🤝 #LinkspreedFranchise #EducationRevolution 📝 
+
 ### 03.08.2023 (announcement LaaS)
 - 📢 Hey there! 🤩 We're brainstorming how to structure our awesome projects L2B and LaaS! 🏗️💡 Any ideas on how we can make them even more innovative and user-friendly? 🌟✨ Share your thoughts below! 👇 #projectplanning #innovation
 
