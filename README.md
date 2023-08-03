@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.08.2023 (announcement)
+- 🌍📦 Ready to go global? 🌐 Join us as we dive into the exciting world of international sales! 🌎🚀 Share your experiences, tips, and tricks with us using #InternationalSales. 🌟 What challenges have you faced in expanding your business globally? 🌐🤔 #GlobalBusiness #Expansion
+
 ### 02.08.2023 (announcement Linkspreed GROUP)
 - 📢 Hey there! Want to know more about the awesome Linkspreed GROUP? 🌐 Check out our website at https://group.linkspreed.com and discover how we're revolutionizing the industry! 🚀💼 Don't miss out! #LinkspreedGROUP #Innovation 🌟
 
