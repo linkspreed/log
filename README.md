@@ -2,7 +2,13 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 02.08.2023 (announcement)
+### 03.08.2023 (announcement LaaS)
+- 📢 Hey there! 🤩 We're brainstorming how to structure our awesome projects L2B and LaaS! 🏗️💡 Any ideas on how we can make them even more innovative and user-friendly? 🌟✨ Share your thoughts below! 👇 #projectplanning #innovation
+
+### 03.08.2023 (announcement L2B)
+- 📢 Hey there! 🤩 We're brainstorming how to structure our awesome projects L2B and LaaS! 🏗️💡 Any ideas on how we can make them even more innovative and user-friendly? 🌟✨ Share your thoughts below! 👇 #projectplanning #innovation
+
+### 03.08.2023 (announcement)
 - 🌍📦 Ready to go global? 🌐 Join us as we dive into the exciting world of international sales! 🌎🚀 Share your experiences, tips, and tricks with us using #InternationalSales. 🌟 What challenges have you faced in expanding your business globally? 🌐🤔 #GlobalBusiness #Expansion
 
 ### 02.08.2023 (announcement Linkspreed GROUP)
