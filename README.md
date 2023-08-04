@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.08.2023 (announcement Linkspreed Franchise)
+- 📢 Hey there! We are thrilled to share that we're still working on our awesome project "Linkspreed Franchise for Students"! 🚀🎓 Exciting times ahead! 
+
 ### 03.08.2023 (announcement Linkspreed Franchise)
 - 🎓 Calling all students! 📚 Exciting news! 🎉 We're currently working on a BETA program called Linkspreed Franchise, exclusively for you! 🤩🚀 Join us in revolutionizing education! 🌟 Reply with a 🎓 if you're interested in becoming part of this game-changing program! 😍🤝 #LinkspreedFranchise #EducationRevolution 📝 
 
