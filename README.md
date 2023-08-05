@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.08.2023 (announcement)
+- 🚀🔬 Hey everyone! We're currently working on some exciting new projects that are still in the early stages of development. Can you guess what they could be? 🤔 #NewAdventures #ComingSoon #GuessTheProject
+
+### 05.08.2023 (announcement)
+- 🚀 Get ready for some mind-blowing updates coming soon to our platforms! 🌟✨ Stay tuned as we work tirelessly to bring you the best user experience. 🙌 Which platform are you most excited to see updates on? Share with us! 😃 #NewUpdates #ExcitingTimes #JoinTheConversation
+
+### 05.08.2023 (announcement Linkspreed Franchise)
+- 🚀 We're constantly working on our new program "Linkspreed Franchise for Students" as well as the overall Linkspreed Franchise. 💼🎓 Stay tuned for exciting updates! What features would you like to see in our student franchise program? Share your ideas below! 👇 #LinkspreedFranchise #StudentLife
+
 ### 04.08.2023 (announcement Linkspreed Franchise)
 - 📢 Hey there! We are thrilled to share that we're still working on our awesome project "Linkspreed Franchise for Students"! 🚀🎓 Exciting times ahead! 
 
