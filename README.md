@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.08.2023 (announcement Linkspreed Partners)
+- 🌐 Exciting news! We're creating a unique social network exclusively for our partners and L2B customers, where they can connect, share knowledge, and offer support. 😄🤝 Currently, it's in the planning phase. What features would you love to see in this platform? Let us know! #SocialNetworking #PartnerCommunity
+
 ### 06.08.2023 (announcement)
 - 📱🎉 Exciting news! We're working on developing a Main Page for easy access to download all our Android apps. 😍📲 Stay tuned for updates on this awesome initiative! Which of our apps are you most excited to try? 😊 #MainPage #AndroidApps #AppDownloads
 
