@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.08.2023 (announcement Linkspreed Franchise)
+- 📚🤓 Exciting news, #FranchiseFam! 🎉 We've just released 2 new documents on our website: 📝 a Student Program and 📄 a PDF about our regular Franchise System. Take a look now and let us know which one catches your eye! 👀👇 #FranchiseOpportunity #JoinTheTeam
+
 ### 06.08.2023 (announcement Linkspreed Partners)
 - 🌐 Exciting news! We're creating a unique social network exclusively for our partners and L2B customers, where they can connect, share knowledge, and offer support. 😄🤝 Currently, it's in the planning phase. What features would you love to see in this platform? Let us know! #SocialNetworking #PartnerCommunity
 
