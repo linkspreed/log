@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.08.2023 (announcement L2B)
+- 🔬🚀 We're making progress on our exciting project L2B! 🌟💪 Stay tuned for updates and let us know what you think! 💭✨ What are your thoughts on the future of L2B? 🌐🤔 #ProjectL2B #Innovation #StayTuned
+
 ### 05.08.2023 (announcement)
 - 🚀🔬 Hey everyone! We're currently working on some exciting new projects that are still in the early stages of development. Can you guess what they could be? 🤔 #NewAdventures #ComingSoon #GuessTheProject
 
