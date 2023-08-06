@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.08.2023 (announcement)
+- 📱🎉 Exciting news! We're working on developing a Main Page for easy access to download all our Android apps. 😍📲 Stay tuned for updates on this awesome initiative! Which of our apps are you most excited to try? 😊 #MainPage #AndroidApps #AppDownloads
+
 ### 06.08.2023 (announcement L2B)
 - 🔬🚀 We're making progress on our exciting project L2B! 🌟💪 Stay tuned for updates and let us know what you think! 💭✨ What are your thoughts on the future of L2B? 🌐🤔 #ProjectL2B #Innovation #StayTuned
 
