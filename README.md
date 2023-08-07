@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.08.2023 (announcement)
+- 🚀 Hey everyone! We're currently working on a mind-blowing project related to social media! 🌐📲 Curious to know more? Drop your guesses below using #CrazySocialProject. 🤔 What crazy ideas do you think we have up our sleeves? Let's brainstorm together! 💡 #SocialMediaMadness
+
 ### 07.08.2023 (announcement Linkspreed Partners)
 - 🌐🤝 Join us as we continue to strengthen our partner network and build a tight-knit community! 🤝✨ We are constantly striving to connect like-minded individuals and foster meaningful collaborations. How do you think we can best bring this incredible community together? Share your thoughts! 💭 #PartnerNetwork #CommunityBuilding
 
