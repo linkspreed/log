@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 07.08.2023 (announcement Linkspreed Partners)
+- 🌐🤝 Join us as we continue to strengthen our partner network and build a tight-knit community! 🤝✨ We are constantly striving to connect like-minded individuals and foster meaningful collaborations. How do you think we can best bring this incredible community together? Share your thoughts! 💭 #PartnerNetwork #CommunityBuilding
+
+### 07.08.2023 (announcement)
+- 🔮 Hey there! ✨ We're cooking up a storm with a NEW and super creative idea! 🎉🚀 Can you guess what it could be? Drop your guesses below 👇✨✨ #InnovationNation #BrainstormingFun #CreativeIdeasNeeded 🌟 What's the most unconventional idea you've ever had? Tell us! 😄
+
+### 07.08.2023 (announcement Linkspreed Partners)
 - 🌐 We're constantly working on our social network for our partners, where they can connect like one big family. It's going to be amazing, but it's still in the development phase. 🚀 Stay tuned for updates! 😄 #PartnerNetwork #FamilyVibes
 
 ### 07.08.2023 (announcement L2B)
