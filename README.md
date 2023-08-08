@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.08.2023 (announcement)
+- 🔎🤝 Seeking new partners to join our team! Interested? Don't wait for us to find you 😉 Reach out to us and let us assist you with our amazing products... 🚀 #newpartners #opportunityawaits
+
 ### 08.08.2023 (announcement L2B - Slush)
 - 📢 We've made great progress on our second L2B demo called Slush and we're confident that it'll be up and running online tomorrow! 🚀💻 Stay tuned for the exciting launch! Any guesses on what features you think Slush will have? Share your thoughts below! 👇 #L2B #Demo #ComingSoon
 
