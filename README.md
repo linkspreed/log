@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 08.08.2023 (announcement)
+- 📲🔧 We're making progress on our App Download page! 💪🚀 Exciting updates are on the way! Stay tuned for a more user-friendly and engaging experience. 🌟 Have any suggestions or features you'd like to see? Share your thoughts with us! 👇🤔 #AppDevelopment #ComingSoon #UserExperience
+
+### 08.08.2023 (announcement)
 - 🔎🤝 Seeking new partners to join our team! Interested? Don't wait for us to find you 😉 Reach out to us and let us assist you with our amazing products... 🚀 #newpartners #opportunityawaits
 
 ### 08.08.2023 (announcement L2B - Slush)
