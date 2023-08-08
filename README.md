@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.08.2023 (announcement L2B - Sdoosh)
+- 🌐 Exciting news! We're currently working on a revolutionary project 🚀 - a social network tailored exclusively for businesses! 🏢💼 Join us as we unveil our 2nd L2B Demo! Stay tuned for updates and be part of the future🤝 #L2B #BusinessNetworking 💼🌐
+
 ### 07.08.2023 (announcement)
 - 🚀 Hey everyone! We're currently working on a mind-blowing project related to social media! 🌐📲 Curious to know more? Drop your guesses below using #CrazySocialProject. 🤔 What crazy ideas do you think we have up our sleeves? Let's brainstorm together! 💡 #SocialMediaMadness
 
