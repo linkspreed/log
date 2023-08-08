@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.08.2023 (announcement L2B)
+- 📣 Exciting news! We have made a decision regarding the L2B Subdomain System. 🎉 Now, with our L2B product called xyz, you can access it through the link: https://l2b.linkspreed.com/xyz. But wait, there's more! 🌟 For technical advantages, we will be redirecting users to a more advantageous URL: https://l2b-xyz.linkspreed.com. Don't worry, this change won't affect functionality. 🚀 What do you think about this upgrade? Share your thoughts! 💭 #L2B #Upgrade #Linkspreed
+- https://github.com/linkspreed/log/assets/102324985/cd7af5aa-8183-4847-8907-bee450ed33bc
+
 ### 08.08.2023 (announcement L2B - Sdoosh)
 - 🌐 Exciting news! We're currently working on a revolutionary project 🚀 - a social network tailored exclusively for businesses! 🏢💼 Join us as we unveil our 2nd L2B Demo! Stay tuned for updates and be part of the future🤝 #L2B #BusinessNetworking 💼🌐
 
