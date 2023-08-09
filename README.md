@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.08.2023 (announcement Linkspreed Apps)
+- 📢 Big news! 🚀 We're thrilled to announce a major milestone in our journey! 🎉 Today, we're making significant progress on our website where you'll soon be able to download all our amazing apps! 📲💻 Stay tuned for updates! #ExcitingTimes #AppDownloads #ComingSoon
+
 ### 08.08.2023 (announcement)
 - 📲🔧 We're making progress on our App Download page! 💪🚀 Exciting updates are on the way! Stay tuned for a more user-friendly and engaging experience. 🌟 Have any suggestions or features you'd like to see? Share your thoughts with us! 👇🤔 #AppDevelopment #ComingSoon #UserExperience
 
