@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.08.2023 (announcement Linkspreed Reality)
+- 🚀 Exciting news! We've just launched Linkspreed Reality! 🎉 Discover all the latest information at https://reality.linkspreed.com. Stay tuned for more updates this month via social media. Let's Shape Reality together! ✨ #LinkspreedReality #NewLaunch 🌍
+
+### 09.08.2023 (announcement Linkspreed Reality)
 - 🌐📢 Exciting news! We're currently working on a sleek Info Landing Page for LR (Linkspeed Reality) to keep you in the loop! Stay tuned for updates on our innovative advancements! 🚀✨ #LR #LinkspeedReality #ComingSoon
 
 ### 09.08.2023 (announcement Linkspreed Apps)
