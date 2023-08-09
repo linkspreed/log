@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.08.2023 (announcement Linkspreed Reality)
+- 🌐📢 Exciting news! We're currently working on a sleek Info Landing Page for LR (Linkspeed Reality) to keep you in the loop! Stay tuned for updates on our innovative advancements! 🚀✨ #LR #LinkspeedReality #ComingSoon
+
 ### 09.08.2023 (announcement Linkspreed Apps)
 - 📢 Big news! 🚀 We're thrilled to announce a major milestone in our journey! 🎉 Today, we're making significant progress on our website where you'll soon be able to download all our amazing apps! 📲💻 Stay tuned for updates! #ExcitingTimes #AppDownloads #ComingSoon
 
