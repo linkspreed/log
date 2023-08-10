@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.08.2023 (announcement Linkspreed Apps)
+- 📢 Exciting news! 🎉 Our first beta version of the platform where you'll be able to download our apps is now live! 🚀 Visit https://app.linkspreed.com to check it out. Stay tuned for more updates throughout the month. Got any questions? Drop them below! 👇 #Linkspreed #BetaLaunch
+
+### 10.08.2023 (announcement Linkspreed Apps)
 - 🚀 We're making progress on our website where you'll soon be able to download our amazing apps! 📲 Stay tuned for updates! 🌟 #AppDevelopment #ComingSoon
 
 ### 09.08.2023 (announcement Linkspreed Reality)
