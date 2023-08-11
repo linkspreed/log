@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.08.2023 (announcement Linkspreed Partners)
+- 🚀 Exciting update! 🎉 We've wrapped up the development of our Linkspreed Partner Network, improving our platform to bring you even more opportunities! 💼🌐 Connect with like-minded individuals and businesses to boost your success. 👥💪 #Partnership #Networking
+
 ### 11.08.2023 (announcement)
 - 📢 Calling all potential customers and partners! 👋 We are constantly on the lookout for new connections. Whether you have questions, ideas, or simply want to say hi, feel free to drop us a message. 💌 We appreciate every interaction! 🤝✨ #OpentoCollaborate #Networking #EngageWithUs What's on your mind? 🤔
 
