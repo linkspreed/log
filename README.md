@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 11.08.2023 (announcement Linkspreed Partners)
+- 📢 Exciting news! 🎉 Our brand new partner portal is now live! 🌐🎉 Every partner will receive their exclusive access. Stay tuned for more updates throughout the month. 📆🗞️ Have you explored any similar platforms before? Share your experience! 💬👇 #PartnerPortal #NewRelease #StayConnected
+
+### 11.08.2023 (announcement Linkspreed Partners)
 - 🚀 Exciting update! 🎉 We've wrapped up the development of our Linkspreed Partner Network, improving our platform to bring you even more opportunities! 💼🌐 Connect with like-minded individuals and businesses to boost your success. 👥💪 #Partnership #Networking
 
 ### 11.08.2023 (announcement)
