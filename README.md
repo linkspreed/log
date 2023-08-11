@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.08.2023 (announcement Plop)
+- 📢 Exciting news, folks! 🎉 Introducing Plop Version 27.0.0, now available online! 🚀 Check out the latest patch notes on Github, and make sure you have the newest version installed. 🌟 Let's hear your thoughts! Share your experience with #Plop27 and tell us how it's working for you. Any questions or feedback? Drop them below! 👇 #SoftwareUpdate #TechTalk
+
+### 11.08.2023 (announcement LinkLab)
+- 📢 Exciting news! 🎉 We are thrilled to announce that LinkLab Version 27.0.0 is now live! 🚀🌐 Check out the Patch Notes on Github and explore the latest features and improvements. Have you already tried it out? Let us know your thoughts! 😊 #LinkLab #SoftwareUpdate #NewRelease
+
+### 11.08.2023 (announcement LinkLab)
+-  https://github.com/linkspreed/LinkLab/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 11.08.2023 (announcement LinkLab)
+- The launch of version 27.0.0 of **LinkLab** was successful! 🥳
+- The new update is live now :)
+- https://linklab.ga 🔗
+
+### 11.08.2023 (announcement LinkLab)
+- We are now starting the launch of v27.0.0.
+
+### 11.08.2023 (announcement LinkLab)
+- The servers are now ready for the launch of version 27.0.0 for **LinkLab**.
+
+### 11.08.2023 (announcement LinkLab)
+- The code is now ready for the launch of version 27.0.0 for **LinkLab**.
+
+### 11.08.2023 (announcement LinkLab)
+-  **LinkLab** gets a big update today - we are going to launch v27.0.0. 😍
+
+### 11.08.2023 (announcement Plop)
+-  https://github.com/linkspreed/Plop/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 11.08.2023 (announcement Plop)
+- The launch of version 27.0.0 of **Plop ** was successful! 🥳
+- The new update is live now :)
+- https://plop.tk 🔗
+
+### 11.08.2023 (announcement Plop)
+- We are now starting the launch of v27.0.0.
+
+### 11.08.2023 (announcement Plop)
+- The servers are now ready for the launch of version 27.0.0 for **Plop**.
+
+### 11.08.2023 (announcement Plop)
+- The code is now ready for the launch of version 27.0.0 for **Plop**.
+
+### 11.08.2023 (announcement Plop)
+-  **Plop** gets a big update today - we are going to launch v27.0.0 . 😍
+
 ### 11.08.2023 (announcement Linkspreed Partners)
 - 📢 Exciting news! 🎉 Our brand new partner portal is now live! 🌐🎉 Every partner will receive their exclusive access. Stay tuned for more updates throughout the month. 📆🗞️ Have you explored any similar platforms before? Share your experience! 💬👇 #PartnerPortal #NewRelease #StayConnected
 
