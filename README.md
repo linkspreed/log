@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.08.2023 (announcement LI)
+- 📢 Hey there, #AI enthusiasts! Exciting news coming your way! 🌟 We're currently working on a brand-new version for ai.linkspreed.com! 🚀🎉 Stay tuned for its release in the upcoming weeks! 😉 What new features are you hoping to see? Drop your suggestions below! 👇 #ArtificialIntelligence
+
 ### 12.08.2023 (announcement Biospreed)
 - 📣 Exciting news! 🚀 We just released Version 36.0.0 of our platform Biospreed! 🎉 Check out the Patch Notes on Github to discover all the amazing updates. 📝🔧 Don't miss out! 😉 #Biospreed #Update #NewFeatures
 
