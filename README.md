@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 13.08.2023 (announcement Linkspreed Apps)
+- 🎉 Exciting news! 🎉 We're thrilled to announce that we've completed the developments on https://app.linkspreed.com! 🚀 Stay tuned for updates on social media throughout the month. 📲💻 #WebsiteLaunch #StayConnected
+
+### 13.08.2023 (announcement Linkspreed Apps)
 - 🚀 We're making great progress on app.linkspreed.com, our cutting-edge platform! 🌟 The final development stage is underway, bringing us closer to the completion of this amazing project. 🎉 Stay tuned for updates! 😎💪 #linkspreed #platformdevelopment
 
 ### 12.08.2023 (announcement LI)
