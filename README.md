@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.08.2023 (announcement L2B Slush)
+- We're thrilled to share that we're making great progress on our second L2B product called Slush! 🚀 Today, we're expecting to wrap up all the developments for Slush. 🙌 Stay tuned for some amazing features coming your way soon! 😎💻 #L2B #ProductUpdates #ExcitingTimes
+
 ### 13.08.2023 (announcement Linkspreed Apps)
 - 🎉 Exciting news! 🎉 We're thrilled to announce that we've completed the developments on https://app.linkspreed.com! 🚀 Stay tuned for updates on social media throughout the month. 📲💻 #WebsiteLaunch #StayConnected
 
