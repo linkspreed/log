@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.08.2023 (announcement LaaS)
+- 🎉 This week, we've got something special planned for you! 🚀 Get ready to explore our brand new LaaS platform with a twist! 😍📲 Introducing our third app: a WhatsApp Store as a SaaS application! 🛍️ Stay tuned to discover what we're launching this week! 💥
+
+### 14.08.2023 (announcement L2B)
+- Exciting news ahead! 🚀 This week, we've got something special planned for you. 😎 Get ready to experience our brand new l2b Demo - a POS application! 📲💸 Stay tuned for the big launch this week! 🔥 Any guesses on what features it might have? 🤔 #l2bDemo #POSApp #ComingSoon
+
 ### 13.08.2023 (announcement L2B Slush)
 - 📣 Exciting news! 🚀 Join us on an amazing journey as we launch the L2B Slush Demo! 🎉 Experience the power of L2B technology on our website ➡️ https://l2b.linkspreed.com. 💻💪 Share your thoughts using #L2BSlushDemo and let us know how this innovative solution can revolutionize your business! 
 
