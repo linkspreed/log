@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.08.2023 (announcement L2B)
+- 🚀 Exciting news! We're thrilled to announce that we're diving into the development of our highly anticipated third L2B Demo! 🎮 Stay tuned for updates and exclusive sneak peeks! 😍💥 Don't miss out on the action, follow us now! #L2B #GamingCommunity
+
 ### 14.08.2023 (announcement LaaS)
 - 🎉 This week, we've got something special planned for you! 🚀 Get ready to explore our brand new LaaS platform with a twist! 😍📲 Introducing our third app: a WhatsApp Store as a SaaS application! 🛍️ Stay tuned to discover what we're launching this week! 💥
 
