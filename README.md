@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.08.2023 (announcement L2B POSify)
+- 📢 Introducing our first-ever B2B POS application - POSify! 🚀✨ Get ready for a seamless and efficient point of sale experience tailored exclusively for businesses. 🤝🔝 Stay tuned for more exciting releases in the pipeline!
+
 ### 15.08.2023 (announcement L2B)
 - 🚀 Exciting news! We're thrilled to announce that we're diving into the development of our highly anticipated third L2B Demo! 🎮 Stay tuned for updates and exclusive sneak peeks! 😍💥 Don't miss out on the action, follow us now! #L2B #GamingCommunity
 
