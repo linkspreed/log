@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.08.2023 (announcement Linkspreed Franchise)
+- We're thrilled to share that we're currently working on the business plan for the Linkspreed Franchise! 📝🤝 Stay tuned for its release on our website: https://franchise.linkspreed.com. 💼🌐 Want to know more about our franchise opportunities? Drop us a line! 💬👇 #LinkspreedFranchise #BusinessPlanInProgress #ExcitingOpportunities #FranchiseJourney 🚀
+
 ### 15.08.2023 (announcement)
 - 📣 Building our partner network is our top priority! Looking for Franchise or L2B opportunities? 🤝🌐 Reach out to us today and let's explore the endless possibilities together! 💼🚀 #PartnerNetwork #OpportunitiesAwait 🤝✨ What kind of partnership are you looking for? Let us know! 👇
 
