@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.08.2023 (announcement)
+- 📣 Building our partner network is our top priority! Looking for Franchise or L2B opportunities? 🤝🌐 Reach out to us today and let's explore the endless possibilities together! 💼🚀 #PartnerNetwork #OpportunitiesAwait 🤝✨ What kind of partnership are you looking for? Let us know! 👇
+
 ### 15.08.2023 (announcement L2B POSify)
 - 📢 Introducing our first-ever B2B POS application - POSify! 🚀✨ Get ready for a seamless and efficient point of sale experience tailored exclusively for businesses. 🤝🔝 Stay tuned for more exciting releases in the pipeline!
 
