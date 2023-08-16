@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.08.2023 (announcement LaaS)
+- 🚀 We are currently working on one of our new LaaS platforms – a SaaS application that allows anyone to open their own Whatsapp Online store! 💼📲💰 Want to know more about this exciting opportunity? #LaaS #SaaS #WhatsappStore. How would you use this platform to boost your business? 🤔🛍️✨
+
 ### 16.08.2023 (announcement Linkspreed TV)
 - 📱💻 Exciting news! We're developing an Android app called Linkspreed TV 📺📡 where daily streams about the latest updates from the Linkspreed Group will be broadcasted! 🌟📰 This project is all about the future! What features would you like to see in our app? Share your thoughts! 💭👇 #LinkspreedTV #AppDevelopment #FutureProjects
 
