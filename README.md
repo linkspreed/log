@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.08.2023 (announcement LaaS Whatsstore)
+- 🌟 We're thrilled to share that we're making great strides with our new LaaS solution, Whatsstore! 🚀🔧💡 Stay tuned for exciting updates on this game-changing project. 🌐📲💼 Have you ever used a LaaS solution before? Share your experiences with us! 👇✨ #Whatsstore #LaaS #Innovation #Technology
+
 ### 16.08.2023 (announcement LaaS)
 - 🚀 We are currently working on one of our new LaaS platforms – a SaaS application that allows anyone to open their own Whatsapp Online store! 💼📲💰 Want to know more about this exciting opportunity? #LaaS #SaaS #WhatsappStore. How would you use this platform to boost your business? 🤔🛍️✨
 
