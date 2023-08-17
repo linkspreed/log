@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.08.2023 (announcement Linkspreed Lambda)
+- 🌐📢 Hey there! We're currently working on a cool Info Landing Page all about Linkspreed Lambda! 🚀🔗 Stay tuned for some exciting updates coming soon! 🤩📝 In the meantime, have you ever heard about serverless computing? Share your thoughts with us! 🧐👇 #LinkspreedLambda #InfoPage #ServerlessTech
+
+### 17.08.2023 (announcement Linkspreed Franchise)
+- 📢 We're making great progress on our franchise model's business plan! 📝📈🔍 Can't wait to share the exciting details with you soon. Stay tuned! 😎💼✨ Don't forget to drop your suggestions and ideas in the comments below. 👇 #FranchiseModel #BusinessPlan #ComingSoon #YourOpinionMatters
+
 ### 17.08.2023 (announcement LaaS Whatsstore)
 - 🌟 We're thrilled to share that we're making great strides with our new LaaS solution, Whatsstore! 🚀🔧💡 Stay tuned for exciting updates on this game-changing project. 🌐📲💼 Have you ever used a LaaS solution before? Share your experiences with us! 👇✨ #Whatsstore #LaaS #Innovation #Technology
 
