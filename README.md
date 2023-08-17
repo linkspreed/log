@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.08.2023 (announcement)
+- 🔒🚀 Expanding our colossal security infrastructure at Linkspreed! 🏢💪 With the power of Zero Trust technology, we ensure unparalleled protection for your data. 🛡️🔐 What measures do you take to keep your information secure? Share your thoughts! #CyberSecurity #DataProtection
+
 ### 17.08.2023 (announcement)
 - 🔒 Diving deep into the benefits of Cloudflare Zero Trust at Linkspreed! 🌐💼💡 Join us as we explore how this incredible solution can make our organization and startup unhackable! Share your thoughts on #CloudflareZeroTrust and how it can enhance cybersecurity! 🛡️🔐💭 #CybersecurityMatters #UnhackableFuture
 
