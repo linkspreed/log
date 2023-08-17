@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 17.08.2023 (announcement Linkspreed Lambda)
+- 📢 Hey everyone! 🌟 Exciting news! 🎉 We've just launched our brand new website, https://lambda.linkspreed.com! 🚀🔥 Check it out and let us know what you think! 💻👀 Don't forget to follow us for the latest updates! 😎📲 #NewWebsite #LaunchDay #FeedbackWelcome
+
+### 17.08.2023 (announcement Linkspreed Lambda)
 - 🌐📢 Hey there! We're currently working on a cool Info Landing Page all about Linkspreed Lambda! 🚀🔗 Stay tuned for some exciting updates coming soon! 🤩📝 In the meantime, have you ever heard about serverless computing? Share your thoughts with us! 🧐👇 #LinkspreedLambda #InfoPage #ServerlessTech
 
 ### 17.08.2023 (announcement Linkspreed Franchise)
