@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.08.2023 (announcement)
+- 🔒 Diving deep into the benefits of Cloudflare Zero Trust at Linkspreed! 🌐💼💡 Join us as we explore how this incredible solution can make our organization and startup unhackable! Share your thoughts on #CloudflareZeroTrust and how it can enhance cybersecurity! 🛡️🔐💭 #CybersecurityMatters #UnhackableFuture
+
 ### 17.08.2023 (announcement Linkspreed Lambda)
 - 📢 Hey everyone! 🌟 Exciting news! 🎉 We've just launched our brand new website, https://lambda.linkspreed.com! 🚀🔥 Check it out and let us know what you think! 💻👀 Don't forget to follow us for the latest updates! 😎📲 #NewWebsite #LaunchDay #FeedbackWelcome
 
