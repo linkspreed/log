@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.08.2023 (announcement)
+- 🎉 All our internal processes and every device at Linkspreed GROUP are now part of our new Zero Trust network. 🌐🔒 Stay tuned as we track the workflow until September. If everything goes smoothly, we've got some big announcements coming your way! 😎 #ZeroTrust #NetworkSecurity 💻🔒 How important is network security to your business? Let us know!
+
+### 18.08.2023 (announcement)
+- 🎉🌐🔒 Big news! We're thrilled to announce that our internal infrastructure is now built on Zero Trust technology. Our team has worked tirelessly to create an unbreachable network, utilizing state-of-the-art technology with a massive and unparalleled server network. 🚀💪 #Cybersecurity #ZeroTrust
+
+### 18.08.2023 (announcement)
 - 🔒🚀 Expanding our colossal security infrastructure at Linkspreed! 🏢💪 With the power of Zero Trust technology, we ensure unparalleled protection for your data. 🛡️🔐 What measures do you take to keep your information secure? Share your thoughts! #CyberSecurity #DataProtection
 
 ### 17.08.2023 (announcement)
