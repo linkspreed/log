@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.08.2023 (announcement Linkspreed Franchise)
+- 📢 We're making great progress on the business plan for Linkspreed Franchise! 📝 Stay tuned for exciting updates! 💼💪 #LinkspreedFranchise #BusinessPlanInProgress
+
+### 18.08.2023 (announcement Linkspreed TV)
+- 📺🚀 Exciting news, friends! We've been hard at work on our Linkspreed TV App to enhance your streaming experience of Linkspreed content. 🌟✨ Stay connected and enjoy your favorite shows anytime, anywhere. 🎉✨ What's your favorite show to binge-watch? Drop your recommendations below! 👇📺 #LinkspreedTV #StreamingFun
+
 ### 18.08.2023 (announcement)
 - 🎉 All our internal processes and every device at Linkspreed GROUP are now part of our new Zero Trust network. 🌐🔒 Stay tuned as we track the workflow until September. If everything goes smoothly, we've got some big announcements coming your way! 😎 #ZeroTrust #NetworkSecurity 💻🔒 How important is network security to your business? Let us know!
 
