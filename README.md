@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.08.2023 (announcement)
+- 📢 Exciting news, folks! Starting tomorrow, August 20th, 2023, we're taking our daily social media posts to the next level by sharing them on LinkedIn too! 🚀✨ Connect with us there for more professional content and industry insights. 🔗📲 #LinkedIn #NewHorizons
+
 ### 19.08.2023 (announcement LaaS Whatsstore)
 - 🚀 Exciting news! 🎉 We're thrilled to share that we're making great progress on our LaaS application called WhatsStore! 🛒📱 Stay tuned for more updates as we bring convenience and innovation to your fingertips. 🌟✨ What features are you most excited about? Let us know in the comments below! 👇 #WhatsStore #LaaS #Innovation
 
