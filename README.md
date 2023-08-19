@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.08.2023 (announcement LaaS Whatsstore)
+- 🚀 Exciting news! 🎉 We're thrilled to share that we're making great progress on our LaaS application called WhatsStore! 🛒📱 Stay tuned for more updates as we bring convenience and innovation to your fingertips. 🌟✨ What features are you most excited about? Let us know in the comments below! 👇 #WhatsStore #LaaS #Innovation
+
+### 19.08.2023 (announcement L2B POSify)
+- 🚀🔝 Hey there, #L2B community! We're thrilled to share that we're making great progress on our POSify application. 💼📲 Stay tuned for some exciting updates! What features would you love to see in our app? Share your thoughts below! 👇✨ #POSify2021
+
+### 19.08.2023 (announcement Linkspreed Apps)
+- 🎉 We are thrilled to announce that in the future, we will be making our desktop apps available for download on https://app.linkspreed.com for Windows, Linux, etc! 🖥️✨ Stay tuned for updates and let us know which platform you're most excited to see our app on! #DesktopApps #ComingSoon #LinkspreedApp 💻🔥
+
 ### 19.08.2023 (announcement)
 - 📢 Exciting announcement! 🙌 @Linkspreed is taking our internal and customer communication to the next level with Slack! 💼📱 Stay tuned for more details coming this September. 🗓️ Have you tried Slack for your business? Share your thoughts! 💭 #Linkspreed #InternalCommunication #CustomerEngagement
 
