@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.08.2023 (announcement)
+- 📢 Exciting announcement! 🙌 @Linkspreed is taking our internal and customer communication to the next level with Slack! 💼📱 Stay tuned for more details coming this September. 🗓️ Have you tried Slack for your business? Share your thoughts! 💭 #Linkspreed #InternalCommunication #CustomerEngagement
+
 ### 19.08.2023 (announcement Linkspreed Franchise)
 - 📢 We're making great progress on the business plan for Linkspreed Franchise! 📝 Stay tuned for exciting updates! 💼💪 #LinkspreedFranchise #BusinessPlanInProgress
 
