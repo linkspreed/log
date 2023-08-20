@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.08.2023 (announcement Linkspreed Franchise)
+- 📢 We're making great progress on the business plan for Linkspreed Franchise! 📝💼 Join us on this exciting journey as we shape the future of our amazing franchise. 🚀
+
 ### 19.08.2023 (announcement)
 - 📢 Exciting news, folks! Starting tomorrow, August 20th, 2023, we're taking our daily social media posts to the next level by sharing them on LinkedIn too! 🚀✨ Connect with us there for more professional content and industry insights. 🔗📲 #LinkedIn #NewHorizons
 
