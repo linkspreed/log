@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.08.2023 (announcement)
+- 🚀 Our Linkspreed team just set up an internal app launcher! 📲💥 Now, our workplace is securely placed in a cloud-based Zero Trust network, protected by a robust firewall across hundreds of data centers. 🔒✨ Ensuring the highest level of security for you and our team. 🛡️🔐 Have any questions about our new setup? Share your thoughts below! 👇🤔 #SecurityFirst #ZeroTrust #Linkspreed #TeamSafety
+
 ### 20.08.2023 (announcement Linkspreed Franchise)
 - 📢 We're making great progress on the business plan for Linkspreed Franchise! 📝💼 Join us on this exciting journey as we shape the future of our amazing franchise. 🚀
 
