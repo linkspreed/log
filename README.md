@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.08.2023 (announcement LaaS Whatsstore)
+- 📢 We're thrilled to share that we're currently working on our upcoming laaS application called Whatsstore! 🚀📱 Stay tuned for more updates on this innovative project. 😎✨ #Whatsstore #ComingSoon #Innovation
+
+### 20.08.2023 (announcement L2B POSify)
+- 🎉 Hey there! Exciting news from our team at L2B! 🚀 We're currently working on our third demo called POSify! 💼✨ Stay tuned as we refine this innovative solution for all your business needs. Have you tried any of our previous demos? Share your thoughts below! 👇 #L2B #POSify #InnovationInProgress
+
 ### 20.08.2023 (announcement)
 - 🚀 Our Linkspreed team just set up an internal app launcher! 📲💥 Now, our workplace is securely placed in a cloud-based Zero Trust network, protected by a robust firewall across hundreds of data centers. 🔒✨ Ensuring the highest level of security for you and our team. 🛡️🔐 Have any questions about our new setup? Share your thoughts below! 👇🤔 #SecurityFirst #ZeroTrust #Linkspreed #TeamSafety
 
