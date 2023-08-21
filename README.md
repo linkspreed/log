@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 20.08.2023 (announcement Linkspreed Franchise)
+### 21.08.2023 (announcement Linkspreed Franchise)
+- 📢 Calling all aspiring entrepreneurs! 🚀✨ We're currently crafting an application form for our future franchisees at Linkspreed. 🤝💼 Stay tuned to find out how you can be a part of our exciting franchise system! 🌟🔗 #FranchiseOpportunity #JoinLinkspreed
+
+### 21.08.2023 (announcement Linkspreed Franchise)
 - 📢 Hey there, Linkspeed fans! 🚀 We're buzzing with excitement as we dive deeper into crafting our business plan for the highly anticipated Linkspeed Franchise! 📝✨ Join us on this entrepreneurial journey and let us know your thoughts! 💼💡💬 #LinkspeedFranchise #BusinessPlanning
 
 ### 20.08.2023 (announcement LaaS Whatsstore)
