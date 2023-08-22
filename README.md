@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.08.2023 (announcement)
+- 🤝 Exciting news coming soon! We've just finalized the commission contract for you. 📝 Stay tuned as we'll be publishing it for you very soon. 🎉 Are you ready to take your partnership to the next level?
+
 ### 21.08.2023 (announcement Linkspreed Franchise)
 - 📢 Calling all aspiring entrepreneurs! 🚀✨ We're currently crafting an application form for our future franchisees at Linkspreed. 🤝💼 Stay tuned to find out how you can be a part of our exciting franchise system! 🌟🔗 #FranchiseOpportunity #JoinLinkspreed
 
