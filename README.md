@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.08.2023 (announcement)
+- 🌐📈 We're constantly improving our program for those interested in earning commissions with us through Linkspreed. 💪🤝 Join our community and take advantage of this opportunity! 🚀🔥 Share your thoughts below! 👇💬
+
+### 23.08.2023 (announcement)
+- Hey there! 🌟 We're super excited to share that we're currently working on a bunch of exciting updates for our existing Linkspreed platforms! 🚀 Stay tuned to be the first ones to experience the awesomeness! 😎 #Updates #ComingSoon #LinkspreedQuestion: What specific features would you love to see in our upgraded platforms? Let us know below! 👇
+
+### 23.08.2023 (announcement)
+- 🔥 Hey everyone! 👋 We're currently working on some incredible new platform solutions that will blow your mind! 🚀 Stay tuned for updates and exciting announcements coming your way. 😉💼 #PlatformSolutions #Innovation
+
 ### 22.08.2023 (announcement)
 - 🤝 Exciting news coming soon! We've just finalized the commission contract for you. 📝 Stay tuned as we'll be publishing it for you very soon. 🎉 Are you ready to take your partnership to the next level?
 
