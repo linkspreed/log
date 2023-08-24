@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.08.2023 (announcement VeloMind)
+- We're thrilled to announce that we've kickstarted development on our fourth AI application, VeloMind! 🤖📱 Stay tuned for updates on this innovative project. Have you ever used any AI applications before? Share your experience with us below! #AI #VeloMind #TechRevolution
+
 ### 24.08.2023 (announcement)
 - 🔬🚀 We're excited to share that we're experimenting with a groundbreaking idea! 🌟 Introducing a new server for ads, enabling neutral and non-tracked advertisements to monetize Linkspreed websites. 🌐💰 Currently in the early planning phase, but we can't wait to see where this takes us! Any thoughts or suggestions? 🤔 #DigitalAdvertising #Innovation #Monetization
 
