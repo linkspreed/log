@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.08.2023 (announcement)
+- 🔬🚀 We're excited to share that we're experimenting with a groundbreaking idea! 🌟 Introducing a new server for ads, enabling neutral and non-tracked advertisements to monetize Linkspreed websites. 🌐💰 Currently in the early planning phase, but we can't wait to see where this takes us! Any thoughts or suggestions? 🤔 #DigitalAdvertising #Innovation #Monetization
+
 ### 24.08.2023 (announcement Linkspreed AI)
 - 📢 Exciting announcement! 🚀🎉 We just made a decision to launch not one, but TWO new AI-based applications in the coming weeks! 🤩 Get ready to experience the power of our cutting-edge technology!🌟 Introducing the linkspreed GROUP's BIG 5 🤖🔝 Which AI applications would you like to see in our lineup? Drop your suggestions below! 👇 #AI #NewApps #Innovation #TechTrends
 
