@@ -3,6 +3,11 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.08.2023 (announcement VeloMind)
+- Introducing the fresh and sleek VeloMind Logo and Icon! 🎉 We can't wait to hear your thoughts on this exciting update. Share your feedback using #VeloMindLogo and tell us what you think! 🤩✨ #rebranding #newlook #designmatters
+- https://github.com/linkspreed/log/assets/102324985/a3aa56da-1a24-4b31-b8d2-05e2f29b08d7
+- https://github.com/linkspreed/log/assets/102324985/b9775b7c-3ad1-44f3-8662-fe144c37b73c
+
+### 25.08.2023 (announcement VeloMind)
 - 🚀 Exciting announcement! 🎉 We're thrilled to share that VeloMind is now an official project of the Linkspreed GROUP! 🙌🏼🔥
 
 ### 25.08.2023 (announcement VeloMind)
