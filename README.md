@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.08.2023 (announcement VeloMind)
+- 🚀 Exciting announcement! 🎉 We're thrilled to share that VeloMind is now an official project of the Linkspreed GROUP! 🙌🏼🔥
+
+### 25.08.2023 (announcement VeloMind)
 - 🚀 Exciting news! 🌟 We're thrilled to share that we're making progress on our fourth AI application, VeloMind! 🤖📱 This innovative project is keeping us busy, and we can't wait to unveil its potential. Stay tuned for updates! 🙌 #AI #VeloMind #Innovation
 
 ### 24.08.2023 (announcement VeloMind)
