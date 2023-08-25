@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 25.08.2023 (announcement)
+- 📢 Hey there! 👋 We're on the lookout for fresh partners to join our team. If you're interested, feel free to reach out! 🤝 Let's take things to the next level together. 💼 #partnerships #opportunity
+
+### 25.08.2023 (announcement)
 - 🔍📢 Exciting news, folks! We're thrilled to share that we're currently developing our very own independent advertising solution! 📈🎉 Stay tuned for more updates on this game-changer! 🚀💼  #AdvertisingRevolution #GameChanger #ComingSoon
 
 ### 25.08.2023 (announcement VeloMind)
