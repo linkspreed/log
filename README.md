@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.08.2023 (announcement VeloMind)
+- 🚀 We're thrilled to announce our latest project, VeloMind - a groundbreaking AI application! 🌟🤖 Stay tuned as we tirelessly work on perfecting its features to enhance your experience. 💡🔧 What are your thoughts on AI technology? Share your insights! #AI #VeloMind #TechRevolution
+
 ### 25.08.2023 (announcement)
 - 📢 Hey there! 👋 We're on the lookout for fresh partners to join our team. If you're interested, feel free to reach out! 🤝 Let's take things to the next level together. 💼 #partnerships #opportunity
 
