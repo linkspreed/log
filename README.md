@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.08.2023 (announcement LaaS Whatsstore)
+- 🔬🚀 Testing time! We're thrilled to announce that we're conducting the first round of tests for our innovative WhatsStore powered by LaaS! 🌟 Stay tuned to witness the future of retail! 😍🛍️ #WhatsStore #LaaS #Innovation
+
+### 26.08.2023 (announcement)
+- 🎉 Hey everyone! We're working on some exciting new presentations! 📊🎥 Stay tuned for some amazing content coming your way soon! 💼✨
+
+### 26.08.2023 (announcement)
+- 📢 Calling all sales enthusiasts! 🤝🌟 Exciting news: we're now accepting applications for commission-based Salespersons! 💼💸 Join our dynamic team and unlock unlimited earning potential. 🚀 Interested? DM us to get started! #SalesOpportunity #JoinOurTeam 💼
+
+### 26.08.2023 (announcement)
+- Check out our new, super sleek Press Area! 📰👌 Get all the latest updates, news, and juicy details in one place. 🌟🗞️ Visit our website here: https://linkspreed.com/site-pages/Press ✨🔗 Let us know what you think! 😃🗣️ #PressArea #LatestUpdates #Newsroom 💼📝 
+
+### 26.08.2023 (announcement)
+- 🌍 We've got some great news for our international partners! 🎉 Our commission agreement is now available in English too! 📝🇬🇧 This means smoother collaborations and clearer terms for everyone involved. 💼✨ Have you already checked it out? Let us know your thoughts! 💭👇 #InternationalCollaborations #EnglishProvisions #ImprovedCommunication
+
 ### 26.08.2023 (announcement)
 - 📣 Calling all aspiring entrepreneurs and potential business partners! 👥🌟 Join our incredible franchise family and unlock limitless opportunities. 🚀💼 Become an L2B customer and discover the secret to success. 💯🔑 Are you ready to take the leap? 💪😎 #FranchiseOpportunity #BusinessPartnership #L2BProsperity 🤝
 
