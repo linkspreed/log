@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.08.2023 (announcement)
+-  We're currently working on an awesome and fresh presentation about our commission system. Stay tuned, it's gonna be mind-blowing! 💥🤩 We'll be sharing the online download link soon. Stay curious! 😉 #CommissionSystem #ExcitingUpdates #ComingSoon
+
+### 27.08.2023 (announcement)
+- 🚀 Join our growing family of franchisees and explore exciting business opportunities with us! 🌍💼 Interested in taking your business to the next level? Let's connect and discuss how we can collaborate! 🤝🌟 #FranchiseOpportunity #BusinessExpansion #LetsGrowTogether 💪🌱 
+
+### 27.08.2023 (announcement LaaS Whatsstore)
+- 🚀 Introducing Whatsstore, our cutting-edge laaS solution! 🛒✨ Imagine transforming your business with seamless integration and endless possibilities. 💡💼 Curious how it could revolutionize your operations? Share your thoughts and let's start a conversation! 😊 #Whatsstore #LaaS #innovation #businesssolutions
+
+### 27.08.2023 (announcement)
+- 📢🌐 Ready to level up your career? 🚀 We're thrilled to announce that we're now accepting applications for commission-based partnerships at Linkspreed! 🤝✨ Join us and explore exciting opportunities on our LinkedIn page. Don't miss out! 👉 #NowHiring #JoinOurTeam 💼🔎 What role are you most interested in? Tell us!
+
 ### 26.08.2023 (announcement LaaS Whatsstore)
 - 🔬🚀 Testing time! We're thrilled to announce that we're conducting the first round of tests for our innovative WhatsStore powered by LaaS! 🌟 Stay tuned to witness the future of retail! 😍🛍️ #WhatsStore #LaaS #Innovation
 
