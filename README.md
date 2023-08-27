@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.08.2023 (announcement LaaS Whatsstore)
+- 📢 Exciting news! We're currently conducting extensive tests on WhatsStore, our latest platform. 🧪🔬 And guess what? You can be a part of it too! 🎉✨ Share your interest below if you'd like to test the finished product. 🚀🌟 #WhatsStoreTesting #BetaTestersWanted
+
+### 27.08.2023 (announcement LaaS Whatsstore)
+- 📢 Exciting news! 🎉 Our LaaS solution called WhatsStore is now complete! 🚀 Check it out here: https://laas.linkspreed.com/whatsstore 🔗 Stay tuned for some big announcements coming in September! 🗓️ #WhatsStore #LaaS #ComingSoon
+
 ### 27.08.2023 (announcement)
 -  We're currently working on an awesome and fresh presentation about our commission system. Stay tuned, it's gonna be mind-blowing! 💥🤩 We'll be sharing the online download link soon. Stay curious! 😉 #CommissionSystem #ExcitingUpdates #ComingSoon
 
