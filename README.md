@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.08.2023 (announcement)
+- 🔬🚀 Exciting news! We're exploring new possibilities for our future commission partners by experimenting with a potential Affiliate System. 💼💸 Interested in expanding your earning potential with us? 🌟 Share your thoughts on this initiative! #AffiliateMarketing #JoinTheExperiment 🤝
+
 ### 28.08.2023 (announcement Snoogie)
 - 🚀🎉 We're thrilled to announce the release of Snoogie version 37.0.0, packed with exciting new features and a fresh new design! 💥🎨 Check out all the updates and changes on our Github page. 📝👀 What are you most excited to try out? Share your thoughts with us! 👇😃 #SnoogieVersion37 #NewFeatures #DesignRevamp
 
