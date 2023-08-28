@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.08.2023 (announcement Snoogie)
+- 🚀🎉 We're thrilled to announce the release of Snoogie version 37.0.0, packed with exciting new features and a fresh new design! 💥🎨 Check out all the updates and changes on our Github page. 📝👀 What are you most excited to try out? Share your thoughts with us! 👇😃 #SnoogieVersion37 #NewFeatures #DesignRevamp
+
+### 28.08.2023 (announcement Biospreed)
+- 🎉🚀 We have just released Version 37.0.0 for Biospreed with loads of new features and a fresh new design! 🌟 Check out all the latest updates and improvements on our Github page. 📲👀 Have you had a chance to explore the new version yet? Let us know what you think! 💭 #BiospreedUpdates #NewVersionOutNow
+
+### 28.08.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 28.08.2023 (announcement Snoogie)
+- The launch of version 37.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 28.08.2023 (announcement Snoogie)
+- We are now starting the launch of v37.0.0.
+
+### 28.08.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 37.0.0 for **Snoogie**.
+
+### 28.08.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 37.0.0 for **Snoogie**.
+
+### 28.08.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v37.0.0. 😍
+
+### 28.08.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 28.08.2023 (announcement Biospreed)
+- The launch of version 37.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 28.08.2023 (announcement Biospreed)
+- We are now starting the launch of v37.0.0.
+
+### 28.08.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 37.0.0 for **Biospreed**.
+
+### 28.08.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 37.0.0 for **Biospreed**.
+
+### 28.08.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v37.0.0. 😍
+
 ### 27.08.2023 (announcement LaaS Whatsstore)
 - 📢 Exciting news! We're currently conducting extensive tests on WhatsStore, our latest platform. 🧪🔬 And guess what? You can be a part of it too! 🎉✨ Share your interest below if you'd like to test the finished product. 🚀🌟 #WhatsStoreTesting #BetaTestersWanted
 
