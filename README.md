@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.08.2023 (announcement)
+- 📢 Hey everyone! We're busy working on some organizational stuff for Linkspreed, including future partner contracts 👥📝 Stay tuned for exciting collaborations! 💼💼 Have you ever partnered with a company before? Share your experiences below! ⬇️ #Linkspreed #Partnerships #BusinessGrowth
+
 ### 28.08.2023 (announcement)
 - 🔬🚀 Exciting news! We're exploring new possibilities for our future commission partners by experimenting with a potential Affiliate System. 💼💸 Interested in expanding your earning potential with us? 🌟 Share your thoughts on this initiative! #AffiliateMarketing #JoinTheExperiment 🤝
 
