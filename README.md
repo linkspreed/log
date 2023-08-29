@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.08.2023 (announcement AlgoX)
+- 🔬📣 We're thrilled to unveil our latest tech creation: AlgoX, our fifth AI solution! 🤖💡 Get ready for a game-changing innovation that will revolutionize the industry. 🌟🚀 Stay tuned for more updates! What are your thoughts on AI advancements? Share with us! 🤔💭 #AI #Innovation #AlgoX
+
 ### 29.08.2023 (announcement)
 - 📢 Hey everyone! We're busy working on some organizational stuff for Linkspreed, including future partner contracts 👥📝 Stay tuned for exciting collaborations! 💼💼 Have you ever partnered with a company before? Share your experiences below! ⬇️ #Linkspreed #Partnerships #BusinessGrowth
 
