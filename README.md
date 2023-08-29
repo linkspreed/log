@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.08.2023 (announcement [IPv6])
+- Exciting news from our end! 🌟 We're thrilled to announce that we're now registering unique IPv6 addresses for each of our Linkspeed subdomains. 🌐🔗 Say hello to the future! 🚀 Join us in embracing IPv6 as the new standard. 🙌💪
+
 ### 29.08.2023 (announcement)
 - We're currently experimenting with custom domains for some of our platforms. 🧪🚀 Stay tuned for a more personalized online experience! Which platform would you love to see with a custom domain? Share your thoughts below! 👇 #CustomDomains #ComingSoon #EnhancedExperience
 
