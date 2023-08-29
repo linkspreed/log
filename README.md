@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.08.2023 (announcement)
+- We're currently experimenting with custom domains for some of our platforms. 🧪🚀 Stay tuned for a more personalized online experience! Which platform would you love to see with a custom domain? Share your thoughts below! 👇 #CustomDomains #ComingSoon #EnhancedExperience
+
 ### 29.08.2023 (announcement AlgoX)
 - 🔬📣 We're thrilled to unveil our latest tech creation: AlgoX, our fifth AI solution! 🤖💡 Get ready for a game-changing innovation that will revolutionize the industry. 🌟🚀 Stay tuned for more updates! What are your thoughts on AI advancements? Share with us! 🤔💭 #AI #Innovation #AlgoX
 
