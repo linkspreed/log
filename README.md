@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.08.2023 (announcement [IPv6])
+- 🎉 We've got something special for all you tech enthusiasts! ⚡️🌐 We're thrilled to announce that we're now registering IPv6 addresses for all subdomains! 🌍🔒 Embrace the future of networking! 💪🔌✨ Have you already migrated to IPv6? If yes, share your experience below! If not, what's holding you back? Let's discuss! 👇 #IPv6
+
 ### 29.08.2023 (announcement [IPv6])
 - Exciting news from our end! 🌟 We're thrilled to announce that we're now registering unique IPv6 addresses for each of our Linkspeed subdomains. 🌐🔗 Say hello to the future! 🚀 Join us in embracing IPv6 as the new standard. 🙌💪
 
