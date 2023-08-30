@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.08.2023 (announcement AlgoX)
+- 🔬 Exciting news! We're thrilled to announce that we're currently working on our fifth AI solution, AlgoX! 🚀🤖 Stay tuned as we dive deeper into the world of artificial intelligence and its endless possibilities! ✨ What are your thoughts on AI? Drop them below! 👇 #AI #AlgoX #FutureTech
+
 ### 30.08.2023 (announcement [L2B])
 - 🔬🧠 Curious minds at work! 🌟🔍 We're constantly experimenting and brainstorming new features for our L2B platforms. Have any ideas that could take it to the next level? Share them with us! 🚀💡 #innovation #L2B #CreativityUnleashed
 
