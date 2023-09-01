@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.09.2023 (announcement L2B)
+- 📢 Hey there! 👋 We've got some exciting projects in the works for our L2B platforms! 🚀🔌 We're currently developing a bunch of awesome (potentially paid) add-on plugins, specifically for our Classic solution. 💼💡 What kind of features would you love to see in these plugins? Share your thoughts below! ⬇️ #l2B #ClassicSolution #PluginDevelopment
+
+### 01.09.2023 (announcement)
+- 📝 We've been hard at work on our business plan for Linkspreed Franchise! Get ready for a professional, top-notch, and transparent documentation. 📚✨ #LinkspreedFranchise #BusinessPlanning #ExcitingJourney
+
 ### 01.09.2023 (announcement)
 - 🖊️📄 Hey fellow entrepreneurs! We're working hard on crafting essential documents and contracts for our professional startup. 🚀✍️
 
