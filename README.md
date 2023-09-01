@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.09.2023 (announcement)
+- 🖊️📄 Hey fellow entrepreneurs! We're working hard on crafting essential documents and contracts for our professional startup. 🚀✍️
+
+### 01.09.2023 (announcement)
+- 📢 Hey there! Guess what? We're currently working on some super exciting updates and new platforms! 🚀 Stay tuned to be the first to know all about them. 🌟 What updates or new platforms are you most excited about? Let us know! 👇 #ComingSoon #ExcitingTimes
+
+### 31.08.2023 (announcement)
+- 🔧📱 Exciting times ahead! We're currently working on several new updates and platforms to enhance your experience. Stay tuned for some amazing surprises coming your way! 🎉💼 What new features would you like to see from us? Share your thoughts below! #innovation #upgrades
+
 ### 30.08.2023 (announcement AlgoX)
 - 🔬 Exciting news! We're thrilled to announce that we're currently working on our fifth AI solution, AlgoX! 🚀🤖 Stay tuned as we dive deeper into the world of artificial intelligence and its endless possibilities! ✨ What are your thoughts on AI? Drop them below! 👇 #AI #AlgoX #FutureTech
 
