@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.09.2023 (announcement [Documents])
+- 🚀 We're currently in the works of creating a super handy page where you can download all the essential documents, like contracts and presentations, from Linkspreed as samples! 📎💼 Stay tuned for more details! 😉 #ComingSoon #Samples #Linkspreed
+
 ### 02.09.2023 (announcement L2B Classic)
 - 🔬✨ We're diving into the world of CRM software and trying out our very own! 🤓💻 Have you had a chance to give it a spin yet? Share your thoughts and experiences with us! 🗣️👇 #CRM #SoftwareTesting #ShareYourFeedback
 
