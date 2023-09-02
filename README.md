@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.09.2023 (announcement L2B Helpdesk)
+- 🚀 We're thrilled to announce that we're currently working on our fourth L2B demo! 🎉 This time, we're developing a Helpdesk solution tailored for businesses, aiming to provide top-notch customer support. 🌟 What features do you think are essential for a first-class support system? Share your thoughts below! 💬 #L2BDemo #HelpdeskSolution #CustomerSupport
+
+### 02.09.2023 (announcement)
+- We're thrilled to announce that we're building a Commission Partner Network! 🤝✨ Are you passionate about earning extra income? Join us and become a part of our growing community. 💼💸 #opportunityawaits #joinus #commissionpartners
+
 ### 01.09.2023 (announcement L2B)
 - 📢 Hey there! 👋 We've got some exciting projects in the works for our L2B platforms! 🚀🔌 We're currently developing a bunch of awesome (potentially paid) add-on plugins, specifically for our Classic solution. 💼💡 What kind of features would you love to see in these plugins? Share your thoughts below! ⬇️ #l2B #ClassicSolution #PluginDevelopment
 
