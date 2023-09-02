@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.09.2023 (announcement L2B Classic)
+- 🔬✨ We're diving into the world of CRM software and trying out our very own! 🤓💻 Have you had a chance to give it a spin yet? Share your thoughts and experiences with us! 🗣️👇 #CRM #SoftwareTesting #ShareYourFeedback
+
 ### 02.09.2023 (announcement L2B Helpdesk)
 - 🚀 We're thrilled to announce that we're currently working on our fourth L2B demo! 🎉 This time, we're developing a Helpdesk solution tailored for businesses, aiming to provide top-notch customer support. 🌟 What features do you think are essential for a first-class support system? Share your thoughts below! 💬 #L2BDemo #HelpdeskSolution #CustomerSupport
 
