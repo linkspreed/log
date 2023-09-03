@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.09.2023 (announcement [Documents])
+- 📝 Exciting announcement: We're thrilled to share that our all-new document page is now live! 🎉🚀 Visit https://documents.linkspreed.com to explore a seamless experience for all your document needs. 📄✨ Have you checked it out yet?
+
+### 03.09.2023 (announcement [Documents])
 - 📚👥 Hey there! Need important templates and presentations?📎✨ We're constantly improving our landing page to make 'em available for download! Stay tuned for some exciting updates. What kind of documents are you currently searching for? Let us know! 👇 #documenttemplates #presentationdesign
 
 ### 02.09.2023 (announcement [Documents])
