@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.09.2023 (announcement [Documents])
+- 📚👥 Hey there! Need important templates and presentations?📎✨ We're constantly improving our landing page to make 'em available for download! Stay tuned for some exciting updates. What kind of documents are you currently searching for? Let us know! 👇 #documenttemplates #presentationdesign
+
 ### 02.09.2023 (announcement [Documents])
 - 🚀 We're currently in the works of creating a super handy page where you can download all the essential documents, like contracts and presentations, from Linkspreed as samples! 📎💼 Stay tuned for more details! 😉 #ComingSoon #Samples #Linkspreed
 
