@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.09.2023 (announcement L2B Helpdesk)
+- 🎉🔧 Our team is thrilled to announce the completion of the L2B Helpdesk Demo Application! 🚀 Check it out at https://l2b.linkspreed.com or https://l2b.linkspreed.com/helpdesk. Stay tuned for more exciting updates coming in September. 🗓️💼 #L2BHelpdesk #DemoApplication #ComingSoon #StayTuned
+
+### 03.09.2023 (announcement L2B Helpdesk)
 - 🚀 We're making great progress on our own Helpdesk demo as an L2B application! 💼🔧 Exciting times ahead! 🎉 Stay tuned for updates! 📢💪 #HelpdeskDemo #L2BApplication #StayTuned
 
 ### 03.09.2023 (announcement AlgoX)
