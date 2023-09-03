@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.09.2023 (announcement AlgoX)
+- 🤖 We're diving back into our fifth AI solution, AlgoX! 🧠💡 Join us on this incredible journey as we push the boundaries of artificial intelligence. 🌟🔬 
+
 ### 03.09.2023 (announcement L2B Classic)
 - 🔌🚀 Hey folks! 🤩 We've been hard at work developing tons of amazing new plugins for L2B Classic! 🎉 It's absolutely mind-blowing! 😱 
 
