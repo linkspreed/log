@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.09.2023 (announcement L2B Helpdesk)
+- 🚀 We're making great progress on our own Helpdesk demo as an L2B application! 💼🔧 Exciting times ahead! 🎉 Stay tuned for updates! 📢💪 #HelpdeskDemo #L2BApplication #StayTuned
+
 ### 03.09.2023 (announcement AlgoX)
 - 🤖 We're diving back into our fifth AI solution, AlgoX! 🧠💡 Join us on this incredible journey as we push the boundaries of artificial intelligence. 🌟🔬 
 
