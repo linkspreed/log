@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.09.2023 (announcement L2B Classic)
+- 🔌🚀 Hey folks! 🤩 We've been hard at work developing tons of amazing new plugins for L2B Classic! 🎉 It's absolutely mind-blowing! 😱 
+
 ### 03.09.2023 (announcement [Documents])
 - 📝 Exciting announcement: We're thrilled to share that our all-new document page is now live! 🎉🚀 Visit https://documents.linkspreed.com to explore a seamless experience for all your document needs. 📄✨ Have you checked it out yet?
 
