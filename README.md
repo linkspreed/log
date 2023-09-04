@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 04.09.2023 (announcement [Documents])
+- All our documents are now ready for download. 📥👨‍💼 Head over to our website and grab your copies of sample contracts and documentation. 💼✨ Don't miss out on this valuable resource! #DownloadNow #SampleContracts #Documentation 📲💻
+
+### 04.09.2023 (announcement [Documents])
 - 📝🔗 We're currently uploading the remaining documents on documents.linkspreed.com. 🚀💼 Join us in this productive journey and make sure you don't miss out on any important files! 📎🔐 If you have any questions or need assistance, feel free to ask! 🤝🔎
 
 ### 03.09.2023 (announcement L2B Helpdesk)
