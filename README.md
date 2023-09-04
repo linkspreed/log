@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.09.2023 (announcement [Documents])
+- 📝🔗 We're currently uploading the remaining documents on documents.linkspreed.com. 🚀💼 Join us in this productive journey and make sure you don't miss out on any important files! 📎🔐 If you have any questions or need assistance, feel free to ask! 🤝🔎
+
 ### 03.09.2023 (announcement L2B Helpdesk)
 - 🎉🔧 Our team is thrilled to announce the completion of the L2B Helpdesk Demo Application! 🚀 Check it out at https://l2b.linkspreed.com or https://l2b.linkspreed.com/helpdesk. Stay tuned for more exciting updates coming in September. 🗓️💼 #L2BHelpdesk #DemoApplication #ComingSoon #StayTuned
 
