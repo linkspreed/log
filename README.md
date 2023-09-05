@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.09.2023 (announcement Snoogie)
+- 🎉 We've just released version 38.0.0 of our beloved app! 🚀📱 Experience new features, enhanced performance, and a smoother user interface. 😍🔥 Have you updated your Snoogie yet? Let us know in the comments below! ⬇️ #SnoogieUpdate #NewAndImproved 🆕🔝
+
+### 05.09.2023 (announcement Biospreed)
+- Exciting news here! 🎉 We are thrilled to announce the release of version 38.0.0 🚀 for Biospreed! 🌐✨ Stay updated with the latest features, enhancements, and improvements. 😍✨ What's your favorite feature in this new version? Let us know! 💬👇 #BiospreedUpdate #Version38 #NewFeatures
+
+### 05.09.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 05.09.2023 (announcement Snoogie)
+- The launch of version 38.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 05.09.2023 (announcement Snoogie)
+- We are now starting the launch of v38.0.0.
+
+### 05.09.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 38.0.0 for **Snoogie**.
+
+### 05.09.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 38.0.0 for **Snoogie**.
+
+### 05.09.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v38.0.0. 😍
+
+### 05.09.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 05.09.2023 (announcement Biospreed)
+- The launch of version 38.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 05.09.2023 (announcement Biospreed)
+- We are now starting the launch of v38.0.0.
+
+### 05.09.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 38.0.0 for **Biospreed**.
+
+### 05.09.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 38.0.0 for **Biospreed**.
+
+### 05.09.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v38.0.0. 😍
+
 ### 04.09.2023 (announcement [Documents])
 - All our documents are now ready for download. 📥👨‍💼 Head over to our website and grab your copies of sample contracts and documentation. 💼✨ Don't miss out on this valuable resource! #DownloadNow #SampleContracts #Documentation 📲💻
 
