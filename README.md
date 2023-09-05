@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.09.2023 (announcement L2B Classic)
+- 🔌🚀 Check out our continuously expanding fleet of plugins for L2B Classic! 🛠️💪 Get ready to take your experience to the next level with our cutting-edge additions. Share your favorite plugin with us below! #L2BClassic #TechUpgrade 🌟🔧💼
+
 ### 05.09.2023 (announcement Linkspreed Franchise)
 - 🎉 Our newly launched Applicant Profiling for Franchise Partners is now available for download in English! 🌍💼 Dive into the world of franchising and take your first step towards success! 🚀📥 Get it now at: https://documents.linkspreed.com. 🤩📲 Don't miss out! 😎👇 #FranchiseOpportunity #BusinessGrowth #DownloadNow
 
