@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.09.2023 (announcement Linkspreed Franchise)
+- 🎉 Our newly launched Applicant Profiling for Franchise Partners is now available for download in English! 🌍💼 Dive into the world of franchising and take your first step towards success! 🚀📥 Get it now at: https://documents.linkspreed.com. 🤩📲 Don't miss out! 😎👇 #FranchiseOpportunity #BusinessGrowth #DownloadNow
+
 ### 05.09.2023 (announcement Snoogie)
 - 🎉 We've just released version 38.0.0 of our beloved app! 🚀📱 Experience new features, enhanced performance, and a smoother user interface. 😍🔥 Have you updated your Snoogie yet? Let us know in the comments below! ⬇️ #SnoogieUpdate #NewAndImproved 🆕🔝
 
