@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.09.2023 (announcement L2B Classic)
+- 🚀 Exciting news! We're currently developing multiple plugins for our L2B Classic application! 🎉 Want to customize your experience? Tell us what kind of features you'd love to see in our plugins! Share your ideas below! 👇🔌 #L2BClassic #PluginDevelopment #CustomizeYourExperience
+
 ### 05.09.2023 (announcement L2B Classic)
 - 🔌🚀 Check out our continuously expanding fleet of plugins for L2B Classic! 🛠️💪 Get ready to take your experience to the next level with our cutting-edge additions. Share your favorite plugin with us below! #L2BClassic #TechUpgrade 🌟🔧💼
 
