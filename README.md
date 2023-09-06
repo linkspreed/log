@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.09.2023 (announcement BeYou)
+- 📢 Exciting news! 🎉 We've just released Version 3.9.1 for BeYou! 🚀✨ This update brings some amazing new features and improvements to enhance your experience. 😍💪 Have you updated yet? Share your thoughts and let us know what you think! 🤔 #BeYouApp #UpdateTime #NewFeatures
+
+### 06.09.2023 (announcement KitChat)
+- 📢 Hey there, chat enthusiasts! 🙌 We're thrilled to announce the release of Kitchat version 3.9.1! 🎉🔥 Get ready for an enhanced chatting experience with our latest update. 📲💬 Have you already updated your app? Let us know what you think! 😊👇 #KitchatUpdate #EnhancedExperience
+
+### 06.09.2023 (announcement BeYou)
+- https://github.com/linkspreed/BeYou/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 06.09.2023 (announcement BeYou)
+- The launch of version 3.9.1 of **BeYou** was successful! 🥳
+- The new update is live now :)
+- https://beyou.linkspreed.com 🔗
+
+### 06.09.2023 (announcement BeYou)
+- We are now starting the launch of v3.9.1.
+
+### 06.09.2023 (announcement BeYou)
+- The servers are now ready for the launch of version 3.9.1 for **BeYou**.
+
+### 06.09.2023 (announcement BeYou)
+- The code is now ready for the launch of version 3.9.1 for **BeYou**.
+
+### 06.09.2023 (announcement BeYou)
+-  **BeYou** gets a big update today - we are going to launch v3.9.1. 😍
+
+### 06.09.2023 (announcement KitChat)
+- https://github.com/linkspreed/KitChat/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 06.09.2023 (announcement KitChat)
+- The launch of version 3.9.1 of **KitChat** was successful! 🥳
+- The new update is live now :)
+- https://kitchat.linkspreed.com 🔗
+
+### 06.09.2023 (announcement KitChat)
+- We are now starting the launch of v3.9.1.
+
+### 06.09.2023 (announcement KitChat)
+- The servers are now ready for the launch of version 3.9.1 for **KitChat**.
+
+### 06.09.2023 (announcement KitChat)
+- The code is now ready for the launch of version 3.9.1 for **KitChat**.
+
+### 06.09.2023 (announcement KitChat)
+-  **KitChat** gets a big update today - we are going to launch v3.9.1. 😍
+
 ### 06.09.2023 (announcement L2B Classic)
 - 🚀 Exciting news! We're currently developing multiple plugins for our L2B Classic application! 🎉 Want to customize your experience? Tell us what kind of features you'd love to see in our plugins! Share your ideas below! 👇🔌 #L2BClassic #PluginDevelopment #CustomizeYourExperience
 
