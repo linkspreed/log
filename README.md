@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.09.2023 (announcement L2B Classic)
+- 🎉 Exciting news! 🎉 We're thrilled to announce the release of the new version of L2B Classic! 🚀 But, guess what? We won't say goodbye to the old version just yet! 🙌 You can still access it online at /old as a subdirectory. 🌐💻 #L2BClassic #UpgradeTime
+
+### 07.09.2023 (announcement)
+- 🚀 We've been busy working on a multitude of new solutions to expand our portfolio! 💼✨ What exciting developments would you like to see in our lineup? Share your thoughts! 🔥🤔 #innovation #expansion #creativity
+
+### 07.09.2023 (announcement)
+- 📢 Hey everyone! Exciting news coming your way soon! 🌟 We've been hard at work on numerous new updates that will be hitting your screens in no time! 🎉 Stay tuned for all the upcoming awesomeness! Which new feature are you most excited about? Share your thoughts below! 👇 #ComingSoon #NewUpdates
+
 ### 06.09.2023 (announcement BeYou)
 - 📢 Exciting news! 🎉 We've just released Version 3.9.1 for BeYou! 🚀✨ This update brings some amazing new features and improvements to enhance your experience. 😍💪 Have you updated yet? Share your thoughts and let us know what you think! 🤔 #BeYouApp #UpdateTime #NewFeatures
 
