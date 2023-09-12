@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.09.2023 (announcement)
+- 📢 Hey there! 👋 We're currently a team of four rockstars in sales, on the hunt for fresh partnerships! 🤝💼 Are you interested in joining forces with us? Let's connect and explore the possibilities! 🌟 #BusinessOpportunity #JoinOurTeam 🤝🌍 Question: Which industries are you most passionate about collaborating with? 📈🔍
+
+### 12.09.2023 (announcement [Linkspreed Research Lab])
+- 🔬 Exciting news from the Linkspreed Research Lab! 🚀 We've got a bunch of new codes headed our way! 🌟 Can't wait to dive into them and unlock new possibilities! 💡 Which coding language are you most excited to explore? 🤔 #ResearchLab #NewCodes #CodingCommunity
+
+### 11.09.2023 (announcement)
+- 🌟 Hey everyone! Today, we made the most of our time and kicked off a bunch of exciting new projects! 🚀🎉 Can't wait to share them with you soon! Which type of project are you most excited about? #NewBeginnings #ExcitingTimes
+
 ### 10.09.2023 (announcement L2B Pipeline)
 - 📢 Hey everyone! Exciting updates on our ongoing L2B Pipeline project 🚀 We're dedicatedly working towards its successful completion! 🔧💪 Stay tuned for some mind-blowing developments! 🌟 #L2BPipeline #InnovationInProgress 💡🔌 Have you ever worked on a groundbreaking project? Share your experience below! 👇
 
