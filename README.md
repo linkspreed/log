@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.09.2023 (announcement [Partners])
+- 🔍 Hey there! We're on the hunt for new partners and we've got something special up our sleeves... 🤔💡 Want to be part of the action? 💼💼 Drop a 🙋‍♂️ if you're interested and let's chat! #NewPartners #OpportunityKnocks #JoinUsNow 🌟 What qualities do you look for in a perfect partnership? 🤝
+
+### 13.09.2023 (announcement Linkspreed Franchise)
+- 📢 Hey everyone! 🤩 We're thrilled to share that we're currently working on developing a business plan for our franchise model. 📝✨ Exciting times ahead! 🚀 Have you ever considered owning a franchise? 🤔 Let us know your thoughts! 💭👇 #FranchiseOpportunity #BusinessPlanning
+
+### 13.09.2023 (announcement)
+- 🌟 Hey there! We're thrilled to share that we're tirelessly working on numerous exciting projects and can't wait to unveil them soon. 🚀 Stay tuned for some amazing stuff! Which type of project are you most excited about? Share with us! 😄 #ComingSoon #ProjectUpdates
+
 ### 12.09.2023 (announcement)
 - 📢 Hey there! 👋 We're currently a team of four rockstars in sales, on the hunt for fresh partnerships! 🤝💼 Are you interested in joining forces with us? Let's connect and explore the possibilities! 🌟 #BusinessOpportunity #JoinOurTeam 🤝🌍 Question: Which industries are you most passionate about collaborating with? 📈🔍
 
