@@ -2,8 +2,14 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 14.09.2023 (announcement [PMRC - intern])
-- 🚀 Exciting news! 🎉 We're developing an internal project management tool for Linkspreed called PMRC! 📊🔧 Stay tuned for updates and let us know: What features would you love to see in a project management tool? 🤔 #ProjectManagement #PMRC #Linkspreed
+### 15.09.2023 (announcement)
+- 🌟 Hey there! Exciting update! 🚀 We're currently working on a bunch of awesome new projects that are taking shape! 😎 Stay tuned for some mind-blowing surprises coming your way. What are your thoughts on exploring new frontiers? 🌍 Let us know! #ProjectBuzz #NewBeginnings
+
+### 15.09.2023 (announcement [PMCR - intern])
+- 📢 Hey there! We are super excited to share that we are working on an amazing project called PMCR 🚀 It's our internal tool to enhance project and client management. 📊✨ Have you ever used a similar tool for better organization? Share your thoughts with us! 🤔 #projectmanagement #clientrelations
+
+### 14.09.2023 (announcement [PMCR - intern])
+- 🚀 Exciting news! 🎉 We're developing an internal project management tool for Linkspreed called PMCR! 📊🔧 Stay tuned for updates and let us know: What features would you love to see in a project management tool? 🤔 #ProjectManagement #PMCR #Linkspreed
 
 ### 13.09.2023 (announcement [Partners])
 - 🔍 Hey there! We're on the hunt for new partners and we've got something special up our sleeves... 🤔💡 Want to be part of the action? 💼💼 Drop a 🙋‍♂️ if you're interested and let's chat! #NewPartners #OpportunityKnocks #JoinUsNow 🌟 What qualities do you look for in a perfect partnership? 🤝
