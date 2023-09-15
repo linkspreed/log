@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 15.09.2023 (announcement)
+- 🎉🔮 Hey there, amazing peeps! 🌟 We're super thrilled to announce that we're currently planning and brainstorming a brand new project that'll be focused on events and 💡 SaaS-based solutions! 🎊✨ Exciting, right? 🤩🎈 Stay tuned for more updates, and tell us, what's your favorite part about attending events? 🎉🌈 #NewProject #Events #SaaS #ExcitingTimes
+
+### 15.09.2023 (announcement [PMCR - intern])
+- 📣 Exciting news! 🚀🎉 We've successfully completed our internal project PMCR! ✔️ Now, we're supercharged to be more productive and agile than ever before. 💪💼 How do you enhance productivity in your workplace? Share your tips below! 👇 #ProjectPMCR #ProductivityBoost
+
+### 15.09.2023 (announcement)
 - 🌟 Hey there! Exciting update! 🚀 We're currently working on a bunch of awesome new projects that are taking shape! 😎 Stay tuned for some mind-blowing surprises coming your way. What are your thoughts on exploring new frontiers? 🌍 Let us know! #ProjectBuzz #NewBeginnings
 
 ### 15.09.2023 (announcement [PMCR - intern])
