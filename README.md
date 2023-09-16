@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.09.2023 (announcement L2B Pipeline)
+- 🚀 We're making great progress on our L2B Pipeline! 💪🏼🔧 Exciting updates coming soon! Stay tuned! 🌟 What features would you like to see in our pipeline? Share your thoughts below! 👇🏼 #L2B #PipelineProgress #ComingSoon #YourOpinionMatters
+
 ### 16.09.2023 (announcement EventiX)
 - 🎉 Exciting news! 🚀 We're thrilled to share that we've been working tirelessly on EventiX, our cutting-edge Event SaaS solution! 🎟️📈💼 Stay tuned for updates! 😊✨ #EventiX #EventManagement #SaaS
 
