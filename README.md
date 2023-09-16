@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.09.2023 (announcement EventiX)
+- 🎉 Exciting news! 🚀 We're thrilled to share that we've been working tirelessly on EventiX, our cutting-edge Event SaaS solution! 🎟️📈💼 Stay tuned for updates! 😊✨ #EventiX #EventManagement #SaaS
+
+### 16.09.2023 (announcement EventiX)
+- 📣 Guess what? One of our exciting new projects, EventiX, is shaping up! 🎉 Can you crack the mystery and guess what it's all about? 🤔🔍 Share your thoughts using #EventiX and let us know what you think it could be! 🌟 #ProjectTeaser #GuessingGame
+
+### 16.09.2023 (announcement)
+- 🚀📲 Hey tech enthusiasts!🤓🌟 Exciting news coming your way! We're constantly brainstorming, refining & creating cutting-edge software solutions. 🌐✨💡 Ready to take the digital world by storm!💥🔥 Any suggestions on what software you'd love to see next? Share your thoughts!👇🔍 #SoftwareInnovation #TechRevolution
+
+### 16.09.2023 (announcement)
+- 📢 Hey there! Exciting day ahead as we dive into a jam-packed schedule of interviews for our incredible partner network! 🎉🤝 Have you ever aced a job interview? Share your top tips with us! 👔💼 #Interviews #PartnerNetwork #JobTips
+
 ### 15.09.2023 (announcement)
 - 🎉🔮 Hey there, amazing peeps! 🌟 We're super thrilled to announce that we're currently planning and brainstorming a brand new project that'll be focused on events and 💡 SaaS-based solutions! 🎊✨ Exciting, right? 🤩🎈 Stay tuned for more updates, and tell us, what's your favorite part about attending events? 🎉🌈 #NewProject #Events #SaaS #ExcitingTimes
 
