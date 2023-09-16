@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.09.2023 (announcement)
+- 📢 Exciting news! 🌐 We're thrilled to announce that we're bringing #Linkspreed to Bing! 🎉 Experience lightning-fast search results 🚀 with enhanced speed and efficiency. 💯 What are your thoughts on this game-changing feature? Share with us! 🤔 #Bing #SearchUpgrade
+
 ### 16.09.2023 (announcement L2B Pipeline)
 - 🚀 We're making great progress on our L2B Pipeline! 💪🏼🔧 Exciting updates coming soon! Stay tuned! 🌟 What features would you like to see in our pipeline? Share your thoughts below! 👇🏼 #L2B #PipelineProgress #ComingSoon #YourOpinionMatters
 
