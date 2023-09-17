@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.09.2023 (announcement EventiX)
+- 📢 Exciting news! We're thrilled to share our ongoing work on EventiX, a groundbreaking event project that aims to be offered as a franchise opportunity in the future. 🌟🎉 Join us on this journey and stay tuned for more updates! 🔜💼💼 Any thoughts on what makes a successful franchise? Share your insights below! 👇🤔 #EventiX #FranchiseOpportunity #StayTuned
+
+### 17.09.2023 (announcement)
+- 🌍🤝 Hey there! We're on the lookout for new partners to join forces in our exciting projects. 🚀🔍 If you're interested in collaborating and making a positive impact, drop us a line! 🌟✉️ Tell us, what kind of partnerships do you find most inspiring? 💭💼 #JoinUs #Collaboration #MakeADifference
+
 ### 16.09.2023 (announcement)
 - 📢 Exciting news! 🌐 We're thrilled to announce that we're bringing #Linkspreed to Bing! 🎉 Experience lightning-fast search results 🚀 with enhanced speed and efficiency. 💯 What are your thoughts on this game-changing feature? Share with us! 🤔 #Bing #SearchUpgrade
 
