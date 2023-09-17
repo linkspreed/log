@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.09.2023 (announcement Kitchat)
+- 📢 Exciting news, Kitchat fam! 🎉 We've just released Patch 1 and Patch 2, bringing you some awesome bug fixes! 🐛🔧 Discover all the changes and improvements on our Github page. Check it out now! 👀💻 #KitchatUpdates #BugFixes #GitHub
+
+### 17.09.2023 (announcement BeYou)
+- 📢 We've just released Patch 1 and Patch 2 for BeYou, fixing several bugs along the way! 🐛 Check out the changes on our Github repository. 🔧💻 Did you encounter any issues with BeYou? Share your thoughts with us in the comments below! 👇 #BeYou #softwareupdates #bugfixes
+
 ### 17.09.2023 (announcement Linkspreed Franchise)
 - 📢 Hey everyone! 👋 We're thrilled to share that we're hard at work on our Linkspreed Franchise concept! 🚀🌟 As we dive into this exciting project, we'd love to hear your thoughts. What kind of services or features would you like to see in our franchise? 🤔💡 Drop your ideas below! 👇 #LinkspreedFranchise #InnovationInProgress
 
