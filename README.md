@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.09.2023 (announcement)
+- 🚀🔧 Hey there! We've been working on our concept, aiming for ultimate dynamism to deliver code as fast as a production line! 🏭💻 Exciting, right? 💪✨ How do you think this level of agility could benefit your development projects? Share your thoughts! 👇 #CodeDynamism #TechInnovation
+
+### 17.09.2023 (announcement)
+- 📣 Hey everyone! 👋 Exciting times ahead as we gear up for some thrilling new projects! 🚀 Stay tuned as we dive into uncharted territories to bring you innovative solutions. 💡✨ What kind of projects are you most excited about? Share your thoughts! 💬 #NewProjects #InnovationJourney
+
 ### 17.09.2023 (announcement EventiX)
 - 📢 Exciting news! We're thrilled to share our ongoing work on EventiX, a groundbreaking event project that aims to be offered as a franchise opportunity in the future. 🌟🎉 Join us on this journey and stay tuned for more updates! 🔜💼💼 Any thoughts on what makes a successful franchise? Share your insights below! 👇🤔 #EventiX #FranchiseOpportunity #StayTuned
 
