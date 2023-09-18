@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.09.2023 (announcement)
+- 👩‍💻🔧 Working tirelessly on our assembly line concept for our code and apps! 🚀💻 Join us as we enhance our processes to deliver top-notch products. Have any suggestions for optimizing our workflow? Share them below! 👇 #CodeDevelopment #AppDevelopment #Innovation
+
+### 18.09.2023 (announcement EventiX)
+- 🎉 Exciting news! We're making great progress on our EventiX platform. 🚀 Stay tuned for amazing features and an unforgettable user experience! 🌟✨ What kind of events would you love to see on EventiX? Share your thoughts below! 👇 #EventiX #ComingSoon #Interactive
+
+### 18.09.2023 (announcement)
 - 📢 Check out our latest privacy policy update! 📝🔒 We're excited to align with new guidelines from Canada 🇨🇦 and Switzerland 🇨🇭, ensuring your data is protected. Have you had a chance to review it? Let us know your thoughts! 😊✍️ #PrivacyMatters #DataProtection #UpdateAlert
 
 ### 17.09.2023 (announcement Kitchat)
