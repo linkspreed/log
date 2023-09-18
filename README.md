@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.09.2023 (announcement)
+- 📢 Check out our latest privacy policy update! 📝🔒 We're excited to align with new guidelines from Canada 🇨🇦 and Switzerland 🇨🇭, ensuring your data is protected. Have you had a chance to review it? Let us know your thoughts! 😊✍️ #PrivacyMatters #DataProtection #UpdateAlert
+
 ### 17.09.2023 (announcement Kitchat)
 - 📢 Exciting news, Kitchat fam! 🎉 We've just released Patch 1 and Patch 2, bringing you some awesome bug fixes! 🐛🔧 Discover all the changes and improvements on our Github page. Check it out now! 👀💻 #KitchatUpdates #BugFixes #GitHub
 
