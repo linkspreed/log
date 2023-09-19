@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.09.2023 (announcement)
+- 🚀📱 Hey there! 🌟 Exciting news from our team! We're currently brainstorming and fine-tuning our revolutionary concept for Fast Apps! 🤩💡🎉 Stay tuned for some mind-blowing updates coming your way soon! What features do you think are essential for an ideal Fast App? Share your thoughts! 👇🔥 #FastApps #Innovation #TechRevolution
+
+### 19.09.2023 (announcement)
+- 🎉 Hey there! Exciting news! 🎉 We've got a lot of amazing projects, apps, and codes in the works, just as we promised! 🚀 Stay tuned for the latest updates on our innovative creations! 🔥✨ Which project are you most looking forward to? #InnovationNation #TechRevolution
+
+### 19.09.2023 (announcement L2B Classic)
+- 🚨 Hey there, #L2BClassic fans! 👋 We're thrilled to give you a sneak peek into our top-secret subproject that's going to blow your minds! 🔥 Can you guess what it could be? 🕵️‍♂️ Drop your wildest theories below! 🤔💭 #StayTuned #ComingSoon
+
 ### 18.09.2023 (announcement)
 - 👩‍💻🔧 Working tirelessly on our assembly line concept for our code and apps! 🚀💻 Join us as we enhance our processes to deliver top-notch products. Have any suggestions for optimizing our workflow? Share them below! 👇 #CodeDevelopment #AppDevelopment #Innovation
 
