@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.09.2023 (announcement)
+- 🚀 Exciting news! We're constantly striving to enhance our app development process, making it as smooth as a conveyor belt! 📲✨ Stay tuned as we continue working on our groundbreaking concept. Any ideas or suggestions on improving app creation efficiency? Share your thoughts! 💡🔄 #AppDevelopment #Innovation
+
+### 20.09.2023 (announcement L2B Classic)
+- 🚀 Exciting news! We're currently conducting numerous innovative and thrilling experiments with L2B classic! 🧪🔬 Join us on this incredible journey as we explore endless possibilities! 😃✨ What ideas do you have in mind for our L2B classic tests? Share your thoughts below! 👇🤔 #L2Bclassic #Innovation #EndlessPossibilities
+
+### 20.09.2023 (announcement)
+- 🌟 Hey everyone! 🌟 We're currently diving deep into loads of fresh code, brewing up some amazing new projects! 🖥️🚀 Exciting stuff, right? 😄 What projects are you currently working on? Share with us! 👇🔥 #CodeCrush #NewProjects #LetsChat
+
+### 20.09.2023 (announcement)
+- 🌟 Exciting news! 🌟 We're thrilled to announce that we're gearing up to plan an array of webinars and events in the future! 🎉 Stay tuned for updates on our upcoming educational sessions and fantastic gatherings. 🤝💼 Have any specific topics in mind that you'd like us to cover? Drop your suggestions below! 👇 #Webinars #Events #StayTuned #EngageWithUs
+
+### 20.09.2023 (announcement)
+- 🌐🔍 Hey there! We're thrilled to share that we're actively working on optimizing our websites to ensure they also appear on Bing search results! 🙌🔎 Have you ever used Bing for your searches? Let us know your thoughts! #SearchEngine #WebsiteOptimization
+
 ### 19.09.2023 (announcement)
 - 🚀📱 Hey there! 🌟 Exciting news from our team! We're currently brainstorming and fine-tuning our revolutionary concept for Fast Apps! 🤩💡🎉 Stay tuned for some mind-blowing updates coming your way soon! What features do you think are essential for an ideal Fast App? Share your thoughts! 👇🔥 #FastApps #Innovation #TechRevolution
 
