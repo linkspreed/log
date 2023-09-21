@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.09.2023 (announcement L2B Classic Space)
+- 🚀🌍 Hey everyone! We've been working hard on a new project and we're excited to share that it will be called L2B Space, short for Linkspreed Space! Stay tuned for more updates and details coming soon. 📢✨ What are you most excited about when it comes to exploring the L2B Space? Let us know! #L2BSpace #ExcitingTimesAhead
+
 ### 20.09.2023 (announcement)
 - 🚀 Exciting news! We're constantly striving to enhance our app development process, making it as smooth as a conveyor belt! 📲✨ Stay tuned as we continue working on our groundbreaking concept. Any ideas or suggestions on improving app creation efficiency? Share your thoughts! 💡🔄 #AppDevelopment #Innovation
 
