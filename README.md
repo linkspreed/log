@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.09.2023 (announcement Snoogie)
+- 🎉📣 Hey there, Snoogie fam! Exciting news 🌟 We're thrilled to announce the release of Version 39.0.0 🚀🎉 Check out the complete changelog on our Github page! 🔍📋 Have you updated yet? Share your thoughts on the latest version in the comments below! 🗨️💭 #SnoogieUpdate #NewRelease #TechTalk
+
+### 21.09.2023 (announcement Biospreed)
+- 📢 Exciting news! 🎉 We are thrilled to announce the release of Version 39.0.0 for Biospreed! 🚀 Check out the complete changelog on Github to explore all the amazing updates and improvements. 🌟🔧 Have you already updated to the latest version? Let us know your thoughts! 😊 #BiospreedUpdates #NewRelease #TechNews
+
+### 21.09.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 21.09.2023 (announcement Snoogie)
+- The launch of version 39.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 21.09.2023 (announcement Snoogie)
+- We are now starting the launch of v39.0.0.
+
+### 21.09.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 39.0.0 for **Snoogie**.
+
+### 21.09.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 39.0.0 for **Snoogie**.
+
+### 21.09.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v39.0.0. 😍
+
+### 21.09.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 21.09.2023 (announcement Biospreed)
+- The launch of version 39.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 21.09.2023 (announcement Biospreed)
+- We are now starting the launch of v39.0.0.
+
+### 21.09.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 39.0.0 for **Biospreed**.
+
+### 21.09.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 39.0.0 for **Biospreed**.
+
+### 21.09.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v39.0.0. 😍
+
 ### 21.09.2023 (announcement L2B Classic Space)
 - 🚀🌍 Hey everyone! We've been working hard on a new project and we're excited to share that it will be called L2B Space, short for Linkspreed Space! Stay tuned for more updates and details coming soon. 📢✨ What are you most excited about when it comes to exploring the L2B Space? Let us know! #L2BSpace #ExcitingTimesAhead
 
