@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.09.2023 (announcement L2B Space)
+- 🚀 Working hard on our L2B Space project! 🌌🛰️ Exciting things are happening behind the scenes. Stay tuned for updates! 🔧📡 Any guesses on what we're building? Share your thoughts using #L2BSpace and let's dive into the project. 🚀🌠 
+
 ### 22.09.2023 (announcement Linkspreed Franchise)
 - 🚀 Exciting news! We're expanding our imaginary projects to showcase how effortless and rewarding it is to start a franchise with Linkspreed. 🏢💼 Stay tuned as we prepare numerous presentations in the coming weeks to illustrate this further. Any ideas on what industries we should explore? Share your thoughts! 😄🌟 #FranchiseOpportunity #Entrepreneurship
 
