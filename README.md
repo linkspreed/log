@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.09.2023 (announcement)
+- 📢 Just registered as a young team at a Startup Pitch Event! 🚀 Excited to connect with innovative minds and explore fresh opportunities for our Partner Program. 🙌🏼🤝 Share your thoughts: How do you think startups can benefit from collaboration with established companies? #startup #partnerprogram #collaboration
+
 ### 21.09.2023 (announcement Snoogie)
 - 🎉📣 Hey there, Snoogie fam! Exciting news 🌟 We're thrilled to announce the release of Version 39.0.0 🚀🎉 Check out the complete changelog on our Github page! 🔍📋 Have you updated yet? Share your thoughts on the latest version in the comments below! 🗨️💭 #SnoogieUpdate #NewRelease #TechTalk
 
