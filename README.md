@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.09.2023 (announcement Linkspreed Franchise)
+- 🚀 Exciting news! We're expanding our imaginary projects to showcase how effortless and rewarding it is to start a franchise with Linkspreed. 🏢💼 Stay tuned as we prepare numerous presentations in the coming weeks to illustrate this further. Any ideas on what industries we should explore? Share your thoughts! 😄🌟 #FranchiseOpportunity #Entrepreneurship
+
+### 22.09.2023 (announcement)
+- 🎉 Exciting news! 📢 Our CFAL model presentation is now available online at documents.linkspreed.com. 🌐 Make sure to check it out and let us know what you think! 👀📚 #CFAL #ModelPresentation #OnlineNow 🖥️📝 Have you had a chance to explore our CFAL model yet? Share your thoughts below! 💭👇
+
 ### 22.09.2023 (announcement)
 - 📢 Just registered as a young team at a Startup Pitch Event! 🚀 Excited to connect with innovative minds and explore fresh opportunities for our Partner Program. 🙌🏼🤝 Share your thoughts: How do you think startups can benefit from collaboration with established companies? #startup #partnerprogram #collaboration
 
