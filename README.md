@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.09.2023 (announcement L2B Classic)
+- 🔧 Working hard on enhancing the Plugins for L2B Classic! 🚀 Our team is dedicated to bringing you the best features and improvements. 💪 What updates would you love to see in our Plugins? Share your thoughts below! 👇 #L2BClassic #PluginEnhancements
+
+### 23.09.2023 (announcement Linkspreed Start)
+- 🌐📚 Hey there! We're working on creating a fantastic overview page for Linkspreed to help you kickstart your journey. 🚀🔍 Stay tuned for updates! 📢✨ In the meantime, what features or information would you love to see on this page? Let us know! 😊👇 #Linkspreed #ComingSoon #UserFeedback
+
 ### 23.09.2023 (announcement L2B Space)
 - 🚀 Hey there! Exciting times ahead as we continue to work on L2B Space! 🌌 Stay tuned for some out-of-this-world updates coming your way! 🤩 #L2BSpace #ComingSoon
 
