@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 23.09.2023 (announcement L2B Classic)
+- 📢 Hey there, #L2BClassic users! Exciting news ⚡️ We're currently developing a WhatsApp Business Plugin to enhance your experience. 👨‍💼💼 Stay tuned for seamless communication and better customer engagement! 📲✨ How would you utilize this feature to elevate your business? Share your thoughts below! 👇 #WhatsAppBusiness
+
+### 23.09.2023 (announcement L2B Classic)
 - 🔧 Working hard on enhancing the Plugins for L2B Classic! 🚀 Our team is dedicated to bringing you the best features and improvements. 💪 What updates would you love to see in our Plugins? Share your thoughts below! 👇 #L2BClassic #PluginEnhancements
 
 ### 23.09.2023 (announcement Linkspreed Start)
