@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.09.2023 (announcement L2B Classic)
+- 🔧 Working hard on enhancing the L2B Classic Plugin for seamless WhatsApp Business integration! 📱💼 Exciting times ahead! 🥳 What features would you like to see in this integration? Share your thoughts below! 👇 #WhatsAppBusiness #plugindevelopment
+
 ### 24.09.2023 (announcement CallCloud)
 - 🌟 Exciting news! 🌟 We've given CallCloud, our video meeting platform, a major upgrade! 🚀✨ It's now better than ever, with tons of new features and improvements. 😎📞🔥 Have you tried it yet? Let us know your thoughts! 😊👇 #CallCloudUpgraded #VideoMeetings #BetterThanEver
 
