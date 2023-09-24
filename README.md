@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 24.09.2023 (announcement L2B Classic)
+- 📢 Hey L2B Classic users! 🌟 We have some exciting news to share! 🎉 We're currently working on a Google Meet Plugin for L2B Classic! 🤩👥 Stay tuned for more updates. Any suggestions or features you'd like to see in this plugin? Let us know in the comments below! ⬇️🔽 #L2BClassic #GoogleMeetPlugin #ProductDevelopment
+
+### 24.09.2023 (announcement L2B Classic)
 - 🔧 Working hard on enhancing the L2B Classic Plugin for seamless WhatsApp Business integration! 📱💼 Exciting times ahead! 🥳 What features would you like to see in this integration? Share your thoughts below! 👇 #WhatsAppBusiness #plugindevelopment
 
 ### 24.09.2023 (announcement CallCloud)
