@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.09.2023 (announcement CallCloud)
+- 🌟 Exciting news! 🌟 We've given CallCloud, our video meeting platform, a major upgrade! 🚀✨ It's now better than ever, with tons of new features and improvements. 😎📞🔥 Have you tried it yet? Let us know your thoughts! 😊👇 #CallCloudUpgraded #VideoMeetings #BetterThanEver
+
+### 24.09.2023 (announcement CallCloud)
+- 📢 Exciting news! We're thrilled to announce that we're shifting gears for our video meetings. Say goodbye to Google Meet, Zoom, and Teams, and say hello to CallCloud! 🚀🎉 Get ready for a seamless, efficient, and secure video conferencing experience. 💼🌐 #CallCloud #VideoMeetings #Upgrade
+
+### 24.09.2023 (announcement CallCloud)
+- 🌐 Exciting news! 🎉 We're thrilled to announce that for our future webinars, we'll be using our very own video meeting platform, CallCloud! 💻📞 Join us for seamless and interactive virtual sessions like never before. Have you ever attended a webinar before? Share your experiences below! #Webinar #CallCloud #VirtualEvents
+
 ### 23.09.2023 (announcement L2B Classic)
 - 📢 Hey there, #L2BClassic users! Exciting news ⚡️ We're currently developing a WhatsApp Business Plugin to enhance your experience. 👨‍💼💼 Stay tuned for seamless communication and better customer engagement! 📲✨ How would you utilize this feature to elevate your business? Share your thoughts below! 👇 #WhatsAppBusiness
 
