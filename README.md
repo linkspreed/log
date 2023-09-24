@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.09.2023 (announcement L2B Space)
+- 🚀 Exciting updates from our L2B Space project! 🌟 We're making incredible progress and pushing the boundaries of innovation 🌌✨
+
 ### 24.09.2023 (announcement L2B Classic)
 - 📢 Hey L2B Classic users! 🌟 We have some exciting news to share! 🎉 We're currently working on a Google Meet Plugin for L2B Classic! 🤩👥 Stay tuned for more updates. Any suggestions or features you'd like to see in this plugin? Let us know in the comments below! ⬇️🔽 #L2BClassic #GoogleMeetPlugin #ProductDevelopment
 
