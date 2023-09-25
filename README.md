@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.09.2023 (announcement L2B Space)
+- 🚀🔬 Exciting news, space enthusiasts! Our team has been hard at work on the L2B Space project and we're thrilled to share the incredible progress we've made!
+
 ### 24.09.2023 (announcement L2B Space)
 - 🚀 Exciting updates from our L2B Space project! 🌟 We're making incredible progress and pushing the boundaries of innovation 🌌✨
 
