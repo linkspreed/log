@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.09.2023 (announcement Linkspreed Franchise)
+- 🚀 Exciting news! We're currently working on some amazing pilot projects for our #Linkspreed Franchise 🎉 Join the conversation and tell us: What type of industry or business do you think could benefit the most from our innovative approach? Let's brainstorm together! #Entrepreneurship
+
+### 26.09.2023 (announcement L2B Classic)
+- 📢 Exciting news! 🎉🔥 We've just completed the development of the Google Meet Plugin for L2B Classic! 🚀💼 Now, you can seamlessly integrate Google Meet into your L2B Classic experience for seamless video meetings! 🎥💻 Can't wait to hear what you think! Share your thoughts below! 👇😊 #GoogleMeetPlugin #L2BClassic #ProductivityBoost
+
 ### 25.09.2023 (announcement L2B Space)
 - 🚀🔬 Exciting news, space enthusiasts! Our team has been hard at work on the L2B Space project and we're thrilled to share the incredible progress we've made!
 
