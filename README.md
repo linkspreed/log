@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.09.2023 (announcement L2B Space)
+- 🚀 Exciting news! We are super thrilled to announce that we are expanding our L2B Space! 🌟💪 This isn't about space exploration, but rather about our powerful SaaS business application. 📈✨ Join us on this journey as we revolutionize the way businesses operate. 🌍👩‍💼 Have you tried our enhanced features yet? Let us know what you think! 😊 #L2B #SaaS #Expansion #BusinessGrowth
+
+### 27.09.2023 (announcement Linkspreed Meet)
+- 🌐📞 Exciting news! We're expanding our CallCloud Videomeeting Strategy with the addition of #LinkspreedMeet! 🚀🔝 Get ready for seamless virtual meetings with advanced features. 🎥💼 Have you tried any video conferencing tools recently? Which ones do you recommend? Let us know! 👇 #VirtualMeetings
+
 ### 26.09.2023 (announcement Linkspreed Franchise)
 - 🚀 Exciting news! We're currently working on some amazing pilot projects for our #Linkspreed Franchise 🎉 Join the conversation and tell us: What type of industry or business do you think could benefit the most from our innovative approach? Let's brainstorm together! #Entrepreneurship
 
