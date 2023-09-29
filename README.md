@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.09.2023 (announcement)
+- 📣 Calling all partners! 🤝 We're on the lookout for collaborators to join our pilot projects and help us take them to new heights! 🚀🌟 Interested in shaping the future with us? Drop us a DM! 💼🌍 #CollaborationOpportunity #PilotProjects #InnovationJourney
+
+### 29.09.2023 (announcement Linkspreed Start)
+- 🚀 We're thrilled to announce that we're making great progress on our website at Linkspreed! 💻🌐 Get ready to dive into the ultimate Linkspreed Product Family experience, with a simplified and lightning-fast interface. 🙌✨ What features are you most excited to explore? #WebsiteUpdate #LinkspreedJourney
+
+### 29.09.2023 (announcement Linkspreed Meet)
+- 🚀 Hey there! 👋 We're currently working on 🔧 revamping the frontend and creating an exceptional design for Linkspreed Meet! 🎨✨ Exciting times ahead! What features or improvements would you love to see in our new design? Share your thoughts! 💡🤔 #LinkspreedMeet #UI #Design #Feedback
+
+### 29.09.2023 (announcement Linkspreed Meet)
+- 🔧 Working hard on enhancing the backend and fine-tuning the unique technology behind Linkspreed Meet! 🚀 Our team is dedicated to providing you with the best experience possible. How would you describe your experience with virtual meetings so far? Share your thoughts! 💬 #LinkspreedMeet #VirtualMeetings #TechUpdate
+
+### 28.09.2023 (announcement)
+- 📢 Hey #Linkspreed community! 👋 We're thrilled to share that we're working on numerous exciting projects! 🚀 Stay tuned to catch all the latest updates and surprises coming your way! 🌟 Which project are you most eager to learn about? Share your thoughts below. 👇 #StayTuned #ExcitingTimes
+
 ### 27.09.2023 (announcement Linkspreed Meet)
 - 🌟 Big news! 🚀 We're thrilled to share our outstanding progress in developing #LinkspreedMeet! 🎥🤩 Our second video meeting platform, alongside CallCloud, is shaping up brilliantly. 💪💻💼 Stay tuned for updates! What features do you look forward to the most? Share your thoughts below! 👇 #VideoConferencing
 
