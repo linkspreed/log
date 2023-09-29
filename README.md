@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.09.2023 (announcement Linkspreed Meet)
+- 📢 Hey there! 👋 What are your thoughts on the new icon of Linkspreed Meet? 🤔🎉 We've given it a fresh new look and we can't wait to hear what you think! 😍🎨 Share your feedback using #LinkspreedMeetIcon and let us know if you 💙 it or if you have any suggestions! 🙌✨ #NewLook #FeedbackWelcome
+- https://github.com/linkspreed/log/assets/102324985/461e44bc-64f1-455b-9bd9-446dbe15a407
+
 ### 29.09.2023 (announcement)
 - 📣 Calling all partners! 🤝 We're on the lookout for collaborators to join our pilot projects and help us take them to new heights! 🚀🌟 Interested in shaping the future with us? Drop us a DM! 💼🌍 #CollaborationOpportunity #PilotProjects #InnovationJourney
 
