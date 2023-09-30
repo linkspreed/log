@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.09.2023 (announcement)
+- Just finished working on our first client project for L2B and the feedback has been overwhelmingly positive! 🎉 Are you in need of L2B Classic for a better business operation? Let's chat! 💼 #L2BClassic #BusinessSolutions #CustomerFeedback 🤔 How can L2B Classic benefit your company?
+
+### 30.09.2023 (announcement)
+- 🔒 Exciting news! We've joined the ECH Beta Program by Cloudflare to strengthen security and safeguard your privacy. 🌐✨ Protecting your data is our top priority! 🛡️ Share your thoughts on this cutting-edge initiative using #ECHBeta. What are your top concerns when it comes to online privacy? 🕵️‍♀️🔐 #Cloudflare #PrivacyMatters
+
+### 30.09.2023 (announcement L2B)
+- 📢 Hey there! Looking for new opportunities? We've got you covered! Join us on a commission basis and let's distribute our platforms, franchise models, and l2B products together. 🚀💼 #JoinUs #BusinessOpportunity 💪
+
 ### 29.09.2023 (announcement Linkspreed Meet)
 - 📢 Hey there! 👋 What are your thoughts on the new icon of Linkspreed Meet? 🤔🎉 We've given it a fresh new look and we can't wait to hear what you think! 😍🎨 Share your feedback using #LinkspreedMeetIcon and let us know if you 💙 it or if you have any suggestions! 🙌✨ #NewLook #FeedbackWelcome
 - https://github.com/linkspreed/log/assets/102324985/461e44bc-64f1-455b-9bd9-446dbe15a407
