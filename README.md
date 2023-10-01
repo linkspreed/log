@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.10.2023 (announcement L2B Pipeline)
+- We're working on a revolutionary new L2B pipeline solution, and we're restructuring the first fragments of the new application! 🚀 What features would you like to see in the new L2B pipeline? 🤔 #L2B #pipeline #revolution
+
+### 01.10.2023 (announcement L2B Space)
+- 🤔 At L2B Space, we're exploring new database systems and models to help businesses break free from the limitations of traditional data storage. What are some of the most exciting challenges you're facing in your data management? 💾 #databases #data #innovation
+
 ### 30.09.2023 (announcement)
 - Just finished working on our first client project for L2B and the feedback has been overwhelmingly positive! 🎉 Are you in need of L2B Classic for a better business operation? Let's chat! 💼 #L2BClassic #BusinessSolutions #CustomerFeedback 🤔 How can L2B Classic benefit your company?
 
