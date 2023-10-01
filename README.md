@@ -1,6 +1,9 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ...
+## All changes that we will make from 12.07.2022 will appear here ...### 01.10.2023 (announcement L2B Space)
+
+### 01.10.2023 (announcement Linkspreed Kira)
+- We're in the brainstorming phase for our new platform, Kira! What are your thoughts on what we should include? 🤔
 
 ### 01.10.2023 (announcement L2B Pipeline)
 - We're working on a revolutionary new L2B pipeline solution, and we're restructuring the first fragments of the new application! 🚀 What features would you like to see in the new L2B pipeline? 🤔 #L2B #pipeline #revolution
