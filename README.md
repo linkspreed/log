@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.10.2023 (announcement Kira)
+- Kira - by Linkspreed - is our brand new project, and we're excited to share more about it soon! 🚀 In the meantime, let us know what features you'd like to see in Kira. 💬 #Linkspreed #Kira #NewProject
+
+### 02.10.2023 (announcement L2B Space)
+- We're hard at work on L2B Space, our SaaS solution for L2B Classic. 🚀 Stay tuned for more updates, and in the meantime, let us know what features you're most excited about! #L2B #SaaS #L2BClassic
+
 ### 02.10.2023 (announcement L2B Space)
 - We're working hard on our new database models at L2B Space! 🚀
 
