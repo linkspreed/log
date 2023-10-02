@@ -1,6 +1,12 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ...### 01.10.2023 (announcement L2B Space)
+## All changes that we will make from 12.07.2022 will appear here ...
+
+### 02.10.2023 (announcement L2B Space)
+- We're working hard on our new database models at L2B Space! 🚀
+
+### 02.10.2023 (announcement Linkspreed Oxygen)
+- Linkspreed is now using our very own browser, Oxygen, for all our work! This lightweight and secure browser is packed with features to help us be more productive and stay safe online.  #Linkspreed #OxygenBrowser #Browser #Productivity #Security
 
 ### 01.10.2023 (announcement Linkspreed Kira)
 - We're in the brainstorming phase for our new platform, Kira! What are your thoughts on what we should include? 🤔
