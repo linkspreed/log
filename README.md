@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.10.2023 (announcement)
+- Rewards that pay you back? 💰 What rewards would you like to see that are both rewarding and rewarding? 🤔 #Linkspreed #RewardSoftware #Rewards #Payback
+
+### 03.10.2023 (announcement L2B Pipeline)
+- L2B Pipeline: Our pipeline software is coming soon! 🚀 If your business depends on delivering a lot, you won't want to miss this. What's the most important feature you'd like to see in a pipeline software? 🤔 #L2BPipeline #PipelineSoftware #Business
+
 ### 02.10.2023 (announcement Kira)
 - Kira - by Linkspreed - is our brand new project, and we're excited to share more about it soon! 🚀 In the meantime, let us know what features you'd like to see in Kira. 💬 #Linkspreed #Kira #NewProject
 
