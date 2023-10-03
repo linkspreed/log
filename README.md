@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.10.2023 (announcement L2B Classic)
+- Looking for a way to improve your email marketing for L2B Classic? We're working on a Mail Plugin that will make it easier to send targeted, personalized emails to your customers. 🎯
+
 ### 03.10.2023 (announcement)
 - Job Alert for Commission Partners! 🚀 We're back on LinkedIn with our job posting for commission partners. Apply now and earn big commissions for helping us grow our business. 🤑
 
