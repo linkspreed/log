@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.10.2023 (announcement)
+- Job Alert for Commission Partners! 🚀 We're back on LinkedIn with our job posting for commission partners. Apply now and earn big commissions for helping us grow our business. 🤑
+
+### 03.10.2023 (announcement)
 - Rewards that pay you back? 💰 What rewards would you like to see that are both rewarding and rewarding? 🤔 #Linkspreed #RewardSoftware #Rewards #Payback
 
 ### 03.10.2023 (announcement L2B Pipeline)
