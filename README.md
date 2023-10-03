@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.10.2023 (announcement)
+- We've updated our privacy policy to comply with the following regulations:
+  - Colorado Privacy Act (CPA)
+  - Connecticut Personal Data Privacy and Online Monitoring Act (CTDPA)
+  - Australia Privacy Act 1988
+  - New Zealand Privacy Act 2020
+  - South Africa Protection of Personal Information Act (POPIA)
+- What are your thoughts on these new regulations? Do you have any questions about our privacy policy? Let us know in the comments below! 🎯 #LinkspreedPrivacy #PrivacyPolicy
+
 ### 03.10.2023 (announcement L2B Classic)
 - Looking for a way to improve your email marketing for L2B Classic? We're working on a Mail Plugin that will make it easier to send targeted, personalized emails to your customers. 🎯
 
