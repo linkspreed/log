@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.10.2023 (announcement L2B Pipeline)
+- L2B Pipeline is still under development, but we're excited to share some updates soon! 🛠️
+
 ### 03.10.2023 (announcement)
 - We've updated our privacy policy to comply with the following regulations:
   - Colorado Privacy Act (CPA)
