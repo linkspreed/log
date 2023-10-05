@@ -1,6 +1,27 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ...
+## All changes that we will make from 12.07.2022 will appear here ...t
+
+### 05.10.2023 (announcement Franchise)
+- We're excited to announce that our franchise business plan is almost complete, and we'll be sharing it with you soon! 📚 If you're interested in learning more about our franchise opportunity, follow us for updates and be sure to download the plan when it's available. 📲 What questions do you have about the Linkspreed franchise opportunity? 💬 #Linkspreed #Franchise #BusinessOpportunity
+
+### 05.10.2023 (announcement Franchise)
+- We've been working hard on our pilot projects and presentations to show you how simple it is to launch your own startup with Linkspreed Franchise. 💡
+
+### 05.10.2023 (announcement)
+- 🎯 We've started implementing our new marketing strategy today, and we're excited to see what results we get. We're trying all sorts of new things to reach more potential franchisees.
+
+### 04.10.2023 (announcement L2B Space)
+- L2B Space: the SaaS alternative to L2B Classic is coming soon! 🎉🤖 Stay tuned for more exciting updates. In the meantime, what features are you most excited about? 🤔 #L2BSpace #SaaS #Innovation
+
+### 04.10.2023 (announcement L2B Pipeline)
+- L2B Pipeline is ready for its next update! 🚀 What features would you like to see added or improved? 🤔 #L2BPipeline #ProductUpdates #ComingSoon
+
+### 04.10.2023 (announcement)
+- We're brewing up a new marketing strategy that's sure to be a hit! ☕️🔥 What are some of your favorite marketing tactics? Let us know in the comments below! #NewMarketingStrategy #MarketingTips #ComingSoon
+
+### 03.10.2023 (announcement L2B Pipeline)
+- L2B Pipeline is still under development, but we're excited to share some updates soon! 🛠️
 
 ### 03.10.2023 (announcement L2B Pipeline)
 - L2B Pipeline is still under development, but we're excited to share some updates soon! 🛠️
