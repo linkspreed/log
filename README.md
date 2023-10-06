@@ -1,6 +1,9 @@
 # The long log :)
 
-## All changes that we will make from 12.07.2022 will appear here ...t
+## All changes that we will make from 12.07.2022 will appear here ...
+
+### 06.10.2023 (announcement Linkspreed Analytics)
+- Oops! We had a minor bug on our Linkspreed Analytics website today, but we fixed it quickly. Service is back up and running. Have you ever experienced a bug on a website? 🐛 💻 #LinkspreedAnalytics #Bug #Website #CustomerService
 
 ### 05.10.2023 (announcement Franchise)
 - We're excited to announce that our franchise business plan is almost complete, and we'll be sharing it with you soon! 📚 If you're interested in learning more about our franchise opportunity, follow us for updates and be sure to download the plan when it's available. 📲 What questions do you have about the Linkspreed franchise opportunity? 💬 #Linkspreed #Franchise #BusinessOpportunity
