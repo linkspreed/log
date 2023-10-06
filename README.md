@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 06.10.2023 (announcement L2B)
+### 06.10.2023 (announcement L2B Classic)
+- Heads up, HR professionals! 📣 We're working on an HR Payroll Plugin for L2B Classic and L2B Space. 💰 What features would you like to see included? 🤔 #L2BPlugins #HRPayroll #ComingSoon
+
+### 06.10.2023 (announcement L2B Classic)
 - Our plugin fleet for L2B Classic and L2B Space is growing! 🚀 What plugins would you like to see added next? 🤔 #L2BPlugins #ProductUpdates #ComingSoon
 
 ### 06.10.2023 (announcement Linkspreed Analytics)
