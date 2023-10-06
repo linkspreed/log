@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.10.2023 (announcement L2B)
+- Our plugin fleet for L2B Classic and L2B Space is growing! 🚀 What plugins would you like to see added next? 🤔 #L2BPlugins #ProductUpdates #ComingSoon
+
 ### 06.10.2023 (announcement Linkspreed Analytics)
 - Oops! We had a minor bug on our Linkspreed Analytics website today, but we fixed it quickly. Service is back up and running. Have you ever experienced a bug on a website? 🐛 💻 #LinkspreedAnalytics #Bug #Website #CustomerService
 
