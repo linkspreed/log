@@ -2,7 +2,16 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 07.10.2023 (announcement Franchise)
+### 07.10.2023 (announcement)
+- Do you want to work with us on a commission basis? 💸 We're holding interviews tomorrow at 8am. DM us if you're interested! 📩 #CommissionWork #Opportunities #ComingSoon
+
+### 07.10.2023 (announcement)
+- Platform solutions galore! 🎨 We're working on a variety of new platform solutions to expand our offerings. What platform solutions would you like to see us develop next? 🤔 #PlatformSolutions #Innovation #ComingSoon
+
+### 07.10.2023 (announcement Linkspreed Franchise)
+- Linkspreed Franchise business plan is now online! 🎯 Download it here: https://documents.linkspreed.com What questions do you have about Linkspreed Franchise? 💡 #LinkspreedFranchise #BusinessPlan #NowAvailable
+
+### 07.10.2023 (announcement Linkspreed Franchise)
 - Linkspreed Franchise: The business plan is complete! 🎯 We're excited to announce that the German version will be published soon. What questions do you have about Linkspreed Franchise? 💡 #LinkspreedFranchise #BusinessPlan #ComingSoon
 
 ### 06.10.2023 (announcement L2B Classic)
