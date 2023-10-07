@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.10.2023 (announcement Linkspreed Franchise)
+- The Linkspreed Franchise business plan is now available in English! Download it here: https://documents.linkspreed.com. What questions do you have about Linkspreed Franchise? 🤔 #LinkspreedFranchise #BusinessPlan #NowAvailable
+
 ### 07.10.2023 (announcement)
 - Do you want to work with us on a commission basis? 💸 We're holding interviews tomorrow at 8am. DM us if you're interested! 📩 #CommissionWork #Opportunities #ComingSoon
 
