@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.10.2023 (announcement Linkspreed Ads)
+- Linkspreed Ads is coming! 🚨 We're excited to announce the launch of our first official development work on our internal ad network. Stay tuned for more updates, and let us know what you want to see in our ad network. What are your thoughts on our ambitious plans? 🤔 #LinkspreedAds #AdNetwork #ComingSoon
+
 ### 08.10.2023 (announcement Plop)
 - Plop 28.0.0 is live! 💥 What new features are you most excited to try? 🤔 #Plop #NewVersion #IoT
 
