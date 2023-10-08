@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.10.2023 (announcement L2B Classic)
+- HR Payroll Plugin for L2B Classic is in the works! 💰 What features are you most excited about? 🤔 #L2BPlugins #HRPayroll #ComingSoon
+
+### 08.10.2023 (announcement)
+- We're looking for commission partners to join our team! 🎉 We had a great round of interviews, and we're excited to see what the future holds. Are you interested? 🤔 DM us to learn more. 📩 #CommissionWork #Opportunities #JoinOurTeam
+
 ### 07.10.2023 (announcement Linkspreed Franchise)
 - The Linkspreed Franchise business plan is now available in English! Download it here: https://documents.linkspreed.com. What questions do you have about Linkspreed Franchise? 🤔 #LinkspreedFranchise #BusinessPlan #NowAvailable
 
