@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.10.2023 (announcement Plop)
+- Plop 28.0.0 is live! 💥 What new features are you most excited to try? 🤔 #Plop #NewVersion #IoT
+
+### 08.10.2023 (announcement LinkLab)
+- LinkLab 28.0.0 is here! 🥳 What new features are you most excited about? 🤔 #LinkLab #IoT #NewVersion
+
+### 08.10.2023 (announcement LinkLab)
+-  https://github.com/linkspreed/LinkLab/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 08.10.2023 (announcement LinkLab)
+- The launch of version 28.0.0 of **LinkLab** was successful! 🥳
+- The new update is live now :)
+- https://linklab.ga 🔗
+
+### 08.10.2023 (announcement LinkLab)
+- We are now starting the launch of v28.0.0.
+
+### 08.10.2023 (announcement LinkLab)
+- The servers are now ready for the launch of version 28.0.0 for **LinkLab**.
+
+### 08.10.2023 (announcement LinkLab)
+- The code is now ready for the launch of version 28.0.0 for **LinkLab**.
+
+### 08.10.2023 (announcement LinkLab)
+-  **LinkLab** gets a big update today - we are going to launch v28.0.0. 😍
+
+### 08.10.2023 (announcement Plop)
+-  https://github.com/linkspreed/Plop/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 08.10.2023 (announcement Plop)
+- The launch of version 28.0.0 of **Plop ** was successful! 🥳
+- The new update is live now :)
+- https://plop.tk 🔗
+
+### 08.10.2023 (announcement Plop)
+- We are now starting the launch of v28.0.0.
+
+### 08.10.2023 (announcement Plop)
+- The servers are now ready for the launch of version 28.0.0 for **Plop**.
+
+### 08.10.2023 (announcement Plop)
+- The code is now ready for the launch of version 28.0.0 for **Plop**.
+
+### 08.10.2023 (announcement Plop)
+-  **Plop** gets a big update today - we are going to launch v28.0.0. 😍
+
 ### 08.10.2023 (announcement Linkspreed Franchise)
 - Check out our first presentation on the Linkspreed Franchise pilot project in English and German! What do you think? 🤔 #LinkspreedFranchise #PilotProject #Presentation
 
