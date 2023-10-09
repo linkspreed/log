@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.10.2023 (announcement Linkspreed Ads)
+- We're excited to announce that we're still working on our own internal ad network. Stay tuned for more updates, and let us know what kind of ads you'd like to see. 🤔
+
+### 09.10.2023 (announcement Start2Up)
+- Start2Up, our platform for startups, is getting closer to launch! 🚀 Are you a startup founder? What features would you love to see on our platform? 🤔 #Start2Up #StartupPlatform #ComingSoon
+
+### 09.10.2023 (announcement)
+- We're laser-focused on marketing today because we're excited to announce a new partnership with a startup! 🎯 We're preparing the first message. #NewPartnership #Startup #ComingSoon
+
 ### 08.10.2023 (announcement Linkspreed Ads)
 - Linkspreed Ads is coming! 🚨 We're excited to announce the launch of our first official development work on our internal ad network. Stay tuned for more updates, and let us know what you want to see in our ad network. What are your thoughts on our ambitious plans? 🤔 #LinkspreedAds #AdNetwork #ComingSoon
 
