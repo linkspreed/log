@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.10.2023 (announcement LS Ultra System XCross)
+- We're launching an internal project called LS Ultra System XCross to make Linkspreed more intuitive and user-friendly.
+
 ### 11.10.2023 (announcement Contribution)
 - Our large-scale test of Contribution was a success! 🥳
 
