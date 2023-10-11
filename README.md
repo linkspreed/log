@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.10.2023 (announcement Contribution)
+- Our large-scale test of Contribution was a success! 🥳
+
+### 11.10.2023 (announcement Contribution)
+- We're putting Contribution to the test! 🧪 We're running a large-scale test of our new platform for offering helpful tools to young startups.
+
+### 11.10.2023 (announcement)
+- Linkspreed is going big! 💪 We're expanding our software suite to offer even more value to our clients. What new features would you like to see? 🤔
+
 ### 11.10.2023 (announcement Linkspreed Franchise)
 - Which fictional pilot projects would you like to see us work on? 🔮 We're always looking for new ideas to push the boundaries of what's possible. 🤔
 
