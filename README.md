@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.10.2023 (announcement Linkspreed Franchise)
+- Which fictional pilot projects would you like to see us work on? 🔮 We're always looking for new ideas to push the boundaries of what's possible. 🤔
+
+### 11.10.2023 (announcement Linkspreed Franchise)
+- Founders wanted! 🚀 We're coming to universities to meet and support the next generation of entrepreneurs. What kind of support would you like to see? 🤔
+
+### 11.10.2023 (announcement Contribution)
+- Contribution is coming! 🤝 We're excited to announce that we're working on a free platform to offer helpful tools to young startups. What tools would you love to see on our platform? 🤔
+
+### 10.10.2023 (announcement)
+- Top secret: we're working on something new and exciting in the software world! 🤫
+
 ### 09.10.2023 (announcement Linkspreed Ads)
 - We're excited to announce that we're still working on our own internal ad network. Stay tuned for more updates, and let us know what kind of ads you'd like to see. 🤔
 
