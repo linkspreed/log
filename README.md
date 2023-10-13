@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.10.2023 (announcement)
+- Linkspreed's marketing strategy is growing! 🚀 We're always looking for new ways to reach our target audience and help them get the most out of Linkspreed.
+
+### 13.10.2023 (announcement LS Ultra System XCross)
+- Getting started with Linkspreed is about to get even easier! 💡 We're working on a new page to help you learn more about Linkspreed and get started quickly and easily.
+
+### 13.10.2023 (announcement Linkspreed Franchise Ads)
+- Our Linkspreed Franchise Ads program is taking shape! 🧱 We're excited to announce that we're working on a new program to help franchisees generate leads and sales through digital advertising.
+
 ### 12.10.2023 (announcement LS Ultra System XCross)
 - LS Ultra System XCross is in full swing, and so is Linkspreed Start! 🚀
 
