@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.10.2023 (announcement LinkLab)
+- LinkLab 29.0.0 is here! 🚀 This powerful update is packed with new features to help you take your research and development to the next level.
+
+### 14.10.2023 (announcement Plop)
+- Plop 29.0.0 is here! 🎉 This powerful update is packed with new features to help you get the most out of Plop.
+
+### 14.10.2023 (announcement Plop)
+-  https://github.com/linkspreed/Plop/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 14.10.2023 (announcement Plop)
+- The launch of version 29.0.0 of **Plop ** was successful! 🥳
+- The new update is live now :)
+- https://plop.tk 🔗
+
+### 14.10.2023 (announcement Plop)
+- We are now starting the launch of v29.0.0.
+
+### 14.10.2023 (announcement Plop)
+- The servers are now ready for the launch of version 29.0.0 for **Plop**.
+
+### 14.10.2023 (announcement Plop)
+- The code is now ready for the launch of version 29.0.0 for **Plop**.
+
+### 14.10.2023 (announcement Plop)
+-  **Plop** gets a big update today - we are going to launch v29.0.0. 😍
+
+### 14.10.2023 (announcement LinkLab)
+-  https://github.com/linkspreed/LinkLab/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 14.10.2023  (announcement LinkLab)
+- The launch of version 29.0.0 of **LinkLab** was successful! 🥳
+- The new update is live now :)
+- https://linklab.ga 🔗
+
+### 14.10.2023 (announcement LinkLab)
+- We are now starting the launch of v29.0.0.
+
+### 14.10.2023 (announcement LinkLab)
+- The servers are now ready for the launch of version 29.0.0 for **LinkLab**.
+
+### 14.10.2023 (announcement LinkLab)
+- The code is now ready for the launch of version 29.0.0 for **LinkLab**.
+
+### 14.10.2023 (announcement LinkLab)
+-  **LinkLab** gets a big update today - we are going to launch v29.0.0. 😍
+
 ### 14.10.2023 (announcement Snoogie)
 - Snoogie 40.0.0 is here! ❄️ This cozy update is packed with new features to help you stay warm and comfortable all winter long. Check out the changelog to see all the new features and improvements.
 
