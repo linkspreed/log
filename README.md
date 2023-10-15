@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.10.2023 (announcement Linkspreed Start)
+- Linkspreed Start is here! 🏁 This new platform makes it easier and more relaxing to get started with Linkspreed. Check it out today and see the difference:
+- https://start.linkspreed.com
+
 ### 14.10.2023 (announcement LinkLab)
 - LinkLab 29.0.0 is here! 🚀 This powerful update is packed with new features to help you take your research and development to the next level.
 
