@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 16.10.2023 (announcement)
+- We've dedicated countless hours and energy to enhance the internal security of Linkspreed! 🔒✨ Our top priority is ensuring your data stays safe and protected. Have you noticed any improvements in our platform's security features? Share your thoughts! #LinkspreedSecurity #DataProtection
+
+### 16.10.2023 (announcement)
 - 🔒✨ Exciting news! We have made massive improvements to our internal security at Linkspreed with Zero Trust. Our team has worked tirelessly to ensure your data is safe and sound. 🛡️💪 Have you heard about Zero Trust before? Share your thoughts and experiences below! #Cybersecurity #ZeroTrust #DataProtection
 
 ### 15.10.2023 (announcement Linkspreed Start)
