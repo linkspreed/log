@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.10.2023 (announcement)
+- 📢🚀 Ready for a marketing extravaganza? 🎯✨ We're shifting gears to put even more emphasis on our marketing efforts, starting today! 📈💼 Wanna join the ride and boost your brand's visibility? 🌟🚀 #MarketingMadness #LetsGetVisible 💪🌐 Where do you think we should begin? 🤔👇
+
 ### 18.10.2023 (announcement)
 - 🌍 Great news! 🎉 Our DNS structure is fully restored and all services are up and running smoothly worldwide! 🌐✨ Share your experience with our services using #SmoothDNS and let us know your favorite feature! 💬👇 #HappyCustomers #TechUpdate
 
