@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.10.2023 (announcement Linkspreed Franchise)
+- 🔥 Exciting news! 🚀 We're making great strides in developing Linkspreed Ads - an amazing and intriguing project that's perfect for our Franchise Partners. 🤩💼 Stay tuned for updates! #LinkspreedAds #FranchiseOpportunity
+
+### 18.10.2023 (announcement Linkspreed Ads)
+- 📢 We're making great strides with Linkspreed Ads - a super cool and intriguing project that's perfect for our Franchise Partners! 🚀🤩 Stay tuned for updates and let us know: Are you excited to explore this opportunity? 🌟 #LinkspreedAds #FranchisePartner #ExcitingOpportunity
+
+### 18.10.2023 (announcement Linkspreed Franchise)
 - 🔧📱 Hey there! Exciting news from Linkspreed! We're currently working on a small PWA plugin for the top-notch Franchise SaaS products (4-6) we offer. 🚀💼 Want to know more about this game-changing tool? Drop us a line! 💬👇 #Linkspreed #PWA #FranchiseSaaS #Innovation
 
 ### 18.10.2023 (announcement)
