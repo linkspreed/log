@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.10.2023 (announcement Linkspreed Franchise)
+- 🔧📱 Hey there! Exciting news from Linkspreed! We're currently working on a small PWA plugin for the top-notch Franchise SaaS products (4-6) we offer. 🚀💼 Want to know more about this game-changing tool? Drop us a line! 💬👇 #Linkspreed #PWA #FranchiseSaaS #Innovation
+
+### 18.10.2023 (announcement)
+- 🚀 We're cooking up a storm with tons of new product updates and exciting solutions! But that's not all...🧐 We're on a mission to enhance the structure behind Linkspreed too! 📚💡 Share your thoughts on how we can make it even better! #productupdates #innovation #LinkspreedImprovements 💪🙌🤔
+
+### 17.10.2023 (announcement Linkspreed Ads)
+- 📢🌐 Today, we've been working hard on a groundbreaking project: Linkspreed Ads! 🚀 It's a pilot initiative where we'll offer franchise partners and other companies the chance to grab hold of our cutting-edge Linkspreed Ads at an incredible price. 💰💼 Stay tuned for more updates! #LinkspreedAds #Innovation
+
+### 17.10.2023 (announcement)
+- 🎉🔒 Boosting internal security at Linkspreed! 🚀✨ We're thrilled to announce our expanded Cloudflare Zero Trust technology today, fortifying our defenses even more. 🛡️😎 How important is data security to you? Share your thoughts below! #DataProtection #CloudSecurity
+
 ### 16.10.2023 (announcement)
 - We've dedicated countless hours and energy to enhance the internal security of Linkspreed! 🔒✨ Our top priority is ensuring your data stays safe and protected. Have you noticed any improvements in our platform's security features? Share your thoughts! #LinkspreedSecurity #DataProtection
 
