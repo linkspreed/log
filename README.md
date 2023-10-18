@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 18.10.2023 (announcement)
+- 🌍 Great news! 🎉 Our DNS structure is fully restored and all services are up and running smoothly worldwide! 🌐✨ Share your experience with our services using #SmoothDNS and let us know your favorite feature! 💬👇 #HappyCustomers #TechUpdate
+
+### 18.10.2023 (announcement)
 - 🚨 Apologies for any inconvenience caused by DNS issues recently. Our domain provider Strato has been working on resolving the problem, and we expect DNS configurations to stabilize soon. 🏢
 
 ### 18.10.2023 (announcement Linkspreed Franchise)
