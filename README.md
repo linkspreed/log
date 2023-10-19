@@ -3,6 +3,15 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 19.10.2023 (announcement)
+- 🌟 Exciting news alert! Our founder Marc Herdina is building a personal network in Ingolstadt alongside his studies, aiming to potentially convince the first batch of students to join the Linkspreed Franchise. 🎓🚀
+
+### 19.10.2023 (announcement)
+- 🚀🌩️ Hey, fellow tech enthusiasts! 👩‍💻👨‍💻 We're currently diving deep into Cloudflare tunnels here at Linkspreed. Exciting times ahead! 😎 Stay tuned for some mind-blowing updates! 🌟 Any of you tech gurus tried tunnels yet? Share your experiences below! ⬇️🔥 #Cloudflare #TunnelingTech #LinkspreedExperimentation
+
+### 19.10.2023 (announcement Linkspreed Franchise)
+- 🌟 Hey there, tech enthusiasts! 👋🏼 Excited to share that we're making significant progress on our super attractive new plugin model for PWAs in our SaaS franchise systems. 💪🏼🚀 Stay tuned for sleek enhancements that will take your online business to the next level! Got any suggestions for features you'd love to see in our plugin? 🤔 #TechUpdates #PWAEnhancements
+
+### 19.10.2023 (announcement)
 - 📢🚀 Ready for a marketing extravaganza? 🎯✨ We're shifting gears to put even more emphasis on our marketing efforts, starting today! 📈💼 Wanna join the ride and boost your brand's visibility? 🌟🚀 #MarketingMadness #LetsGetVisible 💪🌐 Where do you think we should begin? 🤔👇
 
 ### 18.10.2023 (announcement)
