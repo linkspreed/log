@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.10.2023 (announcement Linkspreed Franchise)
+- 🔧🚀 Exciting news! We're making great progress on our PWA Plugin for SaaS Franchise Systems! 🎉💪 Stay tuned for an enhanced user experience and seamless integration. Have you ever used a PWA before? Share your thoughts! #PWA #SaaS #FranchiseSystem #TechUpdate
+
 ### 19.10.2023 (announcement)
 - 🌟 Exciting news alert! Our founder Marc Herdina is building a personal network in Ingolstadt alongside his studies, aiming to potentially convince the first batch of students to join the Linkspreed Franchise. 🎓🚀
 
