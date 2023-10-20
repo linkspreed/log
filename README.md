@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 20.10.2023 (announcement Linkspreed Franchise)
+- 📢 Calling all students! 🎓 Exciting news alert! 🚀🌟 We're thrilled to announce the expansion of our Student Partner Program! 🌍📚 Join our community of talented students and get ready to unlock amazing opportunities. 🤩🔑💼 Are you interested in becoming a part of this incredible program? 🤔 Share your thoughts and let us know how you would contribute to our student community! 🗣️💭 #StudentPartnerProgram #OpportunitiesAwait #JoinUs
+
+### 20.10.2023 (announcement)
+- 🌟 Exciting news! We're diving deeper into the realm of Feel Good Management! 🌈✨ Join us on this incredible journey as we explore strategies to enhance employee happiness and well-being at work. 🤝💼 Have you ever experienced a workplace where your happiness was prioritized? Share your thoughts! #FeelGoodManagement #WorkplaceHappiness
+
+### 20.10.2023 (announcement Linkspreed Franchise)
 - 🔧🚀 Exciting news! We're making great progress on our PWA Plugin for SaaS Franchise Systems! 🎉💪 Stay tuned for an enhanced user experience and seamless integration. Have you ever used a PWA before? Share your thoughts! #PWA #SaaS #FranchiseSystem #TechUpdate
 
 ### 19.10.2023 (announcement)
