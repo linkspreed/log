@@ -2,6 +2,26 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.10.2023 (announcement)
+- New platform solutions on the horizon! 🔭
+- We've been working hard on new ways to make our platform even better. What features would you like to see next? 🤔
+
+### 22.10.2023 (announcement)
+- Franchise partners wanted! 🤝
+- We're on the hunt for new franchise partners to join our growing team. If you're interested in owning your own business and being part of a winning team, drop us a line! 🤔
+
+### 22.10.2023 (announcement)
+- Leveling up our sales team! 🚀
+- We're investing in training and development to help our sales team become even more effective. What are your favorite sales tips and tricks? 🤔
+
+### 22.10.2023 (announcement)
+- Building the team behind Linkspreed! 🧱
+- We're excited to be building a strong and supportive team to help Linkspreed reach its full potential. What skills and qualities do you think are most important for a successful team? 🤔
+
+### 21.10.2023 (announcement Linkspreed Franchise)
+- New plugins and plugin updates on the way! 🔌
+- We've been working hard on new ways to make your life easier and more productive. What plugins are you most excited to see? 🤔
+
 ### 20.10.2023 (announcement Linkspreed Franchise)
 - 📢 Calling all students! 🎓 Exciting news alert! 🚀🌟 We're thrilled to announce the expansion of our Student Partner Program! 🌍📚 Join our community of talented students and get ready to unlock amazing opportunities. 🤩🔑💼 Are you interested in becoming a part of this incredible program? 🤔 Share your thoughts and let us know how you would contribute to our student community! 🗣️💭 #StudentPartnerProgram #OpportunitiesAwait #JoinUs
 
