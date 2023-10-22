@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.10.2023 (announcement LinkLab)
+- 🎉🚀 Exciting news! We've completed and released the PWA plugin at LinkLab! 🎉✨ Franchise partners, this is your chance to benefit from it. 💪💼 Have you checked it out yet? 📲💡 #LinkLab #PWA #Plugin #Franchise #Opportunity
+
+### 22.10.2023 (announcement Plop)
+- 🎉 Great news! 🚀 We've finally completed and released the PWA plugin at Plop! 📲💥 Now our amazing franchisepartners can take full advantage of it! 💪🤩 Who's excited to try it out? Share your thoughts! 😊👇 #PWA #Plugin #ExcitingTimes #FranchiseGrowth
+
+### 22.10.2023 (announcement Snoogie)
+- 📢 Exciting news at Snoogie! 🎉 We've successfully completed and released our PWA plugin. 🚀 Franchise partners, this is your chance to benefit from it! 💪🤝 Ready to take your business to the next level? #SnoogiePWA #FranchiseOpportunity 💼 How can a PWA help your business thrive? 📈🤔
+
+### 22.10.2023 (announcement Snoogie)
+- 📢 Hey friends! 🌟 Exciting news from our end today - we've just updated tons of Snoogie blocks in our plugins! 🚀🎉 They're now better than ever! 😍 Have you checked them out yet? Share your thoughts with us! 💬 #SnoogieBlocksUpdate #EnhancedPlugins #ImprovedExperience
+
+### 22.10.2023 (announcement Biospreed)
+- 📢 Exciting news! 🎉 We've finally completed and released the PWA plugin at Biospreed! 🚀🎉 Franchise partners, this is your chance to benefit from it! 💪💼💰 Share your thoughts or ask us any questions in the comments below! 👇🤔 #PWA #Biospreed #NewRelease
+
+### 22.10.2023 (announcement Biospreed)
+- 🔥 Hey there! 👋 Exciting news! 📢 We've just updated a bunch of Biospreed blocks in our plugins today! 🚀🎉💪 Check out these awesome enhancements and let us know what you think! 🌟 Any particular block you're most excited about? 😃 #Biospreed #PluginUpdate #Enhancements
+
 ### 22.10.2023 (announcement)
 - New platform solutions on the horizon! 🔭
 - We've been working hard on new ways to make our platform even better. What features would you like to see next? 🤔
