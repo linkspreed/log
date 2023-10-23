@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.10.2023 (announcement)
+- 🌟 Join our mission to build a powerful Linkspreed Team! 🚀✨ We're prepping like never before to make this dream come true. Any suggestions on team-building activities or must-have skills for a rock-solid squad? Share your thoughts! 🔥👥 #TeamworkMakesTheDreamWork #LinkspreedGoals 💪🤝🤔
+
+### 23.10.2023 (announcement Linkspreed Franchise)
+- 🚀 Hey there! We're super excited to share that we're cooking up an incredible new #AI solution for our awesome franchise network! 🌟✨ Stay tuned for some mind-blowing updates and let us know what you think about the potential of AI in franchising! 🤔💡 #FranchiseNetwork #FutureTech
+
 ### 22.10.2023 (announcement LinkLab)
 - 🎉🚀 Exciting news! We've completed and released the PWA plugin at LinkLab! 🎉✨ Franchise partners, this is your chance to benefit from it. 💪💼 Have you checked it out yet? 📲💡 #LinkLab #PWA #Plugin #Franchise #Opportunity
 
