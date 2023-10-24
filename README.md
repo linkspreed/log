@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.10.2023 (announcement Privacy Policy)
+- 🔒📝 Attention, everyone! We've just updated our privacy policy to comply with the new UCPA guidelines for Utah. Stay tuned for more details coming your way throughout the week. 🤔 What are your thoughts on privacy protection? Share with us! #PrivacyMatters #UCPAUpdate
+
+### 24.10.2023 (announcement)
+- 📢 Exciting news! 🌟 We're currently working on multiple new updates and platforms to enhance your experience with us! 🚀 Stay tuned for some amazing features coming your way. 🎉 What new features or platforms would you like to see from us? Share your thoughts! ✨ #Updates #Platforms #Enhancements #ShareYourThoughts
+
+### 24.10.2023 (announcement)
+- 🚀 We're expanding our dream team and have our hands full with organizational tasks! 🤝💼 Join us as we build the future together. 🌟✨ What's your favorite way to stay organized? Share your tips below! #DreamTeam #OrganizationSkills
+
 ### 23.10.2023 (announcement)
 - 🌟 Join our mission to build a powerful Linkspreed Team! 🚀✨ We're prepping like never before to make this dream come true. Any suggestions on team-building activities or must-have skills for a rock-solid squad? Share your thoughts! 🔥👥 #TeamworkMakesTheDreamWork #LinkspreedGoals 💪🤝🤔
 
