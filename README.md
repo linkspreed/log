@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.10.2023 (announcement)
+- Linkspreed employee contract now available! 📄
+- We've finalized our employee contract and made it available for download on our website: documents.linkspreed.com/files/Linkspreed_Team-Contract.pdf
+- What questions do you have about the new contract? 🤔
+
 ### 24.10.2023 (announcement Privacy Policy)
 - 🔒📝 Attention, everyone! We've just updated our privacy policy to comply with the new UCPA guidelines for Utah. Stay tuned for more details coming your way throughout the week. 🤔 What are your thoughts on privacy protection? Share with us! #PrivacyMatters #UCPAUpdate
 
