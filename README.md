@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.10.2023 (announcement)
+- 🔨🧠 Putting our creative hats on today to build an exciting and diverse team! 💪🌟 Join us, fellow students in Ingolstadt, as we work on our new team structure! 🤝✨ How do you envision a successful team? Share your thoughts! 😊👇 #TeamWorkMatters #StudentPower
+
+### 26.10.2023 (announcement)
+- 🎉✨ Great news! 🌟 We've been working hard on new updates and platforms today, building a strong foundation for our future. 🚀 Stay tuned for more exciting developments! 💼📈 What features or improvements would you like to see from us in the future? 💭 #UpdateAlerts #FuturePlans
+
 ### 25.10.2023 (announcement)
 - Linkspreed employee contract now available! 📄
 - We've finalized our employee contract and made it available for download on our website: documents.linkspreed.com/files/Linkspreed_Team-Contract.pdf
