@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.10.2023 (announcement)
+- 📢 Exciting news ahead! 🚀 We're thrilled to announce that some amazing updates and new platforms are just around the corner! 🎉 At Linkspreed, our team is working tirelessly to bring you innovative platform solutions. Stay tuned for more updates! What features or improvements would you like to see in our upcoming launch? 💡 #ComingSoon #PlatformSolutions #Innovation
+
+### 28.10.2023 (announcement)
+- 🌟 Today was all about focusing on sales and customer acquisition! 💼💰 We're determined to bring our A-game and connect with more amazing clients. 💪🤝 How do you usually approach winning new customers? Share your top tips! 👇📢 #SalesGoals #CustomerAcquisition #BusinessGrowth
+
+### 27.10.2023 (announcement)
+- 📢 Today, we've been laser-focused on sales and customer acquisition! 💼🚀 Want to know our secret sauce? Share your guess using #SalesStrategy and let's unlock the key to success together! 💪🔑 How do you usually approach winning new customers? Share your insights! 👇 #BusinessGrowth
+
+### 27.10.2023 (announcement)
+- 📢 Exciting times ahead! 🚀🌟 We're thrilled to announce that we're gearing up for some amazing updates and new platform launches! 🎉 At Linkspreed, we're constantly working hard to bring you cutting-edge platform solutions. Stay tuned for the big reveal! 🤩 What new features or platforms would you like to see from us? Share your thoughts! 💭 #ComingSoon #PlatformUpdates #LinkspreedJourney
+
 ### 26.10.2023 (announcement)
 - 🔨🧠 Putting our creative hats on today to build an exciting and diverse team! 💪🌟 Join us, fellow students in Ingolstadt, as we work on our new team structure! 🤝✨ How do you envision a successful team? Share your thoughts! 😊👇 #TeamWorkMatters #StudentPower
 
