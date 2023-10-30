@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.10.2023 (announcement Oxygen)
+- 🎉 We are thrilled to announce that we will soon be releasing the new version of our internet browser Oxygen! 🌐🚀 With Linkspreed Search as the default search engine and a glitch-free experience, this app is going to run like a dream. 😍💯 Stay tuned for more updates! #OxygenBrowser #ComingSoon
+
+### 30.10.2023 (announcement Oxygen)
+- 🌐🚀 Exciting news! We're thrilled to announce the upcoming release of our new Oxygen web browser version. 🎉🌟 Get ready for an enhanced browsing experience where Linkspreed Search becomes the default search engine. Say goodbye to app lags, as Oxygen runs flawlessly! 💪✨ #OxygenBrowserUpgrade #EnhancedBrowsingExperience
+
 ### 30.10.2023 (announcement)
 - 🌟 Exciting news! 🌟 The development team at Linkspreed has been working tirelessly on around 20 new products, platform solutions, and updates in the pipeline. We're super pumped about all the progress we're making! 💪💻 Stay tuned for more updates. Have you ever been curious about our development process? Let us know! #Linkspreed #ProductUpdates #Innovation 🚀🔥
 
