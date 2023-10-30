@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.10.2023 (announcement)
+- 🌟 Exciting news! 🌟 The development team at Linkspreed has been working tirelessly on around 20 new products, platform solutions, and updates in the pipeline. We're super pumped about all the progress we're making! 💪💻 Stay tuned for more updates. Have you ever been curious about our development process? Let us know! #Linkspreed #ProductUpdates #Innovation 🚀🔥
+
+### 30.10.2023 (announcement)
+- 📣 Hey there, #Linkspeed fam! Exciting updates coming your way! 🌟 We're thrilled to announce that we're organizing a series of workshops ✏️ to enhance our company processes 📈 and boost productivity 🔥. Stay tuned for more details! 💼 What aspect of your business operations would you love to optimize? Share your thoughts below! 👇 #WorkshopGoals
+
+### 29.10.2023 (announcement)
+- 📢 Hey everyone! 👋 We've been quietly working on something BIG behind the scenes for quite some time now. 🤫🔍 Our upcoming platform is shrouded in mystery, but one thing's for sure – it's going to be a game-changer with a strong emphasis on #AI. 🤖🚀 Stay tuned for updates, because it's going to be EPIC! 😱✨ Question time: What kind of AI features would you love to see in our new platform? 🤔 #ComingSoon
+
 ### 28.10.2023 (announcement)
 - 📢 Exciting news ahead! 🚀 We're thrilled to announce that some amazing updates and new platforms are just around the corner! 🎉 At Linkspreed, our team is working tirelessly to bring you innovative platform solutions. Stay tuned for more updates! What features or improvements would you like to see in our upcoming launch? 💡 #ComingSoon #PlatformSolutions #Innovation
 
