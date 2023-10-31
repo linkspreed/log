@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.10.2023 (announcement)
+- 📢 Hey folks! Guess what? We're currently developing a brand new L2B platform! 🚀🔎 It's gonna make finding perfect employees a piece of cake for businesses. Stay tuned for exciting updates! 😄📲 #ComingSoon #L2Bplatform
+
+### 31.10.2023 (announcement)
+- 📢 Exciting news alert! 🚀 We are thrilled to announce that at Linkspreed, we are currently developing a game-changing alternative to Reddit! 🙌🎉 Our goal is to create a platform that can be used both internally within companies and for the general public. Stay tuned for updates! #LinkspreedRevolution #ComingSoon 👥 What features would you like to see in our Reddit alternative? Let us know in the comments below! 👇
+
 ### 31.10.2023 (announcement Oxygen)
 - 🎉 We are thrilled to announce that we will soon be releasing the new version of our internet browser Oxygen! 🌐🚀 With Linkspreed Search as the default search engine and a glitch-free experience, this app is going to run like a dream. 😍💯 Stay tuned for more updates! #OxygenBrowser #ComingSoon
 
