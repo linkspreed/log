@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.11.2023 (announcement)
+- 📢 Get ready, folks! 🚀 We're about to embark on an exciting journey as we resume building our Github Repositories. 🛠️ Starting this week, a fresh repository will be unveiled every Sunday until our entire product pipeline is on Github. 💼 Stay tuned, we're sticking to the tried-and-true approach. Any guesses on what's coming up? 🤔 #GithubPipeline #NewBeginnings
+
 ### 31.10.2023 (announcement)
 - 📢 Hey folks! Guess what? We're currently developing a brand new L2B platform! 🚀🔎 It's gonna make finding perfect employees a piece of cake for businesses. Stay tuned for exciting updates! 😄📲 #ComingSoon #L2Bplatform
 
