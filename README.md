@@ -5,7 +5,7 @@
 ### 01.11.2023 (announcement)
 - 📸 Check out our brand new @linkspreed profile on Unsplash! 🌟 Download free images from our collection and become part of the community! More exciting updates coming in November. #Linkspreed #Unsplash 🎉 Any favorite types of photos you'd like to see in our collection? 😊
 
-### 01.11.2023 (announcement L2B Space)
+### 01.11.2023 (announcement L2B Classic)
 - 📢 Coming soon! We're thrilled to announce that this Sunday we'll be releasing a Github repository for L2B Classic 🚀 Stay tuned! 🎉 Share your excitement with us using #L2BClassic and let us know how this repository can benefit you! 🙌🔧 #github #coding #developers
 
 ### 01.11.2023 (announcement)
