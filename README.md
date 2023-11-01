@@ -3,6 +3,15 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.11.2023 (announcement)
+- 📸 Check out our brand new @linkspreed profile on Unsplash! 🌟 Download free images from our collection and become part of the community! More exciting updates coming in November. #Linkspreed #Unsplash 🎉 Any favorite types of photos you'd like to see in our collection? 😊
+
+### 01.11.2023 (announcement L2B Space)
+- 📢 Coming soon! We're thrilled to announce that this Sunday we'll be releasing a Github repository for L2B Classic 🚀 Stay tuned! 🎉 Share your excitement with us using #L2BClassic and let us know how this repository can benefit you! 🙌🔧 #github #coding #developers
+
+### 01.11.2023 (announcement)
+- 🚀 Exciting times ahead! We're kicking off development on our very own Forum Social Network today. 🌍 Join us on this journey to create a more liberated and enhanced alternative to Reddit. 🙌 Share your thoughts and ideas using #ForumSocialNetwork. Who's ready to dive into this new online community? 💬 #BuildingBetterCommunities
+
+### 01.11.2023 (announcement)
 - 📢 Get ready, folks! 🚀 We're about to embark on an exciting journey as we resume building our Github Repositories. 🛠️ Starting this week, a fresh repository will be unveiled every Sunday until our entire product pipeline is on Github. 💼 Stay tuned, we're sticking to the tried-and-true approach. Any guesses on what's coming up? 🤔 #GithubPipeline #NewBeginnings
 
 ### 31.10.2023 (announcement)
