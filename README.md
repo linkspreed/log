@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.11.2023 (announcement)
+- 🚀 Exciting news! We're ramping up our focus on pilot projects from Linkspreed Franchise. 🎯💼 Join us in shaping the future of franchise business models! Share your thoughts on how we can innovate together. ✨💡 #PilotProjects #FranchiseInnovation #LetsCollaborate 🤝💪 What creative ideas do you have for our pilot projects? 🚀
+
+### 02.11.2023 (announcement)
+- 🔍🌐 Dive into the world of website analytics with us! 🚀✨ We're constantly enhancing our top-notch platforms like Deepage, Analytix, and more at Linkspreed. 📊💻 Stay ahead of the curve and leverage the power of data! 👩‍💼🔢 What's your favorite tool for website analysis? Let's discuss! 💬👇 #WebsiteAnalytics #DataDriven #Linkspreed
+
+### 02.11.2023 (announcement)
+- 🚀📣 We've been hard at work on enhancing our self-marketing strategies at Linkspreed! 🤝💼 Representing our strong startup externally is important to us, and we're rocking it! 🌟 How do you promote your brand? Share your tips! 👇🗣️ #selfmarketing #startuplife
+
 ### 01.11.2023 (announcement)
 - 📸 Check out our brand new @linkspreed profile on Unsplash! 🌟 Download free images from our collection and become part of the community! More exciting updates coming in November. #Linkspreed #Unsplash 🎉 Any favorite types of photos you'd like to see in our collection? 😊
 
