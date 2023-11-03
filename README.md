@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.11.2023 (announcement)
+- 📢 Hey there, Linkspeed community! 👋 We're currently experiencing some ⚠️ technical difficulties with our trusted DNS provider, Cloudflare. This might cause slightly longer loading times for our services. 😔 Sorry for any inconvenience caused! 🙏 Fingers crossed that Cloudflare resolves these issues swiftly. 🤞 Have you noticed any impact on your browsing experience today? 🌐 #Linkspeed #TechnicalIssues
+
 ### 02.11.2023 (announcement)
 - 🚀 Exciting news! We're ramping up our focus on pilot projects from Linkspreed Franchise. 🎯💼 Join us in shaping the future of franchise business models! Share your thoughts on how we can innovate together. ✨💡 #PilotProjects #FranchiseInnovation #LetsCollaborate 🤝💪 What creative ideas do you have for our pilot projects? 🚀
 
