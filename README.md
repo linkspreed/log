@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.11.2023 (announcement Linkspreed Franchise)
+- 🚀 Exciting news! Today, we kicked off the launch of our demo with a potential first franchise partner. 🎉 If this partnership becomes a reality, we'll introduce you to our amazing first partner. Stay tuned! 😃🤝 #FranchiseOpportunity #ComingSoon #PartnershipQuestion: Who's excited to meet our potential first franchise partner? 🤔
+
+### 03.11.2023 (announcement [Linkspreed Community])
+- 📢 Hey there! 👋 Did you know that besides our awesome blog, we're also working on a Community Feedback and Support forum for all things Linkspreed? 🌐🙌 Join the conversation, share your thoughts, and let us know how we can enhance your experience! 🗣️💡🤝 Don't forget to use #LinkspreedCommunity and #FeedbackForum. What features or improvements would you like to see? Let's hear your suggestions! 📝🤔 #EngageWithUs
+
+### 03.11.2023 (announcement [Linkspreed Blog])
+- 📢 Exciting news, everyone! 🎉 We've kicked off developments on a brand new blog for Linkspreed, where we'll be sharing all the latest news about our platform! 🌐📰 Stay tuned for exclusive updates, insights, and more! 💡💻 What kind of content would you like to see on our blog? Share your thoughts! 😊 #Linkspreed #BlogLaunch #StayInformed
+
+### 03.11.2023 (announcement)
+- 🚀 Exciting updates from the Linkspreed team! 🎉 We've been hard at work to transform into a top-notch startup. 💪✨ Our business processes are now more robust and streamlined than ever before. 🔁💼 Share your thoughts on how important streamlined processes are for a successful startup! 💭✍️ #Linkspreed #StartupSuccess
+
 ### 03.11.2023 (announcement)
 - 📢 Hey there, Linkspeed community! 👋 We're currently experiencing some ⚠️ technical difficulties with our trusted DNS provider, Cloudflare. This might cause slightly longer loading times for our services. 😔 Sorry for any inconvenience caused! 🙏 Fingers crossed that Cloudflare resolves these issues swiftly. 🤞 Have you noticed any impact on your browsing experience today? 🌐 #Linkspeed #TechnicalIssues
 
