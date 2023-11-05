@@ -2,10 +2,19 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 03.11.2023 (announcement Linkspreed Franchise)
+### 05.11.2023 (announcement [Support])
+- 📢 Exciting news! 🌟 Our website linkspreed.com has made some changes to enhance your experience. 🚀 Starting now, help.linkspreed.com and support.linkspreed.com will redirect you to our Helpdesk at helpdesk.linkspreed.com! 📞 Need assistance? Let us know how we can help! 💪 #CustomerSupport #Helpdesk 🤔 Have you tried our new Helpdesk yet? What do you think?
+
+### 05.11.2023 (announcement Linkspreed Franchise)
+- 🏢🚀 Today, we had an amazing time building the future with our potential first franchise partner! 🤝🔧 Exciting times ahead! What do you think is the key to building a successful franchise? Share your thoughts! 💡🌟 #FranchiseOpportunity #BuildingTheFuture
+
+### 05.11.2023 (announcement L2B Classic)
+- 📢🎉 Check out our latest Github release - L2B Classic! 🚀🔥 Dive into this week's repository update and explore the amazing features: https://github.com/linkspreed/L2B_Classic 😍💻 Have you tried it yet? Share your thoughts and ideas with us! 😊👇 #L2BClassic #GithubRelease
+
+### 04.11.2023 (announcement Linkspreed Franchise)
 - 🚀 Exciting news! Today, we kicked off the launch of our demo with a potential first franchise partner. 🎉 If this partnership becomes a reality, we'll introduce you to our amazing first partner. Stay tuned! 😃🤝 #FranchiseOpportunity #ComingSoon #PartnershipQuestion: Who's excited to meet our potential first franchise partner? 🤔
 
-### 03.11.2023 (announcement [Linkspreed Community])
+### 04.11.2023 (announcement [Linkspreed Community])
 - 📢 Hey there! 👋 Did you know that besides our awesome blog, we're also working on a Community Feedback and Support forum for all things Linkspreed? 🌐🙌 Join the conversation, share your thoughts, and let us know how we can enhance your experience! 🗣️💡🤝 Don't forget to use #LinkspreedCommunity and #FeedbackForum. What features or improvements would you like to see? Let's hear your suggestions! 📝🤔 #EngageWithUs
 
 ### 03.11.2023 (announcement [Linkspreed Blog])
