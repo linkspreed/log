@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.11.2023 (announcement)
+- Our Linkspreed applications are all up and running smoothly, just like a well-oiled machine! ⚙️ Have you ever experienced any downtime with Linkspreed? 🤔
+
+### 06.11.2023 (announcement Hutty)
+- We've squashed a pesky bug in Hutty, and now it's running smoothly again! 🐞🎉 Have you noticed any other bugs in Hutty that we should address? 🤔
+
 ### 05.11.2023 (announcement [Support])
 - 📢 Exciting news! 🌟 Our website linkspreed.com has made some changes to enhance your experience. 🚀 Starting now, help.linkspreed.com and support.linkspreed.com will redirect you to our Helpdesk at helpdesk.linkspreed.com! 📞 Need assistance? Let us know how we can help! 💪 #CustomerSupport #Helpdesk 🤔 Have you tried our new Helpdesk yet? What do you think?
 
