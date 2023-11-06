@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.11.2023 (announcement Deepage)
+- 🔧 We've fixed a tiny bug on Deepage and released a brand-new version! 🚀 Our tool is now not only up and running smoothly again, but it also works even better than before. 🎉 Have you tried it yet? Let us know what you think! 😃 #Deepage #BugFixed #NewVersion
+
 ### 06.11.2023 (announcement)
 - Our Linkspreed applications are all up and running smoothly, just like a well-oiled machine! ⚙️ Have you ever experienced any downtime with Linkspreed? 🤔
 
