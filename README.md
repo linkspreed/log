@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.11.2023 (announcement)
+- 📢 Hey there! 🌟 Exciting news! 💼 We've just created a business profile for Linkspreed on TikTok. 🎉 Have you already started following us? 🤩 Drop us a comment below with your thoughts, suggestions, or any content you'd love to see! 📱💃 Don't forget to use the hashtag #LinkspreedTikTok for a chance to be featured! 🌐🎥 Join us on this TikTok journey and let's explore the world of professional content together. 🌍🌈 #TikTokBusiness #JoinTheFun
+
+### 07.11.2023 (announcement)
+- 🌟 Exciting news! 🌟 We've been working on optimizing our internal business processes at Linkspreed to boost efficiency! 💼💪 Join us on this journey to streamline operations and revolutionize the way we work. 🚀🔥 Tell us, how do you stay productive at work? Share your tips! 💼🌟 #EfficiencyMatters #OptimizeYourWorkflow
+
 ### 06.11.2023 (announcement Deepage)
 - 🔧 We've fixed a tiny bug on Deepage and released a brand-new version! 🚀 Our tool is now not only up and running smoothly again, but it also works even better than before. 🎉 Have you tried it yet? Let us know what you think! 😃 #Deepage #BugFixed #NewVersion
 
