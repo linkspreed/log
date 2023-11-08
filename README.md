@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.11.2023 (announcement Linkspreed.com)
+- 📢 Exciting news, everyone! 🎉 We're thrilled to announce that we've successfully resolved a temporary login issue and timeline delays. 🛠️ The culprit? A glitchy API connection 🤖 But fear not, everything is back to normal now! 🙌✨ Have you encountered any recent issues? Let us know! 👇 #TechUpdates #BugFixes
+
 ### 07.11.2023 (announcement)
 - 📢 Hey there! 🌟 Exciting news! 💼 We've just created a business profile for Linkspreed on TikTok. 🎉 Have you already started following us? 🤩 Drop us a comment below with your thoughts, suggestions, or any content you'd love to see! 📱💃 Don't forget to use the hashtag #LinkspreedTikTok for a chance to be featured! 🌐🎥 Join us on this TikTok journey and let's explore the world of professional content together. 🌍🌈 #TikTokBusiness #JoinTheFun
 
