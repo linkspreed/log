@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.11.2023 (announcement L2B Classic [Mailbox Plugin])
+- Big news for Linkspreed Classic Mailbox Plugin for Outlook users! 📬 We're working on a major update with support for Outlook and an improved email view.
+
 ### 10.11.2023 (announcement)
 - 🚀 We've expanded our business processes and model, taking them to the next level! 💼💪 But that's not all, we're also developing even better software to enhance our operations. 🌟✨ Have you ever experienced the power of upgraded software solutions? Share your thoughts and let's discuss! 😊👇 #BusinessGrowth #SoftwareDevelopment
 
