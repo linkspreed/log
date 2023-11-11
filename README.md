@@ -2,6 +2,22 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.11.2023 (announcement)
+- 🚀 We've expanded our business processes and model, taking them to the next level! 💼💪 But that's not all, we're also developing even better software to enhance our operations. 🌟✨ Have you ever experienced the power of upgraded software solutions? Share your thoughts and let's discuss! 😊👇 #BusinessGrowth #SoftwareDevelopment
+
+### 10.11.2023 (announcement)
+- 📢 The Linkspreed Team had an amazing time at the Franchise Expo in Frankfurt today! 😎🚀 We gained valuable insights into the market and met some incredible entrepreneurs. 🌟 Share your thoughts or experiences with us! #FranchiseExpo #BusinessOpportunities 💼 What's your favorite aspect of the franchise industry? 🤔
+
+### 09.11.2023 (announcement)
+-  We've been busy expanding our business processes and refining our business model, resulting in even better software development! 🚀🔧✨ Exciting things are happening behind the scenes. Stay tuned! #SoftwareDevelopment #GrowingBusiness
+Have you ever witnessed a company's transformation? Share your thoughts and experiences below. 👇
+
+### 09.11.2023 (announcement)
+- 🌐 The Linkspreed Team had a fantastic time at the Franchise fair (FEX2023) in Frankfurt today! 🙌🏼💼 We gained valuable insights into the market and are excited to share our findings with you. Stay tuned for some exciting updates! 😎✨ #FranchiseMesse #MarketInsights #Fair #FEX2023
+
+### 08.11.2023 (announcement)
+- 📢 Exciting news! 🚀 We've brainstormed and taken our business model for Linkspreed to the next level! 🧠💼 Discover how we've enhanced our platform to deliver even better results for you. 💪🔗 #BusinessGrowth #Innovation
+
 ### 08.11.2023 (announcement Linkspreed.com)
 - 📢 Exciting news, everyone! 🎉 We're thrilled to announce that we've successfully resolved a temporary login issue and timeline delays. 🛠️ The culprit? A glitchy API connection 🤖 But fear not, everything is back to normal now! 🙌✨ Have you encountered any recent issues? Let us know! 👇 #TechUpdates #BugFixes
 
