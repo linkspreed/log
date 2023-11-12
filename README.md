@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 12.11.2023 (announcement Linkspreed Uptime)
+- Check out our latest masterpiece on Github 🚀 Dive into the world of endless possibilities with our new repository: https://github.com/linkspreed/Uptime ⭐️ Give it some love with a star and tell us your favorite feature! 💬 #OpenSourceMagic #CodingAdventures What caught your eye first?
+
+### 12.11.2023 (announcement Linkspreed Uptime)
 - 🚀 Dive into the tech magic! 🛠️ We're cooking up a GitHub repository for Linkspreed Uptime, our SaaS marvel! 🔍 Monitor any website's online status for FREE, just like we do for status.linkspreed.com. Exciting, right? 🌐✨ #LinkspreedUptime #GitHub #TechInnovation
 
 ### 11.11.2023 (announcement L2B Classic [Mailbox Plugin])
