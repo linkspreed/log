@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.11.2023 (announcement Linkspreed Uptime)
+- 🚀 Dive into the tech magic! 🛠️ We're cooking up a GitHub repository for Linkspreed Uptime, our SaaS marvel! 🔍 Monitor any website's online status for FREE, just like we do for status.linkspreed.com. Exciting, right? 🌐✨ #LinkspreedUptime #GitHub #TechInnovation
+
 ### 11.11.2023 (announcement L2B Classic [Mailbox Plugin])
 - Big news for Linkspreed Classic Mailbox Plugin for Outlook users! 📬 We're working on a major update with support for Outlook and an improved email view.
 
