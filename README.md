@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.11.2023 (announcement Linkspreed vCard)
+- 🌟 Dive into the Vcard magic with us! 🚀 Our team's crafting something extraordinary – a Vcard app that's not just an upgrade but a revolution! 🌐✨ Can't spill all the beans yet, but trust us, it's worth the wait! 🤫 Ready to join the franchise adventure? Let's talk! 💼🌈 #VcardUnleashed #StayCurious #FranchiseMagic
+
 ### 12.11.2023 (announcement Linkspreed Uptime)
 - Check out our latest masterpiece on Github 🚀 Dive into the world of endless possibilities with our new repository: https://github.com/linkspreed/Uptime ⭐️ Give it some love with a star and tell us your favorite feature! 💬 #OpenSourceMagic #CodingAdventures What caught your eye first?
 
