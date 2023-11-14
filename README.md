@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.11.2023 (announcement)
+- Exploring new horizons! 🚀 Today's mission: crafting magic on numerous platforms. 🌐 What's your favorite platform, and what cool features would you love to see us conquer next? Share your thoughts! #PlatformAdventures #InnovationJourney
+
+### 13.11.2023 (announcement)
+- Fortifying our digital fortress! 🔒 Today's quest: strengthening Linkspreed's security stronghold and streamlining business maneuvers. 💼 What's your go-to security tip for a robust infrastructure? Share your wisdom! #SecureLinks #BusinessOptimization
+
 ### 12.11.2023 (announcement Linkspreed vCard)
 - 🌟 Dive into the Vcard magic with us! 🚀 Our team's crafting something extraordinary – a Vcard app that's not just an upgrade but a revolution! 🌐✨ Can't spill all the beans yet, but trust us, it's worth the wait! 🤫 Ready to join the franchise adventure? Let's talk! 💼🌈 #VcardUnleashed #StayCurious #FranchiseMagic
 
