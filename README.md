@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.11.2023 (announcement)
+- Brainstormed fresh strategies & concepts to elevate our startup! 🚀 Exciting times ahead! 🌟 What's your go-to tip for business growth? Share using #StartupSuccess 💡 Let's create a hive of innovative ideas! 🐝 #Entrepreneurship #InnovationJourney
+
+### 15.11.2023 (announcement)
+- Cooking up something special! 🚀 Our team's whipping magic into the new vCard app for Linkspreed! 📱✨ What feature are you most excited about? Share your thoughts with #LinkspreedMagic 💬 Let's shape this together! 🌐 #TechInnovation #AppDevelopment
+
+### 14.11.2023 (announcement)
+- Sprinkling innovation like confetti! 🎉 Our creative cauldron is bubbling with cool updates, fresh features, and smart software solutions! 🚀✨ Which product are you most eager to explore? Drop your thoughts using #TechMagic 🌐💡 Let's dive into the future together! #InnovationWave
+
+### 14.11.2023 (announcement)
+- Sharpening our pitch-perfect skills at the Linkspreed Team workshop today! 🎤✨ How do you make your ideas shine when presenting? Share your top pitch tips using #PitchPerfect 🚀💬 Let's build a toolkit of success together! #TeamLinkspreed #InnovationWorkshop
+
 ### 13.11.2023 (announcement)
 - Exploring new horizons! 🚀 Today's mission: crafting magic on numerous platforms. 🌐 What's your favorite platform, and what cool features would you love to see us conquer next? Share your thoughts! #PlatformAdventures #InnovationJourney
 
