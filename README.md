@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.11.2023 (announcement Linkspreed Newsletter)
+- Embarking on a new journey with a Linkspreed newsletter! 📧✨ Want exclusive updates delivered straight to your inbox? Drop a ✉️ in the comments if you're ready for the inside scoop! #LinkspreedNews #NewsletterReady
+
+### 16.11.2023 (announcement)
+- Exploring new avenues in sales today! 🚀 What do you think could be the next big thing for us? Share your thoughts and let's brainstorm together! 💡 #SalesExploration #FutureOpportunities
+
 ### 15.11.2023 (announcement)
 - Brainstormed fresh strategies & concepts to elevate our startup! 🚀 Exciting times ahead! 🌟 What's your go-to tip for business growth? Share using #StartupSuccess 💡 Let's create a hive of innovative ideas! 🐝 #Entrepreneurship #InnovationJourney
 
