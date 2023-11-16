@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.11.2023 (announcement)
+- Ready to unleash the entrepreneurial spirit? 🚀 We're flipping the script and offering our franchise models to freelancers too! 💼 Exciting opportunities await. Who's in? 🙌 #FreelanceRevolution #EntrepreneurialSpirit #FranchiseInnovation
+
 ### 16.11.2023 (announcement Linkspreed Newsletter)
 - Embarking on a new journey with a Linkspreed newsletter! 📧✨ Want exclusive updates delivered straight to your inbox? Drop a ✉️ in the comments if you're ready for the inside scoop! #LinkspreedNews #NewsletterReady
 
