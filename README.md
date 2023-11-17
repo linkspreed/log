@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.11.2023 (announcement)
+- 🌐 Expanding our horizons with exciting partnerships! 🤝✨ What kind of collaborations would make your heart race? 💓 Share your dream partnerships using #ConnectWithUs and let's shape the future together! 🌟🚀 #PartnershipGoals #FutureCollabs
+
+### 17.11.2023 (announcement)
+- 🚀 Brace yourselves for a Linkspreed upgrade! 🌐✨ What features do you dream of in the next update? 🤔💡 Share your wishlist with us using #LinkspreedUpgrade and let's make it legendary! 🚀🌟 #TechDreams #InnovationAwaits
+
+### 17.11.2023 (announcement)
+- 📊 Dive into the magic behind our products! ✨ Your opinion is the secret ingredient. 🧙‍♂️ Participate in our surveys and be a part of the innovation journey! 🚀 What features would make our products your ultimate faves? Share using #ProductPerfection 🌟 #UserInsights
+
+### 17.11.2023 (announcement Linkspreed Blog)
+- 🚀 Exciting times ahead! 📝 We're crafting a Linkspreed blog, a space where articles bloom! 🌐 What topics tickle your tech fancy? 💡 Share your ideas using #LinkspreedBlog. Let's make this digital haven together! 🚧 #TechTalks #DigitalExploration
+
 ### 16.11.2023 (announcement)
 - Ready to unleash the entrepreneurial spirit? 🚀 We're flipping the script and offering our franchise models to freelancers too! 💼 Exciting opportunities await. Who's in? 🙌 #FreelanceRevolution #EntrepreneurialSpirit #FranchiseInnovation
 
