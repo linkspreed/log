@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.11.2023 (announcement Linkspreed Community)
+- 🚀 Exciting update, folks! 🌐 We've been hard at work on community.linkspreed.com, crafting something special just for you! 🛠️ The final version is on the horizon—your thoughts and suggestions mean the world to us! 🌍 Can't wait to hear what you think! 🎉 #LinkSpreedCommunity #StayTuned
+
 ### 18.11.2023 (announcement Linkspreed Blog)
 - 🚀 Exciting updates from the Linkspreed blog coming your way! 🌐 We're putting in the hustle to bring you engaging content that sparks curiosity and ignites conversations. Join the journey at https://blog.linkspreed.com 📚✨ #LinkspreedBlog #StayTuned #CuriousMinds #InteractiveContent
 
