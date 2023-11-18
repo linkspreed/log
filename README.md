@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.11.2023 (announcement)
+- 📢 Hey there! 👋 Exciting news on the horizon! 🌟 We are currently working on a newsletter for Linkspreed, packed with amazing insights and valuable content. 📚🚀 Stay tuned to get the latest updates from us! 😎💼 #Newsletter #Linkspreed #StayInformed
+
+### 18.11.2023 (announcement)
+- 🌟 Exciting update! 🌟 We've been hard at work on some amazing freelancer solutions, and we're thrilled to announce that we'll be bringing Linkspreed to Fiverr! 🎉🚀 Join us on this professional journey and let's take your freelance career to new heights! 💼💪 #FreelancerSolutions #LinkspreedOnFiverr
+
 ### 18.11.2023 (announcement Linkspreed Community)
 - 🚀 Exciting update, folks! 🌐 We've been hard at work on community.linkspreed.com, crafting something special just for you! 🛠️ The final version is on the horizon—your thoughts and suggestions mean the world to us! 🌍 Can't wait to hear what you think! 🎉 #LinkSpreedCommunity #StayTuned
 
