@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 19.11.2023 (announcement Oxygen)
+- 🎉🌐✨ Oxygen has arrived! The long-awaited, stable version of Oxygen is finally here. 🚀🔒 Experience the ultimate in browsing with our lightning-fast and secure browser. Download it now at https://oxygen.linkspreed.com and explore a whole new level of web surfing. 😎🌐 #OxygenBrowser #FastAndSecure #DownloadNow
+
+### 19.11.2023 (announcement Oxygen)
 - 🌐 Exciting news, everyone! 🚀 We're thrilled to announce the release of the first fully-fledged, stable version of our very own Oxygen Browser. 🎉✨ Join us on this groundbreaking journey as we unveil a seamless browsing experience to explore the digital world! 🌐💻 #OxygenBrowserLaunch #TechRevolution
 
 ### 18.11.2023 (announcement)
