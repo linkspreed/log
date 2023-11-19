@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 19.11.2023 (announcement Oxygen)
+- 📢🔬 Calling all tech enthusiasts! 🤓🌟 Exciting news alert: Our team just released the Oxygen GitHub repository! 🚀🔥 Join us on this coding journey by checking it out now 👉 https://github.com/linkspreed/Oxygen. ⭐️💻 Don't forget to show some love by giving us a star! 🌟😊 #OpenSource #CodeCommunity #OxygenProject
+
+### 19.11.2023 (announcement Oxygen)
 - 🎉🌐✨ Oxygen has arrived! The long-awaited, stable version of Oxygen is finally here. 🚀🔒 Experience the ultimate in browsing with our lightning-fast and secure browser. Download it now at https://oxygen.linkspreed.com and explore a whole new level of web surfing. 😎🌐 #OxygenBrowser #FastAndSecure #DownloadNow
 
 ### 19.11.2023 (announcement Oxygen)
