@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.11.2023 (announcement Oxygen)
+- 🌐 Exciting news, everyone! 🚀 We're thrilled to announce the release of the first fully-fledged, stable version of our very own Oxygen Browser. 🎉✨ Join us on this groundbreaking journey as we unveil a seamless browsing experience to explore the digital world! 🌐💻 #OxygenBrowserLaunch #TechRevolution
+
 ### 18.11.2023 (announcement)
 - 📢 Hey there! 👋 Exciting news on the horizon! 🌟 We are currently working on a newsletter for Linkspreed, packed with amazing insights and valuable content. 📚🚀 Stay tuned to get the latest updates from us! 😎💼 #Newsletter #Linkspreed #StayInformed
 
