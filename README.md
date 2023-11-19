@@ -2,6 +2,54 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.11.2023 (announcement Biospreed)
+- 🌱 Exciting news! We're thrilled to announce the release of Version 41.0.0 for Biospreed, our cutting-edge Biolink generator platform! 🚀🎉 Discover the power of seamless link management and take your bio to the next level. Share your thoughts, questions, or suggestions using #Biospreed41 🌿🔗 Let's grow together! #BiolinkGenerator
+
+### 19.11.2023 (announcement Snoogie)
+- 📣 Exciting news, folks! 🎉 We've just released Version 41.0.0 of Snoogie, the ultimate Biolink generator platform! 🚀✨ This update is packed with game-changing features and improvements to level up your social media game! 😍💪 Have you updated yet? Share your thoughts below using #SnoogieUpdate! 😊👇 #BiolinkGenerator #SocialMediaMarketing
+
+### 19.11.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.11.2023 (announcement Snoogie)
+- The launch of version 41.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 19.11.2023 (announcement Snoogie)
+- We are now starting the launch of v41.0.0.
+
+### 19.11.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 41.0.0 for **Snoogie**.
+
+### 19.11.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 41.0.0 for **Snoogie**.
+
+### 19.11.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v41.0.0. 😍
+
+### 19.11.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.11.2023 (announcement Biospreed)
+- The launch of version 41.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 19.11.2023 (announcement Biospreed)
+- We are now starting the launch of v41.0.0.
+
+### 19.11.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 41.0.0 for **Biospreed**.
+
+### 19.11.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 41.0.0 for **Biospreed**.
+
+### 19.11.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v41.0.0. 😍
+
 ### 19.11.2023 (announcement Oxygen)
 - 📢🔬 Calling all tech enthusiasts! 🤓🌟 Exciting news alert: Our team just released the Oxygen GitHub repository! 🚀🔥 Join us on this coding journey by checking it out now 👉 https://github.com/linkspreed/Oxygen. ⭐️💻 Don't forget to show some love by giving us a star! 🌟😊 #OpenSource #CodeCommunity #OxygenProject
 
