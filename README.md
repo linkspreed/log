@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.11.2023 (announcement Biospreed)
+- 📢 Attention all Biospreed users! 🌟 Exciting news! 🎉 We've just updated several plugins to the latest version! 🚀🔥💻 Stay ahead of the game and enjoy enhanced features and improved performance. 😍💯 Let us know your thoughts and share your experience with #BiospreedUpgrades 🙌✨ #TechUpdates #StayUpdated
+
+### 21.11.2023 (announcement Snoogie)
+- 📢 Hey there, Snoogie community! 🌟 We've just updated several plugins on Snoogie to the latest version, making your experience even better! 🚀✨ Have you noticed any changes? Let us know your thoughts 💭👇 #SnoogieUpdates #StayUpdated #TechTalk
+
+### 21.11.2023 (announcement Linkspreed Helpdesk)
+- 🔧🚀 Hey there! We apologize for the temporary unavailability of our Helpdesk earlier. Good news! 🎉 We swiftly resolved the issue within minutes⏱️. Your satisfaction is our priority! 😊🙌 Got any questions or need assistance? Drop a comment below👇 or reach out to us via DM. #CustomerFirst #PromptSupport
+
 ### 21.11.2023 (announcement Linkspreed)
 - 📣 Great news! 🎉 We've just updated Linkspreed to version 4.3! 🚀🔥 This latest update brings tons of exciting features and improvements to enhance your experience. 🙌💯 Have you updated yet? Share your thoughts with us using #LinkspreedUpdate and let's take your productivity to the next level! 💪✨
 
