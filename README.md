@@ -2,6 +2,57 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.11.2023 (announcement Linkspreed)
+- 📣 Great news! 🎉 We've just updated Linkspreed to version 4.3! 🚀🔥 This latest update brings tons of exciting features and improvements to enhance your experience. 🙌💯 Have you updated yet? Share your thoughts with us using #LinkspreedUpdate and let's take your productivity to the next level! 💪✨
+
+### 21.11.2023 (announcement Seedspreed)
+- 🌱📢 Exciting news! 🎉 We've just updated Seedspreed to version 4.3! 🚀🌟 Experience the latest features and improvements in our cutting-edge social media management platform. 📲💼 Get ready to take your online presence to the next level! 😎💪 #SeedspreedUpdates #SocialMediaManagement
+
+### 21.11.2023 (announcement)
+- 🔒 Exciting news! We've just upgraded the DDoS protection on Linkspreed! 🚀✨ Our team has been working tirelessly to enhance security, ensuring your online presence remains rock-solid. 🛡️💪 Share your thoughts, concerns, or any questions you may have using #DDoSSecurity. We're here to keep your digital fortress impenetrable! 🏰🔒 #StayProtected #CyberSecurity
+
+### 21.11.2023 (announcement Linkspreed)
+- https://github.com/linkspreed/Linkspreed.com/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 21.11.2023 (announcement Linkspreed)
+- The launch of version 4.3 of **Linkspreed** was successful! 🥳
+- The new update is live now :)
+- https://linkspreed.com 🔗
+
+### 21.11.2023 (announcement Linkspreed)
+- We are now starting the launch of v4.3.
+
+### 21.11.2023 (announcement Linkspreed)
+- The servers are now ready for the launch of version 4.3 for **Linkspreed**.
+
+### 21.11.2023 (announcement Linkspreed)
+- The code is now ready for the launch of version 4.3 for **Linkspreed**.
+
+### 21.11.2023 (announcement Linkspreed)
+-  **Linkspreed** gets a big update today - we are going to launch v4.3. 😍
+
+### 21.11.2023 (announcement Seedspreed)
+- https://github.com/linkspreed/Seedspreed/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 21.11.2023(announcement Seedspreed)
+- The launch of version 4.3 of **Seedspreed** was successful! 🥳
+- The new update is live now :)
+- https://seedspreed.cf 🔗
+
+### 21.11.2023(announcement Seedspreed)
+- We are now starting the launch of v4.3.
+
+### 21.11.2023(announcement Seedspreed)
+- The servers are now ready for the launch of version 4.3 for **Seedspreed**.
+
+### 21.11.2023(announcement Seedspreed)
+- The code is now ready for the launch of version 4.3 for **Seedspreed**.
+
+### 21.11.2023(announcement Seedspreed)
+-  **Seedspreed** gets a big update today - we are going to launch v4.3. 😍
+
 ### 20.11.2023 (announcement Snoogie)
 - 📢 Attention all Snoogie users! 🚀🔧 We're thrilled to announce that we've just released a hotfix for Snoogie v41.0.0 🎉🔥 This update addresses important improvements and fixes, ensuring a smoother experience for you all. 🙌🛠️ Please update your app now to enjoy the latest enhancements! 💪✨ #SnoogieUpdate #Hotfixv41.0.0
 
