@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.11.2023 (announcement)
+- 🌐🚀 Exciting news! We are currently developing a cutting-edge technical slide that will showcase our vision with the term #Web4, both on a technical and business level. 📊🔍 Stay tuned for updates and let us know your thoughts below! 💡👇 #FutureTech #Innovation
+
 ### 21.11.2023 (announcement Biospreed)
 - 📢 Attention all Biospreed users! 🌟 Exciting news! 🎉 We've just updated several plugins to the latest version! 🚀🔥💻 Stay ahead of the game and enjoy enhanced features and improved performance. 😍💯 Let us know your thoughts and share your experience with #BiospreedUpgrades 🙌✨ #TechUpdates #StayUpdated
 
