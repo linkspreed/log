@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.11.2023 (announcement)
+- 📢 Hey fellow sales enthusiasts! 🤝🌟 We've been working tirelessly at Linkspreed to prepare the first prototypes. 🏭🚀 Stay tuned for exciting updates on our sales progress! 💪📈 #SalesEfforts #PrototypePreparation #LinkspreedJourney
+
 ### 22.11.2023 (announcement)
 - 🌐🚀 Exciting news! We are currently developing a cutting-edge technical slide that will showcase our vision with the term #Web4, both on a technical and business level. 📊🔍 Stay tuned for updates and let us know your thoughts below! 💡👇 #FutureTech #Innovation
 
