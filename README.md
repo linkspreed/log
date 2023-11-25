@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.11.2023 (announcement)
+- 📢 Hey everyone! 🌟 We've been out and about in the sales department today, connecting with clients and spreading the word about our amazing products! 💼💪 Have you ever had a great sales experience? Share your story below and let's inspire each other! 👇✨ #SalesForce #Networking #ProfessionalJourney
+
+### 24.11.2023 (announcement)
+- 🔒 Just started diving into the fascinating world of brand protection and possibly patent law today! 📚💼 Exciting times ahead! Any experts out there who can share some insights? 💡🤔 #BrandProtection #PatentLaw #LearningJourney
+
+### 24.11.2023 (announcement Web4)
+- 🚀🌐 Exciting news, folks! 🌐🚀 At Linkspreed, we've been working tirelessly to expand our vision for the next level of the technical Web4. 🌍✨ Join us on this incredible journey as we push the boundaries of innovation! 💡🔝 #Web4 #Innovation #Linkspreed #TechRevolution
+
 ### 23.11.2023 (announcement)
 - 📢 Hey fellow sales enthusiasts! 🤝🌟 We've been working tirelessly at Linkspreed to prepare the first prototypes. 🏭🚀 Stay tuned for exciting updates on our sales progress! 💪📈 #SalesEfforts #PrototypePreparation #LinkspreedJourney
 
