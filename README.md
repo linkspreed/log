@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.11.2023 (announcement Web4)
+- 📢🌐 Calling all tech enthusiasts! 🤩 Get ready to dive into the world of Web4 as we wrap up our official documentation today! 🎉📚 Stay tuned as we'll be making it available online shortly. 🚀💻 Don't miss the chance to explore the future of the web! 🌐 #Web4 #ExcitingUpdates #StayTuned
+
 ### 24.11.2023 (announcement)
 - 📢 Hey everyone! 🌟 We've been out and about in the sales department today, connecting with clients and spreading the word about our amazing products! 💼💪 Have you ever had a great sales experience? Share your story below and let's inspire each other! 👇✨ #SalesForce #Networking #ProfessionalJourney
 
