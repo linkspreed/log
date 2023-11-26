@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 26.11.2023 (announcement Linkspreed vCards)
+- 📢 Exciting news! 🥳 We are thrilled to announce the launch of the very first version of Linkspreed vCards! 🎉🔗✉️ Experience seamless and efficient contact sharing like never before. Don't miss out, come and check it out at https://vcard.linkspreed.com. 💼🌐 #Linkspreed #vCardRevolution #ContactSharing
+
+### 26.11.2023 (announcement Linkspreed vCards)
 - 📢 Hey there! 👋 We're super excited to share that we are still busy working on enhancing our amazing Linkspreed vCards! 📇✨ Stay tuned for some incredible updates coming your way soon. Got any ideas or suggestions? We would love to hear from you! Drop them below and let's make Linkspreed vCards even more awesome! 💪🤩 #LinkspreedvCards #ComingSoon #CustomerInspiration
 
 ### 26.11.2023 (announcement Web4)
