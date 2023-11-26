@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.11.2023 (announcement Web4)
+- 🚀 Check out our latest Github release! 🌐💻 We just unveiled our newest repository - Web4! 🌟 Dive into our visionary take on the future of the web at https://github.com/linkspreed/Web4. 😍✨ Join the conversation and share your thoughts using #Web4! Let's shape the future together! 🌍💪 #OpenSource #TechCommunity
+
 ### 26.11.2023 (announcement Linkspreed vCards)
 - 📢 Exciting news! 🥳 We are thrilled to announce the launch of the very first version of Linkspreed vCards! 🎉🔗✉️ Experience seamless and efficient contact sharing like never before. Don't miss out, come and check it out at https://vcard.linkspreed.com. 💼🌐 #Linkspreed #vCardRevolution #ContactSharing
 
