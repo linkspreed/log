@@ -3,6 +3,10 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.11.2023 (announcement Linkspreed Newsletter)
+- 📢 Hey there, new visitors on Linkspreed! 👋🏼 We've got a little something for you! 🎉 How about staying updated with our newsletter? 📧✨ It's packed with exclusive content and exciting news! 🗞️💥 #StayInformed #LinkspreedNewsletter 📩 Let us know if you're in! Just hit that "Yes" button below! ⬇️💬👇🏼
+- https://github.com/linkspreed/log/assets/102324985/f688971e-d927-4997-9bb6-261a20bc5cb5
+
+### 28.11.2023 (announcement Linkspreed Newsletter)
 - 📢 Exciting news! 📢 We're thrilled to announce that we will soon be launching push notifications for the Linkspreed Newsletter on select pages, with plans to expand it in the future. 🚀 Stay tuned for updates! 😊 #Linkspreed #Newsletter #StayConnected
 
 ### 28.11.2023 (announcement)
