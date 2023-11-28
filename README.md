@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.11.2023 (announcement Linkspreed Newsletter)
+- 📢 Exciting news! 📢 We're thrilled to announce that we will soon be launching push notifications for the Linkspreed Newsletter on select pages, with plans to expand it in the future. 🚀 Stay tuned for updates! 😊 #Linkspreed #Newsletter #StayConnected
+
+### 28.11.2023 (announcement)
+- 🔒 Exciting news! We're diving deep into the realm of patent protection and trademark registration internally. 📚💼 Join the conversation and share your thoughts on how these essential steps can safeguard your innovations and brand identity. 🚀 #PatentProtection #TrademarkRegistration #Innovation #BrandIdentity
+
+### 28.11.2023 (announcement)
+- 📢 Today, we dove deep into the world of marketing and sales to enhance our external outreach! 🚀 Starting tomorrow, we'll be reaching out through direct phone calls to formulate an exciting new strategy for community growth. 💪🌱 Share your thoughts and ideas with us below! #Marketing #Sales #CommunityGrowth
+
 ### 27.11.2023 (announcement)
 - 📣 Exciting news! 🌟 We've found some amazing leads and potential partners who are interested in building a community with Linkspreed in its early phase. 🤝💪 Are you as excited as we are? Let's brainstorm together and shape the future! 🌐💡 Share your thoughts and ideas below. 👇 #CommunityBuilding #Linkspreed #TeamworkMakesTheDreamWork
 
