@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.11.2023 (announcement)
+- 📣 Exciting news! 🌟 We've found some amazing leads and potential partners who are interested in building a community with Linkspreed in its early phase. 🤝💪 Are you as excited as we are? Let's brainstorm together and shape the future! 🌐💡 Share your thoughts and ideas below. 👇 #CommunityBuilding #Linkspreed #TeamworkMakesTheDreamWork
+
 ### 26.11.2023 (announcement Web4)
 - 🚀 Check out our latest Github release! 🌐💻 We just unveiled our newest repository - Web4! 🌟 Dive into our visionary take on the future of the web at https://github.com/linkspreed/Web4. 😍✨ Join the conversation and share your thoughts using #Web4! Let's shape the future together! 🌍💪 #OpenSource #TechCommunity
 
