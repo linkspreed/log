@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.11.2023 (announcement Web4)
+- 🌐🚀 We're relentlessly working on our vision of Web4! 💪 Join us on this exciting journey as we shape the future of the internet. 🌍✨ Share your thoughts and ideas using #Web4Revolution, and let's create a web that empowers and connects us all! 🌐💙 #InnovationInProgress
+
+### 29.11.2023 (announcement Linkspreed Franchise)
+- 📢 Calling all potential franchise partners! 🌐🤝 Want to request native apps for our social networks? 📱💼 We have just defined some exciting new pricing models! 💰💡 Share your thoughts and ideas below. Let's shape the future together! 🙌✨ #FranchisePartners #NativeApps #PricingModels #Collaboration
+
+### 29.11.2023 (announcement Linkspreed Franchise)
+- 🎉 Exciting news! We're thrilled to announce that we've partnered with our first franchisee who will be developing a fantastic Snoogie SaaS alternative. Stay tuned for more updates and information coming soon! 🚀 #FranchiseOpportunity #SnoogieAlternative
+
 ### 28.11.2023 (announcement Linkspreed Newsletter)
 - 📢 Hey there, new visitors on Linkspreed! 👋🏼 We've got a little something for you! 🎉 How about staying updated with our newsletter? 📧✨ It's packed with exclusive content and exciting news! 🗞️💥 #StayInformed #LinkspreedNewsletter 📩 Let us know if you're in! Just hit that "Yes" button below! ⬇️💬👇🏼
 - https://github.com/linkspreed/log/assets/102324985/f688971e-d927-4997-9bb6-261a20bc5cb5
