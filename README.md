@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 29.11.2023 (announcement Web4)
+- 🌐✨ Exciting news! Our website web4.linkspreed.com is now LIVE! 🚀🎉 Discover firsthand the incredible vision we have in store for you! 😍💡 Explore now and let us know what you think! 👀🗣️ #NewWebsite #VisionUnveiled #LinkspreedJourney
+
+### 29.11.2023 (announcement Web4)
 - 🌐🚀 We're relentlessly working on our vision of Web4! 💪 Join us on this exciting journey as we shape the future of the internet. 🌍✨ Share your thoughts and ideas using #Web4Revolution, and let's create a web that empowers and connects us all! 🌐💙 #InnovationInProgress
 
 ### 29.11.2023 (announcement Linkspreed Franchise)
