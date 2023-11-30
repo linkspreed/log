@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.11.2023 (announcement)
+- 🚀 Exciting news! 🎉 We've just completed the final step in our massive security infrastructure expansion at Linkspreed. 🛡️ All office devices, including laptops, are now exclusively connected via Ethernet cables, ensuring top-notch security. 🔒 Say goodbye to Wi-Fi vulnerabilities! #CyberSecurity #TechUpdate
+
 ### 29.11.2023 (announcement Web4)
 - 🌐✨ Exciting news! Our website web4.linkspreed.com is now LIVE! 🚀🎉 Discover firsthand the incredible vision we have in store for you! 😍💡 Explore now and let us know what you think! 👀🗣️ #NewWebsite #VisionUnveiled #LinkspreedJourney
 
