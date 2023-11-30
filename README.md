@@ -2,6 +2,78 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.11.2023 (announcement Linkspreed)
+- 🎉 Exciting news! We've just released the latest update - Version 4.3.1 of Linkspreed! 🚀🌟 It's definitely a reason to celebrate! 🎊🥳 Get ready to explore the amazing new features and improvements we've brought to the table. Check out all the details and changes on our GitHub page. 💻✨ #Linkspreed #Update #NewFeatures
+
+### 30.11.2023 (announcement Seedspreed)
+- 🌱 Exciting news! 🎉 We've just released Version 4.3.1 of Seedspreed, our groundbreaking platform! 🚀🌿 This update is a reason to celebrate! 🎊 Discover all the latest features and improvements on GitHub. 🔍📝 #SeedspreedUpdate #NewRelease #TechRevolution
+
+### 30.11.2023 (announcement ForJu)
+- 📢 Exciting news! 🎉 We have just released version 4.3.1 of Forju! 🚀📲 This update is definitely a reason to celebrate! 🎉💪 Check out all the latest features and changes on our GitHub page. 🔍🔧 #Forju #NewRelease #Update #GitHub
+
+### 30.11.2023 (announcement ForJu)
+- https://github.com/linkspreed/ForJu/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 30.11.2023 (announcement ForJu)
+- The launch of version 4.3.1 of **ForJu** was successful! 🥳
+- The new update is live now :)
+- https://forju.linkspreed.com 🔗
+
+### 30.11.2023 (announcement ForJu)
+- We are now starting the launch of v4.3.1.
+
+### 30.11.2023 (announcement ForJu)
+- The servers are now ready for the launch of version 4.3.1 for **ForJu**.
+
+### 30.11.2023 (announcement ForJu)
+- The code is now ready for the launch of version 4.3.1 for **ForJu**.
+
+### 30.11.2023 (announcement ForJu)
+-  **ForJu** gets a big update today - we are going to launch v4.3.1. 😍
+
+### 30.11.2023 (announcement Seedspreed)
+- https://github.com/linkspreed/Seedspreed/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 30.11.2023 (announcement Seedspreed)
+- The launch of version 4.3.1 of **Seedspreed** was successful! 🥳
+- The new update is live now :)
+- https://seedspreed.cf 🔗
+
+### 30.11.2023 (announcement Seedspreed)
+- We are now starting the launch of v4.3.1.
+
+### 30.11.2023 (announcement Seedspreed)
+- The servers are now ready for the launch of version 4.3.1 for **Seedspreed**.
+
+### 30.11.2023 (announcement Seedspreed)
+- The code is now ready for the launch of version 4.3.1 for **Seedspreed**.
+
+### 30.11.2023 (announcement Seedspreed)
+-  **Seedspreed** gets a big update today - we are going to launch v4.3.1. 😍
+
+### 30.11.2023 (announcement Linkspreed)
+- https://github.com/linkspreed/Linkspreed.com/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 30.11.2023 (announcement Linkspreed)
+- The launch of version 4.3.1 of **Linkspreed** was successful! 🥳
+- The new update is live now :)
+- https://linkspreed.com 🔗
+
+### 30.11.2023 (announcement Linkspreed)
+- We are now starting the launch of v4.3.1.
+
+### 30.11.2023 (announcement Linkspreed)
+- The servers are now ready for the launch of version 4.3.1 for **Linkspreed**.
+
+### 30.11.2023 (announcement Linkspreed)
+- The code is now ready for the launch of version 4.3.1 for **Linkspreed**.
+
+### 30.11.2023 (announcement Linkspreed)
+-  **Linkspreed** gets a big update today - we are going to launch v4.3.1. 😍
+
 ### 30.11.2023 (announcement)
 - 🚀 Exciting news! 🎉 We've just completed the final step in our massive security infrastructure expansion at Linkspreed. 🛡️ All office devices, including laptops, are now exclusively connected via Ethernet cables, ensuring top-notch security. 🔒 Say goodbye to Wi-Fi vulnerabilities! #CyberSecurity #TechUpdate
 
