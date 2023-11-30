@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.11.2023 (announcement)
+- 🌐 Just made the first contact with Web4Africa regarding the web4.com domain! 🤝 Managed but unused by the registrar. 😮 However, chances might be slim. 😞 Any suggestions or thoughts? Let's discuss! 🗣️ #Web4Africa #DomainManagement #SeekingAdvice
+
 ### 30.11.2023 (announcement Linkspreed)
 - 🎉 Exciting news! We've just released the latest update - Version 4.3.1 of Linkspreed! 🚀🌟 It's definitely a reason to celebrate! 🎊🥳 Get ready to explore the amazing new features and improvements we've brought to the table. Check out all the details and changes on our GitHub page. 💻✨ #Linkspreed #Update #NewFeatures
 
