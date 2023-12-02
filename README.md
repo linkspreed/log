@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.12.2023 (announcement)
+- 🔥🌟 Hey there, amazing peeps! 🌟🔥 Just wanted to share that we are constantly working on some seriously awesome and innovative platform solutions, along with exciting updates. 😎💪 Stay tuned for more epicness! 👀✨ #NewFeatures #InnovationInProgress #StayUpdated
+
+### 01.12.2023 (announcement)
+- 📢🔧 Exciting news, folks! We've successfully wrapped up a ton of organizational tasks for Linkspreed! 🎉✅ Our team has been working tirelessly to make things smoother and better than ever. 😎 Got any burning questions or feedback? Drop 'em below! 👇🗣️ #Linkspreed #OrganizationalEfficiency
+
+### 01.12.2023 (announcement Linkspreed)
+- 📢 Exciting announcement! 🎉 We're thrilled to share that on 01.12.2023, we officially registered Linkspreed as a trademark with DPMA in Germany! 🚀 #Trademark #Linkspreed #DPMA
+
 ### 30.11.2023 (announcement)
 - 🌐 Just made the first contact with Web4Africa regarding the web4.com domain! 🤝 Managed but unused by the registrar. 😮 However, chances might be slim. 😞 Any suggestions or thoughts? Let's discuss! 🗣️ #Web4Africa #DomainManagement #SeekingAdvice
 
