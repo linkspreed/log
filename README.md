@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.12.2023 (announcement Linkspreed Shop)
+🚀 Hey everyone! We've got something super exciting in the works! 🎉 Introducing our new project: an online shop for Linkspreed products! 🛍️ It's going to be absolutely crazy, we know! 😜 Stay tuned for updates and get ready to dive into the world of Linkspreed with us! 🌐💥 #LinkspreedShop #ComingSoon
+
+### 03.12.2023 (announcement)
+- 📢 Hey there, amazing peeps! 🌟 We're thrilled to announce that we've just launched our very first gig on Fiverr! 🚀🎉 If you're looking for top-notch services, come check us out now at 👉 https://fiverr.com/linkspreed. We can't wait to collaborate with you! 🙌 #Fiverr #NewBeginnings
+
+### 03.12.2023 (announcement Linkspreed.com)
+- 📢 Hey everyone! 🌟 Big news! We've just relaunched our very own analysis tool, DeePage, on Linkspreed.com. 🚀 Want to get some anonymous insights into what's happening on Linkspreed? Let us know in the comments below! 🤔💭 #DeePage #LinkSpreed #Analytics #DataAnalysis
+
+### 03.12.2023 (announcement Linkspreed.com)
+- 🔍 Just had an amazing day exploring Google Analytics GA4 and Google Tag Manager! 🚀 We're super excited to analyze user experience for linkspreed.com users. 😊 Have you tried these tools yet? Share your thoughts! 👇 #GoogleAnalytics #GoogleTagManager #UserExperience
+
+### 02.12.2023 (announcement Web4)
+- 📢 Calling all entrepreneurs! 🚀 We're putting our heads together to create a rock-solid business plan exclusively for Web4! 💼💻 Share your brilliant ideas and let's shape the future of our online ventures together! 🌐🙌 #Web4 #Entrepreneurship #BusinessPlan
+
 ### 02.12.2023 (announcement)
 - 🔥🌟 Hey there, amazing peeps! 🌟🔥 Just wanted to share that we are constantly working on some seriously awesome and innovative platform solutions, along with exciting updates. 😎💪 Stay tuned for more epicness! 👀✨ #NewFeatures #InnovationInProgress #StayUpdated
 
