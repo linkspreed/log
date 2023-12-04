@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.12.2023 (announcement Web4)
+- 🌟 Exciting news! 🌟 We're currently working on a unique business plan exclusively for Web4! 🚀💼 Stay tuned as we prepare to revolutionize the digital landscape! 🌐🌍 Share your thoughts using #Web4Business 🗣️ Let's shape the future together! 💪🤝 #DigitalTransformation #Innovation
+
+### 04.12.2023 (announcement Oxygen)
+- 🚀 Exciting news! We're currently working on Version 2 of Oxygen! 🌟 It will come packed with awesome features like a Linkspreed New Tab and many more improvements! 😍🔥 Stay tuned for updates! What features are you most excited about? Let us know! #Oxygen2 #ComingSoon #NewTabFeature
+
 ### 03.12.2023 (announcement Linkspreed Shop)
 🚀 Hey everyone! We've got something super exciting in the works! 🎉 Introducing our new project: an online shop for Linkspreed products! 🛍️ It's going to be absolutely crazy, we know! 😜 Stay tuned for updates and get ready to dive into the world of Linkspreed with us! 🌐💥 #LinkspreedShop #ComingSoon
 
