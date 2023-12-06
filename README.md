@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.12.2023 (announcement)
+- 📢 Exciting news! 🚀 We've been working tirelessly on enhancing both the performance and security infrastructure for #Linkspreed, both internally and externally. 💪 Today, we're thrilled to announce that we've made significant improvements, allowing us to deliver an even better quality experience to all of you. 🌟 Stay tuned for more updates! Share your thoughts below. 👇 #QualityMatters #ImprovementJourney
+
+### 06.12.2023 (announcement)
+- 🌟 Exciting news! We've been working hard on new and exciting features, along with numerous updates! 🎉🔧 Stay tuned to discover the amazing things we've got in store for you! 💪🌐 #InnovationUnleashed #NewFeatures #UpdatesGalore
+
+### 05.12.2023 (announcement Web4)
+- 📢 We've been hard at work crafting our business plan for Web4! 🌐✍️ Once it's completed, we'll make sure to share it with you all. 🤝 Stay tuned for updates! 💼📄 #Web4 #BusinessPlan #ComingSoon
+
+### 05.12.2023 (announcement)
+- 🌟 Searching for exciting new events where we can showcase our startup and vision! 😄🔍 Any recommendations, fellow entrepreneurs? 💡💼 Let's connect and make magic happen together! #StartupLife #Networking #EventSuggestions
+
 ### 04.12.2023 (announcement Web4)
 - 🌟 Exciting news! 🌟 We're currently working on a unique business plan exclusively for Web4! 🚀💼 Stay tuned as we prepare to revolutionize the digital landscape! 🌐🌍 Share your thoughts using #Web4Business 🗣️ Let's shape the future together! 💪🤝 #DigitalTransformation #Innovation
 
