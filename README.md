@@ -2,6 +2,84 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.12.2023 (announcement Seedspreed)
+- 🌱 Exciting news! We've just released version v4.3.2 of Seedspreed! 🚀🎉 Our team has been working hard to bring you the latest updates and improvements. What's your favorite feature in this new version? Share with us using #SeedspreedUpdates. 🌟👇 #SoftwareRelease #TechUpdates
+
+### 09.12.2023 (announcement Forju)
+- 📣 Great news! 🎉 We're thrilled to announce the release of version v4.3.2 for ForJu! 🚀 This update brings exciting enhancements and improvements to our platform. 🌟💪 Have you tried it yet? Let us know your thoughts! 😊✨ #ForJu #UpdateRelease #NewFeatures #FeedbackWelcome
+
+### 09.12.2023 (announcement Linkspreed)
+- 📢 Exciting announcement! 🚀🎉 We are thrilled to share that we have just released version v4.3.2 for Linkspreed.com! 🌐📲 Experience the ultimate speed and efficiency with our latest update. Have you updated yet? Share your thoughts and experience with us! #Linkspreed #UpgradeNow #NewRelease 🚀💻✨
+
+### 09.12.2023 (announcement Linkspreed)
+- https://github.com/linkspreed/Linkspreed.com/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.12.2023 (announcement Linkspreed)
+- The launch of version 4.3.2 of **Linkspreed** was successful! 🥳
+- The new update is live now :)
+- https://linkspreed.com 🔗
+
+### 09.12.2023 (announcement Linkspreed)
+- We are now starting the launch of v4.3.2.
+
+### 09.12.2023 (announcement Linkspreed)
+- The servers are now ready for the launch of version 4.3.2 for **Linkspreed**.
+
+### 09.12.2023 (announcement Linkspreed)
+- The code is now ready for the launch of version 4.3.2 for **Linkspreed**.
+
+### 09.12.2023 (announcement Linkspreed)
+-  **Linkspreed** gets a big update today - we are going to launch v4.3.2. 😍
+
+### 09.12.2023 (announcement ForJu)
+- https://github.com/linkspreed/ForJu/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.12.2023 (announcement ForJu)
+- The launch of version 4.3.2 of **ForJu** was successful! 🥳
+- The new update is live now :)
+- https://forju.linkspreed.com 🔗
+
+### 09.12.2023 (announcement ForJu)
+- We are now starting the launch of v4.3.2.
+
+### 09.12.2023 (announcement ForJu)
+- The servers are now ready for the launch of version 4.3.2 for **ForJu**.
+
+### 09.12.2023 (announcement ForJu)
+- The code is now ready for the launch of version 4.3.2 for **ForJu**.
+
+### 09.12.2023 (announcement ForJu)
+-  **ForJu** gets a big update today - we are going to launch v4.3.2. 😍
+
+### 09.12.2023 (announcement Seedspreed)
+- https://github.com/linkspreed/Seedspreed/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.12.2023 (announcement Seedspreed)
+- The launch of version 4.3.2 of **Seedspreed** was successful! 🥳
+- The new update is live now :)
+- https://seedspreed.cf 🔗
+
+### 09.12.2023 (announcement Seedspreed)
+- We are now starting the launch of v4.3.2.
+
+### 09.12.2023 (announcement Seedspreed)
+- The servers are now ready for the launch of version 4.3.2 for **Seedspreed**.
+
+### 09.12.2023 (announcement Seedspreed)
+- The code is now ready for the launch of version 4.3.2 for **Seedspreed**.
+
+### 09.12.2023 (announcement Seedspreed)
+-  **Seedspreed** gets a big update today - we are going to launch v4.3.2. 😍
+
+### 08.12.2023 (announcement)
+- 🌟 Exciting news! Today, we dedicated a lot of time to boost our sales efforts and take Web4 to the next level! 💪🚀 Let's hear from you: How do you envision the future of Web4? Share your thoughts and ideas using #Web4Evolution 🌐🗣️ #SalesStrategies #TechRevolution
+
+### 07.12.2023 (announcement)
+- 🚀 Today our sales team has dedicated a lot of time to refining Web4 and making it even stronger! 💪🔝 We're thrilled about the progress and can't wait to hear your thoughts. Share your feedback and ideas below! 👇😃 #Web4 #SalesTeam #FeedbackWelcome
+
 ### 06.12.2023 (announcement)
 - 📢 Exciting news! 🚀 We've been working tirelessly on enhancing both the performance and security infrastructure for #Linkspreed, both internally and externally. 💪 Today, we're thrilled to announce that we've made significant improvements, allowing us to deliver an even better quality experience to all of you. 🌟 Stay tuned for more updates! Share your thoughts below. 👇 #QualityMatters #ImprovementJourney
 
