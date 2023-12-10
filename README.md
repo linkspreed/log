@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.12.2023 (announcement Linkspreed.com)
+- 📢 Calling all #Linkspreed franchise partners! 🙌🏼🎉 You asked, we heard! 🙏🏼✨ Now you can easily control the Newsfeed function with just a click! 🔛📰 Login or not, the choice is yours! 😎🔒 Exciting times ahead! Let us know your thoughts! 💬💭 #FranchisePerks #UserControl #LinkspreedUpdates
+
+### 10.12.2023 (announcement Linkspreed.com)
+- 📣 Exciting news! 🎉 You can now explore the Linkspreed Timeline without an account! 🙌🏼🔥 Scroll, read, and discover amazing content with ease. 😍📚 Join the conversation and let us know your thoughts below! 👇🏼✨ #LinkspreedTimeline #NoAccountNeeded #ExploreWithEase
+
 ### 10.12.2023 (announcement)
 - 🌟 Today is the ultimate test day! 🧪🔬 We're putting every single component of Linkspreed.com through its paces, exploring all possible use cases. Are you ready to witness the magic unfold? 😮🚀 #TestingInProgress #StayTuned #ExcitingTimes
 
