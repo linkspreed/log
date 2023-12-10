@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.12.2023 (announcement)
+- 🌟 Today is the ultimate test day! 🧪🔬 We're putting every single component of Linkspreed.com through its paces, exploring all possible use cases. Are you ready to witness the magic unfold? 😮🚀 #TestingInProgress #StayTuned #ExcitingTimes
+
+### 10.12.2023 (announcement Web4)
+- 🚀 Exciting news! 📢 We are expected to finalize the business plan for Web4 today and publish it online shortly after! 🌐📑 Stay tuned for all the details and get ready to explore the future of #Web4! 💼💪 #ComingSoon #BusinessPlan #TechRevolution
+
+### 09.12.2023 (announcement)
+- 📢 Calling all job seekers! 🌟 Linkspreed is on the lookout for fresh talent to join our team! 🚀 We're stepping up our game in the coming weeks and actively seeking new members. 🕵️‍♀️💼🔍 Interested? Drop us a line or tag someone who'd be a perfect fit! 📩👥 #JobOpportunity #JoinOurTeam #CareerGrowth
+
+### 09.12.2023 (announcement Web4)
+- 🌐🚀 We've taken our Web4 concept to new heights! 💡✨ Dive into the future of web development with us as we unveil exciting updates and advancements. 🌐🔝 Get ready to explore the endless possibilities! 💪🔥 #Web4 #Innovation #FutureReady
+
 ### 09.12.2023 (announcement Seedspreed)
 - 🌱 Exciting news! We've just released version v4.3.2 of Seedspreed! 🚀🎉 Our team has been working hard to bring you the latest updates and improvements. What's your favorite feature in this new version? Share with us using #SeedspreedUpdates. 🌟👇 #SoftwareRelease #TechUpdates
 
