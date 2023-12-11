@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.12.2023 (announcement)
+- 📣 Calling all developers! 🖥️👩‍💻 We're on the lookout for talented individuals who share our passion and vision at Linkspreed. 🌐💡 If you're ready to join the next big thing in tech, let's connect! 🤝🌟 #DevelopersWanted #JoinOurTeam #TechRevolution
+
+### 11.12.2023 (announcement Web4)
+- 📢 Today, we're all set to wrap up the Web4 Business Plan! 🎉 Join us as we dive into the final stages of crafting an impactful roadmap for our online success. 💼💪 Have any suggestions or ideas to share? We'd love to hear from you! 💡✨ #Web4Business #PlanningAhead #Entrepreneurship
+
+### 11.12.2023 (announcement Linkspreed.com)
+- 🚀 Exciting news, folks! 🎉 All tests conducted by Linkspreed.com have been a roaring success so far! 🙌 We're thrilled to continue testing the platforms with you. 😊 Have you tried our services yet? Let us know your experience below! 👇 #Linkspreed #TestingPlatforms #WinningTogether
+
 ### 10.12.2023 (announcement Linkspreed.com)
 - 📢 Calling all #Linkspreed franchise partners! 🙌🏼🎉 You asked, we heard! 🙏🏼✨ Now you can easily control the Newsfeed function with just a click! 🔛📰 Login or not, the choice is yours! 😎🔒 Exciting times ahead! Let us know your thoughts! 💬💭 #FranchisePerks #UserControl #LinkspreedUpdates
 
