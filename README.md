@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.12.2023 (announcement)
+- 👋 Hey there! We're excited to share some news with you! 🌐🛍️ We're currently brainstorming and working hard on creating an awesome online shopping system exclusively for our social networks. 💡🤩 Stay tuned for updates and let us know what features you'd love to see! 📲✨ #OnlineShopping #SocialNetworks #ExcitingUpdates
+
+### 13.12.2023 (announcement)
+- 🚀 Exciting update! We're making great progress on our business plan for Linkspreeds Web4. 🔍✨ As we dive into the nitty-gritty details, we'd love your input! 💡🤝 Have any suggestions or ideas for our innovative project? Share them below using #LinkspreedsWeb4 and let's shape the future together! 🌐💼 #BusinessPlan #Innovation #ShareYourThoughts
+
+### 12.12.2023 (announcement)
+- 🌐 Exciting news! We've had some fascinating discussions about building the first social networks using Linkspreed Web4! 🤩🚀 Join us as we delve into the future of online connectivity and create a space where everyone can thrive. 💪🌍 Share your thoughts below and let's shape the next-gen social media together! #LinkspreedWeb4 #NextGenSocialNetworks
+
+### 12.12.2023 (announcement)
+-  🎉 We're thrilled to announce that we're making big moves in 2024! 🔥 We've been busy preparing to transform Linkspreed into a UG (Unternehmergesellschaft) 🚀💼 Join us on this incredible journey as we embark on this new chapter! Share your thoughts and ideas using #LinkspreedUG 🤝✨ #TransformationInProgress 💪
+
 ### 11.12.2023 (announcement)
 - 📣 Calling all developers! 🖥️👩‍💻 We're on the lookout for talented individuals who share our passion and vision at Linkspreed. 🌐💡 If you're ready to join the next big thing in tech, let's connect! 🤝🌟 #DevelopersWanted #JoinOurTeam #TechRevolution
 
