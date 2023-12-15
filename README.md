@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.12.2023 (announcement)
+- 📣 Hey everyone! 🌟 We've got something BIG in the works! 🤩 We're super excited to announce that we're planning the launch of an incredible community network! 🌐💬 But wait, there's more! 😏 Our amazing partner for this project will be revealed next week! 🤝🎉 Stay tuned and get ready to join our awesome community! 🙌💥 #CommunityNetwork #ExcitingNewsComingSoon
+
+### 16.12.2023 (announcement)
+- 🎉🚀 Attention, everyone! 📢 We've kicked off the initial preparations for our upcoming UG in 2024! 🎉🎊 Are you all as excited and ready as we are? Let's conquer this journey together! 💪💼 #UG2024 #PreparationsInFullSwing #JoinTheBuzz
+
+### 15.12.2023 (announcement)
+- 🌟 Hey there! Guess what? We are currently working on numerous exciting updates for a wide range of cool platforms! 😎 Stay tuned to be the first to experience all the awesomeness coming your way! 💪🔥 #ComingSoon #StayTuned #UpgradesInProgress
+
+### 15.12.2023 (announcement)
+- 📢 Hey there! 👋 We're thrilled to give you a sneak peek into what's brewing at our innovation hub! 🚀✨ We're busy brainstorming and developing exciting new platforms and ideas to expand our product pipeline beyond our social network portfolio. 🌐 Stay tuned for more updates! 🔜💡 #Innovation #ProductPipeline #ExcitingTimes
+
+### 14.12.2023 (announcement)
+- 📢 Hey folks! 👋 We're taking our white label social network vision to the next level! 🚀 Join us as we continue building a personalized platform for individuals. 🌐💼 Stay tuned for exciting updates and get ready to connect like never before! 😉 #SocialNetworks #WhiteLabel #Connectivity
+
+### 14.12.2023 (announcement)
+- 📢 Just rocked our pitch at Ideas & Beers in Ingolstadt today! 🚀🍻 Exciting times for us! 🙌✨ Can't wait to share our innovative ideas with the world. 🌍💡 Stay tuned for updates! #IdeasAndBeers #PitchPerfect #InnovationJourney
+
 ### 13.12.2023 (announcement)
 - 👋 Hey there! We're excited to share some news with you! 🌐🛍️ We're currently brainstorming and working hard on creating an awesome online shopping system exclusively for our social networks. 💡🤩 Stay tuned for updates and let us know what features you'd love to see! 📲✨ #OnlineShopping #SocialNetworks #ExcitingUpdates
 
