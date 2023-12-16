@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.12.2023 (announcement Web4)
+- 📢🔗 Calling all entrepreneurs! 🌍📝 The German and English versions of our Web4 Business Plan are now available online at documents.linkspreed.com! 🚀💼 Dive into our comprehensive templates and take your business to the next level. 📈💡 Don't miss out! #Entrepreneurship #BusinessPlan #GlobalExpansion
+
 ### 16.12.2023 (announcement)
 - 📣 Hey everyone! 🌟 We've got something BIG in the works! 🤩 We're super excited to announce that we're planning the launch of an incredible community network! 🌐💬 But wait, there's more! 😏 Our amazing partner for this project will be revealed next week! 🤝🎉 Stay tuned and get ready to join our awesome community! 🙌💥 #CommunityNetwork #ExcitingNewsComingSoon
 
