@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.12.2023 (announcement Web4 - [Node Project])
+- 📢 We're thrilled to announce that we're working on the very first genuine customer community of Linkspreed, making it the first Web4 hub! 🌐 Stay tuned for more info next week, but we can't contain our excitement about the delicious Burger surprise 🍔 we have in store for you! 😋 Join the conversation and share your thoughts below! 👇 #LinkspreedCommunity #Web4Revolution
+
 ### 16.12.2023 (announcement Web4)
 - 📢🔗 Calling all entrepreneurs! 🌍📝 The German and English versions of our Web4 Business Plan are now available online at documents.linkspreed.com! 🚀💼 Dive into our comprehensive templates and take your business to the next level. 📈💡 Don't miss out! #Entrepreneurship #BusinessPlan #GlobalExpansion
 
