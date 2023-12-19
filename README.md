@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.12.2023 (announcement Web4 - [Node Project])
+- 🌐 Exciting updates! 🚀 We're thrilled to share that we're working on expanding our partner networks at Web4! 🤝🌍 But that's not all! We're diving deep into visualizing the core concept of Web4. 🎨🔍 Stay tuned as we reveal more! 💡 #Web4 #Partnerships #VisualizeTheFuture
+
+### 18.12.2023 (announcement)
+- 🎉 Exciting news, folks! 🌟 We've kicked off the final phase of development for some incredible updates and new platforms. Get ready for a wave of releases in the coming days! 🚀 Stay tuned and let us know what you're most excited about using #ComingSoon. 😍✨ #UpdatesInProgress #NewPlatforms
+
 ### 17.12.2023 (announcement Web4 - [Node Project])
 - 📢 We're thrilled to announce that we're working on the very first genuine customer community of Linkspreed, making it the first Web4 hub! 🌐 Stay tuned for more info next week, but we can't contain our excitement about the delicious Burger surprise 🍔 we have in store for you! 😋 Join the conversation and share your thoughts below! 👇 #LinkspreedCommunity #Web4Revolution
 
