@@ -2,6 +2,132 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.12.2023 (announcement Plop)
+-  https://github.com/linkspreed/Plop/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.12.2023 (announcement Plop)
+- The launch of version 31.0.0 of **Plop ** was successful! 🥳
+- The new update is live now :)
+- https://plop.tk 🔗
+
+### 19.12.2023 (announcement Plop)
+- We are now starting the launch of v31.0.0.
+
+### 19.12.2023 (announcement Plop)
+- The servers are now ready for the launch of version 31.0.0 for **Plop**.
+
+### 19.12.2023 (announcement Plop)
+- The code is now ready for the launch of version 31.0.0 for **Plop**.
+
+### 19.12.2023 (announcement Plop)
+-  **Plop** gets a big update today - we are going to launch v31.0.0. 😍
+
+### 19.12.2023 (announcement Plop)
+-  https://github.com/linkspreed/Plop/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.12.2023 (announcement Plop)
+- The launch of version 30.0.0 of **Plop ** was successful! 🥳
+- The new update is live now :)
+- https://plop.tk 🔗
+
+### 19.12.2023 (announcement Plop)
+- We are now starting the launch of v30.0.0.
+
+### 19.12.2023 (announcement Plop)
+- The servers are now ready for the launch of version 30.0.0 for **Plop**.
+
+### 19.12.2023 (announcement Plop)
+- The code is now ready for the launch of version 30.0.0 for **Plop**.
+
+### 19.12.2023 (announcement Plop)
+-  **Plop** gets a big update today - we are going to launch v30.0.0. 😍
+
+### 19.12.2023 (announcement LinkLab)
+-  https://github.com/linkspreed/LinkLab/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.12.2023 (announcement LinkLab)
+- The launch of version 31.0.0 of **LinkLab** was successful! 🥳
+- The new update is live now :)
+- https://linklab.ga 🔗
+
+### 19.12.2023 (announcement LinkLab)
+- We are now starting the launch of v31.0.0.
+
+### 19.12.2023 (announcement LinkLab)
+- The servers are now ready for the launch of version 31.0.0 for **LinkLab**.
+
+### 19.12.2023 (announcement LinkLab)
+- The code is now ready for the launch of version 31.0.0 for **LinkLab**.
+
+### 19.12.2023 (announcement LinkLab)
+-  **LinkLab** gets a big update today - we are going to launch v31.0.0. 😍
+
+### 19.12.2023 (announcement LinkLab)
+-  https://github.com/linkspreed/LinkLab/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.12.2023 (announcement LinkLab)
+- The launch of version 30.0.0 of **LinkLab** was successful! 🥳
+- The new update is live now :)
+- https://linklab.ga 🔗
+
+### 19.12.2023 (announcement LinkLab)
+- We are now starting the launch of v30.0.0.
+
+### 19.12.2023 (announcement LinkLab)
+- The servers are now ready for the launch of version 30.0.0 for **LinkLab**.
+
+### 19.12.2023 (announcement LinkLab)
+- The code is now ready for the launch of version 30.0.0 for **LinkLab**.
+
+### 19.12.2023 (announcement LinkLab)
+-  **LinkLab** gets a big update today - we are going to launch v30.0.0. 😍
+
+### 19.12.2023 (announcement Snoogie)
+- https://github.com/linkspreed/Snoogie/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.12.2023 (announcement Snoogie)
+- The launch of version 42.0.0 of **Snoogie** was successful! 🥳
+- The new update is live now :)
+- https://snoogie.tk 🔗
+
+### 19.12.2023 (announcement Snoogie)
+- We are now starting the launch of v42.0.0.
+
+### 19.12.2023 (announcement Snoogie)
+- The servers are now ready for the launch of version 42.0.0 for **Snoogie**.
+
+### 19.12.2023 (announcement Snoogie)
+- The code is now ready for the launch of version 42.0.0 for **Snoogie**.
+
+### 19.12.2023 (announcement Snoogie)
+-  **Snoogie** gets a big update today - we are going to launch v42.0.0. 😍
+
+### 19.12.2023 (announcement Biospreed)
+- https://github.com/linkspreed/Biospreed/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 19.12.2023 (announcement Biospreed)
+- The launch of version 42.0.0 of **Biospreed** was successful! 🥳
+- The new update is live now :)
+- https://biospreed.tk 🔗
+
+### 19.12.2023 (announcement Biospreed)
+- We are now starting the launch of v42.0.0.
+
+### 19.12.2023 (announcement Biospreed)
+- The servers are now ready for the launch of version 42.0.0 for **Biospreed**.
+
+### 19.12.2023 (announcement Biospreed)
+- The code is now ready for the launch of version 42.0.0 for **Biospreed**.
+
+### 19.12.2023 (announcement Biospreed)
+-  **Biospreed** gets a big update today - we are going to launch v42.0.0. 😍
+
 ### 18.12.2023 (announcement Web4 - [Node Project])
 - 🌐 Exciting updates! 🚀 We're thrilled to share that we're working on expanding our partner networks at Web4! 🤝🌍 But that's not all! We're diving deep into visualizing the core concept of Web4. 🎨🔍 Stay tuned as we reveal more! 💡 #Web4 #Partnerships #VisualizeTheFuture
 
