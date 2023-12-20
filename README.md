@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.12.2023 (announcement Linkspreed Search)
+- We made a tiny tweak to #Linkspreed Search! 🎉 Now, search results will open in the same browser tab, just like Google, rather than opening in a new tab like Bin. 🌐 How do you feel about this change? Share your thoughts with us! 🤔 #UserExperience
+
 ### 19.12.2023 (announcement Plop)
 -  https://github.com/linkspreed/Plop/blob/main/changelog.txt
 - The entire changelog is now available on Github.
