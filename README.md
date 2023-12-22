@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.12.2023 (announcement Web4 - [Node Project])
+- 📢 Exciting news for all artists and musicians! 🎨🎵 Get ready for the launch of our next social network, specially designed to empower your creative journey! 🚀🌟 Powered by cutting-edge AWS technology, it's a game-changer! Stay tuned for updates and join the vibrant community! #ArtistsUnite #MusiciansConnect #ComingSoon
+
+### 21.12.2023 (announcement Web4)
+- 📢 Exciting news! 🎉 We've just installed the first social network for a client on the AWS Lightsail instance! 😍🚀 Now, we're offering this cutting-edge AWS technology to future projects, for building their very own social networks. Interested? Let's connect and explore the endless possibilities together! 💪🌐💼 #AWS #socialnetwork #webdevelopment #innovation
+
 ### 20.12.2023 (announcement Linkspreed Search)
 - We made a tiny tweak to #Linkspreed Search! 🎉 Now, search results will open in the same browser tab, just like Google, rather than opening in a new tab like Bin. 🌐 How do you feel about this change? Share your thoughts with us! 🤔 #UserExperience
 
