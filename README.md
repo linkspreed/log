@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.12.2023 (announcement - Web4)
+-🌐🚀📊 Exciting news! We're working hard on Linkspreed's Web4 concept pitch deck, aiming to give you a captivating glimpse of Web4 in just under 60 seconds. 🤩💡 Stay tuned for more updates! Who's ready to dive into the future of the web? 🌐🔮 #Web4 #PitchDeck #FutureTech
+
 ### 25.12.2023 (announcement)
 - 🌐 We're crafting a pitch deck to make our vision resonate even more easily in the world. 📊🌍 Exciting stuff! Any suggestions or ideas you'd like to see included? Share your thoughts below! 👇🤔 #PitchDeck #VisionaryGoals #WorldImpression
 
