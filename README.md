@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.12.2023 (announcement)
+- 🚀 Exciting news! 🔥 We're thrilled to share that we're currently working on a multitude of innovative products and updates for our product pipeline, paving the way for a more digitalized future! 🌟 Stay tuned for some groundbreaking developments. 💡✨ #DigitalTransformation #Innovation #StayTuned
+
+### 27.12.2023 (announcement - Web4)
+- 🌐 Looking for new partners for Web4? 💻 Want to build your own social network? 🚀 Drop us a message and let's connect! 📩🤝 #Web4 #PartnershipOpportunity #SocialNetwork #Innovation #JoinUs
+
+### 27.12.2023 (announcement - Web4)
+- 🌐 Calling all our Web4 partners! 🎯🚀 Exciting news on the horizon! 📢 We are brainstorming innovative advertising opportunities to boost your brand presence. 📈💪 Stay tuned for upcoming updates! 📢✨ #Web4Partners #AdvertisingOpportunities #BrandBoost
+
 ### 26.12.2023 (announcement - Web4)
 -🌐🚀📊 Exciting news! We're working hard on Linkspreed's Web4 concept pitch deck, aiming to give you a captivating glimpse of Web4 in just under 60 seconds. 🤩💡 Stay tuned for more updates! Who's ready to dive into the future of the web? 🌐🔮 #Web4 #PitchDeck #FutureTech
 
