@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.12.2023 (announcement)
+- 📢 Hey everyone! 🌟 We've got some exciting news to share! 😄 In 2024, we're aiming to establish our very own UG company, and we're already gearing up for it! 🎉 Are you as eager and thrilled as I am? Let us know in the comments below! 👇✨ #NewVentureComingSoon #ExcitingTimesAhead
+
+### 28.12.2023 (announcement)
 - 🚀📢 Introducing our exciting plans for the future! We've been brainstorming and designing our wild, possibly new product collection for 2024. Can you guess what it might be? 🤔🔧 #ProductDesign #2024Collection #HardwareTeaser
 
 ### 28.12.2023 (announcement - Web4)
