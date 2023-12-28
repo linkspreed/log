@@ -3,6 +3,15 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 28.12.2023 (announcement)
+- 🌐 Exciting news! 📣 We've successfully set up one of our first Web4 nodes! 🎉🙌 This means we'll be able to showcase it to our amazing community in January. 😍 Stay tuned for more updates! 💪✨ #Web4 #CommunityShowcase #ComingSoon
+
+### 28.12.2023 (announcement Linkspreed Blog)
+- 📢 Exciting update, folks! Our team has been working tirelessly on our blog for Linkspreed. 🖥️ While the platform is still under development, we couldn't wait to share our progress with you! 🚀 Stay tuned for more updates and be part of the journey. 💪 #BlogDevelopment #ComingSoon #Linkspreed
+
+### 28.12.2023 (announcement Linkspreed Community)
+- 📢 Exciting update! We've been hard at work on community.linkspreed.com, building an incredible platform for you! 🚀 While it's still in development, we can't wait to share the awesomeness with you soon! 💪 Stay tuned for more updates! #ComingSoon #CommunityBuilding
+
+### 28.12.2023 (announcement)
 - 📢 Hey everyone! 🌟 We've got some exciting news to share! 😄 In 2024, we're aiming to establish our very own UG company, and we're already gearing up for it! 🎉 Are you as eager and thrilled as I am? Let us know in the comments below! 👇✨ #NewVentureComingSoon #ExcitingTimesAhead
 
 ### 28.12.2023 (announcement)
