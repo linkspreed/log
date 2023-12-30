@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.12.2023 (announcement)
+- 📢 Hey there! Exciting times ahead! 🚀 We're gearing up for some groundbreaking projects in 2024, and guess what's got us buzzing? 🤩 Drone technology! 🛰️ Ready to soar into the future with us? Drop your thoughts and ideas below! 👇✨ #Innovation2024 #DroneTechLovers
+
+### 30.12.2023 (announcement - Web4)
+- 🌐 Calling all Web4 partners! 📢 Exciting news: We're expanding our horizons and exploring multiple advertising networks to establish new partnerships. 🚀 If you happen to run a fantastic ad network or know one, drop us a tip! 💡 Let's revolutionize the digital advertising industry together! 🤝 #Web4 #AdNetworks #Partnerships #Innovation
+
 ### 30.12.2023 (announcement - Web4)
 - 📢 Attention all Web4 partners! 🎉🌐 Exciting news! 🚀📲 We are thrilled to announce that the new version v4.3.3 is here! 🎁🔥✨ Upgrade your experience with enhanced features and improved performance. 💪🚀 Share your thoughts and feedback with us using #Web4v4.3.3 🗣️📝 Let's make the web even better together! 💙🌐 #Web4Update #EnhancedExperience
 
