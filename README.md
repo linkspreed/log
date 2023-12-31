@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 31.12.2023 (announcement L2B)
+### 31.12.2023 (announcement L2B Classic)
+- 📢 Exciting news to wrap up the year! 🎉 Introducing a brand-new accounting plugin for our beloved L2B Classic customers! 📚💼 Have any burning questions? Our support team is here to help! 💪🔧 #AccountingMadeEasy #L2BClassic #SupportTeamIsReady
+
+### 31.12.2023 (announcement L2B Classic)
 - 🔍 We're diving into a new project! 🚀 Currently exploring a basic accounting tool 📚✏️ for both Linkspeed PMCR and L2B Classic. 💼💰 Exciting stuff, right? 😃 Stay tuned for updates and feel free to share your thoughts or suggestions! 💡📢 #AccountingTool #ProjectUpdate #LinkspeedPMCR #L2BClassic
 
 ### 30.12.2023 (announcement)
