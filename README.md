@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.12.2023 (announcement Web4 Marketplace)
+- 🌐 Exciting news! 🚀 We're thrilled to unveil our latest project: the Linkspreed Online Shop! 🛒🌟 It's not just a marketplace, it's a hub where you can buy or sell social networks powered by Linkspreed! 🤝📲 Join the revolution in connecting people and ideas! 💡💪 #LinkspreedMarketplace #SocialNetworkRevolution
+
 ### 31.12.2023 (announcement L2B Classic)
 - 📢 Exciting news to wrap up the year! 🎉 Introducing a brand-new accounting plugin for our beloved L2B Classic customers! 📚💼 Have any burning questions? Our support team is here to help! 💪🔧 #AccountingMadeEasy #L2BClassic #SupportTeamIsReady
 
