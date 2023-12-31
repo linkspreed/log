@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.12.2023 (announcement L2B)
+- 🔍 We're diving into a new project! 🚀 Currently exploring a basic accounting tool 📚✏️ for both Linkspeed PMCR and L2B Classic. 💼💰 Exciting stuff, right? 😃 Stay tuned for updates and feel free to share your thoughts or suggestions! 💡📢 #AccountingTool #ProjectUpdate #LinkspeedPMCR #L2BClassic
+
 ### 30.12.2023 (announcement)
 - 📢 Hey there! Exciting times ahead! 🚀 We're gearing up for some groundbreaking projects in 2024, and guess what's got us buzzing? 🤩 Drone technology! 🛰️ Ready to soar into the future with us? Drop your thoughts and ideas below! 👇✨ #Innovation2024 #DroneTechLovers
 
