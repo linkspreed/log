@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.01.2024 (announcement Linkspreed vCard)
+- 📢🌐 Hey there! We're super excited to share that we're working on our digital business card service! 🤩✨ This handy tool will be available for everyone absolutely free at vcard.linkspreed.com! 📲💼 Stay tuned for updates and let us know what features you'd love to see! 💡💬 #DigitalBusinessCard #ComingSoon
+
 ### 31.12.2023 (announcement Web4 Marketplace)
 - 🌐 Exciting news! 🚀 We're thrilled to unveil our latest project: the Linkspreed Online Shop! 🛒🌟 It's not just a marketplace, it's a hub where you can buy or sell social networks powered by Linkspreed! 🤝📲 Join the revolution in connecting people and ideas! 💡💪 #LinkspreedMarketplace #SocialNetworkRevolution
 
