@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.01.2024 (announcement L2B Classic)
+- 📢 Hey there! Exciting update for our PMCR and L2B Classic customers! 🚀 We're currently working on the first beta version of our accounting plugin. 📚💼🔧 Stay tuned for more details and let us know your thoughts using #AccountingPluginBeta 📝💡🔍 We can't wait to hear your feedback! 🗣️👥 #BetaTesting #ComingSoon
+
 ### 01.01.2024 (announcement Linkspreed vCard)
 - 🎉📢 Hey there, social media fam! Exciting times ahead! 🥳🌟 Check out the FIRST version of Linkspreed vCard at vcard.linkspreed.com. 📲💼 It's a game-changer for professional networking! Connect, share, and make those valuable connections with ease. 🤝💼 Don't miss out on this incredible opportunity! 🚀🌐 #LinkspreedvCard #NetworkingMadeEasy
 
