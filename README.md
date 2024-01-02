@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.01.2024 (announcement Linkspreed Shop)
+- 🌐🛍️ We're diligently working on our project, the Linkspreed Shop, to make spreading social networks among people as easy as possible while ensuring internet safety. 💪🔒 Stay tuned for exciting updates! #LinkspreedShop #SocialNetworking #InternetSafety
+
 ### 02.01.2024 (announcement L2B Classic)
 -  📢 Exciting news! We're making some serious progress on our accounting plugin for L2B Classic and PMCR! 💼💪🔧 We understand the importance of having an in-house solution, which is why we're developing it ourselves. No more relying on external software rentals! 💻💡 Share your thoughts on this and let us know if you're as excited as we are! 😄✨ #AccountingPlugin #InHouseSolution #NoMoreRentals
 
