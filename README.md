@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.01.2024 (announcement L2B Classic)
+-  📢 Exciting news! We're making some serious progress on our accounting plugin for L2B Classic and PMCR! 💼💪🔧 We understand the importance of having an in-house solution, which is why we're developing it ourselves. No more relying on external software rentals! 💻💡 Share your thoughts on this and let us know if you're as excited as we are! 😄✨ #AccountingPlugin #InHouseSolution #NoMoreRentals
+
 ### 01.01.2024 (announcement L2B Classic)
 - 📢 Hey there! Exciting update for our PMCR and L2B Classic customers! 🚀 We're currently working on the first beta version of our accounting plugin. 📚💼🔧 Stay tuned for more details and let us know your thoughts using #AccountingPluginBeta 📝💡🔍 We can't wait to hear your feedback! 🗣️👥 #BetaTesting #ComingSoon
 
