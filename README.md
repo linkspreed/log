@@ -2,6 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.01.2024 (announcement Linkspreed Shop)
+- 📣👥 Calling all Linkspreed Team members with an @linkspreed.com email address! 🚀🛍️ Exciting news! 🎉🌟 You now have exclusive access to the very first development beta of the Linkspreed Shop! 💻🛒 Explore, test, and provide your valuable feedback to shape our future release! 🔄📝 #BetaTesting #LinkspreedShop #TeamCollaboration
+- https://github.com/linkspreed/log/assets/102324985/8ca90c0c-24f8-4de0-a553-e6b9c3bea71f
+
 ### 03.01.2024 (announcement Web4)
 - 🌐 Ready to step up your game in the digital world? Look no further! We're actively seeking Web4 partners to collaborate with. Don't worry if we haven't reached out to you yet, you can still join the squad! Drop us a DM if you're interested! 💪 #Web4Partners #DigitalOpportunity
 
