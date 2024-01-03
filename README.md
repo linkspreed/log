@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.01.2024 (announcement Web4)
+- 🌐 Ready to step up your game in the digital world? Look no further! We're actively seeking Web4 partners to collaborate with. Don't worry if we haven't reached out to you yet, you can still join the squad! Drop us a DM if you're interested! 💪 #Web4Partners #DigitalOpportunity
+
+### 03.01.2024 (announcement L2B Classic)
+- 📢 Hey there! 🌟 We've been hard at work on our accounting plugin for L2B Classic customers and PMCR. 💼 Making excellent progress! 💪 Stay tuned for exciting updates! 👩‍💼📈 #AccountingMadeEasy #L2BClassic #PMCR #ProgressInProgress
+
+### 03.01.2024 (announcement Linkspreed Shop)
+- 🚀 Hey there! We've been hard at work on our Linkspreed Shop for Web4 Social Networks. 💪🌐 Get ready to take your social media game to the next level! 📈🔥 Curious to know more? Drop us a comment below! ⬇️ #LinkspreedShop #Web4SocialNetworks #BoostYourOnlinePresence
+
+### 03.01.2024 (announcement)
+- 🚁 We took a deep dive into the fascinating world of drone technology today. Stay tuned as we uncover some mind-blowing discoveries! 🤯 #DroneTech #ExcitingTimesAhead
+
 ### 02.01.2024 (announcement Linkspreed Shop)
 - 🌐🛍️ We're diligently working on our project, the Linkspreed Shop, to make spreading social networks among people as easy as possible while ensuring internet safety. 💪🔒 Stay tuned for exciting updates! #LinkspreedShop #SocialNetworking #InternetSafety
 
