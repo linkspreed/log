@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.01.2024 (announcement Linkspreed Shop)
+- 🛍️ We're making progress on the Linkspreed Shop! Get ready for some exciting updates. 🚀 The Beta version is now available to all with a @linkspreed.com email address. 🎉 Stay tuned for more! #LinkspreedShop #BetaTesting #ExcitingUpdates
+
 ### 03.01.2024 (announcement Linkspreed Shop)
 - 📣👥 Calling all Linkspreed Team members with an @linkspreed.com email address! 🚀🛍️ Exciting news! 🎉🌟 You now have exclusive access to the very first development beta of the Linkspreed Shop! 💻🛒 Explore, test, and provide your valuable feedback to shape our future release! 🔄📝 #BetaTesting #LinkspreedShop #TeamCollaboration
 - https://github.com/linkspreed/log/assets/102324985/8ca90c0c-24f8-4de0-a553-e6b9c3bea71f
