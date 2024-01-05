@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.01.2024 (announcement L2B Classic)
+- 📢 Hey #L2BClassic and #PMCR users! 🎉 We're almost done with the accounting plugin! 📚 Get ready to level up your bookkeeping game! 🚀 Stay tuned and share your excitement with us! 💼💪 #AccountingMadeEasy #ComingSoon
+
+### 05.01.2024 (announcement)
+- 📢 Making progress in the pre-work for our UG foundation in 2024! 🚀 We need your help to decide where our address should be located. Which German city do you wish for? Drop your ideas below and let's brainstorm together! 🌍🏢 #UGFoundation2024 #GermanCityIdeas
+
 ### 04.01.2024 (announcement Linkspreed Shop)
 - 🛍️ We're making progress on the Linkspreed Shop! Get ready for some exciting updates. 🚀 The Beta version is now available to all with a @linkspreed.com email address. 🎉 Stay tuned for more! #LinkspreedShop #BetaTesting #ExcitingUpdates
 
