@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.01.2024 (announcement)
+- 🔍🌐 Searching for new partners to join the Web4 revolution! 🚀 If you're ready to elevate your digital game, let's connect and explore endless possibilities together. 💼🤝 Drop a comment or DM us to start the conversation! ✉️✨ #Web4 #Partnerships #DigitalTransformation
+
+### 07.01.2024 (announcement)
+- 📢 Hey everyone! 👋 We're super excited to share that we're working on some amazing new stuff, like our upcoming bookkeeping plugin for L2B Classic! 📚🖥️ Stay tuned for more updates on this game-changing feature! 💼💪 #ComingSoon #BookkeepingPlugin #L2BClassic #StayTuned
+
+### 06.01.2024 (announcement)
+- 📢 Calling all potential partners! 👥🌐 Join us in the exciting journey of Web4 as we expand our network. 🚀🌍 We're on the lookout for innovative collaborators to join forces with. 💪🤝 Interested? Let's connect and discuss the endless possibilities! 🌟🔎 #PartnershipOpportunity #Web4Growth #CollaborateWithUs
+
+### 06.01.2024 (announcement)
+- 🛍️🚀 Exciting news! We've been hard at work on the highly anticipated Linkspreed Shop and we can't wait to unveil it to all of you! 👀 Stay tuned for the grand launch! 💥 #LinkspreedShop #ComingSoon #OnlineShopping
+
+### 06.01.2024 (announcement)
+- 🚁💡 At Linkspreed, we're fascinated by drone technology! 🌐🤝 Join us from the beginning as we dive into this exciting new tech arena together. 🤩🔍 Let's explore the endless possibilities together! 💪🌍 #DroneTech #Innovation #Exploration #JoinUs
+
 ### 05.01.2024 (announcement L2B Classic)
 - 📢 Hey #L2BClassic and #PMCR users! 🎉 We're almost done with the accounting plugin! 📚 Get ready to level up your bookkeeping game! 🚀 Stay tuned and share your excitement with us! 💼💪 #AccountingMadeEasy #ComingSoon
 
