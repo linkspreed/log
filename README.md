@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.01.2024 (announcement L2B Classic)
+- 📚🔍 Hey #Bookkeepers! Curious to know which accounting tool you prefer? 🤔 We're thrilled to share that we're developing our very own using L2B Classic and PMCR! 💼💻💪 Help us shape the future of bookkeeping by joining the conversation below! ⬇️ #AccountingTools #Entrepreneurs
+
 ### 07.01.2024 (announcement)
 - 🔍🌐 Searching for new partners to join the Web4 revolution! 🚀 If you're ready to elevate your digital game, let's connect and explore endless possibilities together. 💼🤝 Drop a comment or DM us to start the conversation! ✉️✨ #Web4 #Partnerships #DigitalTransformation
 
