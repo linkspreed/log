@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.01.2024 (announcement Linkspreed Search)
+- Hey there, Linkspreed Search users! 👋 We recently tackled a minor bug reported by a few users today. 🐞 It caused some search results to go MIA in our image and web engines. 😱 But fear not! 🛡️ We swiftly resolved the issue, and now Linkspreed Search is back to delivering flawless results! 🎉🔍 #BugSquashed #SearchFix #HappySearching
+
 ### 08.01.2024 (announcement L2B Classic)
 - 📚🔍 Hey #Bookkeepers! Curious to know which accounting tool you prefer? 🤔 We're thrilled to share that we're developing our very own using L2B Classic and PMCR! 💼💻💪 Help us shape the future of bookkeeping by joining the conversation below! ⬇️ #AccountingTools #Entrepreneurs
 
