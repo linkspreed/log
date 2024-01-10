@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.01.2024 (announcement Linkspreed Community)
+- 🔗🌐 Exciting news! We've just completed the development of the Linkspreed Community at https://community.linkspreed.com. 🎉💻 Join us there and be a part of something amazing! Share your ideas, connect with like-minded individuals, and unlock endless possibilities! 🌟💬 #LinkspreedCommunity #ConnectAndThrive
+
+### 10.01.2024 (announcement Web4)
+- 🌐 Calling all web enthusiasts! 📢 We're on the hunt for passionate Web4 partners to join our exciting journey. Get ready, because starting from February, we'll be laser-focused on expanding our horizons! 🚀 Drop a comment below if you're eager to be a part of our growth! 💪 #Web4 #ExpansionOpportunity
+
+### 09.01.2024 (announcement Web4)
+- 🌐🤝 Calling all interested Web4 partners! We've been on the hunt and are finally gearing up for an expansion starting in February. 🚀 Stay tuned as we dive into exciting opportunities together. Let's connect and conquer! 💪✨ #Web4Partners #ExpandingSoon #JoinUs
+  
+### 09.01.2024 (announcement Project Skynet)
+- 🚁 Exploring the thrilling world of drone technology! 🌐🤩 At Linkspreed, we can't help but get excited about this innovative field. Have you ever tried flying a drone? Share your experiences below! 👇 #DroneTech #Innovation #Linkspreed
+
 ### 09.01.2024 (announcement Linkspreed Search)
 - Hey there, Linkspreed Search users! 👋 We recently tackled a minor bug reported by a few users today. 🐞 It caused some search results to go MIA in our image and web engines. 😱 But fear not! 🛡️ We swiftly resolved the issue, and now Linkspreed Search is back to delivering flawless results! 🎉🔍 #BugSquashed #SearchFix #HappySearching
 
