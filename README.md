@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 10.01.2024 (announcement Linkspreed Community)
+- 📢 Exciting news! 🎉📱 You can now easily register in the #Linkspreed community using your Google Account! 🤩🔗 Join us and connect with like-minded professionals in a breeze. 🌐💼 Click the link below to get started! 👇 #NetworkingMadeEasy
+
+### 10.01.2024 (announcement Linkspreed Community)
 - 🔗🌐 Exciting news! We've just completed the development of the Linkspreed Community at https://community.linkspreed.com. 🎉💻 Join us there and be a part of something amazing! Share your ideas, connect with like-minded individuals, and unlock endless possibilities! 🌟💬 #LinkspreedCommunity #ConnectAndThrive
 
 ### 10.01.2024 (announcement Web4)
