@@ -2,6 +2,27 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.01.2024 (announcement Web4)
+- 🔍🌐 Seeking customers for @Linkspreed's Web4! 🚀 We're busy crafting diverse models to cater to your every need. 🛠️💼 Join us on this exciting journey and let's revolutionize the web together! 💪🌍 #Web4 #Innovation #Linkspreed #JoinTheRevolution
+
+### 13.01.2024 (announcement)
+- 🤝📢 Calling all aspiring entrepreneurs! We're taking our next big step towards UG founding in 2024! 🚀 Join us on this exciting journey as we dive into the world of business. Any tips or experiences you'd like to share? Let's connect and make this dream a reality! 💼🌟 #Entrepreneurship #UGFounding #2024 #BusinessGoals
+
+### 13.01.2024 (announcement)
+- 📢 Hey everyone! Exciting news! 🎉💼 We're not just investing in a plugin, but also dedicating our time and energy to develop our very own balance sheet and accounting software! 📊💪 Join the conversation and let us know your thoughts 💭🤔 #SoftwareDevelopment #AccountingSolutions #JoinTheDiscussion
+
+### 12.01.2024 (announcement)
+- 📢 Hey there, Linkspeed community! 🌍🔗🚀 We've started searching for potential addresses to establish our headquarters, and guess what? Munich caught our attention! 🇩🇪🌆 What do you all think of the idea of having the future Linkspeed UG address in Munich? 🏢📍 Share your thoughts with us using #LinkspeedMunich! Let's connect and build something amazing together! 💪💼 #StartupLife #FuturePlans
+
+### 12.01.2024 (announcement)
+- 📢 Today, we hustled hard with customer acquisition, reaching out to our first OG Web4 partners! 🚀💼
+
+### 11.01.2024 (announcement Web4 & Intranets)
+- 📢 Exciting announcement! 🎉 We've decided to expand our horizons and dive into the world of #Intranets with Linkspreed and Web4. 🌐🚀 Our goal? Defining a unique Use Case for every company out there! 🏢💡 Join the conversation and let us know how this innovation can benefit your business! 💼🤝 #DigitalTransformation
+
+### 11.01.2024 (announcement Project: SkyNet)
+- 🚁🔬The Linkspreed Team is taking drone and unmanned aviation technology to new heights! 🌬️✈️ We're diving deeper into research because we're determined to conquer the skies. Join us on this exciting journey! 🚀✨ #Linkspreed #DroneTech #AviationInnovation
+
 ### 10.01.2024 (announcement Linkspreed Community)
 - 📢 Exciting news! 🎉📱 You can now easily register in the #Linkspreed community using your Google Account! 🤩🔗 Join us and connect with like-minded professionals in a breeze. 🌐💼 Click the link below to get started! 👇 #NetworkingMadeEasy
 
