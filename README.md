@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.01.2024 (announcement Linkspreed PMCR)
+- 📢🔧 Calling all businesses! Tired of expensive and unreliable ERP software? 😫💸 We've got you covered! 💪🌟 Introducing our very own ERP-focused software with advanced accounting features. 📊💼 Say goodbye to paying sky-high prices for subpar solutions dominating the market! 🙅‍♂️💻 #GameChanger #CuttingEdgeTech #SayNoToBadSoftware
+
+### 14.01.2024 (announcement Project: SkyNet)
+- 🚁 Our visions of drones are becoming clearer by the day! 🌟 Exciting times ahead as we strive to make our actions in this cutting-edge field more transparent with #Linkspreed. 🌐🔍 Share your thoughts and let's shape the future together! 🤝✨ #DroneTech #Transparency
+
+### 14.01.2024 (announcement)
+- 📣🏢 Hey folks! Big news! 🌟 We're on the hunt for more addresses for the Future Linkspreed UG! 🌐🔍 Looks like Linkspreed is most likely getting an address in Munich! 🌍🏙️ Do you have any suggestions? Let us know in the comments below! 💭👇 #AddressSearch #LinkspreedExpansion #MunichBound
+
 ### 13.01.2024 (announcement Web4)
 - 🔍🌐 Seeking customers for @Linkspreed's Web4! 🚀 We're busy crafting diverse models to cater to your every need. 🛠️💼 Join us on this exciting journey and let's revolutionize the web together! 💪🌍 #Web4 #Innovation #Linkspreed #JoinTheRevolution
 
