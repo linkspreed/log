@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.01.2024 (announcement Project SkyNet)
+- 🚀 Exciting news! We're making progress on our project Skynet. 🌐🤖 Join the revolution and be part of the future! 🌟 Share your thoughts and ideas using #SkynetProject. Let's shape the world together! 🌍💪 #AI #Innovation #FutureTech
+
+### 19.01.2024 (announcement Web4)
+- 📢 Today marks the very first day of our groundbreaking 1 Cent Strategy! 🚀💰 As a team, we're excited to dive deep into this innovative concept and brainstorm how to propel it forward. 🧠💡 Join the conversation and share your thoughts on how we can take this initiative to the next level! 💪🌟 #1CentStrategy #JoinTheConversation
+
+### 18.01.2024 (announcement Web4)
+- 📢🚀 Exciting news! Today, we're thrilled to unveil our latest strategic move in licensing Web4 to major clients! 🎉 Introducing the game-changing "1 Cent Model"! 💡 Stay tuned for detailed documentation and reports on this groundbreaking development. 📄🔍 #Web4Licensing #Innovation #GameChanger
+
 ### 17.01.2024 (announcement Linkspreed.com)
 - 📢 Exciting news! Starting next week, we'll liberate Linkspreed.com from bots! 🤖 We'll redirect it to public.linkspreed.com or a similar subdomain, creating a new network on linkspreed.com where bot-generated content of this nature won't be published. 🚫🤖 Join us in building a bot-free community! #NoBotsAllowed #LinkspreedRevamped
 
