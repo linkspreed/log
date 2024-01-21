@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.01.2024 (announcement Web4)
+- 📱🚀 Exciting news! We're currently working on our Web4 App Store, a mobile-friendly platform where you can easily install and access all the amazing apps developed by our Web4 partners! 🌐💪 Stay tuned for updates and get ready to explore a world of innovative possibilities! 🌟📲 #Web4AppStore #MobileExperience #Innovation #ComingSoon
+
+### 20.01.2024 (announcement Web4)
+- 🎉🌐 Hey Web4 Partners! Exciting news! We're thrilled to share that we are diligently working on our groundbreaking 1 Cent Model for you! 💼💪 Stay tuned for game-changing opportunities to maximize your web presence! Share your thoughts below! 👇 #Web4Partners #InnovationInProgress
+
 ### 19.01.2024 (announcement Web4)
 - 📢 We've just made an exciting update to our Web4 Business plan! 🎉📝 Chapter 4.1 has been revised and we've added a brand new section called Goals & Competition! 💼💪 Check out the latest version, now available for download on Linkspreed Documents. 💻📂 #BusinessPlan #Updates #GoalsAndCompetition
 
