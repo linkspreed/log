@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.01.2024 (announcement Web4)
+- 📢 Hey there! We've got an interesting proposal for you! What if we offer two distinct social network models? 🌐🔀 One with more benefits but slightly compromising integrity. What's your take on this? 🤔 Share your thoughts using #DualSocialNet and let's engage in a conversation! 🗣️💬 #SocialMediaDebate
+
+### 22.01.2024 (announcement Project SkyNet)
+- 🚁🧐 Hey drone enthusiasts! 🌍🌤️ We're diving deep into drone regulations and gearing up to enhance our drone piloting skills in the coming days. 📚✈️ Join us on this exciting journey as we explore the world of drone technology and regulations 🌐💪 Share your tips, tricks, and experiences using #DroneProSkills. Let's level up together! 🤩🔝 #DroneRegulations #TechEnthusiasts
+
+### 21.01.2024 (announcement Web4 App Store)
+- 📱🚀 Exciting news! We're currently working on an internal Web4 App Store for Android! 🎉 It's going to take a bit of time, but we're dedicated to bringing you the best experience possible. Stay tuned for updates! 😄🕒 #Android #AppStore #Web4 #ComingSoon
+
+### 21.01.2024 (announcement Web4)
+- 🌐 Let's put our thinking caps on and brainstorm how we can effectively promote Web4 on Linkspreed to ensure the success of the new Internet. 🚀 Got any brilliant ideas? Share them with us! 💡 #Web4 #Linkspreed #MarketingStrategy
+
+### 21.01.2024 (announcement Project SkyNet)
+- 🚁🤖 Exciting news! We're diving deeper into the world of drones as we continue planning our Skynet project for delivery drones! 📦📡 Join us on this incredible journey as we explore the fascinating realm of unmanned aerial vehicles. Share your thoughts, ideas, or any drone-related experiences you've had using #SkynetProject. Let's soar together! 🌟🔝 #Drones #Innovation #FutureTech
+
 ### 20.01.2024 (announcement Web4)
 - 📱🚀 Exciting news! We're currently working on our Web4 App Store, a mobile-friendly platform where you can easily install and access all the amazing apps developed by our Web4 partners! 🌐💪 Stay tuned for updates and get ready to explore a world of innovative possibilities! 🌟📲 #Web4AppStore #MobileExperience #Innovation #ComingSoon
 
