@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.01.2024 (announcement)
+- 📢 Big news! 🎉 We've made a decision to give a fresh makeover to our beloved website, Linkspreed.com, in the upcoming weeks. Stay tuned, folks! 😃✨ Rest assured, our top-notch service and brand identity will remain unchanged. #excitingupdates #websiteredesign
+
+### 23.01.2024 (announcement Web4)
+- 📢 Exciting news! 🚀 We're thrilled to share that we're taking Web4 to the next level by collaborating with top-notch consulting firms and companies offering services to other businesses. 🤝 Together, we'll pave the way for a remarkable expansion! Stay tuned as we approach these potential partners. 💼 #Web4Expansion #Partnerships #BusinessGrowth
+
 ### 22.01.2024 (announcement Web4)
 - 📢 Hey there! We've got an interesting proposal for you! What if we offer two distinct social network models? 🌐🔀 One with more benefits but slightly compromising integrity. What's your take on this? 🤔 Share your thoughts using #DualSocialNet and let's engage in a conversation! 🗣️💬 #SocialMediaDebate
 
