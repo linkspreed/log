@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.01.2024 (announcement Web4 Store)
+- 📢 Exciting update! 🚀 We've been working hard on the development of Linkspreed Web4 Shop, a revolutionary platform where you can sell your social networks! 🌐💰 Connect with potential buyers, monetize your online presence, and unlock new opportunities! 🤝💼 Discover more at #LinkspreedWeb4Shop and let's empower your social media game! 🌟💪 #SocialMediaSelling #DigitalOpportunities
+
+### 25.01.2024 (announcement Web4)
+- 🌐 We're constantly building partnerships for Web4, including collaborations with business consultants. Stay tuned for exciting updates! 💼🤝 #Web4 #Partnerships #ComingSoon
+
+### 25.01.2024 (announcement Project SkyNet)
+- 🌍🔬 Exploring the boundaries of possibility! 🌟 Join us as we tirelessly work on our project Skynet, pushing limits through legal regulations and envisioning what it takes to build beyond Europe. 🚀 Share your thoughts and ideas using #SkynetProject, we'd love to hear from you! 🗣️💡 #Innovation #GlobalResearch
+
+### 24.01.2024 (announcement Oxygen)
+- 🚀 Exciting news! We're thrilled to announce that we're diligently working on the latest version of our browser, Oxygen! 🌐✨ Upgrading to the newest Chromium version and fine-tuning it with even more customized features to enhance the Linkspreed branding. Stay tuned for an enhanced browsing experience! 👀🔥 #OxygenBrowser #UpgradeInProgress
+
 ### 23.01.2024 (announcement)
 - 📢 Big news! 🎉 We've made a decision to give a fresh makeover to our beloved website, Linkspreed.com, in the upcoming weeks. Stay tuned, folks! 😃✨ Rest assured, our top-notch service and brand identity will remain unchanged. #excitingupdates #websiteredesign
 
