@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.01.2024 (announcement)
+- 📢 Exciting news, friends! We're thrilled to share that Linkspreed is undergoing a fabulous makeover! 🎉✨ Our team is laser-focused on rebranding and enhancing our market presence. Stay tuned as we unveil our new look soon! 😍🌟 #Rebranding #ComingSoon #StayTuned
+
+### 26.01.2024 (announcement Linkspreed Air)
+- 🔥🚁 Hey there, fellow tech enthusiasts! 🌐✈️ We're super stoked to share that we're reaching out to some top-notch drone developers today! 🤝✉️ We'd love to chat about our groundbreaking project, #LinkspreedAir (aka Project SkyNet). 🌍🛰️ Let's revolutionize the future of aerial mobility together! 💡🚁 #InnovationAtItsBest #TechTalk
+
+### 26.01.2024 (announcement)
+- 📣 Calling all sales enthusiasts! 🙌 We're on a mission to build an unstoppable team, and that means assembling a powerhouse sales force. 💪 Join us as we take the world by storm! 🌍💼 #SalesTeam #JoinUs #OpportunityKnocks
+
 ### 25.01.2024 (announcement Web4 Store)
 - 📢 Exciting update! 🚀 We've been working hard on the development of Linkspreed Web4 Shop, a revolutionary platform where you can sell your social networks! 🌐💰 Connect with potential buyers, monetize your online presence, and unlock new opportunities! 🤝💼 Discover more at #LinkspreedWeb4Shop and let's empower your social media game! 🌟💪 #SocialMediaSelling #DigitalOpportunities
 
