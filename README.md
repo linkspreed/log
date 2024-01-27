@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.01.2024 (announcement)
+- 🚀 We're on a mission to redefine Linkspreed's portfolio and online presence! 🌐 What's in store for us? Stay tuned and keep your curiosity piqued. 😊 #NewBeginnings #ExcitingUpdates #StayTuned
+
+### 27.01.2024 (announcement Linkspreed Air)
+- 🚁🌤️🎉 Today, we had our first drone flight at Linkspreed Air! Our drone soared high into the sky, giving us an incredible experience. Share your thoughts and stay tuned for exciting updates! ✈️🌟 #DroneAdventures #ExcitingTimesAhead
+
 ### 26.01.2024 (announcement)
 - 📢 Exciting news, friends! We're thrilled to share that Linkspreed is undergoing a fabulous makeover! 🎉✨ Our team is laser-focused on rebranding and enhancing our market presence. Stay tuned as we unveil our new look soon! 😍🌟 #Rebranding #ComingSoon #StayTuned
 
