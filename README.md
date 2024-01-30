@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.01.2024 (announcement)
+- 📢 Calling all accounting wizards! 🧙‍♂️🧙‍♀️ We're on the hunt for a top-notch, open source self-hosted accounting solution at Linkspreed. Any recommendations that you can throw our way? 🤔 Let's pool our knowledge and make bookkeeping a breeze! 📚 #AccountingSolutions #OpenSource
+
+### 30.01.2024 (announcement linkspreed.com)
+- 📣 Today, we're thrilled to announce that we are making remarkable strides in restructuring #Linkspreed! 🚀✨ We value your input and want to hear from you! What improvements do you wish to see in our professional image? Share your thoughts and let's shape the future together! 💼 #CustomerFeedback #Innovation #TransformingLinkspreed
+
+### 29.01.2024 (announcement Web4)
+- 📢 Hey there! Today we've been busy expanding our network for Web4! 😎🌐 Exciting news – we're broadening our horizons and reaching out to not just businesses, but also parties and organizations! 🤝✨ If you're interested in joining forces, let's connect and explore the endless possibilities together. 💼🌍 #Web4Partners #CollaborationOpportunity
+
+### 29.01.2024 (announcement)
+- 📱🍎 Exciting news! 🎉 Thanks to Apple's new App Store guidelines, we're thrilled to announce the availability of iOS for Web4! 🌐💻 Let's Shape The Future together with this amazing update! Share your thoughts and ideas below. ⬇️ #iOS #webdevelopment #futuretech
+
+### 28.01.2024 (announcement)
+- 📢 Exciting news! 🎉 We've got some awesome updates coming your way! 🚀 Stay tuned to find out what amazing things we have in store for you. 🤩 Share your thoughts and ideas using #NewUpdates and let's make magic happen together! ✨💪 #StayTuned #InnovationIsKey
+
+### 28.01.2024 (announcement)
+- 📢 Exciting news! We've taken a leap forward in our UG's growth by developing advanced management software at Linkspreed today. 🚀🔝🖥️✨ As we embrace #OpenSource technology, we'd love to hear your thoughts and suggestions. Share your ideas below and help us shape the future! 💡🤝 #UGGründung
+
 ### 27.01.2024 (announcement)
 - 🚀 We're on a mission to redefine Linkspreed's portfolio and online presence! 🌐 What's in store for us? Stay tuned and keep your curiosity piqued. 😊 #NewBeginnings #ExcitingUpdates #StayTuned
 
