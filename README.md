@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 30.01.2024 (announcement)
+- Check out Linkspreed on Startup Insider! 📚💡 https://www.startup-insider.com/startup/linkspreed
+
+### 30.01.2024 (announcement)
 - 📢 Calling all accounting wizards! 🧙‍♂️🧙‍♀️ We're on the hunt for a top-notch, open source self-hosted accounting solution at Linkspreed. Any recommendations that you can throw our way? 🤔 Let's pool our knowledge and make bookkeeping a breeze! 📚 #AccountingSolutions #OpenSource
 
 ### 30.01.2024 (announcement linkspreed.com)
