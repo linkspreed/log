@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.01.2024 (announcement)
+- 🚀 Big news! We're making tremendous progress as we gear up for the UG launch of Linkspreed. 💪📈 Join us on this exciting journey as we bring innovation to the forefront. Share your thoughts and ideas using #LinkspreedUG and let's grow together! 🌱🤝 #startup #entrepreneurs
+
+### 31.01.2024 (announcement Web4)
+- 🚀 We are working diligently on demos and partnerships for Linkspreed. Are you ready to take your experience to the next level? 🌟 Share your thoughts and let's shape the future together! 💪🔗 #Linkspreed #Innovation #Partnerships #ExcitingTimes
+
+### 31.01.2024 (announcement)
+- 🚀 We've been busy bees at Linkspreed Company today, working hard on our brand new landing page! 📢 We can't wait to unveil it and share it with all of you, possibly as early as next week. Stay tuned for the big reveal! ✨💼 #LinkspreedUpdates #ExcitingTimesAhead
+
 ### 30.01.2024 (announcement)
 - Check out Linkspreed on Startup Insider! 📚💡 https://www.startup-insider.com/startup/linkspreed
 
