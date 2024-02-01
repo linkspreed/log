@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.02.2024 (announcement REBRAND)
+- 🌐🚀 Today, our team has been hard at work on restructuring Linkspreed to bring Web4 even more into the spotlight! 📈🌟 We're excited to enhance your online experience and take it to the next level. Share your thoughts and ideas with us below! 💡👇 #Web4 #Linkspreed #Innovation
+
+### 01.02.2024 (announcement)
+- 🔎🤝 Searching for new partners to team up with and building exciting demos! Who's ready to join us on this journey? 🚀💼 Drop a comment or DM us to explore collaboration opportunities. Let's create something amazing together! 🌟 #partnerships #collaboration #newopportunities
+
+### 01.02.2024 (announcement)
+- 📚💼 Exciting news, folks! We're currently diving into the world of accounting with the super fascinating software - Odoo! 🧮✨ Our team is thrilled about this discovery. Have you ever tried it out? Share your experience or any tips you have for us! 🔎📝 #Odoo #AccountingSoftware #BusinessSolutions
+
 ### 31.01.2024 (announcement)
 - 🚀 Big news! We're making tremendous progress as we gear up for the UG launch of Linkspreed. 💪📈 Join us on this exciting journey as we bring innovation to the forefront. Share your thoughts and ideas using #LinkspreedUG and let's grow together! 🌱🤝 #startup #entrepreneurs
 
