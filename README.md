@@ -2,6 +2,33 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.02.2024 (announcement)
+- 🌐 Exciting news! 📢 The restructuring process of linkspreed.com and linkspreed.club is finally complete! 🎉 We value your opinion, so we're eager to hear what you think about the outcome. 🤔 Share your thoughts with us! 💬 #RestructuringDone #FeedbackWelcome
+
+### 03.02.2024 (announcement)
+- 📣 Exciting update! 🌟 The restructuring process of linkspreed.com and linkspreed.club is now complete. 👏🎉 We're thrilled with the results. How do you feel about it? Share your thoughts! 😄🔗 #RestructuringDone #NewChapter #FeedbackWanted
+
+### 03.02.2024 (announcement)
+- 📢 Attention all! 🚨 Over the past 3 years, our system has been infiltrated by numerous .tk, .cf, and .ml domains. 😮 But fear not! Since early summer 2023, we've replaced them with subdomains. 🔄 Today, we bid them farewell, as we will no longer be supporting them. 🙅‍♀️🚫 #DomainCleanup #OutWithTheOld #HelloSubdomains
+
+### 02.02.2024 (announcement)
+- 📣 Exciting news for our valued customers and partners! Starting mid-February, we will be offering a new feature on Odoo. 🤩💼 Now, you can conveniently receive your invoice copy and make payments with just a simple QR code scan! 📲💳 Say goodbye to traditional payment hassles. Stay tuned for more updates! #ConvenientPayments #OdooInnovation
+
+### 02.02.2024 (announcement)
+- 📣 Exciting news! 🎉 Linkspreed is stepping up its game and now using Odoo for accounting. 💼💰 With this move, we aim to enhance our preparations for the upcoming UG foundation. 🔍💪 Join the conversation and share your thoughts below! 👇 #Linkspreed #Odoo #Accounting #UGGründung
+
+### 02.02.2024 (announcement)
+- 📣 Hey there! 🌟 Exciting news! 📢 Want to explore a social network platform before diving in? 🌐 Look no further! 🎉 Introducing our fully functional demo of a new social network 🤩🚀 Order now & get a taste of the future 📲🌍 Simply visit linkspreed.club and claim your FREE limited access 🆓⏳ #SocialMedia #Demo #Explore #Experience
+
+### 02.02.2024 (announcement)
+- 📢 Breaking News! 🚀 We've kicked off the Restructure Process! 🔄 Linkspreed is temporarily unavailable for a few hours as we migrate content from linkspreed.com to linkspreed.club. 🌐 Stay tuned for an enhanced browsing experience! 🤩 #RestructureInProgress #WebsiteMigration #ExcitingChangesComing
+
+### 02.02.2024 (announcement)
+- 🌐 Exciting news! Our social network is now available at linkspreed.club! 🎉📱 Join us to connect with friends, share stories, and discover amazing content. 🤩🌟 What are you waiting for? Sign up today and be part of our vibrant community! 💪🌍 #SocialNetwork #ConnectWithFriends #JoinUsNow
+
+### 02.02.2024 (announcement)
+- 📢 Have you checked out linkspreed.com yet? 🌐🤔 We've just launched our brand-new page where you can conveniently find information about social networks as a service. 📲💻 Explore our website and let us know what you think! 💭👇 #Linkspreed #SocialMedia #NewWebsite #ExploreNow
+
 ### 01.02.2024 (announcement REBRAND)
 - 🌐🚀 Today, our team has been hard at work on restructuring Linkspreed to bring Web4 even more into the spotlight! 📈🌟 We're excited to enhance your online experience and take it to the next level. Share your thoughts and ideas with us below! 💡👇 #Web4 #Linkspreed #Innovation
 
