@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.02.2024 (announcement Linkspreed Club)
+- 🚨 Oops! Our server at linkspreed.club had a little hiccup today and gave the Client an Error 500. 😱 But fear not! We've swiftly loaded a backup of the server configuration and everything is running smoothly now. 🙌🏼 Feel free to share your thoughts or ask any questions! #ServerIssuesSolved #BackInAction
+
 ### 04.02.2024 (announcement)
 - 🌐🚀 Working hard to ensure that Web4 is perfectly optimized for our partners! 💼🤝 We're currently ironing out some legal regulations to make this collaboration even more seamless. 💪📜 Stay tuned for more updates! #Web4 #partnership #optimization
 
