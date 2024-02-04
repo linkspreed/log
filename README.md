@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.02.2024 (announcement)
+- 🌐🚀 Working hard to ensure that Web4 is perfectly optimized for our partners! 💼🤝 We're currently ironing out some legal regulations to make this collaboration even more seamless. 💪📜 Stay tuned for more updates! #Web4 #partnership #optimization
+
+### 04.02.2024 (announcement)
+- 📢 Attention all customers! 📢 Exciting news: We're thrilled to announce that your invoices will soon be available through Odoo as well. 🎉 To ensure maximum security, we'll be implementing a backup system. 💼 Stay tuned for more updates! #Odoo #Invoicing #Security #ComingSoon
+
+### 04.02.2024 (announcement)
+- 📢 Exciting news, peeps! 🌟 We're thrilled to announce the launch of our second Status Page for the incredible Linkspreed.club Universe! 🚀🌍 Just like status.linkspreed.com, this new addition will keep you updated on all the latest happenings. 💡 Stay tuned for exciting updates! #LinkspreedUniverse #StayInformed
+
+### 04.02.2024 (announcement)
+- We're currently experimenting with potential new features for Linkspreed's Web4, aimed at bringing you even better experiences in future updates. 🚀✨
+
+### 04.02.2024 (announcement)
+- 🧹🌼 Spring is here and it's time to declutter and organize our beloved Linkspreed! 💻📚 Say goodbye to chaos and embrace a new era of order and structure. 🙌 Join us in this spring cleaning journey! Share your favorite organization tips using #LinkspreedSpringClean and let's make our digital world shine together! ✨📆 #OrganizationGoals #CleanUpTime
+
 ### 03.02.2024 (announcement)
 - 🌐 Exciting news! 📢 The restructuring process of linkspreed.com and linkspreed.club is finally complete! 🎉 We value your opinion, so we're eager to hear what you think about the outcome. 🤔 Share your thoughts with us! 💬 #RestructuringDone #FeedbackWelcome
 
