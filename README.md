@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.02.2024 (announcement Linkspreed Club Status)
+- 📢 Exciting news, folks! 🎉 The brand new Status Page for Linkspreed Club is now live and kicking! 🚀🔥 Head over to status.linkspreed.club to check it out right away. 👀🌐 Stay up-to-date with the latest updates and keep track of any potential hiccups with ease. 📈🔍 Let us know your thoughts and feedback in the comments below! 👇 #LinkspreedClub #StatusPage #StayInformed
+
 ### 04.02.2024 (announcement Linkspreed Club)
 - 🚨 Oops! Our server at linkspreed.club had a little hiccup today and gave the Client an Error 500. 😱 But fear not! We've swiftly loaded a backup of the server configuration and everything is running smoothly now. 🙌🏼 Feel free to share your thoughts or ask any questions! #ServerIssuesSolved #BackInAction
 
