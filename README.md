@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.02.2024 (announcement)
+📣 Hey there! We've made some exciting updates to our flexible yet dynamic pricing model! 💪🔥 Get ready to unlock amazing value with our latest adjustments. 🔄💸 Let's dive in and discover how this can benefit you! 🤩💼 #PricingPerfection #StayTuned #GameChanger
+
+### 05.02.2024 (announcement)
+🔍🌐 Hey there! 🤝 @Linkspreed is on the hunt for talented individuals to join our amazing team! 🚀💼 If you're passionate about technology and love working in a dynamic environment, we want YOU! 🌟👩‍💻👨‍💻 Drop a comment or DM to explore exciting opportunities at #Linkspreed. Let's shape the future together! 🌍🤝 #JoinOurTeam #TechJobs 🚀💼🔥
+
+### 05.02.2024 (announcement)
+📢🌐 Exciting day at Web4! We've had the pleasure of engaging with numerous fascinating organizations and businesses today, exploring potential partnerships! 🔍🤝 Interested to join forces with us? Drop a comment or DM us to learn more! Let's shape the future of the web together! 💼💪 #Innovation #Partnerships #Web4 #Collaboration
+
 ### 04.02.2024 (announcement Linkspreed Club Status)
 - 📢 Exciting news, folks! 🎉 The brand new Status Page for Linkspreed Club is now live and kicking! 🚀🔥 Head over to status.linkspreed.club to check it out right away. 👀🌐 Stay up-to-date with the latest updates and keep track of any potential hiccups with ease. 📈🔍 Let us know your thoughts and feedback in the comments below! 👇 #LinkspreedClub #StatusPage #StayInformed
 
