@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.02.2024 (announcement)
+- 🚀 Calling all developers! 🖥️👩‍💻 We've got a top-secret test environment for Web4 advancements! 🌐✨ If you're part of the Linkspreed Team, send us a access request to join the fun! 🙌🔒 Welcome to our exclusive Testlab! #Web4 #DeveloperCommunity #JoinTheFun
+
+### 06.02.2024 (announcement)
+- 📢 Calling all Web4 partners! 🤝 Exciting news! We're thrilled to announce that we've created a standardized contract just for you. 💼✨ Web4 is about to get regulated, and we're here to ensure a seamless experience. But wait, there's more! 😮 We're also building an incredible service at Linkspreed. Stay tuned for updates! 🚀💻 #Web4Partners #ContractRegulation #LinkspreedService
+
+### 06.02.2024 (announcement)
+- 🚀 We've been hard at work on Web4 today! 💪🌐 Exciting things are happening behind the scenes, and we can't wait to share them with you all! 😃 Stay tuned for updates and let us know what features you'd love to see in Web4! #WebDevelopment #StayTuned #ShareYourIdeas
+
 ### 05.02.2024 (announcement)
 📣 Hey there! We've made some exciting updates to our flexible yet dynamic pricing model! 💪🔥 Get ready to unlock amazing value with our latest adjustments. 🔄💸 Let's dive in and discover how this can benefit you! 🤩💼 #PricingPerfection #StayTuned #GameChanger
 
