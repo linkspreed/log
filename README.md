@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.02.2024 (announcement)
+- 📢 We're making serious progress with our preparations for the UG foundation! 💪✨ Our goal is to establish the Linkspreed UG before April. 🚀 Stay tuned for exciting updates! 📅🎉 #startuplife #entrepreneurship #newbeginnings
+
+### 07.02.2024 (announcement)
+- 📢 Hey there! We're thrilled to share that we're making great strides with our projects and have some exciting new updates in the pipeline! 🚀 Stay tuned for more information and feel free to drop any suggestions or questions below. Let's make magic happen together! 💪✨ #ProjectUpdates #InnovationInProgress
+
 ### 06.02.2024 (announcement)
 - 🚀 Calling all developers! 🖥️👩‍💻 We've got a top-secret test environment for Web4 advancements! 🌐✨ If you're part of the Linkspreed Team, send us a access request to join the fun! 🙌🔒 Welcome to our exclusive Testlab! #Web4 #DeveloperCommunity #JoinTheFun
 
