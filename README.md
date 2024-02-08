@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.02.2024 (announcement)
+- 📣 Exciting news! 🎉 We're expanding the Helpdesk at Linkspreed to better serve you! 🚀 Our dedicated team is here to provide top-notch support, answer all your questions, and help you make the most of our services. 💪🔧💼 Have any burning queries or need assistance? Just drop a comment below and let's get the conversation started! 🗣️💬 #CustomerSupport #HelpdeskHeroes #LinkspreedAssistance
+
+### 08.02.2024 (announcement)
+- 🔍 Did you know? We're stepping up our game at Linkspreed by enhancing our German language model! 🇩🇪🤩 We want to ensure that our users get the most accurate and reliable information in German. 📚🔝 Stay tuned for some exciting updates! 🌟✨ #LanguageModel #GermanImprovement #Linkspreed
+
+### 08.02.2024 (announcement)
+- 🚀 Looking for Web4 partners! 🙌 If you're interested in joining forces with us, don't hesitate to reach out. Let's collaborate and make magic happen! 💫 #Web4Partners #CollaborationOpportunity #JoinUsNow
+
+### 08.02.2024 (announcement)
+- 🔬🚀 Testing, testing...1, 2, 3! 🧪🔍 At Linkspreed, we leave no stone unturned! 👩‍🔬👨‍🔬 Our team works tirelessly to ensure all our features run seamlessly. 🌟 Share your thoughts or questions below, and let's keep the conversation going! 🗣️💬 #Testing #QualityAssurance #CustomerFeedback
+
+### 08.02.2024 (announcement)
+- 📢 Exciting news, everyone! 🌟 We've taken the first step towards connecting cities with our social networks today. 🏙️🌐 Let's bridge the gap together and bring communities closer! 😊💫 #CityConnectivity #SocialNetworking #BuildingCommunities
+
 ### 07.02.2024 (announcement)
 - 📢 We're making serious progress with our preparations for the UG foundation! 💪✨ Our goal is to establish the Linkspreed UG before April. 🚀 Stay tuned for exciting updates! 📅🎉 #startuplife #entrepreneurship #newbeginnings
 
