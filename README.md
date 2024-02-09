@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.02.2024 (announcement Linkspreed Help)
+- 🎉🎟️ Not only will we be answering your tickets at Linkspreed Help, but we're also diving into creating our very first FAQ articles! 📚🖊️ Have burning questions? Drop them below and let's get this interactive knowledge-sharing party started! 💡🤝✨ #LinkspreedHelp #FAQArticles #KnowledgeSharing
+
+### 09.02.2024 (announcement Linkspreed Help)
+- 💥🌪️ Say goodbye to those lengthy subdomains and say hello to our new and improved Helpdesk! 🆕🚀 From now on, you can find us at help.linkspreed.com, where all your support needs will be catered to seamlessly. 🙌🔧 Rest assured, this change won't affect any other aspect of our services. Same great experience, just a snazzier URL! 😉 
+
 ### 08.02.2024 (announcement)
 - 📣 Exciting news! 🎉 We're expanding the Helpdesk at Linkspreed to better serve you! 🚀 Our dedicated team is here to provide top-notch support, answer all your questions, and help you make the most of our services. 💪🔧💼 Have any burning queries or need assistance? Just drop a comment below and let's get the conversation started! 🗣️💬 #CustomerSupport #HelpdeskHeroes #LinkspreedAssistance
 
