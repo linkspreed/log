@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.02.2024 (announcement)
+- 📢 Hey there! Exciting update from #Linkspreed! 🚀🎉 Starting today, our system no longer supports .tk, .cf, .ml, .ga, and .gq domains. 🙅‍♀️ But fret not! We've got you covered with our new and improved subdomains system, introduced back in summer 2023! 🌟 #UpgradeYourExperience 🚀
+
 ### 09.02.2024 (announcement)
 - 📢 Hey there! 👋 We're thrilled to announce that we're working diligently on enhancing our FAQs section on our Help page! 📚🚀 We want to make sure all your burning questions get answered in a jiffy. 🤔💡 Have any specific topics you'd like us to cover? Drop your suggestions below! ⬇️📝 Stay tuned for the latest updates! #FAQs #HelpPage #Improvements
 
