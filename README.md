@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.02.2024 (announcement)
+- 📢 Hey there! 👋 We're thrilled to announce that we're working diligently on enhancing our FAQs section on our Help page! 📚🚀 We want to make sure all your burning questions get answered in a jiffy. 🤔💡 Have any specific topics you'd like us to cover? Drop your suggestions below! ⬇️📝 Stay tuned for the latest updates! #FAQs #HelpPage #Improvements
+
+### 09.02.2024 (announcement)
+- 🏋️‍♀️🌐 Ready to step up your fitness game? 🤔💪 Introducing the exciting collaboration between Fitnessstudios and Linkspreed's Web4! 🎉🤝 Join us as we revolutionize the fitness industry together. 🌟💥 Stay tuned for exclusive perks, challenges, and state-of-the-art training programs. 🚀🔥 #FitnessRevolution #Web4Partnership
+
 ### 09.02.2024 (announcement Linkspreed Help)
 - 🎉🎟️ Not only will we be answering your tickets at Linkspreed Help, but we're also diving into creating our very first FAQ articles! 📚🖊️ Have burning questions? Drop them below and let's get this interactive knowledge-sharing party started! 💡🤝✨ #LinkspreedHelp #FAQArticles #KnowledgeSharing
 
