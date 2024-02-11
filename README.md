@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.02.2024 (announcement Linkspreed Web4)
+- 📢 Hey everyone! 👋 We're currently exploring the potential of using Linkspreed Web4 as an intranet solution. 🚀 Have you ever tried it? Share your thoughts and experiences with us! 🤔✨ #IntranetSolutions #LinkspreedWeb4 #FeedbackWelcome
+
 ### 11.02.2024 (announcement)
 - 🌐🚀 Exciting news! We're currently exploring more Use Cases for our Web4 Partners in our cutting-edge 2X24-LX-LAB testing environment. 🧪🔬 How cool does that sound? It's super spacy! 😎✨ #Web4Partners #Innovation #TestingGrounds
 
