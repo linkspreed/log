@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.02.2024 (announcement)
+- 🌐🤝 Calling all interesting companies, businesses, and cities! 🏢💼 Web4 is on the lookout for partners. If you're interested in joining forces, just reach out! 📩🤝 Let's connect and explore exciting opportunities together. 🌍✨ #partnership #opportunity #collaboration
+
+### 11.02.2024 (announcement)
+- 📢 Hey there! 👋 Exciting news from the Linkspreed team! 🎉 We're currently working on the development phase of our brand-new online shop, exclusively for existing social networks! 🌐🛍️ Stay tuned for more updates on the progress! 😉 #LinkspreedShop #ComingSoon #SocialNetworks
+
+### 11.02.2024 (announcement)
+- 📢 Hey there! 🌟 We've recently expanded our SEO efforts and made some awesome updates to our Google Business Page! 🚀 Take a quick peek by simply searching for "Linkspreed" on Google. 👀🔍 We'd love to hear your thoughts! 💬✨ #SEOGuru #GoogleBusiness #CheckUsOut
+
+### 11.02.2024 (announcement)
+- 📢 Hey there! Looking for answers about Linkspreed? 🤔 We've got you covered! 🙌 Check out our daily FAQs on help.linkspreed.com to find all the info you need! 💡🔍 Don't hesitate to drop your questions below or use #LinkspreedFAQs! Our team is here to help! 👋✨ #CustomerSupport
+
+### 10.02.2024 (announcement)
+- 📢 Exciting news! 🎉 We have expanded our pricing model, making it even better for you! 💼✨ Stay tuned as we will soon be unveiling the final pricing model on our website. 💻🚀 #PricingUpdate #ComingSoon #StayTuned
+
 ### 10.02.2024 (announcement)
 - 📢 Hey there! Exciting update from #Linkspreed! 🚀🎉 Starting today, our system no longer supports .tk, .cf, .ml, .ga, and .gq domains. 🙅‍♀️ But fret not! We've got you covered with our new and improved subdomains system, introduced back in summer 2023! 🌟 #UpgradeYourExperience 🚀
 
