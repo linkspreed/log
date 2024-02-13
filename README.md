@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.02.2024 (announcement)
+- 🌐 Looking for amazing Web4 partners! 💼🤝 Want to join us? Let's collaborate and create something extraordinary together! 🚀💻 Drop a comment or DM if you're interested! #Web4 #PartnershipOpportunity #Collaboration #TechIndustry
+
+### 13.02.2024 (announcement)
+- 🌐📚 Hey everyone! We've just added more valuable resources to our brand new website linkspreed.com! 🚀🔗 Go ahead and check it out, we'd love to hear your thoughts! 😊 #NewWebsite #ValuableResources #FeedbackWelcome
+
+### 13.02.2024 (announcement)
+- 📢 Hey everyone! 🌟 We've been busy gathering feedback on our new pricing model for Web4, and we're thrilled to announce that the wait is almost over! 🎉 Stay tuned as we prepare to reveal the exciting new prices that will take your web experience to the next level! 💪 #Web4 #PricingUpdate #ComingSoon
+
 ### 12.02.2024 (announcement)
 - 📢 Hey there, folks! 🌟 Exciting news! 🎉 We've just expanded our FAQ section to better serve you! 📚🔍 Now you can find all the answers you need in one place! 🙌🤩 Check it out and let us know what you think! 💭💬 #FAQs #CustomerSupport #WeCare
 
