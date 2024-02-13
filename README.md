@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.02.2024 (announcement)
+- 📢 Hey there, folks! 🌟 Exciting news! 🎉 We've just expanded our FAQ section to better serve you! 📚🔍 Now you can find all the answers you need in one place! 🙌🤩 Check it out and let us know what you think! 💭💬 #FAQs #CustomerSupport #WeCare
+
+### 12.02.2024 (announcement)
+- 📣 Calling all influencers! 🌟 Exciting news alert! 🚀 We're brainstorming incredible collaboration opportunities to boost Web4's visibility. 🌐💡 Wanna join forces and make waves together? Drop a comment below, and let's create something epic! 👥🤝 #InfluencerMarketing #Web4 #CollaborationOpportunities
+
+### 12.02.2024 (announcement)
+- 📢 Hey everyone! 🌐 We're thrilled to announce that we've just registered a second brand at Linkspreed - "Web4"! 🎉 This is OUR brand, and we couldn't be more excited! 💪💼 #Linkspreed #Web4 #NewBrand #ExcitingTimes
+
+### 12.02.2024 (announcement)
+- 📢 Exciting news, everyone! 🎉 We're thrilled to announce that we've officially registered the wordmark "Linkspreed" today. 🖋️📚 With this registration, we are now a registered trademark. 🎉🎉 Let's celebrate this milestone together! 🎊🥳 #Linkspreed #Trademark #RegisteredTrademark
+
 ### 11.02.2024 (announcement Linkspreed Web4)
 - 📢 Hey everyone! 👋 We're currently exploring the potential of using Linkspreed Web4 as an intranet solution. 🚀 Have you ever tried it? Share your thoughts and experiences with us! 🤔✨ #IntranetSolutions #LinkspreedWeb4 #FeedbackWelcome
 
