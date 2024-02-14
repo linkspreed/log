@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.02.2024 (announcement)
+- 👋 Hey there! Exciting news! 🎉 We're expanding our team and we can't wait to introduce you to some amazing new members soon! 🤩 Stay tuned for updates and get ready to meet the talented individuals who are joining our professional family! 🙌 #TeamExpansion #ExcitingTimesAhead
+
+### 14.02.2024 (announcement)
+- 🔍🌐 Seeking new partners today to revolutionize the internet! 💼🤝 Join us in shaping the future together. Have any ideas or interested in collaborating? Let's connect! 🌟💻 #PartnershipOpportunity #InternetRevolution #CollaborateWithUs
+
 ### 13.02.2024 (announcement)
 - 🌐 Looking for amazing Web4 partners! 💼🤝 Want to join us? Let's collaborate and create something extraordinary together! 🚀💻 Drop a comment or DM if you're interested! #Web4 #PartnershipOpportunity #Collaboration #TechIndustry
 
