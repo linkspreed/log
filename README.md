@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.02.2024 (announcement)
+- 🔬🚀 Exciting news, friends! 🎉 We're currently working on a bunch of amazing updates to enhance your experience with Linkspreed. 🌟 But to ensure top-notch quality, our dedicated team is conducting meticulous tests. 🧪🔍 Stay tuned for more info! 💪🔥 #QualityTesting #UpdatesInProgress #StayTuned
+
+### 15.02.2024 (announcement)
+- 📢 Join our expanding team at Linkspreed! 🚀🌟 We're looking for talented individuals to join us on this exciting journey. 🙌💼 Apply today and be a part of something great! #JoinLinkspreed #CareerOpportunities #ApplyNow
+
+### 15.02.2024 (announcement)
+- 🌐 We're constantly forging new partnerships to take Web4 to the next level! 💼 Join us and be part of the journey towards innovation and growth. 🚀 #Web4 #Partnerships #Innovation
+
 ### 14.02.2024 (announcement)
 - 👋 Hey there! Exciting news! 🎉 We're expanding our team and we can't wait to introduce you to some amazing new members soon! 🤩 Stay tuned for updates and get ready to meet the talented individuals who are joining our professional family! 🙌 #TeamExpansion #ExcitingTimesAhead
 
