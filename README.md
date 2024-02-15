@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.02.2024 (announcement L2B Classic)
+- 📢 Exciting news! 🎉 The next version of L2B Classic could be released by the end of February, if everything goes according to plan. 🚀 Stay tuned for the latest updates and improvements! 💪🔧 #L2BClassic #SoftwareUpdate #ComingSoon
+
 ### 15.02.2024 (announcement)
 - 🔬🚀 Exciting news, friends! 🎉 We're currently working on a bunch of amazing updates to enhance your experience with Linkspreed. 🌟 But to ensure top-notch quality, our dedicated team is conducting meticulous tests. 🧪🔍 Stay tuned for more info! 💪🔥 #QualityTesting #UpdatesInProgress #StayTuned
 
