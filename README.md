@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.02.2024 (announcement)
+- 🚀 Calling all marketing and community agencies! We are on the lookout for partners to collaborate with us on Web4. Let's build a successful future together! 💼💻 #partnership #marketing #community #Web4 #futuregoals
+
+### 17.02.2024 (announcement)
+- Exciting news! 🚀 At Linkspreed, we're taking our PMCR integration to the next level to provide even more transparency for our customers and partners. Stay tuned for updates on how this will benefit you! #Linkspreed #PMCR #transparency #startuplife 💻🔍
+
+### 17.02.2024 (announcement)
+- Exciting news! 🎉 Just received confirmation for our two new brands "Web4" and "Linkspreed" 🚀 Can't wait to share more details soon! Stay tuned! #branding #newbeginnings #excitingtimes
+
+### 16.02.2024 (announcement)
+- 🌟 Exciting news! We are currently working on some amazing updates for our products to enhance your experience! 🚀 Stay tuned for more information and let us know what features you would love to see! #productupdates #innovation #feedbackwelcome 👩‍💻👨‍💻
+
+### 16.02.2024 (announcement)
+- 🚀 Exciting news! Starting today, we will be showcasing pilot projects on Linkspreed Web4 as our concept has proven successful 🎉 We are thrilled about this milestone and can't wait to share more with you all! #innovation #pilotprojects #success #LinkspreedWeb4
+
+### 16.02.2024 (announcement)
+- 🌐 Exciting news alert! We are currently working on new partnerships for Web4. Want to join us in this journey? Let us know your thoughts and ideas in the comments below! #Web4 #partnerships #collaboration 🚀🤝
+
 ### 15.02.2024 (announcement L2B Classic)
 - 📢 Exciting news! 🎉 The next version of L2B Classic could be released by the end of February, if everything goes according to plan. 🚀 Stay tuned for the latest updates and improvements! 💪🔧 #L2BClassic #SoftwareUpdate #ComingSoon
 
