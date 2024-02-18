@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.02.2024 (announcement Ads)
+- 🚀 Exciting news alert! 🚀 We're creating a landing page on ads.linkspreed.com to showcase detailed ways on how you can display ads on your Web4 instance. 💻 Stay tuned for more updates! #advertising #web4 #digitalmarketing
+
 ### 18.02.2024 (announcement Adseasy)
 - 🚀 Exciting news! We've decided to introduce a new advertising model on Linkspreed and retire Adseasy. This change was initiated during the PPD (Product Pipeline Day). Stay tuned for more updates! 💼 #Advertising #PPD #Linkspreed #Innovation 🌟
 
