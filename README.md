@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.02.2024 (announcement Adseasy)
+- 🚀 Exciting news! We've decided to introduce a new advertising model on Linkspreed and retire Adseasy. This change was initiated during the PPD (Product Pipeline Day). Stay tuned for more updates! 💼 #Advertising #PPD #Linkspreed #Innovation 🌟
+
 ### 18.02.2024 (announcement)
 - 🚀 Exciting updates coming your way! Our Product Pipeline is undergoing some major adjustments to bring you even better products and services. Stay tuned for all the latest updates! 💼🔧 #ProductPipeline #Innovation #StayTuned
 
