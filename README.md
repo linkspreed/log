@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.02.2024 (announcement)
+- 🚀 Exciting updates coming your way! Our Product Pipeline is undergoing some major adjustments to bring you even better products and services. Stay tuned for all the latest updates! 💼🔧 #ProductPipeline #Innovation #StayTuned
+
+### 18.02.2024 (announcement)
+- 🌍 Calling all international developers! We are expanding our team and looking for talented individuals to join us on this exciting journey. If you're passionate about technology and innovation, we want to hear from you! #JoinUs #TechJobs #InternationalDevelopers 🚀👩‍💻👨‍💻
+
+### 18.02.2024 (announcement)
+- 🚀 Today is Product Pipeline Day at Linkspreed! We're diving deep into our product pipeline, refining it, and making some strategic changes. This PPD will be recurring on weekends in the coming weeks until our product pipeline is top-notch again. 💪 #ProductPipeline #Linkspreed #Innovation
+
 ### 17.02.2024 (announcement)
 - 🚀 Calling all marketing and community agencies! We are on the lookout for partners to collaborate with us on Web4. Let's build a successful future together! 💼💻 #partnership #marketing #community #Web4 #futuregoals
 
