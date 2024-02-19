@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.02.2024 (announcement Ads)
+- 🚀 Exciting news alert 🚀 We're currently working on enhancing our Advertising Service for Web4 Partners and creating an announcement page. Stay tuned for updates and get ready to take your advertising game to the next level! 💼💻 #Web4 #Advertising #StayTuned
+
 ### 18.02.2024 (announcement Ads)
 - 🚀 Exciting news alert! 🚀 We're creating a landing page on ads.linkspreed.com to showcase detailed ways on how you can display ads on your Web4 instance. 💻 Stay tuned for more updates! #advertising #web4 #digitalmarketing
 
