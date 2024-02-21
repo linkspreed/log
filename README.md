@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.02.2024 (announcement)
+- 🛠️ Ever wondered what's brewing in our product pipeline? 🚀 We're constantly enhancing it! 💡 Plus, we're crafting informative pages to give you a better insight into our visions and strategic goals. 🌟 Excited to explore with us? #ProductPipeline #Visionaries #StrategyGoals 🔍
+
+### 21.02.2024 (announcement)
+- 🌐 Join us as we expand our partnerships and embark on the journey to build Web4 together! 🚀 Who's excited to shape the future of the internet? 💡 #Web4 #Partnerships #FutureTech 🌟
+
+### 21.02.2024 (announcement)
+- 🚀 Ready to level up our development game! 🛠️ We're expanding our dev team and doubling down on smart workflows with GitHub... but the best part? It's all FREE! 💸💻 Who's ready to revolutionize their coding journey with us? 🙌 #GitHub #DeveloperLife #Freebies
+
 ### 20.02.2024 (announcement)
 - 🚀 Curious about how we're revolutionizing political engagement? We're brainstorming ways to make #Linkspeed accessible to politicians! 💡 Join the conversation and share your thoughts! 🗣️ #Politics #Innovation
 
