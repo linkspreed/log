@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.02.2024 (announcement)
+- 🔍 Have you discovered the Linkspreed Organization on GitHub yet? 🤔 Check us out and explore our projects! 💻 Feel free to drop your GitHub handle below so we can connect! 🌐 #GitHub #OpenSource
+
+### 22.02.2024 (announcement)
+- 🚀 Today marks a milestone! 🌟 We've reached out to agencies for the first time ever! 💼 Excited to collaborate and expand our reach to serve more clients. 🤝 Know an agency we should connect with? Tag them below! #Collaboration #AgencyPartnership
+
+### 22.02.2024 (announcement)
+- 🌟 Calling all innovators! 🚀 Join us on our quest to build the next big thing on the web! 💻 Whether you're a developer, designer, or dreamer, we want YOU to be part of our journey! 💡 Drop us a DM if you're ready to create magic together! 🔥 #WebDevelopment #Partnership
+
 ### 21.02.2024 (announcement)
 - 🛠️ Ever wondered what's brewing in our product pipeline? 🚀 We're constantly enhancing it! 💡 Plus, we're crafting informative pages to give you a better insight into our visions and strategic goals. 🌟 Excited to explore with us? #ProductPipeline #Visionaries #StrategyGoals 🔍
 
