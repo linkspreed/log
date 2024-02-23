@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.02.2024 (announcement Guju)
+- 🚀 Simplifying our services is our mission! Today, we bid farewell to Guju, an old version of Linkspreed Search. 🕵️‍♂️✂️ Streamlining our pipeline means focusing on what matters most to you. Stay tuned for even more enhancements and upgrades! 💼💡 #StreamliningServices #FarewellGuju #UpgradeJourney 🛠️🔍 Have questions about our streamlined services? Let's chat! 💬👋
+
 ### 23.02.2024 (announcement)
 - 📘 Dive deep into our solution with our extensive documentation page! 💻🔍 While our configurations are user-friendly, we're committed to providing detailed resources for every aspect. From simple setups to advanced tweaks, we've got you covered! 🛠️✨ #Documentation #UserFriendly #KnowledgeBase 📚💡 Have questions? Our documentation team is here to help! 💬👩‍💻
 
