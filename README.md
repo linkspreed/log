@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.02.2024 (announcement)
+- 📘 Dive deep into our solution with our extensive documentation page! 💻🔍 While our configurations are user-friendly, we're committed to providing detailed resources for every aspect. From simple setups to advanced tweaks, we've got you covered! 🛠️✨ #Documentation #UserFriendly #KnowledgeBase 📚💡 Have questions? Our documentation team is here to help! 💬👩‍💻
+
+### 23.02.2024 (announcement)
+- We're cooking up something special at Linkspreed: a brand new blog system! 🖋️ Get ready for regular updates on all things Social Networks as a Service and beyond. Stay tuned for insightful posts and engaging content! 🌐✨ #BlogSystem #SocialMedia #StayTuned 📰🔍 Got topics you want us to cover? Drop your suggestions below! 👇
+
+### 23.02.2024 (announcement)
+- 📈 At Linkspreed, we're laser-focused on sales and entrepreneurial growth! 💼💪 Our sights are set on expansion and making big moves in the business world. Join us on this exciting journey! 🚀 #BusinessGrowth #SalesFocus #EntrepreneurialSpirit 💼✨ Ready to grow with us? Let's connect! 🌱📊
+
+### 23.02.2024 (announcement)
+- 🔒 Your data privacy matters to us at Linkspreed! We're proud to say we're fully compliant with all global data protection regulations. Your trust means everything. 💼✨ #DataPrivacy #Compliance #TrustUs 🛡️🔐 Got questions? Drop them below! 👇
+
 ### 22.02.2024 (announcement)
 - 🔍 Have you discovered the Linkspreed Organization on GitHub yet? 🤔 Check us out and explore our projects! 💻 Feel free to drop your GitHub handle below so we can connect! 🌐 #GitHub #OpenSource
 
