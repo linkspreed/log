@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.02.2024 (announcement Downflix)
+- 👋 Today, we bid farewell to downflix.linkspreed.com 🎬 Initially a test site, it never found its stride. 🚫 Taking steps to streamline our portfolio for a more focused approach. Thoughts or suggestions? Let us know! #Streamlining #FeedbackWelcome 📉✨
+
+### 24.02.2024 (announcement)
+- 🌟 Join our dynamic team at Linkspreed! 💼 We're on the lookout for talented individuals to join our ranks. 👥 Interested in being part of something awesome? Drop a comment or DM us to learn more! #JoinUs #CareerOpportunity #TeamWork 💪🏼🚀
+
+### 24.02.2024 (announcement)
+- 🚀 Ready to conquer new horizons! Today, we're diving into the world of sales at Bereiooch, exploring avenues for exciting partnerships. 💼 Got any suggestions or interested in teaming up? Drop your ideas below! #SalesStrategy #Partnerships #BusinessGrowth 🤝
+
 ### 23.02.2024 (announcement Guju)
 - 🚀 Simplifying our services is our mission! Today, we bid farewell to Guju, an old version of Linkspreed Search. 🕵️‍♂️✂️ Streamlining our pipeline means focusing on what matters most to you. Stay tuned for even more enhancements and upgrades! 💼💡 #StreamliningServices #FarewellGuju #UpgradeJourney 🛠️🔍 Have questions about our streamlined services? Let's chat! 💬👋
 
