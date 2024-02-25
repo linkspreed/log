@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.02.2024 (announcement Nither)
+- 🔍 We've made the decision to remove nither.linkspreed.com from our pipeline. 🚫 Streamlining our focus and development efforts. Have suggestions for other areas of improvement? Let us know! #Streamlining #FeedbackWelcome #ContinuousImprovement 💡
+
+### 25.02.2024 (announcement)
+- 🛠️ Building our team is a top priority for us, and we're dedicated to making it happen! 💪 Curious about joining us? Want to know more about our team culture? Drop a comment or DM us! #TeamBuilding #JoinUs #WorkWithUs 🌟
+
+### 25.02.2024 (announcement)
+- 🚀 Join us on our quest to expand Web4! 🌐 Today, we're scouting for potential partners who can join forces with us. 💼 Have suggestions or want to collaborate? Drop your ideas below! #Web4 #Partnerships #CollaborateTogether
+
 ### 24.02.2024 (announcement Downflix)
 - 👋 Today, we bid farewell to downflix.linkspreed.com 🎬 Initially a test site, it never found its stride. 🚫 Taking steps to streamline our portfolio for a more focused approach. Thoughts or suggestions? Let us know! #Streamlining #FeedbackWelcome 📉✨
 
