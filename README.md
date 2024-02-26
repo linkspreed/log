@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.02.2024 (announcement)
+- 🛠️ Prioritizing team development is paramount to us, and we're fully committed to achieving it! 💪 Interested in joining our ranks? Eager to learn about our team ethos? Feel free to leave a comment or send us a DM! #TeamBuilding #JoinUs #WorkWithUs 🌟
+
+### 26.02.2024 (announcement)
+- 🚀 Embark with us on our journey to advance Web4! 🌐 Presently, we're actively seeking prospective allies to unite with us. 💼 Do you have recommendations or seek collaboration? Share your ideas with us below! #Web4 #Partnerships #CollaborationOpportunities
+
 ### 25.02.2024 (announcement Nither)
 - 🔍 We've made the decision to remove nither.linkspreed.com from our pipeline. 🚫 Streamlining our focus and development efforts. Have suggestions for other areas of improvement? Let us know! #Streamlining #FeedbackWelcome #ContinuousImprovement 💡
 
