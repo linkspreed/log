@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.02.2024 (announcement)
+- 
+Tonight, we're back in Munich at Linkspreed! 🌃 Let's connect and exchange ideas! 💬 #MunichMeetup #Networking
+
+### 27.02.2024 (announcement)
+- 
+We actively engage with cities to connect citizens more closely through local networks! 🏙️🔗 How do you think local communities can benefit from stronger connections? #CommunityEngagement #LocalNetworks
+
+### 27.02.2024 (announcement)
+- In our team, we already have several developers from around the world! 🌍💻 #GlobalTeam #DiverseTalent
+
+### 27.02.2024 (announcement)
+- 
+🚀 Dive into the future of productivity with us at Linkspreed! 💼 Interns are harnessing the power of AI to turbocharge their focus and efficiency. 🤖💡 How do you leverage technology to enhance your work? #FutureOfWork #AI #ProductivityTips
+
 ### 26.02.2024 (announcement)
 - 🛠️ Prioritizing team development is paramount to us, and we're fully committed to achieving it! 💪 Interested in joining our ranks? Eager to learn about our team ethos? Feel free to leave a comment or send us a DM! #TeamBuilding #JoinUs #WorkWithUs 🌟
 
