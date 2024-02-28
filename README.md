@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.02.2024 (announcement)
+- Exploring potential collaboration with our first ever rating service provider! 🌟 Exciting times ahead! 💼 Who's ready to expand horizons with us? #Partnerships #Expansion #FutureReady
+
+### 28.02.2024 (announcement)
+- 🚀 Building new partnerships & forging fresh social networks! 💼 Excited to connect & collaborate. Who's with us? #Networking #Collaboration #Partnerships
+
 ### 27.02.2024 (announcement)
 - Tonight, we're back in Munich at Linkspreed! 🌃 Let's connect and exchange ideas! 💬 #MunichMeetup #Networking
 
