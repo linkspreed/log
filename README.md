@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.02.2024 (announcement)
+- 🚀 Dive into our product pipeline where creativity blooms! 🌱 We're bursting with fresh ideas. 💡 Got any suggestions to add? 🤔 Let's grow together! 🌟 #Innovation #ProductDevelopment #CreativeMinds #JoinTheConversation
+
+### 29.02.2024 (announcement)
+- 🌟 Our top priority today: securing new partners for Linkspreed! 💼 Are you interested in a solution from Linkspreed? 🤔 Let's chat! 💬 #Partnership #Innovation #Networking #GetInTouch
+
 ### 28.02.2024 (announcement)
 - Exploring potential collaboration with our first ever rating service provider! 🌟 Exciting times ahead! 💼 Who's ready to expand horizons with us? #Partnerships #Expansion #FutureReady
 
