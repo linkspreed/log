@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 01.03.2024 (announcement)
+- 🌟 Let's tidy up our digital space! 🧹 Say goodbye to ancient platforms on Linkspreed – those forgotten tools we've left untouched for 2+ years! Zero users, zero fuss. We're all about transparency, so here's the scoop! Thoughts? 💬 #DigitalCleanup #TransparencyWins #LinkspreedRevamp 🚀🔗
+
+### 01.03.2024 (announcement)
 - 🚀 Exciting news alert! 🚀 We're thrilled to announce that Linkspreed might be taking the leap to become a Munich-based startup as part of our UG formation journey! Stay tuned for more updates coming your way soon! 🌟 #StartupLife #MunichBound #UGFormation 🌱🏙️
 
 ### 01.03.2024 (announcement)
