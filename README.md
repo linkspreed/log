@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.03.2024 (announcement Linkspreed Shop)
+- 🚀 Exciting news, folks! 🌟 We've been hard at work on the Linkspreed Shop, and the progress is 🔥🔥 We're inching closer to our first release! 💪 Stay tuned for more updates and let us know your thoughts below! #Linkspreed #Ecommerce #DevelopmentJourney 🛒👨‍💻
+
 ### 02.03.2024 (announcement)
 - 🌟 Today's mission: Networking and finding partners! 🤝 Got any tips or want to collaborate? Drop your thoughts below! Let's expand our horizons together! 🌐 #Networking #Partnerships #Collaborate
 
