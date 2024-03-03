@@ -3,6 +3,9 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 03.03.2024 (announcement)
+- 🚀 Streamlining our product pipeline to sharpen our focus! It's tough parting ways with some solutions, but it's necessary for growth. Which products would you like to see stay? 🤔 Drop your thoughts below! #ProductStrategy #Streamlining #Feedback
+
+### 03.03.2024 (announcement)
 - 🔍 Struggling to find the right contacts for Linkspreed sales? Fear not! 🚀 We're powering through with Web4 to make it easier for YOU! 💼 Drop us a message if you're ready to dive in! #Sales #Web4 #Linkspreed
 
 ### 03.03.2024 (announcement Linkspreed Ads)
