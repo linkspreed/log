@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.03.2024 (announcement)
+- 🔍 Struggling to find the right contacts for Linkspreed sales? Fear not! 🚀 We're powering through with Web4 to make it easier for YOU! 💼 Drop us a message if you're ready to dive in! #Sales #Web4 #Linkspreed
+
+### 03.03.2024 (announcement Linkspreed Ads)
+- 🚀 Exciting news! We're crafting a one-stop info hub for YOU to explore advertising opportunities on your social networks! 💼💰 Because at Linkspreed, we're all about making YOUR social network journey profitable! 💪 #Advertising #SocialMedia #LinkspreedProfit
+
 ### 02.03.2024 (announcement Linkspreed Shop)
 - 🚀 Exciting news, folks! 🌟 We've been hard at work on the Linkspreed Shop, and the progress is 🔥🔥 We're inching closer to our first release! 💪 Stay tuned for more updates and let us know your thoughts below! #Linkspreed #Ecommerce #DevelopmentJourney 🛒👨‍💻
 
