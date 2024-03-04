@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.03.2024 (announcement)
+- ☎️ Ring, ring, ring! Today's mission: dialing up cities for Web4 partnerships, working together to shape the future of the new internet! 🌐 Any cities eager to join forces? Let's connect! 🚀 #Web4 #Partnerships #FutureTech
+
+### 04.03.2024 (announcement)
+- 🤔 Curious minds at work! Today, we dove into the details of setting up Linkspreed's actual UG in Munich. Any Munich-based entrepreneurs with tips or experiences to share? 🚀 #StartupJourney #Entrepreneurship #MunichStartups
+
 ### 03.03.2024 (announcement)
 - 🚀 Streamlining our product pipeline to sharpen our focus! It's tough parting ways with some solutions, but it's necessary for growth. Which products would you like to see stay? 🤔 Drop your thoughts below! #ProductStrategy #Streamlining #Feedback
 
