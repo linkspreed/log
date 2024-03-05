@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.03.2024 (announcement)
+- 🔨 Time to level up our platforms! 💻 We're on a mission to enhance user experience and add some spark to our features. 💥 What's one thing you'd love to see on our platform? Share your thoughts! #PlatformImprovement #UserExperience 🚀
+
+### 05.03.2024 (announcement)
+- 🚀 Let's boost the power of #Web4 together! We're diving deep into partnerships and ramping up efforts to spread the word about Linkspreed. 💡 Got any ideas to share? We're all ears! #Collaboration #Innovation
+
 ### 04.03.2024 (announcement)
 - ☎️ Ring, ring, ring! Today's mission: dialing up cities for Web4 partnerships, working together to shape the future of the new internet! 🌐 Any cities eager to join forces? Let's connect! 🚀 #Web4 #Partnerships #FutureTech
 
