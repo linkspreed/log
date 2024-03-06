@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.03.2024 (announcement)
+- 🌟🤖 At Linkspreed, we’re turbocharging productivity with cutting-edge AI! 🚀💼 How do you envision AI transforming your workday? Share your thoughts below! 👇 #AIatWork #EfficiencyBoost
+
+### 06.03.2024 (announcement)
+- Calling all city explorers! 🏙️ Let’s weave the digital fabric of Web4 across Germany’s vibrant streets. Which cities should be our next stop? 🗺️ Share your picks using #Web4Cities! 🚀🔗
+
 ### 05.03.2024 (announcement)
 - 🔨 Time to level up our platforms! 💻 We're on a mission to enhance user experience and add some spark to our features. 💥 What's one thing you'd love to see on our platform? Share your thoughts! #PlatformImprovement #UserExperience 🚀
 
