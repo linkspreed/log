@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.03.2024 (announcement)
+- 📱 We're not just cooking up updates, folks! 🌟 Those promised mobile apps? They're in the works too! 🚀 Excited to share the progress with you all. Stay tuned! 💫 #MobileApps #TechDevelopment #ExcitingUpdates
+
+### 07.03.2024 (announcement)
+- 🚀 Exciting news, fellow explorers! 🌟 We’re currently crafting ✨ stellar updates ✨ to enhance your experience. What do you think we’re cooking up? 🤔 Share your cosmic guesses using #GalacticUpgrades! 🌌🔍👇
+
+### 07.03.2024 (announcement)
+- 🌐 Today, we're diving into exploring potential Web4 collaborations with cities! 🏙️ Have any ideas or suggestions? We're all ears! Let's shape the future together! 🚀 #Web4 #SmartCities #Collaboration
+
 ### 06.03.2024 (announcement)
 - 🌟🤖 At Linkspreed, we’re turbocharging productivity with cutting-edge AI! 🚀💼 How do you envision AI transforming your workday? Share your thoughts below! 👇 #AIatWork #EfficiencyBoost
 
