@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.03.2024 (announcement)
+- 🔍 Let's dive into more social networks for potential Web4 products! 🚀 We're in the early stages and would love your input. 💡 What features would you like to see? #Web4 #SocialMedia #FutureTech 💬🔮
+ 
+### 08.03.2024 (announcement)
+- 🚀 Join us as we continue our mission to empower German cities, communities, and regions with their own social network! 🌐 Let's connect and explore together! 💬 #SocialNetwork #GermanCities #CommunityBuilding 🏙️
+
 ### 07.03.2024 (announcement)
 - 📱 We're not just cooking up updates, folks! 🌟 Those promised mobile apps? They're in the works too! 🚀 Excited to share the progress with you all. Stay tuned! 💫 #MobileApps #TechDevelopment #ExcitingUpdates
 
