@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.03.2024 (announcement)
+- 🔧 Our tech wizards are on fire! They’re crafting a power-packed native Android & iOS solution for the Web4 Network App. 📱🌐
+
+### 09.03.2024 (announcement)
+- 🔧🚀 Productivity Alert! 🚀🔧 Today, we’re diving deep into our product pipeline! 🛠️ What’s cooking? 🤔 Any guesses? 🤓 #InnovationJourney #ProductPipeline #TechMagic
+
 ### 08.03.2024 (announcement)
 - 🔍 Let's dive into more social networks for potential Web4 products! 🚀 We're in the early stages and would love your input. 💡 What features would you like to see? #Web4 #SocialMedia #FutureTech 💬🔮
  
