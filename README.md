@@ -3,6 +3,12 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 09.03.2024 (announcement)
+- 🔒 Big strides in security at linkspreed.com and linkspreed.club! 💻 Now both sites support HSTS for maximum safety. How do you prioritize security on your websites? Share your tips and tricks! #WebsiteSecurity #HSTS #CyberSafe 🚀
+
+### 09.03.2024 (announcement)
+- 🔒 Exciting update! We've just bolstered our internal Zero Trust security infrastructure! 💪 What steps have you taken to enhance your security posture? Share your strategies with us! #CyberSecurity #ZeroTrust #TechSecurity 🛡️
+
+### 09.03.2024 (announcement)
 - 🔧 Our tech wizards are on fire! They’re crafting a power-packed native Android & iOS solution for the Web4 Network App. 📱🌐
 
 ### 09.03.2024 (announcement)
