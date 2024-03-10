@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.03.2024 (announcement)
+- 🔧💡 Today, we’re rolling up our sleeves to refine our product pipeline. We’re streamlining, sorting, and focusing on quality. Got ideas to make it better? We’re all ears! 🚀 #ProductDevelopment #QualityFirst
+
+### 10.03.2024 (announcement)
+- 🌐💡 Imagine shaping the future of the internet with Linkspreed! We’re on the lookout for Web4 partners, agencies, and cities to join us on this exciting journey. Ready to make a difference? Drop us a line! 🚀 #Web4 #FutureInternet #Linkspreed
+
 ### 09.03.2024 (announcement)
 - 🔒 Big strides in security at linkspreed.com and linkspreed.club! 💻 Now both sites support HSTS for maximum safety. How do you prioritize security on your websites? Share your tips and tricks! #WebsiteSecurity #HSTS #CyberSafe 🚀
 
