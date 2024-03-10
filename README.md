@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.03.2024 (Web4)
+- 🚀 Journey with us into the future of the web! We’re crafting the landing page for #Web4 at web4.linkspreed.com 🌐. Can’t wait to share our vision with you! What features are you excited about? Drop your thoughts below! 💭 #WebFuture #TechTalk
+
 ### 10.03.2024 (announcement)
 - 🔧💡 Today, we’re rolling up our sleeves to refine our product pipeline. We’re streamlining, sorting, and focusing on quality. Got ideas to make it better? We’re all ears! 🚀 #ProductDevelopment #QualityFirst
 
