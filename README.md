@@ -2,7 +2,16 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 10.03.2024 (Web4)
+### 11.03.2024 (announcement Web4)
+- 🔍 Explored https://web4.linkspreed.com yet? 🌐 Dive into our vision and see how we’re shaping the future! 💡 Your thoughts matter to us. Share your insights! 🗣️ #Web4 #Vision #YourVoiceMatters
+
+### 11.03.2024 (announcement Web4)
+- 🌐 On a quest for awesome partners for Web4! 🚀 Are you ready to join us on this exciting journey? 🤝 Let’s shape the future of the web together! 💡 #Web4 #Partnership #JoinUs
+
+### 11.03.2024 (announcement)
+- 🌐 Expanding horizons! 🚀 We’re thinking of broadening our product portfolio for certain audiences. What social networks do you think we should venture into next? 🤔 Your opinion matters! 💬 #YourChoice #NewVentures
+
+### 10.03.2024 (announcement Web4)
 - 🚀 Journey with us into the future of the web! We’re crafting the landing page for #Web4 at web4.linkspreed.com 🌐. Can’t wait to share our vision with you! What features are you excited about? Drop your thoughts below! 💭 #WebFuture #TechTalk
 
 ### 10.03.2024 (announcement)
