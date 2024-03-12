@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.03.2024 (announcement Web4)
+- 🌐 Our Web4 info page on web4.linkspreed.com is now live and fully accessible! Dive in and explore our vision. 🚀 What’s your favorite feature? Let us know! 💬 #Web4 #DiscoverOurVision
+
+### 12.03.2024 (announcement)
+- 🚀 Skyrocketing to new heights! Our company and product pipeline are expanding. 🏗️💼 Join us on this journey! What’s the #1 feature you’d love to see in our products? Drop your ideas below! 💡👇 #Growth #Innovation #YourVoiceMatters
+
 ### 11.03.2024 (announcement Web4)
 - 🔍 Explored https://web4.linkspreed.com yet? 🌐 Dive into our vision and see how we’re shaping the future! 💡 Your thoughts matter to us. Share your insights! 🗣️ #Web4 #Vision #YourVoiceMatters
 
