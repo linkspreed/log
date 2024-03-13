@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.03.2024 (announcement)
+- 🌱 Growing our Linksporeed family! 🌟👥 Ready to dive into exciting projects? 🚀 Join us on this journey! 🌐🔗 Use #LinksporeedTeam to connect with fellow enthusiasts! 🙌👇
+
+### 13.03.2024 (announcement)
+- 🚀 Ready to level up your business? 🌐💼 Join us on the Web4 Partner Quest! 🤝🔍 Discover new opportunities, connect with like-minded folks, and unlock exclusive perks. 💡🔓 Use #Web4Partners to share your journey! 🙌👇
+
 ### 12.03.2024 (announcement Web4)
 - 🌐 Our Web4 info page on web4.linkspreed.com is now live and fully accessible! Dive in and explore our vision. 🚀 What’s your favorite feature? Let us know! 💬 #Web4 #DiscoverOurVision
 
