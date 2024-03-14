@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.03.2024 (announcement Web4)
+- Expanding horizons with Web4! 🌐 Not just cities, but businesses too are now in our purview. 🏢💼 What’s your take on this? Any business challenges you’d like us to address? Let’s interact! #Web4 #BusinessFocus
+
+### 14.03.2024 (announcement)
+- Today, our team is diving deep into the world of bookkeeping! 📚💼 We’re all about self-improvement and taking charge of business-critical tasks. How about you? What’s your #LearningOfTheDay? Share with us! 🚀 #SelfImprovement #BusinessSkills
+
 ### 13.03.2024 (announcement)
 - 🌱 Growing our Linksporeed family! 🌟👥 Ready to dive into exciting projects? 🚀 Join us on this journey! 🌐🔗 Use #LinksporeedTeam to connect with fellow enthusiasts! 🙌👇
 
