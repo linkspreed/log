@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.03.2024 (announcement)
+- 📍 Hello from Augsburg! The Linkspreed team is on a mission today, connecting as many coffee shops and bars as possible with Web4. ☕️🍻 Who should we visit next? Drop your suggestions below! #LinkspreedOnTour #Web4Connections 🚀
+
+### 16.03.2024 (announcement)
+- 🚀 We’re fueling up our project pipeline with new updates! 💡 Can’t wait to share them with you. What are you most excited about? #ProjectUpdate #StayTuned 🎉
+
 ### 15.03.2024 (announcement)
 - 🔍 Attention, business enthusiasts! 🚀 We’re laser-focused on growth 📈 and you are our secret ingredient! 🤝 Ready to join the winning team? 🌟 #BusinessGoals #NewOpportunities #JoinUsNow
 
