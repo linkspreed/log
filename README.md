@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.03.2024 (announcement [PPD])
+- 🛠️ It’s PPD day, which means we’re back on track with our product pipeline! 🚀 How do you think we can improve? Drop your thoughts below! 👇 #PPD #ProductPipeline #YourOpinionMatters
+
+### 17.03.2024 (announcement)
+- 🔧CronJob in the Linkspreed Club is now running smoothly in the demo! 🚀 No changes to site performance or interactions. 💻 Your experience matters to us! Share your thoughts below. 👇 #LinkspreedClub #CronJobFix #UserExperience
+
 ### 16.03.2024 (announcement)
 - 📍 Hello from Augsburg! The Linkspreed team is on a mission today, connecting as many coffee shops and bars as possible with Web4. ☕️🍻 Who should we visit next? Drop your suggestions below! #LinkspreedOnTour #Web4Connections 🚀
 
