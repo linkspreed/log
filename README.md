@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.03.2024 (announcement)
+- 🌐 Web4 is expanding and we’re on the lookout for new partners! 🚀 Are you ready to join us on this exciting journey? Drop a 🤝 if you’re in! #Web4 #JoinUs
+
 ### 17.03.2024 (announcement [PPD])
 - 🛠️ It’s PPD day, which means we’re back on track with our product pipeline! 🚀 How do you think we can improve? Drop your thoughts below! 👇 #PPD #ProductPipeline #YourOpinionMatters
 
