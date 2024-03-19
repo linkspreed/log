@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.03.2024 (announcement)
+- 🌟 Guess what? We’re secretly crafting some awesome platform solutions and alternative social networks! 🚀🔍
+
+### 19.03.2024 (announcement)
+- 📱 Guess what? We’re putting the finishing touches on the Android App for our Web4 platform! 🚀🔧
+
+### 19.03.2024 (announcement)
+- 🌐 Exciting news! We’re cooking up fresh partnerships for Web4! 🚀🤝 Soon, you might witness real-life success stories. 🌟🔗
+
 ### 18.03.2024 (announcement)
 - 🌐 Web4 is expanding and we’re on the lookout for new partners! 🚀 Are you ready to join us on this exciting journey? Drop a 🤝 if you’re in! #Web4 #JoinUs
 
