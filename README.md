@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.03.2024 (announcement Web4)
+- 🌐 Web4 isn’t just about Web 3.0! We’re already dreaming of the next evolution: Web 4.0. 🚀🔮 But here’s the twist: We want you to be part of it! 🙌🤔 What features would you love to see in Web 4.0? Share your wildest ideas below! #Web4Point0 #FutureTech #CollaborateWithUs
+
+### 20.03.2024 (announcement Drones)
+- 🚁 Drones, our high-flying companions, haven’t slipped our minds! 🤖🛸🔮 But what’s next? 🤔 We’re brewing up something special. Any guesses? 🕵️‍♂️ Drop your predictions below! 🙌 #DroneAdventures #TechTeasers #GuessTheNextMove
+
+### 20.03.2024 (announcement)
+- 🌐 Linkspreed isn’t just about Web4! We’re branching out to explore other exciting platform solutions and products. 🚀🔍 Curious? Let’s play a game! Guess which platforms we’re diving into next. Drop your guesses below! 👇 #Innovation #TechJourney #GuessTheNextStep
+
 ### 19.03.2024 (announcement)
 - 🌟 Guess what? We’re secretly crafting some awesome platform solutions and alternative social networks! 🚀🔍
 
