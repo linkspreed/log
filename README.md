@@ -11,6 +11,9 @@
 ### 21.03.2024 (announcement)
 - 🌟 Exciting news, folks! 🌟 The Linkspreed UG is almost ready to launch! 🚀 We're gearing up for the big reveal at the end of March/early April. Are you ready to join us on this journey? 🎉 #LinkspreedLaunch #StayTuned #StartupVibes 🚀🔗
 
+### 20.03.2024 (announcement)
+- 🚀 On the path to greatness with Linkspreed UG! 🎉 Corporate data sent to the notary on 20.03.2024. We’re on our way to establishing a corporation! 💼🌐 How do you envision the future of Linkspreed? Share your thoughts! #LinkspreedUG #OnTheRise
+
 ### 20.03.2024 (announcement Web4)
 - 🌐 Web4 isn’t just about Web 3.0! We’re already dreaming of the next evolution: Web 4.0. 🚀🔮 But here’s the twist: We want you to be part of it! 🙌🤔 What features would you love to see in Web 4.0? Share your wildest ideas below! #Web4Point0 #FutureTech #CollaborateWithUs
 
