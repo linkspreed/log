@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.03.2024 (announcement)
+- 🚀 Exciting news, folks! We're gearing up for some major changes! 🔄 Over the next few days, we'll be temporarily deactivating products on our subdomains to rebuild and promote essential platforms like Web4. 🌐 Stay tuned for the revamped Linkspreed experience! #RelaunchInProgress #StayConnected
+
 ### 21.03.2024 (announcement Web4)
 - 🌐🤝 Seeking partners for the Web4 project! 🚀 Interested in collaborating on the future of the web? Let's chat! 💬 #Web4Partners #CollaborateWithUs 🌐🚀
 
