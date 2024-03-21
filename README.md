@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.03.2024 (announcement Web4)
+- 🌐🤝 Seeking partners for the Web4 project! 🚀 Interested in collaborating on the future of the web? Let's chat! 💬 #Web4Partners #CollaborateWithUs 🌐🚀
+
+### 21.03.2024 (announcement SnaxNox)
+- 🤔💡 Brainstorming session alert! 🚀 We're diving deeper into the world of SnaxNox and drones! 🍕🚁 Got any wild ideas or suggestions? We're all ears! 👂💬 #SnaxNoxDrones #InnovationNation 🍕🚁
+
+### 21.03.2024 (announcement)
+- 🌟 Exciting news, folks! 🌟 The Linkspreed UG is almost ready to launch! 🚀 We're gearing up for the big reveal at the end of March/early April. Are you ready to join us on this journey? 🎉 #LinkspreedLaunch #StayTuned #StartupVibes 🚀🔗
+
 ### 20.03.2024 (announcement Web4)
 - 🌐 Web4 isn’t just about Web 3.0! We’re already dreaming of the next evolution: Web 4.0. 🚀🔮 But here’s the twist: We want you to be part of it! 🙌🤔 What features would you love to see in Web 4.0? Share your wildest ideas below! #Web4Point0 #FutureTech #CollaborateWithUs
 
