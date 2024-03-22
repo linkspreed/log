@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.03.2024 (announcement Web4)
+- 🌟 Ready to level up in Web4! 🌟 At Linkspreed, we're setting ambitious acquisition goals. Focus is key! 💪 What are your top priorities when it comes to web innovation? Share your thoughts! #Linkspreed #Web4 #InnovationFocus
+
+### 22.03.2024 (announcement)
+- 🚀 Exciting updates ahead! 🚀 We're kicking off DNS changes to block traffic on most Linkspreed platforms & tools. By end of 2024, expect explosive growth under the strong Linkspreed brand. Plus, we're focusing on Web4 & our SnaxNox drone project! 💻🛸 #Linkspreed #TechUpdates
+
 ### 22.03.2024 (announcement SnaxNox)
 - 🛸 Let's brainstorm together! We're cooking up ideas for our second major venture, SnaxNox for drones. 🚁 Got any wild concepts or suggestions? Share your thoughts below! #InnovationJourney #DroneTech #BrainstormSession 🚀
 
