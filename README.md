@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.03.2024 (announcement SnaxNox)
+- 🛸 Let's brainstorm together! We're cooking up ideas for our second major venture, SnaxNox for drones. 🚁 Got any wild concepts or suggestions? Share your thoughts below! #InnovationJourney #DroneTech #BrainstormSession 🚀
+
+### 22.03.2024 (announcement Web4)
+- 🌐 Calling all innovators! We're on the lookout for fresh Web4 partners to join our dynamic network. 💼 Ready to revolutionize the digital landscape with us? Tag potential partners below! #Web4Opportunity #JoinUs #DigitalInnovation 🚀
+
+### 22.03.2024 (announcement)
+- 🔍 Dive into our strategy! We're actively integrating the new product lineup from Linkspreed, gradually shaping it alongside our core offerings Web4 and SnaxNox. 💼 Excited to see what's in store? Share your thoughts! #InnovationJourney #FutureOfTech 🚀
+
+### 22.03.2024 (announcement)
+- 🚀 Exciting news! We're crafting our very own ad network for Linkspreed Web4 partners! No more reliance on big ad networks. 🎉 Who's excited to take control of their advertising game? 💪 #AdRevolution #Empowerment #Web4 #DigitalAdvertising
+
 ### 21.03.2024 (announcement)
 - 🚀 Exciting news, folks! We're gearing up for some major changes! 🔄 Over the next few days, we'll be temporarily deactivating products on our subdomains to rebuild and promote essential platforms like Web4. 🌐 Stay tuned for the revamped Linkspreed experience! #RelaunchInProgress #StayConnected
 
