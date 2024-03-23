@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.03.2024 (announcement Linkspreed Status)
+- 🚀 Exciting update! 🚀 We’ve revamped the Status Page under status.linkspreed.com for the all-new Linkspreed! 🎉 But wait, there’s more! 👀 Gradually, other platforms will emerge under a unified Linkspreed branding. 🌐✨ And guess what? They’ll serve a specific purpose—either for Web4 or SnaxNox! 🙌🔗 #LinkspreedMagic #Web4Wonder #SnaxNoxAdventures
+
 ### 23.03.2024 (announcement Web4)
 - 🚀 Join us in the journey of expanding Web4 and smashing our ambitious acquisition goals! 💼💥 Got any tips or ideas? Let's chat! #Web4Expansion #AcquisitionGoals 🌟
 
