@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.03.2024 (announcement Web4)
+- 🚀 Join us in the journey of expanding Web4 and smashing our ambitious acquisition goals! 💼💥 Got any tips or ideas? Let's chat! #Web4Expansion #AcquisitionGoals 🌟
+
+### 23.03.2024 (announcement SnaxNox)
+- 🛸 Dive into the world of SnaxNox, our drone project at Linkspreed! 🚁💼 Excited to hear your thoughts and suggestions! Share them below! #SnaxNox #DroneProject 🌟
+
+### 23.03.2024 (announcement [PPD])
+- 🔧 Let's build together! We're expanding our product pipeline with a focus on clear structure. 💼💡 Have ideas or feedback? Share them below! #ProductPipeline #InnovationJourney 🌟
+
+### 23.03.2024 (announcement Web4)
+- 💼 Dive into the brainstorming session with us as we craft new advertising avenues for our Web4 partners! 🚀💡 Share your thoughts and suggestions below! #Web4 #AdvertisingInnovation 🌟
+
+### 23.03.2024 (announcement)
+- 🚀 Join us as we dive into enhancing our social network for the drone community, powered by Web4! 💻✨ Excited to hear your thoughts and ideas! 🌟 #DroneCommunity #Web4 #InnovationInProgress
+
 ### 22.03.2024 (announcement Web4)
 - 🌟 Ready to level up in Web4! 🌟 At Linkspreed, we're setting ambitious acquisition goals. Focus is key! 💪 What are your top priorities when it comes to web innovation? Share your thoughts! #Linkspreed #Web4 #InnovationFocus
 
