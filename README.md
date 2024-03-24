@@ -2,6 +2,24 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.03.2024 (announcement)
+- 🎯 Big plans ahead! Starting next week, we're kicking off a major acquisition program and gearing up for it strategically. 🚀💼 What strategies do you think we should implement? Share your thoughts using #AcquisitionPrep! Let's strategize together! 💡 #BusinessGrowth #JoinTheDiscussion
+
+### 24.03.2024 (announcement SnaxNox)
+- 🚁 Exciting developments underway! We're in the final stages of building the drone community for our SnaxNox project in Web4. 🌐💬 What features would make this community soar? Share your ideas using #SnaxNoxDrones! Let's shape the future together! 🛸 #CommunityBuilding #FeedbackWelcome
+
+### 24.03.2024 (announcement)
+- 🔍 Dive into our latest project! Crafting a public presentation to showcase the new model of Linkspreed. 🖥️💡 What features would you love to see? Share your thoughts using #LinkspreedModel! Let's shape the future together! 🌐 #UserInput #InnovationInProgress
+
+### 24.03.2024 (announcement SnaxNox)
+- 📈 Stepping up our game! Currently fine-tuning a unified business plan for SnaxNox, aligning our vision and goals with Linkspreed. 🌟💼 Share your insights and ideas using #SnaxNoxStrategy! Let's shape the future together! 💡 #CollaborateWithUs #BusinessGoals
+
+### 24.03.2024 (announcement)
+- 🔧 Exciting updates in progress! Our product portfolio is undergoing full DNS adjustments for enhanced performance. 🔄 Over the next months, expect platforms revamped with either stronger ties to Web4 or SnaxNox. 🚀 Share your preferences using #Web4Updates! Let's shape the future together! 💬 #StayTuned #UserFeedback
+
+### 24.03.2024 (announcement Web4)
+- 🚀 Exciting developments underway! Today, we're diving deep into crafting a brand-new advertising avenue exclusively for our Web4 partners. 💼💻 Stay tuned for updates and share your thoughts using #Web4Ads! Ready to revolutionize web advertising? Let's chat! 🌐 #InnovationInProgress
+
 ### 23.03.2024 (announcement Linkspreed Status)
 - 🚀 Exciting update! 🚀 We’ve revamped the Status Page under status.linkspreed.com for the all-new Linkspreed! 🎉 But wait, there’s more! 👀 Gradually, other platforms will emerge under a unified Linkspreed branding. 🌐✨ And guess what? They’ll serve a specific purpose—either for Web4 or SnaxNox! 🙌🔗 #LinkspreedMagic #Web4Wonder #SnaxNoxAdventures
 
