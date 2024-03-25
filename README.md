@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.03.2024 (announcement Web4)
+- Diving deep into our drone community project on Web4! 🚁💻 Want to be part of the journey? Share your thoughts and ideas with us! #DroneCommunity #Web4 #Innovation #Collaborate 🌐💡
+
+### 25.03.2024 (announcement SnaxNox)
+- Ready to level up with SnaxNox! 🚀 Currently brainstorming ideas and planning the next phase of our project. 💡 Have any thoughts or suggestions? We'd love to hear from you! #WebDevelopment #Innovation #Brainstorm #SnaxNox #ShareYourIdeas 🌐💭
+
+### 25.03.2024 (announcement Web4)
+- 🚀 Ready to take our web game to the next level! 💻 Join us in our pursuit of excellence as we dive into the world of Web4. 🌐 Got any ideas or insights to share? Let's brainstorm together! #WebDevelopment #Innovation #Tech #Web4 #JoinTheConversation 🤝✨
+
 ### 24.03.2024 (announcement)
 - 🎯 Big plans ahead! Starting next week, we're kicking off a major acquisition program and gearing up for it strategically. 🚀💼 What strategies do you think we should implement? Share your thoughts using #AcquisitionPrep! Let's strategize together! 💡 #BusinessGrowth #JoinTheDiscussion
 
