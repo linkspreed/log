@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.03.2024 (announcement)
+- 📚 At Linkspreed, we're seizing the moment to level up in drone tech, IT, and Web4! 🚁💻 What skills do you think are crucial in these domains? Share your thoughts! 🌟 #TechJourney #ContinuousLearning #Linkspreed 🚀🔧
+
+### 26.03.2024 (announcement SnaxNox)
+- 🔍 Curious minds, listen up! 🚁 We're brainstorming a business blueprint for SnaxNox, our in-house drone venture at Linkspreed. 📝💼 Got any innovative ideas or suggestions? Share them below! 🌟 #SnaxNox #InnovationJourney #Linkspreed 🚀🍕
+
+### 26.03.2024 (announcement Web4)
+- 🌟 Hey there, Linkspree fam! 💼 We're hustling hard, making moves to enhance our Web4 presence. 💪 Let's keep the momentum going together! 🚀 #Web4 #Linkspree #FutureIsHere 🌐✨
+
 ### 25.03.2024 (announcement Web4)
 - Diving deep into our drone community project on Web4! 🚁💻 Want to be part of the journey? Share your thoughts and ideas with us! #DroneCommunity #Web4 #Innovation #Collaborate 🌐💡
 
