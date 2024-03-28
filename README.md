@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.03.2024 (announcement Web4)
+- 🌐 Seeking Web4 partners worldwide! 🤝 Ready to expand our services abroad. Where do YOU think we should go next? 🌍💼 #Web4Partners #GlobalExpansion #CollaborateWithUs
+
+### 28.03.2024 (announcement SnaxNox)
+- 🚀 Exciting updates in our drone segment! 🛸 We're thrilled to announce SnaxNox – stay tuned for more info coming your way soon! 🎉 Who's ready to dive into the world of innovative drone tech? 🤖✨ #SnaxNox #DroneTech #Innovation #StayTuned
+
 ### 27.03.2024 (announcement)
 - 🔒 Ensuring neutrality at every level! 🌐 We're finalizing licensing agreements at Linkspreed to safeguard Web4's integrity and prepare for our UG launch. 💼 Excited to be part of this journey? Drop a 🚀 below! #Web4 #Neutrality #StartupLife
 
