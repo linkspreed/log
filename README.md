@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.03.2024 (announcement SnaxNox)
+- SnaxNox is stepping up its game with a sleek new website just like Web4! 🖥️ Now, not only can users and partners from Linkspreed check out our innovative drone vision, but they can also engage with it firsthand! 🌐💡 #SnaxNox #Web4 #Innovations
+
 ### 28.03.2024 (announcement Web4)
 - 🌐 Seeking Web4 partners worldwide! 🤝 Ready to expand our services abroad. Where do YOU think we should go next? 🌍💼 #Web4Partners #GlobalExpansion #CollaborateWithUs
 
