@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.03.2024 (announcement SnaxNox)
+- 🚀 Join us on a journey into the heart of innovation as we delve deep into the world of SnaxNox! 🛸 Today, our team is laser-focused on fine-tuning every aspect of our groundbreaking drone project to ensure absolute perfection.💡 #SnaxNox #Innovation #Drones #BusinessPlan✨
+
 ### 29.03.2024 (announcement SnaxNox)
 - SnaxNox is stepping up its game with a sleek new website just like Web4! 🖥️ Now, not only can users and partners from Linkspreed check out our innovative drone vision, but they can also engage with it firsthand! 🌐💡 #SnaxNox #Web4 #Innovations
 
