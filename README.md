@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.03.2024 (announcement SnaxNox)
+- 🚀 Big plans ahead! By the end of next week, we're rolling out a landing page for SnaxNox! 🛸 Get ready to dive into our drone tech world. What features would you love to see on the landing page? Share your ideas! 💡 #SnaxNox #DroneTech #Innovation
+
+### 31.03.2024 (announcement)
+- 🐣 Happy Easter, everyone! 🐰 We're hard at work shaping the future with Web4 and SnaxNox at Linkspreed! 💻🚀 Join us as we innovate and create together. What's your vision for the future of tech? Share your thoughts using #Web4 #SnaxNox #Linkspreed 🌟🔮
+
 ### 30.03.2024 (announcement SnaxNox)
 - 🚀 Join us on a journey into the heart of innovation as we delve deep into the world of SnaxNox! 🛸 Today, our team is laser-focused on fine-tuning every aspect of our groundbreaking drone project to ensure absolute perfection.💡 #SnaxNox #Innovation #Drones #BusinessPlan✨
 
