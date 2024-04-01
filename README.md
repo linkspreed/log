@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.04.2024 (announcement Web4)
+- 🌐 Ready to revolutionize social networking? 💡 Join us as we pave the way for organizations to have their own platform with Web4! 💻 Share your thoughts and ideas with us – how can we shape the future of online communities together? #Web4 #SocialInnovation 🚀🤝
+
+### 01.04.2024 (announcement SnaxNox)
+- 🛸 Ready to take flight with SnaxNox? 🚁 Our drone project's info page is now live! Explore the future of aerial technology and see what's buzzing at https://snaxnox.linkspreed.com. Don't miss out! #SnaxNox #DroneTech #ExploreTheSkies 🚁✨🌐
+
 ### 31.03.2024 (announcement SnaxNox)
 - 🚀 Big plans ahead! By the end of next week, we're rolling out a landing page for SnaxNox! 🛸 Get ready to dive into our drone tech world. What features would you love to see on the landing page? Share your ideas! 💡 #SnaxNox #DroneTech #Innovation
 
