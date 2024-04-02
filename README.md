@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.04.2024 (announcement Linkspreed Blog)
+- Time to dive back into the Linkspreed Blog today! 📝💻 Exciting updates are on the horizon, but we want to hear from you too! What topics would you like to see covered? Share your suggestions below! #LinkspreedBlog #ContentCreation #UserFeedback 🌐✨
+
+### 02.04.2024 (announcement SnaxNox)
+- Exploring potential drone hubs today, starting with the picturesque city of Ingolstadt! 🌆🚁 Know any other great spots for drone operations? Share your suggestions below! #DroneHub #Ingolstadt #AerialViews 🌟🗺️
+
+### 02.04.2024 (announcement SnaxNox)
+- Exploring the endless possibilities of drone deliveries with SnaxNox today! 🚁💼 Got any innovative ideas on how businesses can leverage this tech? Let's brainstorm together! 💡 #DroneDelivery #Innovation #BusinessIdeas 📦✨
+
+### 02.04.2024 (announcement Web4)
+- Diving deeper into the world of alternative social networks for Linkspreed Web4 🌐💡 Let's explore streaming and other exciting features together! 💬 What's your vision for the future of social media? Share your thoughts! #Web4 #SocialInnovation #FutureOfSocialMedia 🚀
+
+### 02.04.2024 (announcement Web4)
+- Ready to dive into the exciting world of Web4 Partner Acquisition 🌐🚀 Let's build a fortress of secure social networks together! 💪 Who's ready to join forces? Drop your thoughts and ideas below! #Web4 #SecureNetworks #PartnerAcquisition
+
 ### 01.04.2024 (announcement Web4)
 - 🌐 Ready to revolutionize social networking? 💡 Join us as we pave the way for organizations to have their own platform with Web4! 💻 Share your thoughts and ideas with us – how can we shape the future of online communities together? #Web4 #SocialInnovation 🚀🤝
 
