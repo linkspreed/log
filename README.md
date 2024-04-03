@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.04.2024 (announcement SnaxNox)
+- 🤝 Seeking out new partners to join us in shaping the future of Web4! 🌐 Got any ideas or interested in collaboration? Let's connect and innovate together! 💡 #Web4 #Partnerships #Innovation
+
+### 03.04.2024 (announcement Web4)
+- 🔍 On the hunt for top-notch expertise for SnaxNox! 🕵️‍♂️ If you've got skills in snackology or know someone who does, drop us a line! 🍿💼 #SnaxNox #NowHiring #SnackExperts
+
+### 03.04.2024 (announcement Web4)
+- 🌐 Exploring new horizons in Web4! 🚀 We're diving into alternative social networks and loving every minute of it. Have you tried any unique platforms lately? Share your favorites with us! #Web4 #SocialMedia #TechExperiment
+
 ### 02.04.2024 (announcement Linkspreed Blog)
 - Time to dive back into the Linkspreed Blog today! 📝💻 Exciting updates are on the horizon, but we want to hear from you too! What topics would you like to see covered? Share your suggestions below! #LinkspreedBlog #ContentCreation #UserFeedback 🌐✨
 
