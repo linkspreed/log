@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.04.2024 (announcement SnaxNox)
+- 🚁 Dive into the future with us! 🌟 We're pushing the boundaries of drone tech for SnaxNox. 💡 Have ideas or expertise? Let's connect and innovate together! 🤝 #DroneTech #Innovation #Collaboration 🛸💬
+
+### 04.04.2024 (announcement Web4)
+- 🌍 Let's take the web to the next level together! 💻 Join us in shaping the future of Web4, not just in Germany, but worldwide. 🚀 What features would you love to see? Let's chat! #Web4 #FutureTech #GlobalInnovation 🌐💬
+
 ### 03.04.2024 (announcement SnaxNox)
 - 🤝 Seeking out new partners to join us in shaping the future of Web4! 🌐 Got any ideas or interested in collaboration? Let's connect and innovate together! 💡 #Web4 #Partnerships #Innovation
 
