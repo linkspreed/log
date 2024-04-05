@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.04.2024 (announcement Web4)
+- 🌍 Today's mission: We're on the hunt for more partners to join us in shaping the future of Web4! 🔍 Want to be a part of something big? Let's connect! 🤝 #Web4 #Partnership #GlobalOpportunities
+
+### 05.04.2024 (announcement Web4)
+- 🌐 Exciting update: At Web4, we're not just focused on one social network, but we're actively working on alternative social media solutions! 💡💬 Join the conversation and share your thoughts on what you'd like to see! #Web4 #SocialMedia #Innovation
+
+### 05.04.2024 (announcement)
+- 🚀 Today is a big day at Linkspreed because we're officially becoming a "Unternehmensgesellschaft" (UG) starting now! 🎉 This calls for a celebration! 🥳 #LinkspreedUG #Milestone #Celebration
+
 ### 04.04.2024 (announcement SnaxNox)
 - 🚁 Dive into the future with us! 🌟 We're pushing the boundaries of drone tech for SnaxNox. 💡 Have ideas or expertise? Let's connect and innovate together! 🤝 #DroneTech #Innovation #Collaboration 🛸💬
 
