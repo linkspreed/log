@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.04.2024 (announcement Web4)
+- 🎉 Let's innovate together! We're crafting a Web4 network demo for a platform where one provider per city can manage party clubs! 🌆🎶 Exciting, right? How do you envision this shaping nightlife in your city? Share your thoughts below! #Web4 #NightlifeInnovation #CommunityManagement
+
 ### 06.04.2024 (announcement SnaxNox)
 - 🛸 Ready to soar with us? We're delving deeper into drone tech with SnaxNox! 🚁💻 What futuristic features do you think we should explore? Share your thoughts below! Let's take flight together! #DroneTech #Innovation #FutureTech
 
