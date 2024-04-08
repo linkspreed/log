@@ -2,6 +2,13 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.04.2024 (announcement Web4)
+- 🌐 Exciting news! We're crafting an info hub on leveraging Web4 as an intranet solution. 💼💡 Stay tuned for insights and tips! Got any ideas to share? #Web4 #Intranet #TechInnovation
+
+### 08.04.2024 (announcement Linkspreed Search)
+- 🚀 Check out the sleek new design of Linkspreed Search, our very own search engine! 🔍💻 Explore it now and let us know what you think! #Linkspreed #SearchEngine #UserExperience
+- https://github.com/linkspreed/log/assets/102324985/2bdfe1f6-814c-4321-9100-7ec9e6120111
+
 ### 08.04.2024 (announcement)
 - 🌟 Curious minds, listen up! 🚀 We're cooking up some fresh projects at Linkspreed. 🌈 Whether it's clouds or AI, we've got innovation on the horizon! 💭 What's got you excited? Share your guesses or ideas below! #Linkspreed #InnovationJourney #FutureTech 🔮
 
