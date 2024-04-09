@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.04.2024 (announcement Web4)
+- 🌐 Dive into the world of Intranet solutions with Linkspreed! We're crafting an informative landing page dedicated to leveraging Web4 for your intranets. 💼 What key information do you think should be featured? Share your ideas using #LinkspreedIntranet! 🚀💻 #Web4 #InteractiveDesign
+
+### 09.04.2024 (announcement Linkspreed Search)
+- 🚀 Exciting news! We're revamping Linkspreed Search with a fresh new design tailored to match the Linkspreed vibe! 💫 What features would you love to see in the new design? Share your thoughts using #LinkspreedSearchUpgrade! 🎨🔍 #UserFeedback #DesignEvolution
+
 ### 08.04.2024 (announcement Web4)
 - 🌐 Exciting news! We're crafting an info hub on leveraging Web4 as an intranet solution. 💼💡 Stay tuned for insights and tips! Got any ideas to share? #Web4 #Intranet #TechInnovation
 
