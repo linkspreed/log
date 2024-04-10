@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.04.2024 (announcement Web4)
+- 🏟️ Dive into the world of sports with us! 🌟 We're constructing a demo platform tailored for sports clubs. ⚽️🏀 Excited to hear your thoughts and suggestions on how we can make it even better! 💡 #SportClubs #DemoPlatform #InteractiveDevelopment 🏆🔨
+
+### 10.04.2024 (announcement SnaxNox)
+- 🚁 Dive into the world of drones with us! 🌍 Excited to share updates on our ongoing project, SnaxNox! 🛠️ Have ideas or suggestions? Let's hear them! 💡 #SnaxNox #DroneProject #InnovationInProgress 🤖🔧
+
+### 10.04.2024 (announcement Web4)
+- 🚀 Exciting news coming soon! 🌐 Stay tuned as we unveil a platform where you can dive deeper into the world of Intranets and Web4. 💼 Got questions or ideas? Drop them below! Let's explore together! 🤔💡 #Intranets #Web4 #StayTuned
+
+### 10.04.2024 (announcement Web4)
+- 🌐 Let's dive into the fusion of Intranets and Web4! 💼 Curious about the possibilities for your company's Intranet with Web4? Join the conversation and share your thoughts! 🚀 #Web4 #Intranet #FutureOfWork 🤔💡
+
 ### 09.04.2024 (announcement Web4)
 - 🌐 Dive into the world of Intranet solutions with Linkspreed! We're crafting an informative landing page dedicated to leveraging Web4 for your intranets. 💼 What key information do you think should be featured? Share your ideas using #LinkspreedIntranet! 🚀💻 #Web4 #InteractiveDesign
 
