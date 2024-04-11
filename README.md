@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.04.2024 (announcement Web4)
+- 🏟️ Working on a demo to connect local members in sports clubs! 🤝 Exciting updates on the way. Any features you'd love to see? Let us know! #SportsClubs #Community #TechDemo 🏀🏈
+
+### 11.04.2024 (announcement SnaxNox)
+- 💡 Delving deeper into the world of drone tech with experts as we refine our SnaxNox concept! 🚀 Excited to share more soon! Any suggestions or ideas? Let's chat! #DroneTech #Innovation #SnaxNox #IdeasWelcome 🛸🍔
+
+### 11.04.2024 (announcement Web4)
+- 🌐 Looking to build your own Intranet? Look no further! We've got all the info you need right here: https://intranet.linkspreed.com 💡 Check it out and let us know what you think! #Intranet #WebDevelopment #Tech #Linkspreed
+
 ### 10.04.2024 (announcement Web4)
 - 🏟️ Dive into the world of sports with us! 🌟 We're constructing a demo platform tailored for sports clubs. ⚽️🏀 Excited to hear your thoughts and suggestions on how we can make it even better! 💡 #SportClubs #DemoPlatform #InteractiveDevelopment 🏆🔨
 
