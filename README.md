@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.04.2024 (announcement)
+- 🚀 Hey #Linkspeed fam! Guess what? We're leveling up our internal infrastructure to boost efficiency! 🛠️ Excited to hear your thoughts and suggestions on how we can rock this upgrade together! 💪 #TechUpgrade #EfficiencyBoost
+
 ### 12.04.2024 (announcement Web4)
 - 🔍 Today, we're laser-focused on exploring fresh avenues for Web4 partnerships! 💼💡 Got any ideas or suggestions? We're all ears! Let's brainstorm together and make magic happen! 🚀 #Web4 #Partnerships #Collaboration
 
