@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.04.2024 (announcement Web4)
+- 🔍 Today, we're laser-focused on exploring fresh avenues for Web4 partnerships! 💼💡 Got any ideas or suggestions? We're all ears! Let's brainstorm together and make magic happen! 🚀 #Web4 #Partnerships #Collaboration
+
+### 12.04.2024 (announcement Web4)
+- 🚀 Ready to unlock the power of Web4? Let's dive deep into the world of #Intranet solutions! 🌐💼 Together, we'll craft the perfect internal network tailored just for you. Join the conversation and let's build something incredible! 💡 #Web4 #Networking
+
 ### 11.04.2024 (announcement Web4)
 - 🏟️ Working on a demo to connect local members in sports clubs! 🤝 Exciting updates on the way. Any features you'd love to see? Let us know! #SportsClubs #Community #TechDemo 🏀🏈
 
