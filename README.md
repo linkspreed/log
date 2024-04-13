@@ -2,7 +2,10 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
-### 13.04.2024 (announcement
+### 13.04.2024 (announcement)
+- 🚀 Exciting news ahead! We're taking our top-notch support to the next level! 🌟 Get ready to chat with us live right on our website, thanks to Tawk.to! 💬 Drop us a message anytime, we're here to help! #CustomerSupport #LiveChat 🎉
+
+### 13.04.2024 (announcement)
 - 🔧 Making waves with our internal infrastructure at Linkspreed! 💡 We're tweaking processes for peak agility. How do you streamline workflows at your workplace? Share your tips! #Optimization #Agility #WorkflowEfficiency 🚀
 
 ### 12.04.2024 (announcement)
