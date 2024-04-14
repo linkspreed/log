@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.04.2024 (announcement)
+- 🚀 Upgrading our infrastructure at Linkspreed for speed and efficiency! 💨 Exciting times ahead! How do you think this will impact your experience? 🤔 Share your thoughts below! #LinkspreedUpgrade #FasterInfrastructure #UserExperience 🛠️🔝
+
+### 14.04.2024 (announcement)
+- 🔧 Building stronger support systems at Linkspreed! 💪 Have ideas on how we can enhance our support services? 💡 We'd love to hear from you! Share your thoughts and let's make support even better together! #LinkspreedSupport #CustomerExperience #Collaboration 🛠️
+
+### 14.04.2024 (announcement SnaxNox)
+- 🚀 Ever wondered about the future of drone deliveries? 📦 Join us at SnaxNox as we continue our research! 💡 What do you think the next big thing in drone tech will be? Share your thoughts! #DroneDelivery #TechResearch #SnaxNox
+
+### 14.04.2024 (announcement Web4)
+- 🌐 Exciting times ahead as we dive into the world of Web4! But wait, there's more – YOU can be a part of it too! Join us in shaping the Internet of Communities. 💻 Let's connect and explore together! #Web4 #InternetOfCommunities #JoinUs
+
 ### 13.04.2024 (announcement)
 - 🚀 Exciting news ahead! We're taking our top-notch support to the next level! 🌟 Get ready to chat with us live right on our website, thanks to Tawk.to! 💬 Drop us a message anytime, we're here to help! #CustomerSupport #LiveChat 🎉
 
