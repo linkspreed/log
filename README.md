@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 15.04.2024 (announcement Web4)
+- 🌐 Dive into our world as we explore the dynamic landscape of web4 with a focus on Intranet solutions! 💼 Curious about what our market demands? Join the conversation and share your insights using #Web4 #Intranet #MarketResearch 🚀 Let's collaborate for a smarter future!
+
 ### 14.04.2024 (announcement)
 - 🚀 Upgrading our infrastructure at Linkspreed for speed and efficiency! 💨 Exciting times ahead! How do you think this will impact your experience? 🤔 Share your thoughts below! #LinkspreedUpgrade #FasterInfrastructure #UserExperience 🛠️🔝
 
