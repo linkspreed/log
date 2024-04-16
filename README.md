@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.04.2024 (announcement Web4)
+- 🌟 Big plans ahead! We're constructing a Demo Center where all our demos will be showcased online! 🖥️ Curious to explore? Drop your suggestions on what demos you'd love to see or test! 🔍 #DemoCenter #Interactive #FutureTech
+
+### 16.04.2024 (announcement Web4)
+- 🚀 Exciting update! We're forging new partnerships to expand the realm of Web4! 💼 Want to join the revolution? Drop your ideas and suggestions below! Let's shape the future together! 🌐 #Web4 #Partnerships #FutureOfTech
+
 ### 15.04.2024 (announcement Web4)
 - 🌐 Dive into our world as we explore the dynamic landscape of web4 with a focus on Intranet solutions! 💼 Curious about what our market demands? Join the conversation and share your insights using #Web4 #Intranet #MarketResearch 🚀 Let's collaborate for a smarter future!
 
