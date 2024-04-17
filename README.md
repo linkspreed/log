@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.04.2024 (announcement SnaxNox)
+- 🔍 Curious minds, assemble! 🛠 We're still hard at work on SnaxNox, our passion project for foodies everywhere! 🍽️ What features would make YOUR snacking experience unforgettable? Share your cravings and ideas below! 👇 #SnaxNox #FoodTech #Innovation
+
+### 17.04.2024 (announcement Web4)
+- 🚀 Dive into the future with us! 🌐 We're crafting a cutting-edge Demo Center solution, bringing the wonders of Web4 right to your fingertips! 💻 Explore, experience, and imagine the possibilities! What kind of demos would YOU like to see? 🤔 #Web4 #DemoCenter #FutureTech
+
 ### 16.04.2024 (announcement Web4)
 - 🌟 Big plans ahead! We're constructing a Demo Center where all our demos will be showcased online! 🖥️ Curious to explore? Drop your suggestions on what demos you'd love to see or test! 🔍 #DemoCenter #Interactive #FutureTech
 
