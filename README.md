@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.04.2024 (announcement)
+- 🔍 Seeking seamless access to our wealth of knowledge? 📚 We're crafting a Knowledge Base to ensure you can tap into existing wisdom from anywhere on our websites! 💡 Excited? Share your thoughts on this initiative below! #KnowledgeBase #Accessibility #WebWisdom 🌐💭
+
+### 18.04.2024 (announcement Web4)
+- 🎉 Exciting news brewing! Our Web4 Demo Center is nearing completion 🌟 Currently in full swing, this center will bridge the gap between you and the wonders of Web4 🌐💻 Curious? Share your anticipation with us! #Web4 #DemoCenter #TechJourney 🚀🔍
+
+### 18.04.2024 (announcement Web4)
+- 🚀 Ever wondered what sets #Linkspreed apart in the world of AI? 🤔 Our latest focus is on a unique yet powerful USP that's taking the AI scene by storm! 💡 Can you guess what it is? Drop your thoughts below! #AI #Innovation 🤖✨
+
 ### 17.04.2024 (announcement SnaxNox)
 - 🔍 Curious minds, assemble! 🛠 We're still hard at work on SnaxNox, our passion project for foodies everywhere! 🍽️ What features would make YOUR snacking experience unforgettable? Share your cravings and ideas below! 👇 #SnaxNox #FoodTech #Innovation
 
