@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.04.2024 (announcement Web4)
+- 🌟 Calling all innovators! 🌐 Are you ready to join forces and shape the future of Web4 with us? 💼 Let's collaborate and create something amazing together! 🚀 Tag your potential partners or drop us a DM! #Web4Partners #TechCollaboration 💡
+
+### 19.04.2024 (announcement Web4)
+- 🎉 Exciting things are happening behind the scenes! 🛠️ We're hard at work on our Demo Center, where you can experience a range of live demos in Web4! 💻 Which demos are you most eager to try out? Let us know! #DemoCenter #Web4 #TechExperience 🚀
+
+### 19.04.2024 (announcement Web4)
+- 🚀 Dive into the future with us! 🌐 Ever wondered what makes Linkspreed Web4 stand out? 🤔 Our team is delving deep into our unique USP powered by AI! 💡 Join the conversation and share your thoughts! #AI #TechInnovation #LinkspreedWeb4
+
 ### 18.04.2024 (announcement)
 - 🔍 Seeking seamless access to our wealth of knowledge? 📚 We're crafting a Knowledge Base to ensure you can tap into existing wisdom from anywhere on our websites! 💡 Excited? Share your thoughts on this initiative below! #KnowledgeBase #Accessibility #WebWisdom 🌐💭
 
