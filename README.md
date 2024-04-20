@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.04.2024 (announcement Web4)
+- 🎉 Get ready to be wowed! Our Web4 Platform Demo Center is nearing completion and will be ready to blow your mind soon! 🚀 Stay tuned for the grand unveiling! Who's excited? #DemoCenter #Web4 #ComingSoon 🌟
+
+### 20.04.2024 (announcement SnaxNox)
+- 🚁 Dive into the excitement with us as we craft our very first delivery drone model! 📦✨ Stay tuned for updates and sneak peeks along the way. Who's ready for the future of delivery? #DroneTech #Innovation 🛸
+
+### 20.04.2024 (announcement)
+- 🔍 Explore our shiny new Knowledge Base at https://linkspreed.tawk.help/ 📚 It's your go-to hub for FAQs and helpful tips! Plus, catch it in every support chat on our site. Have you checked it out yet? #KnowledgeBase #CustomerSupport 💬
+
+### 20.04.2024 (announcement)
+- 🌐 Exciting news, folks! We're leveling up our website game! 🚀 Now, all our visitors get a tailored experience: German speakers land on the German site, while global pals enjoy the English version. Check it out! #MultilingualWebsite #UserExperience 🌍
+
 ### 19.04.2024 (announcement Web4)
 - 🌟 Calling all innovators! 🌐 Are you ready to join forces and shape the future of Web4 with us? 💼 Let's collaborate and create something amazing together! 🚀 Tag your potential partners or drop us a DM! #Web4Partners #TechCollaboration 💡
 
