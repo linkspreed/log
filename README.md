@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.04.2024 (announcement)
+- 🔧 Making strides with our Linkspreed infrastructure! 💼💻 Curious about the updates? 🤔💡 Drop your questions below and let's chat! #Linkspreed #Infrastructure #TechUpdates
+
+### 21.04.2024 (announcement)
+- 🎉 Exciting update! 🎉 Our web performance is now available in German for our German users! 🇩🇪🌐 Don't worry if you're not in Germany, it's still in English for you! 🌍💬 Drop a 🇩🇪 if you're loving this update! #WebPerformance #Localization #GermanUsers
+
 ### 20.04.2024 (announcement Web4)
 - 🎉 Get ready to be wowed! Our Web4 Platform Demo Center is nearing completion and will be ready to blow your mind soon! 🚀 Stay tuned for the grand unveiling! Who's excited? #DemoCenter #Web4 #ComingSoon 🌟
 
