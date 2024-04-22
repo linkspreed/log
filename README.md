@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.04.2024 (announcement Web4)
+- Ready to join the adventure? 🌟 We're diving deep into our revamped USPs and need YOUR input! 🚀 Tell us what you think - your feedback shapes our journey! 🌎💬 #FeedbackFriday #JoinTheConversation
+
+### 22.04.2024 (announcement Web4)
+- 🎉 Explore the world of #Linkspreed like never before! 🚀 Our Demo Center is now LIVE and ready for you to experience the future of communication! Dive in at linkspreed.com or hop straight to the action at demo.linkspreed.com. Let's revolutionize how we connect! 💬 #DemoCenter
+
 ### 21.04.2024 (announcement)
 - 🔧 Making strides with our Linkspreed infrastructure! 💼💻 Curious about the updates? 🤔💡 Drop your questions below and let's chat! #Linkspreed #Infrastructure #TechUpdates
 
