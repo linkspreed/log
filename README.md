@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.04.2024 (announcement)
+- 🌏 Let's bridge horizons! 🤝 Exciting times as we establish economic ties with China. 🇨🇳💼 Curious minds, what industries or opportunities do you see blooming in this partnership? Share your thoughts! 🌱💡 #ChinaConnections #GlobalBusiness 🌐
+
+### 23.04.2024 (announcement SnaxNox)
+- 🔍 Join our drone exploration journey! 🚁 Exciting research ongoing as we delve into drone development and explore potential collaborations in China. 🌏💡 Got any ideas or contacts to share? Let's brainstorm together! 🤝 #DroneInnovation #ChinaPartnerships 🇨🇳
+
+### 23.04.2024 (announcement Web4)
+- 🌟 Dive into our world of possibilities! 💬 Exciting discussions underway with potential Web4 partners. 🚀 Who do you think would make an epic collaborator in shaping the future of the internet? Share your thoughts! 🌐✨ #Web4Partners #FutureCollaboration 💡
+
+### 23.04.2024 (announcement Web4)
+- 🔮 Ready to glimpse into the future? 🚀 Exciting plans ahead as we envision Linkspreed integrating with Web4, revolutionizing the entire internet experience from smartphone hardware to community software! 💻✨ #FutureTech #Web4 #LinkspreedRevolution 🌐 Let's chat: What's your wildest prediction for the internet of tomorrow? 🤔
+
 ### 22.04.2024 (announcement Web4)
 - Ready to join the adventure? 🌟 We're diving deep into our revamped USPs and need YOUR input! 🚀 Tell us what you think - your feedback shapes our journey! 🌎💬 #FeedbackFriday #JoinTheConversation
 
