@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.04.2024 (announcement Web4)
+- 🔍 Dive into the heart of innovation with us at Linkspreed! 🚀 We're constantly pushing the boundaries of our unique AI USP. What do you think sets our AI apart? Share your thoughts! 🤔 #AIInnovation #Linkspreed #CuriousMinds
+
+### 24.04.2024 (announcement Web4)
+- 🎉 Exciting news ahead! 🎉 Get ready for at least three new demos dropping soon! We're hard at work on them today at Linkspreed. Which demos are you most excited to see? Let us know! 🔥 #NewDemos #Linkspreed #ExcitingTimes
+
 ### 23.04.2024 (announcement)
 - 🌏 Let's bridge horizons! 🤝 Exciting times as we establish economic ties with China. 🇨🇳💼 Curious minds, what industries or opportunities do you see blooming in this partnership? Share your thoughts! 🌱💡 #ChinaConnections #GlobalBusiness 🌐
 
