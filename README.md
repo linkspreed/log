@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.04.2024 (announcement Web4)
+- 🔍 Dive into the future of database AI! We're cooking up LI, our latest innovation for Web4 🚀 How do you think AI will revolutionize database management? Share your thoughts with us! #AI #DatabaseRevolution #Web4Innovation 🤖
+
+### 25.04.2024 (announcement Web4)
+- 🎉 Get ready to explore! We're gearing up to drop three more awesome demos on Web4 today 🌐💻 Which demos are you most excited to try out? Let us know in the comments below! #Web4 #DemoDay #InteractiveFun
+
+### 25.04.2024 (announcement SnaxNox)
+- 🚀 Exciting times ahead! We're diving deep into SnaxNox development 🛠️ and crafting our first demo project 🎮. But wait, there's more! We're in the planning phase and on the lookout for passionate individuals to join our powerhouse team 💪 Got what it takes? Let's chat! #SnaxNox #GameDev #JoinUs
+
 ### 24.04.2024 (announcement Web4)
 - 🔍 Dive into the heart of innovation with us at Linkspreed! 🚀 We're constantly pushing the boundaries of our unique AI USP. What do you think sets our AI apart? Share your thoughts! 🤔 #AIInnovation #Linkspreed #CuriousMinds
 
