@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.04.2024 (announcement)
+-👥 Join our journey to build a powerhouse team in AI, drone tech, and sales! 🚀 Interested in being part of the action? Tag someone who might be a perfect fit or drop us a message if you're up for the challenge! #TeamBuilding #AI #DroneTech #Sales 🌟👩‍💼🛸
+
+### 26.04.2024 (announcement Web4)
+- 🤖 Exciting times ahead as we fine-tune our AI USP at Linkspreed! 🚀 Stay tuned for updates coming your way soon. Have any burning questions or suggestions? Drop them below! #AI #Innovation #StayTuned 🌟🔍
+
+### 26.04.2024 (announcement SnaxNox)
+- 🛩️ Dive into the world of delivery drones with us today! 🌏✨ Drawing inspiration from innovative models in China and across Asia. Got any insights or suggestions? Share them below! #DeliveryDrones #Innovation #Inspiration 🚁
+
+### 26.04.2024 (announcement Web4)
+- 🚀 Ready to boost your community engagement? Discover our cutting-edge Web4 solution! 🌐💡 Let's chat about how we can elevate your online presence together. Drop your questions and ideas below! #CommunityEngagement #Web4 #Innovation
+
 ### 25.04.2024 (announcement Web4)
 - 🔍 Dive into the future of database AI! We're cooking up LI, our latest innovation for Web4 🚀 How do you think AI will revolutionize database management? Share your thoughts with us! #AI #DatabaseRevolution #Web4Innovation 🤖
 
