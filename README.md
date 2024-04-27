@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.04.2024 (announcement)
+- 🌏 Exploring China and Asia for potential future hardware production sites. 🛠️ What do YOU envision for Linkspreed's future products? Share your thoughts and let's shape tomorrow together! 💡 #Innovation #FutureThinking
+
+### 27.04.2024 (announcement Web4)
+- Today, we're diving into the search for potential partnerships. 🔍 Who do YOU think would be an ideal match for us to connect with at Web4? Drop your suggestions below! 🚀 #Partnership #Networking
+
+### 27.04.2024 (announcement LI)
+- 🚀 Exciting Update! 🚀 We're constantly enhancing our AI for #Linkspreed to supercharge our unique selling proposition! 🌟 What features would YOU love to see in our next upgrade? Comment below and let's innovate together! 💡 #AI #Innovation
+
+### 27.04.2024 (announcement)
+- 📈 Big news! 📈 Investor interest in Linkspreed is skyrocketing! 💼 We're exploring ways to fuel our growth with more capital, but one thing's for sure: we're keeping our Web4 shares close to heart. 💪 Your trust means everything to us! 💼💙 #Investment #Web4 #Transparency
+
 ### 26.04.2024 (announcement)
 -👥 Join our journey to build a powerhouse team in AI, drone tech, and sales! 🚀 Interested in being part of the action? Tag someone who might be a perfect fit or drop us a message if you're up for the challenge! #TeamBuilding #AI #DroneTech #Sales 🌟👩‍💼🛸
 
