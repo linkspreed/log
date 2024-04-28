@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 28.04.2024 (announcement Web4)
+- 🚀 We're on a mission to bring every type of community, including forums, to the Web4 universe 🌟 Let's make it happen together! 💪 Who's ready to join the revolution? 🌈 #Web4 #CommunityEmpowerment #JoinTheMovement 🚀
+
 ### 27.04.2024 (announcement)
 - 🌏 Exploring China and Asia for potential future hardware production sites. 🛠️ What do YOU envision for Linkspreed's future products? Share your thoughts and let's shape tomorrow together! 💡 #Innovation #FutureThinking
 
