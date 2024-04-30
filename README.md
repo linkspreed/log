@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 30.04.2024 (announcement SnaxNox)
+- 🔍 Delving deeper into drone tech for a special niche! 🚁 Exciting updates coming your way soon, stay tuned! Any guesses what it could be? Share your thoughts below! #DroneTech #InnovationTeaser
+
+### 30.04.2024 (announcement Web4)
+- 🌐 Engaging with diverse communities to shape the future of Web4! 💡 Exciting times as we strive to expand our version of the internet 🚀 Got ideas or insights? We're all ears! Drop your thoughts below! #Web4 #CommunityEngagement
+
+### 30.04.2024 (announcement)
+- 👥 Team expansion alert! We're growing our squad at Linkspreed 🌟 Exciting times ahead! Know someone perfect for the job? Tag them below or drop us a DM 📩 #TeamGrowth #JoinUs
+
+### 30.04.2024 (announcement)
+- 🚀 Exciting times ahead! We're diving deep into discussions with investors to expand Linkspreed's capabilities 📈 Got ideas on how we can level up? Drop them below! #InvestmentTalks #FutureGrowth
+
 ### 29.04.2024 (announcement SnaxNox)
 - 🛸 Plotting our course to the skies! Today, we're sketching out our maiden drone prototype for a special niche at SnaxNox 🍿 Have ideas or want to soar with us? Drop a comment below! #DroneInnovation #SnaxNoxAdventure #PrototypeJourney 🚁✨
 
