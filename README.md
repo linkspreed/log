@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.05.2024 (announcement)
+- 👩‍💻 Expanding our core team and developer network! 🌐 Want to join the squad or recommend someone awesome? Drop your suggestions below! Let's grow together! #TeamExpansion #DeveloperNetwork 🚀🌟
+
+### 01.05.2024 (announcement Web4)
+- 🌐 Ready to revolutionize the web? 💻 We're on the lookout for Web4 partners! 🚀 Tag a friend or drop a suggestion below! Let's shape the future together! #Web4 #PartnershipOpportunity 🤝🔍
+
+### 01.05.2024 (announcement SnaxNox)
+- 📦 Ever dreamt of getting letters delivered in style? 💌 We're making it happen with SnaxNox! 🚚 What snacks would you love to receive with your mail? Share your cravings! #SnaxNox #LetterDelivery #InnovationInProgress 📮🍬 Oh, and did we mention it's through drone delivery? 🚁✨
+
+### 01.05.2024 (announcement Web4)
+- 🚀 Exciting update, fam! 🌟 At Linkspreed, we're leveling up our AI game to enhance our unique selling proposition 🤖 Got ideas or thoughts? Hit us up! Let's brainstorm together! #AI #Innovation #TechTalk
+
 ### 30.04.2024 (announcement SnaxNox)
 - 🔍 Delving deeper into drone tech for a special niche! 🚁 Exciting updates coming your way soon, stay tuned! Any guesses what it could be? Share your thoughts below! #DroneTech #InnovationTeaser
 
