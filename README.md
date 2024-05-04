@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.05.2024 (announcement)
+- 🎁 Exciting news alert! We're cooking up a special treat for you: a FREE ebook on Community Management! No email required for download. What topics do you want us to cover? Let us know! #CommunityManagement #FreeEbook #InteractiveContent 📘✨
+
 ### 03.05.2024 (announcement Web4)
 - 🤖 Dive into the future with us as we enhance our AI USPs! 🔍🔮 What do you think makes a killer AI unique? Share your thoughts and ideas below! #AIInnovation #FutureTech #Brainstorming
 
