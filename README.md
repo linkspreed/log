@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 05.05.2024 (announcement)
+- 👥 Today marks the start of our next phase in team management as we expand our team further! 🌱 What qualities do you think are essential for a successful team member? Share your insights! #TeamExpansion #GrowthPhase 🚀
+
+### 05.05.2024 (announcement LI)
+- 🧠 Dive into the future with our cutting-edge Linkspreeed AI for Web4 partners – our unbeatable USP in the market! 💡 What do you envision achieving with this innovative tool? Share your thoughts! #Linkspreeed #Web4 #AIinnovation 🚀
+
+### 05.05.2024 (announcement Web4)
+- 🌐 Dive into the future with us! We're on a mission to expand Web4 and bring more communities onboard. 💪 Let's innovate together! Which communities do you think should join next? #Web4 #Innovation #CommunityExpansion 🚀
+
 ### 04.05.2024 (announcement)
 - 🎁 Exciting news alert! We're cooking up a special treat for you: a FREE ebook on Community Management! No email required for download. What topics do you want us to cover? Let us know! #CommunityManagement #FreeEbook #InteractiveContent 📘✨
 
