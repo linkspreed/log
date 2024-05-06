@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.05.2024 (announcement)
+- 🚀 Ready to join the adventure? 🌟 We're expanding our team at Linkspreed! 💼 What role do you envision yourself in? Share your dream job with us! #TeamExpansion #JoinOurJourney #DreamJob
+
+### 06.05.2024 (announcement SnaxNox)
+- 🛸 Dive into the skies with us as we craft our very first drone prototype! 🚁 What features would YOU love to see in our futuristic flyer? Share your ideas! 🌟 #DroneInnovation #FutureTech #PrototypeDreams
+
+### 06.05.2024 (announcement Web4)
+- 🚀 Join us on our journey as we forge ahead, crafting new partnerships for the vibrant world of Web4! 💻 Let's shape the Internet of Communities together! 🌐 #Web4 #CommunityInternet #Partnerships
+
 ### 05.05.2024 (announcement)
 - 👥 Today marks the start of our next phase in team management as we expand our team further! 🌱 What qualities do you think are essential for a successful team member? Share your insights! #TeamExpansion #GrowthPhase 🚀
 
