@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 07.05.2024 (announcement)
+- 🔍 Join us as we expand our team! 🌟 If you're passionate about innovation and making a difference, we want to hear from you. Drop us a message and let's shape the future together! #TeamExpansion #Innovation #JoinUs 🚀💼
+
+### 07.05.2024 (announcement LI)
+- 🚀 Dive deep into the world of AI powering Web4 and Linkspreed! 🤖💻 We're building a dedicated page to share insights into our groundbreaking AI innovations. Stay tuned for updates and be part of the AI revolution! #AI #Web4 #Linkspreed #Innovation
+
 ### 06.05.2024 (announcement)
 - 🚀 Ready to join the adventure? 🌟 We're expanding our team at Linkspreed! 💼 What role do you envision yourself in? Share your dream job with us! #TeamExpansion #JoinOurJourney #DreamJob
 
