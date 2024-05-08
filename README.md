@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 08.05.2024 (announcement Web4)
+- 📘 Dive into knowledge! 🌟 We're getting ready to share our FREE eBook with you soon on our website! 🚀 Stay tuned for updates and let us know what topics you're eager to explore! 💡 #FreeEbook #KnowledgeIsPower
+
+### 08.05.2024 (announcement LI)
+- 🚀 Curious about the future of web development? 💻 Join us today as we unveil a sneak peek of our AI on our website! 🤖 Let's dive into the future together. Check it out and drop your thoughts below! #AI #Web4 #FutureTech
+
 ### 07.05.2024 (announcement)
 - 🔍 Join us as we expand our team! 🌟 If you're passionate about innovation and making a difference, we want to hear from you. Drop us a message and let's shape the future together! #TeamExpansion #Innovation #JoinUs 🚀💼
 
