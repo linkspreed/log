@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 10.05.2024 (announcement LI)
+- 🤝 Hey community! Guess what? We're teaming up with partners to bring you groundbreaking AI solutions! 💡 Exciting collaborations are brewing, and we want YOU to be part of the journey! 🚀💻 #AI #Collaboration #TechPartners 🌟
+
+### 10.05.2024 (announcement LI)
+- 🚀 Drumroll, please! 🚀 Our website https://ai.linkspreed.com is now LIVE in both English and German! 🌐💼 Dive into the world of AI with us and explore how we're pushing the boundaries of technology! 💡💻 #AI #WebsiteLaunch #Bilingual 🌟
+
+### 10.05.2024 (announcement)
+- 📚 Attention bookworms! 📚 Exciting news alert: Our latest eBook is now up for grabs on our website! Dive into a world of knowledge and inspiration, absolutely FREE! 💡💻 Don't miss out, grab your copy now! #eBook #Freebie #KnowledgeIsPower 🚀📖
+
 ### 09.05.2024 (announcement Web4)
 - 🌟 Ready for something epic? 🌟 We're gearing up for an amazing community experience - Web4! 🚀 Get ready to dive into exciting discussions, events, and more! 💬 Stay tuned for updates! #Web4 #CommunityEngagement 🌐🚀
 
