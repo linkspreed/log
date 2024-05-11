@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.05.2024 (announcement Web4)
+- 🌐 Ready to expand our Web4 family! 🚀 Want to join forces and become our next partner? Drop us a message and let's connect! 💼 #Web4 #partnership #growth 🌱💻
+
+### 11.05.2024 (announcement)
+- 📚 Dive into our latest eBook, now available for download on our website! 💻✨ Have you checked it out yet? Share your thoughts below! #eBook #download #readingcommunity 📖🔗
+
+### 11.05.2024 (announcement Web4)
+- 🚀 Exciting update! We've teamed up with shape.xyz to bring you a powerful AI for seamless integration with your social network database! 🤖💻 Got questions? Drop them below! #AI #partnership #socialmedia #datasecurity
+
 ### 10.05.2024 (announcement LI)
 - 🤝 Hey community! Guess what? We're teaming up with partners to bring you groundbreaking AI solutions! 💡 Exciting collaborations are brewing, and we want YOU to be part of the journey! 🚀💻 #AI #Collaboration #TechPartners 🌟
 
