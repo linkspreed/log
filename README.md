@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.05.2024 (announcement LI)
+- 🧠 Dive into the future with us! We're currently tinkering away on expanding our AI environments for Web4 databases in our USP 🌐💻 Have suggestions on what we should explore next? Share your thoughts using #Web4AI! Let's shape the digital landscape together! 🚀🔍
+
+### 12.05.2024 (announcement Web4)
+- 🌐 Exciting news alert! We're cooking up something BIG in the world of Web4 partnerships 🚀 Stay tuned as we dive deep into potential collaborations! 💼 Got any ideas or suggestions? Drop them below using #Web4Partnerships! Let's build the future together! 💡🌟
+
 ### 11.05.2024 (announcement Web4)
 - 🌐 Ready to expand our Web4 family! 🚀 Want to join forces and become our next partner? Drop us a message and let's connect! 💼 #Web4 #partnership #growth 🌱💻
 
