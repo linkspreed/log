@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.05.2024 (announcement Oxygen)
+- 🎉 Thrilled to announce the launch of Oxygen Browser v2 on our website! 🚀 Experience faster speeds, enhanced security, and sleek design. Download the new version now and tell us your favorite feature! 💻✨ #OxygenBrowser #UpgradeNow
+
+### 13.05.2024 (announcement Web4)
+- 🚀 Ready to dive deeper into the world of Web4 today! 💻 Let's talk strategy, insights, and possibilities. What are your thoughts on the future of the web? Share your insights using #Web4Evolution 🌐💡 Let's explore together!
+
 ### 12.05.2024 (announcement LI)
 - 🧠 Dive into the future with us! We're currently tinkering away on expanding our AI environments for Web4 databases in our USP 🌐💻 Have suggestions on what we should explore next? Share your thoughts using #Web4AI! Let's shape the digital landscape together! 🚀🔍
 
