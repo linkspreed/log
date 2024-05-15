@@ -3,15 +3,21 @@
 ## All changes that we will make from 12.07.2022 will appear here ...
 
 ### 15.05.2024 (announcement Web4)
-- 🌐 Exciting times ahead! We're laser-focused on bringing Web4 to life with our upcoming major projects. 💡 Want to be part of the next big thing? Let's shape the future together! 🚀 #Web4 #Innovation #FutureProjects
+- 🧠 Dive into the future with us! Currently tinkering away on some mind-bending AI functionalities at Linkspreed. 💡 What AI capabilities do you hope to see from us? Share your thoughts! #AIInnovation #FutureTech #LinkspreedUpdates 🤖🔮
 
 ### 15.05.2024 (announcement)
+- 🚀 Ready for a wild ride? We might be adding 2 new superheroes to our squad at Linkspreed! 💥 Who do you think they'll be? Drop your guesses below! #TeamExpansion #NewMembers #ExcitingTimes 🌟
+
+### 14.05.2024 (announcement Web4)
+- 🌐 Exciting times ahead! We're laser-focused on bringing Web4 to life with our upcoming major projects. 💡 Want to be part of the next big thing? Let's shape the future together! 🚀 #Web4 #Innovation #FutureProjects
+
+### 14.05.2024 (announcement)
 - 🚀 Join the journey! We're expanding our team at Linkspreed and looking for talented individuals ready to innovate and create magic! ✨ Interested? Drop us a message or tag someone who'd thrive with us! #TeamExpansion #JoinUs #Innovation
 
-### 15.05.2024 (announcement Oxygen)
+### 14.05.2024 (announcement Oxygen)
 - 🌬️ Breathe in the freshness of the ultimate oxygen experience with our latest v2 version! 💻 Download it for FREE today at oxygen.linkspreed.com and unlock a whole new world of possibilities! 🚀 #OxygenV2 #Tech #DownloadNow
 
-### 14.05.2024 (announcement Oxygen)
+### 13.05.2024 (announcement Oxygen)
 - 🎉 Thrilled to announce the launch of Oxygen Browser v2 on our website! 🚀 Experience faster speeds, enhanced security, and sleek design. Download the new version now and tell us your favorite feature! 💻✨ #OxygenBrowser #UpgradeNow
 
 ### 13.05.2024 (announcement Web4)
