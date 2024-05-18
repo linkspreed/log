@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 18.05.2024 (announcement)
+- 🌟 Stay ahead of the game! 🌟 Sign up for our newsletter today and be the first to get all the latest updates. 📰✨ Visit news.linkspreed.club or find the link on our website. What are you most excited to hear about? 💬👇 #LinkspreedNews #StayUpdated #TechTrends
+
+### 18.05.2024 (announcement Web4)
+- 🌟 Ready for some fresh experiences? 🌟 We're gearing up to drop ✌️ brand-new demos at our Democenter! 🎮✨ Get hyped, mark your calendars, and tell us which feature you're most excited about! ⏳💬 #NewDemos #TechInnovation #Linkspreed
+
 ### 17.05.2024 (announcement Web4)
 - Ever wondered what's brewing at #Linkspreed? 🍃 We're building more demos for you to explore! Check them out at https://demo.linkspreed.com and let us know what you think! 🌟 Got feedback? Share it below! 👇✨ #TechInnovation #CommunityDriven
 
