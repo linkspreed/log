@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.05.2024 (announcement)
+- Ever wondered how to reach the right team at Linkspreed? 📧 We've set up a seamless email system for you! Find all our current addresses and their statuses here: https://linkspreed.club/site-pages/Emails. 💼✨ Tell us your thoughts or any questions with #LinkspreedConnect! 🤝💬 #BusinessInformatics #EmailSystem
+
+### 19.05.2024 (announcement)
+- 📰 Craving the latest news? Sign up for our newsletter on our website and get essential updates delivered right to your inbox! 📨 Stay informed, stay ahead! 📈 Join the convo with #LinkspreedNews and tell us what you think! 🤔💬 #Newsletter #StayUpdated
+
 ### 18.05.2024 (announcement)
 - 🌟 Stay ahead of the game! 🌟 Sign up for our newsletter today and be the first to get all the latest updates. 📰✨ Visit news.linkspreed.club or find the link on our website. What are you most excited to hear about? 💬👇 #LinkspreedNews #StayUpdated #TechTrends
 
