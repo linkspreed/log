@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.05.2024 (announcement Linkspreed)
+- 🚀 Say goodbye to bugs! With the release of Linkspreed v4.3.4, we've squashed all reported issues! 🐛✨ Dive in and let us know how it's running for you. Drop a 🐞 if you spot anything, and a 👍 if it's smooth sailing! #Linkspreed #Update #BugFree 🛠️💬
+
 ### 19.05.2024 (announcement)
 - Ever wondered how to reach the right team at Linkspreed? 📧 We've set up a seamless email system for you! Find all our current addresses and their statuses here: https://linkspreed.club/site-pages/Emails. 💼✨ Tell us your thoughts or any questions with #LinkspreedConnect! 🤝💬 #BusinessInformatics #EmailSystem
 
