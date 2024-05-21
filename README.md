@@ -2,6 +2,19 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 21.05.2024 (announcement Web4)
+- 🌐 Crafting creative plans for an "Explore & Support Communities" feature to enhance your Web4 experience! What tools and features would you love to see? Share your ideas with us! 🛠️💬✨ #Linkspreed #Web4 #CommunityPower
+
+### 21.05.2024 (announcement LI)
+- 🔍 Exploring the endless possibilities of AI in our social networks! How do you think AI can transform your experience on Linkspreed? Share your ideas and let's innovate together! 💡🤖✨ #Linkspreed #AI #Innovation
+
+### 21.05.2024 (announcement Web4)
+- 🔧 Building the future, one partnership at a time! We're hard at work on new Web4 collaborations and we want your input. Which partners should we team up with next? Drop your suggestions below! 🤝💡✨ #Linkspreed #Web4 #FutureTech
+
+### 21.05.2024 (announcement Web4)
+- 🚀 Dive into the future of Linkspreed! We've packed 43 pages of awesome updates into our latest changelog. Ready to explore the new features? Check it out now and tell us your favorites! 💬✨👇 #Linkspreed #Web4 #TechUpdates
+- https://group.linkspreed.com/files/Linkspreed_Web4_Changelog.pdf
+
 ### 20.05.2024 (announcement Linkspreed)
 - 🚀 Say goodbye to bugs! With the release of Linkspreed v4.3.4, we've squashed all reported issues! 🐛✨ Dive in and let us know how it's running for you. Drop a 🐞 if you spot anything, and a 👍 if it's smooth sailing! #Linkspreed #Update #BugFree 🛠️💬
 
