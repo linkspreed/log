@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 22.05.2024 (announcement Web4)
+- 🚀 Imagine your communities powered by Web4 tools! We're crafting not one, but TWO game-changers. Stay tuned for updates. Let's build the future together! What features do YOU want? Drop your ideas below! 👇 #Web4 #CommunityTech #InnovateTogether
+
 ### 21.05.2024 (announcement Web4)
 - 🌐 Crafting creative plans for an "Explore & Support Communities" feature to enhance your Web4 experience! What tools and features would you love to see? Share your ideas with us! 🛠️💬✨ #Linkspreed #Web4 #CommunityPower
 
