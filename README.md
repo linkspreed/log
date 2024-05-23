@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 23.05.2024 (announcement Web4)
+- 🚀 Just imagine a world where tech meets infinity! 🌐 We're crafting the next-gen software for #Web4. What features would you like to see? Drop your ideas below! 💡👇 #Innovation #TechFuture #Linkspreed
+
+### 23.05.2024 (announcement)
+- 🌟 Picture this: you could be our next team member at #Linkspreed! We're thinking about adding 2 new talents to our crew. What skills do you think would be perfect for our team? Share your thoughts! 💬👇 #JoinUs #TechJobs #Web4
+
 ### 22.05.2024 (announcement Web4)
 - 🚀 Imagine your communities powered by Web4 tools! We're crafting not one, but TWO game-changers. Stay tuned for updates. Let's build the future together! What features do YOU want? Drop your ideas below! 👇 #Web4 #CommunityTech #InnovateTogether
 
