@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 24.05.2024 (announcement Web4)
+- 🌐 Ready for the future? We’ve secured web4.one! 🚀 Soon, we'll be using this domain to bring Web4 directly to YOU! 💡 Dive into the next-gen internet with us. Comment with your thoughts and what you're excited about! #Web4 #TechFuture #Linkspreed #Innovation
+
 ### 23.05.2024 (announcement Web4)
 - 🚀 Just imagine a world where tech meets infinity! 🌐 We're crafting the next-gen software for #Web4. What features would you like to see? Drop your ideas below! 💡👇 #Innovation #TechFuture #Linkspreed
 
