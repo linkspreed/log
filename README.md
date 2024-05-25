@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 25.05.2024 (announcement Web4)
+- Notice something different? 🌐✨ Today, https://web4.one still redirects to https://web4.linkspreed.com, but that’s about to change! 🔄 What do you think is coming next? Share your guesses below! 👇🤔 #Web4 #Innovation #Linkspreed #StayTuned
+
+### 25.05.2024 (announcement Web4)
+- Ever wondered what the future holds for Web4? 🌐🔮 We're working on groundbreaking products just for you! 🚀✨ What features do you hope to see? Drop your ideas below! 👇💡 #Web4 #Innovation #Linkspreed #FutureTech
+
+### 25.05.2024 (announcement Web4)
+- Ever dreamt of a better web? 🌐✨ Stay tuned, we’ve got something exciting brewing just for you! 🚀 #Web4 #Innovation Join the convo and guess what’s coming next. 👇🤔 Let's shape the future together! #Linkspreed #TechTalk
+
 ### 24.05.2024 (announcement Web4)
 - 🌐 Ready for the future? We’ve secured web4.one! 🚀 Soon, we'll be using this domain to bring Web4 directly to YOU! 💡 Dive into the next-gen internet with us. Comment with your thoughts and what you're excited about! #Web4 #TechFuture #Linkspreed #Innovation
 
