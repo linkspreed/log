@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 26.05.2024 (announcement Web4)
+- Imagine a space where small communities thrive freely! 🌐✨ We're developing Open Web4, a free platform for all small communities to connect and grow. What features do you want to see? Drop your ideas below! 👇💡 #OpenWeb4 #CommunityPower #Linkspreed
+
+### 26.05.2024 (announcement Web4)
+- Curious about the next big thing in tech? 🌐🔍 We're building Web4 Explore, a platform to discover vibrant Web4 communities! Share your thoughts and what you hope to see!👇💬 #Web4Explore #Linkspreed #FutureCommunities
+
+### 26.05.2024 (announcement Web4)
+- Ever wondered how we see the future? 🌐✨ We're crafting a video that brings our vision to life! Drop your thoughts, ideas, and guesses below. 👇🎥 #VisionUnleashed #Linkspreed #FutureTech
+
 ### 25.05.2024 (announcement Web4)
 - Notice something different? 🌐✨ Today, https://web4.one still redirects to https://web4.linkspreed.com, but that’s about to change! 🔄 What do you think is coming next? Share your guesses below! 👇🤔 #Web4 #Innovation #Linkspreed #StayTuned
 
