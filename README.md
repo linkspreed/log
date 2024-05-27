@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 27.05.2024 (announcement Web4 Explore)
+- Ever wondered what the future of the web looks like? 🌐✨ We've made huge strides with #ExploreWeb4 and the Beta version is just around the corner! 🚀 Want to be a part of it? Drop your thoughts and get ready to explore! #Innovation #FutureTech #Linkspreed 💬⬇️
+
+### 27.05.2024 (announcement Web4 One)
+- 🌐 Imagine a digital universe where connections are limitless and communities thrive effortlessly. Welcome to #Web4Open, or as we’ll soon call it, #Web4One! 🚀✨ Let's co-create the future together! Share your thoughts with us below. #Innovation #FutureTech #Linkspreed 💬⬇️
+
 ### 26.05.2024 (announcement Web4)
 - Imagine a space where small communities thrive freely! 🌐✨ We're developing Open Web4, a free platform for all small communities to connect and grow. What features do you want to see? Drop your ideas below! 👇💡 #OpenWeb4 #CommunityPower #Linkspreed
 
