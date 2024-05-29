@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 29.05.2024 (announcement)
+- 🚀 Hey tech enthusiasts! 🌟 Guess what? We're diving deep into the world of software development 🛠️, cooking up something super exciting! 🎉 Can you guess what it might be? 🤔 Drop your thoughts below! 👇 #SoftwareDevelopment #Innovation #StayTuned
+
 ### 28.05.2024 (announcement)
 - 🚀 At Linkspreed, we're expanding our dream team! 🌟 Have someone in mind who'd fit right in? Tag them and let us know! 💬 Let's build the future together! #Linkspreed #JoinOurTeam #TechDreamTeam #CommunityPower
 
