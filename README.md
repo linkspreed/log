@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 31.05.2024 (announcement)
+- Imagine working on the cutting edge of tech! 🚀 We're growing our team—currently just three of us, but more innovators are joining soon. Who's excited to see our journey? 💼👥 What roles do you think we need next? Drop your ideas below! ⬇️ #TeamExpansion #Web4 #Linkspreed #FutureTech
+
+### 31.05.2024 (announcement Web4)
+- Ever wondered what the new internet looks like? 🌐 Our latest ad video is live on YouTube! 🎥👀 Check it out and let us know your thoughts in the comments. What excites you the most about the future? 🚀 #NewInternet #Web4 #Linkspreed #Innovation #FutureTech
+
+### 31.05.2024 (announcement Web4)
+- 🚀 Ready to explore the next frontier in tech? We're expanding our Web4 products to bring you the future, today! Dive into innovation with us. What features would you love to see? 🤖💡 Share your thoughts below! ⬇️ #Web4 #Innovation #FutureTech #Linkspreed
+
 ### 30.05.2024 (announcement Web4)
 - 🌐 We’re hard at work on the infrastructure behind Web4! What features do you want to see? 🔍 Stay tuned for major announcements coming soon! 🚀 Share your thoughts below! 👇 #Web4 #TechInnovation #Linkspreed #CommunityVoice
 
