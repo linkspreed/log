@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 01.06.2024 (announcement)
+- 🤝 Collaboration is key at Linkspreed! We're growing our team and would love to hear your thoughts. What skills or roles do you think are essential for our #Web4 journey? Share your ideas below! 🌐👇 #Teamwork #Innovation #JoinUs
+
+### 01.06.2024 (announcement Web4)
+- 🔧 We’re busy shaping the future with #Web4! 🚀 What features or improvements are you most excited to see? Drop your ideas below and let’s innovate together! 💡👇 #TechInnovation #NextGenWeb
+
+### 01.06.2024 (announcement Web4)
+- 💡 Imagine a world where your voice is truly free! 🌐 We’re diving deep into how #Web4 can amplify #FreeSpeech. What do you think the future holds? Share your thoughts below! 🗣️👇 #TechInnovation #FutureInternet
+
 ### 31.05.2024 (announcement)
 - Imagine working on the cutting edge of tech! 🚀 We're growing our team—currently just three of us, but more innovators are joining soon. Who's excited to see our journey? 💼👥 What roles do you think we need next? Drop your ideas below! ⬇️ #TeamExpansion #Web4 #Linkspreed #FutureTech
 
