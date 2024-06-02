@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 02.06.2024 (announcement Web4 AI)
+- 🔍✨ Ever wondered how AI can revolutionize #Web4? At Linkspreed, we're pushing boundaries & enhancing AI functionalities! 🤖💡 Share your thoughts on how AI can shape the future of web technologies! 🚀👇 #TechInnovation #AI #FutureOfWeb
+
 ### 01.06.2024 (announcement)
 - 🤝 Collaboration is key at Linkspreed! We're growing our team and would love to hear your thoughts. What skills or roles do you think are essential for our #Web4 journey? Share your ideas below! 🌐👇 #Teamwork #Innovation #JoinUs
 
