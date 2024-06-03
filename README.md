@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 03.06.2024 (announcement Web4)
+- 🤝 What happens when Web4 meets web hosting providers? We're about to find out! We're teaming up to push the boundaries. Curious? Stay tuned for more info soon! How do you think this collaboration will shape the future? 🌐🚀 #Web4 #Innovation #Collaboration #Linkspreed
+
+### 03.06.2024 (announcement)
+- 🌟 What defines a company? For Linkspreed UG, it's our core values and guidelines. We want to hear from you! What values do you think are essential for a thriving business? Let's shape the future together! 🏢💡 #CompanyValues #Linkspreed #Innovation #CommunityInput
+
+### 03.06.2024 (announcement Web4)
+- 🕵️‍♂️ Ever wondered who fits best in the early stages of Web4? We're exploring just that! Dive in with us and share your thoughts! Who do YOU think should be onboarded first? Let's brainstorm together! 🚀🌐 #Web4 #FutureTech #CommunityPower #Linkspreed
+
 ### 02.06.2024 (announcement Web4 AI)
 - 🔍✨ Ever wondered how AI can revolutionize #Web4? At Linkspreed, we're pushing boundaries & enhancing AI functionalities! 🤖💡 Share your thoughts on how AI can shape the future of web technologies! 🚀👇 #TechInnovation #AI #FutureOfWeb
 
