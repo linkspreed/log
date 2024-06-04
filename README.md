@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 04.06.2024 (announcement Web4)
+- 🔍 Unleashing the future with #Web4! 🚀 Dive into our latest R&D advancements and share your thoughts! What excites you most about the next gen of web tech? 🤔✨ #Innovation #TechTalk #FutureOfWeb #Linkspreed 🌐👇
+
 ### 03.06.2024 (announcement Web4)
 - 🤝 What happens when Web4 meets web hosting providers? We're about to find out! We're teaming up to push the boundaries. Curious? Stay tuned for more info soon! How do you think this collaboration will shape the future? 🌐🚀 #Web4 #Innovation #Collaboration #Linkspreed
 
