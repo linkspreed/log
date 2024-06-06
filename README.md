@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 06.06.2024 (announcement)
+- 🌟 Ever dreamed of shaping the future of digital communities? We're expanding our team at Linkspreed! 🚀 Think you have what it takes? Tell us what makes you the perfect fit & let's create something amazing together! Drop your thoughts below! ⬇️💬 #JoinUs #TechCareers #Innovation
+
+### 06.06.2024 (announcement Web4)
+- 🚀 Imagine a digital world where your every move shapes the future. We're crafting something BIG for #Web4, and we want YOUR input! 🌐✨ Drop a comment with your wildest ideas & be part of the journey. Ready? Let’s innovate together! 🤝💡 #TechInnovation #FutureIsNow
+
 ### 05.06.2024 (announcement Web4)
 - 🌐🚀 On a mission to revolutionize the digital world! Dive into Web4 with us and let's shape the future together. What innovations do YOU want to see? Drop your thoughts below!👇 #Web4 #FutureTech #Innovation #Linkspreed #DigitalRevolution 💬🛠️
 
