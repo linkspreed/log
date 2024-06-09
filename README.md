@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 09.06.2024 (announcement Web4)
+- 🌐 Imagine Web4 in everyone's hands! 🤝 At Linkspreed, we’re planning new partnerships to make this a reality. Who should we team up with next? Share your thoughts below! ⬇️💬 #Linkspreed #Web4 #Partnerships #FutureInternet
+
+### 09.06.2024 (announcement Web4)
+- 🚀 Imagine a world where the web is more connected than ever! 🌐 At Linkspreed, we’re crafting features that redefine the Internet of the Future! 🔮✨ What’s on your Web4 wish list? Drop your ideas below! ⬇️💡 #Linkspreed #Web4 #FutureTech
+
 ### 08.06.2024 (announcement Web4)
 - 🌐 Building bridges to the future! At Linkspreed, we're expanding our Web4 partnerships every day. Got ideas or want to collaborate? Let’s connect and innovate together! 💡🤝 Drop your thoughts below! 👇 #Web4 #Partnerships #Innovation #Linkspreed
 
