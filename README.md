@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 11.06.2024 (announcement Web4)
+- 🔧 We're seeking partners to help turn websites into apps in just 2 minutes! We're also experimenting with our own platform solutions. Interested in collaborating? Comment below! 💡🌐 #Web4 #Innovation #AppRevolution
+
+### 11.06.2024 (announcement Web4)
+- 🚀 We're enhancing Web4 Explore, a platform where you can discover and engage with Web4 communities. Dive in and help shape the future! Share your ideas with us below. 🌐✨ #Web4 #Innovation #CommunityDriven
+
 ### 10.06.2024 (announcement Web4)
 - 🔧🌐 We're busy crafting the future with our Web4 product, Web4 Explore! Dive into the cutting-edge of innovation and connectivity. What features would you love to see? Join the conversation and help us shape what's next! #Web4 #Innovation #Linkspreed 🚀💬
 
