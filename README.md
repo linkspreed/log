@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 12.06.2024 (announcement Web4 Explore)
+- 🌐 Dive into the future with Web4 Explore—the ultimate gateway to the new internet! 🚀 Discover, interact, and shape the web of tomorrow. 💡 What excites you most about Web4? Let's chat! #Web4Explore #FutureInternet #Linkspreed
+
+### 12.06.2024 (announcement Web4 Explore)
+- 🛡️ Have you spotted any Web4 violations in a community? Now you can report them directly on Web4 Explore! 🚨 Help us keep the web safe and compliant. 📢 Share your experiences and join the conversation! #Web4Safety #CommunityPower #Linkspreed
+
 ### 11.06.2024 (announcement Web4)
 - 🔧 We're seeking partners to help turn websites into apps in just 2 minutes! We're also experimenting with our own platform solutions. Interested in collaborating? Comment below! 💡🌐 #Web4 #Innovation #AppRevolution
 
