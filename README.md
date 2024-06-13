@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 13.06.2024 (announcement Web4)
+- 🌍 Imagine Web4 for everyone! 🚀 We're overhauling our acquisition strategy to make Web4 accessible to more people. Got ideas on how we can do this better? Drop your thoughts below! 💡👇 #Web4ForAll #InnovationInAction #YourVoiceMatters
+
+### 13.06.2024 (announcement Web4)
+- 🌐 Ever dream of the future? 🚀 We're ramping up investments in alternative Web4 projects! 🌟 Got ideas or thoughts? Share them with us below! Let's shape the future together. #Web4Innovation #NextGenTech #YourIdeasMatter
+
+### 13.06.2024 (announcement Web4)
+- 🌐 Curious about the future of Web4? 🚀 We've just dropped the BETA for Web4 Explore at [https://explore.web4.one](https://explore.web4.one) 🌟 But that's just the beginning! We’re continuously building and improving. Share your thoughts and join the convo! #Web4Explore #TechInnovation #JoinTheJourney
+
+### 13.06.2024 (announcement)
+- 🚀 Gear up, Linkspreeders! 🌐 We're upgrading our server hardware & infrastructure today. 🛠️ You might experience some delays & brief downtimes. 🕒 Thanks for your patience! Share your thoughts & tag us! #LinkspreedUpgrade #TechTalk #PatienceIsPower ✨🖥️
+
 ### 12.06.2024 (announcement Web4 Explore)
 - 🌐 Dive into the future with Web4 Explore—the ultimate gateway to the new internet! 🚀 Discover, interact, and shape the web of tomorrow. 💡 What excites you most about Web4? Let's chat! #Web4Explore #FutureInternet #Linkspreed
 
