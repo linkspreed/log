@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 14.06.2024 (announcement)
+- 💡 Dreaming of a career in sales? We're on the lookout for passionate individuals to join our team! 🚀 Think you've got what it takes? Let's talk! Comment below or DM us to learn more. 📩🔥 #SalesJobs #JoinUs #Linkspreed #CareerOpportunity
+
+### 14.06.2024 (announcement Web4)
+- 🎉 We're at the Stromaufwärts Festival in Ingolstadt today! Swing by, say hi, and let's chat about the future of tech! 📍🤝 What would you love to see next in the world of Web4? Drop by our booth or comment below!👇 #StromaufwärtsFestival #Ingolstadt #Web4 #Linkspreed
+
+### 14.06.2024 (announcement Web4)
+- 🚀 Ready for the future? We're diving into Web4 with innovative products like Web4 Explore, Web4 App, and Web Open! 🌐✨ Share your thoughts and ideas with us—what do YOU want to see in Web4? Comment below! 👇 #Web4 #Innovation #TechRevolution #Linkspreed
+
 ### 13.06.2024 (announcement Web4)
 - 🌍 Imagine Web4 for everyone! 🚀 We're overhauling our acquisition strategy to make Web4 accessible to more people. Got ideas on how we can do this better? Drop your thoughts below! 💡👇 #Web4ForAll #InnovationInAction #YourVoiceMatters
 
