@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 16.06.2024 (announcement Web4)
+- Imagine Web4 transforming the world! 🌐✨ We're crafting innovative models for Web4, including awesome solutions for non-profits and more. 🚀💡 What changes do you envision Web4 bringing to your community? Share your thoughts! ⬇️ #Web4 #Innovation #FutureTech #Linkspreed
+
+### 16.06.2024 (announcement SnaxNox)
+- Ever heard of SnaxNox? 🍿🚀 While it's in the wings as our second drone project, we're channeling our focus this year and next into building the future with Web4! 🌐✨ What are your Web4 predictions? Share below! ⬇️ #Web4 #Innovation #FutureTech #Linkspreed
+
+### 16.06.2024 (announcement SnaxNox)
+- The sky's the limit! 🚀 We've just finished our first drone prototype. 🛸 Ready to take innovation to new heights? Share your thoughts, ideas, and drone dreams with us! 💭✨ #DroneTech #Innovation #FutureIsNow #LinkspreedTech
+
 ### 15.06.2024 (announcement SnaxNox)
 - 🍕✨ Imagine having your favorite snack delivered by drone! We're building the very first prototype for our SnaxNox drone project. What snack would you love to have delivered? Let us know below!👇 #SnaxNox #DroneTech #Innovation #Linkspreed #YourSnackYourWay #TechFuture
 
