@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 17.06.2024 (announcement Web4)
+- 🚀 Imagine a world where Web4 is for EVERYONE! 🌐✨ At Linkspreed, we're making it happen—non-profit style. Join the movement and help us bring Web4 to all! 🤝❤️
+
 ### 16.06.2024 (announcement Web4)
 - Imagine Web4 transforming the world! 🌐✨ We're crafting innovative models for Web4, including awesome solutions for non-profits and more. 🚀💡 What changes do you envision Web4 bringing to your community? Share your thoughts! ⬇️ #Web4 #Innovation #FutureTech #Linkspreed
 
