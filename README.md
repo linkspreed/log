@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 19.06.2024 (announcement Web4)
+- Imagine a world where advanced tech is always free! 🌍✨ We're working tirelessly on the Always Free Tier model for Web4. Stay tuned for more updates! 🚀 #Web4 #InnovationForAll #AlwaysFree
+
+### 19.06.2024 (announcement Web4)
+- Ready to dive into the future of the web? 🌐✨ The beta version of Web4 Explore is now live! Check it out at https://explore.web4.one. Soon, Linkspreed pages will connect to the first public Web4 product. 🚀 #Web4 #TechInnovation #FutureIsNow
+
 ### 18.06.2024 (announcement Web4)
 - 🌐 Dive into the future with us! At Linkspreed, we're expanding Web4 networks and planning many more. What features do you want to see? Let's shape the future together! 💬👇 #Web4 #TechRevolution #Linkspreed #FutureTech
 
