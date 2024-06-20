@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 12.07.2022 will appear here ...
 
+### 20.06.2024 (announcement Web4)
+- Imagine accessing Web4 with zero cost! 🎉 Our Always Free Tier is now live. Ready to start your Web4 journey? 🚀
+
 ### 19.06.2024 (announcement Web4)
 - Imagine a world where advanced tech is always free! 🌍✨ We're working tirelessly on the Always Free Tier model for Web4. Stay tuned for more updates! 🚀 #Web4 #InnovationForAll #AlwaysFree
 
