@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 23.06.2024 (announcement Web4)
+- 🎉 Imagine epic events and platforms built just for you! We're crafting new concepts to take your experiences to the next level. 🚀 What features would make your dream event? Share your ideas! 👇💡 #Innovation #EventTech #Linkspreed #FutureOfEvents
+
+### 23.06.2024 (announcement Web4)
+- 🌐 Imagine a world where Web4 is always free! We're crafting a special site just for you. 🌟 Dive into the future with our Always Free Tier! What features do YOU want to see? Drop your ideas below! 👇✨ #Web4 #FutureIsNow #Linkspreed
+
 ### 22.06.2024 (announcement Web4)
 - We're branding Web4 and just published our first blog post on Linkspreed's vision! 🚀 Dive into the future of the web with us. 🌐💡 Check it out and share your thoughts! How do you see Web4 evolving? Let’s discuss! #Web4 #Innovation #Linkspreed #FutureWeb
 
