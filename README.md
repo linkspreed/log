@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 24.06.2024 (announcement Web4)
+- 🛠️ Want your own Web4 platform? We've got you covered! Fill out this form (https://forms.office.com/r/B0v46U0YMp) and our team will build it for you quickly, easily, and for FREE! 🌐✨ #Web4 #Innovation #FreePlatform
+
+### 24.06.2024 (announcement Web4)
+- 🚀 Ready to build your own Web4 platform? We've made it super easy for you! 🌐 Just fill out a simple form and get started for FREE. No strings attached! 💡✨ #Web4 #Innovation #FreePlatform
+
 ### 23.06.2024 (announcement Web4)
 - 🎉 Imagine epic events and platforms built just for you! We're crafting new concepts to take your experiences to the next level. 🚀 What features would make your dream event? Share your ideas! 👇💡 #Innovation #EventTech #Linkspreed #FutureOfEvents
 
