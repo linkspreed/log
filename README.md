@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 25.06.2024 (announcement Web4)
+- 🔍 Ever dreamt of your own Web4 platform? Get ready! Visit https://web4.one/free soon to explore FREE Web4 options & order your own platform. 🚀✨ Share your ideas and tag us with #Web4Dreams. What features would you love to see? 👇👇
+
 ### 24.06.2024 (announcement Web4)
 - 🛠️ Want your own Web4 platform? We've got you covered! Fill out this form (https://forms.office.com/r/B0v46U0YMp) and our team will build it for you quickly, easily, and for FREE! 🌐✨ #Web4 #Innovation #FreePlatform
 
