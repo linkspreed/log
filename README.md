@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 26.06.2024 (announcement Web4)
+- Ever wondered what freedom feels like online? 🌐✨ Today, we launch free.linkspreed.com! Dive in and explore the endless possibilities. Tell us what you think and how it can help you! 🌟💬 #FreeLinkspreed #NewLaunch #WebInnovation 👇🚀
+
+### 26.06.2024 (announcement Web4)
+- Imagine a world where your digital life is seamless and secure. 🌐✨ Something BIG is coming for Web4, and we can't wait to share it with you! 🚀🔒 Stay tuned and share your thoughts with us! #Web4 #Innovation #FutureTech 💬👇
+
 ### 25.06.2024 (announcement Web4)
 - 🔍 Ever dreamt of your own Web4 platform? Get ready! Visit https://web4.one/free soon to explore FREE Web4 options & order your own platform. 🚀✨ Share your ideas and tag us with #Web4Dreams. What features would you love to see? 👇👇
 
