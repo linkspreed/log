@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 27.06.2024 (announcement Web4)
+- 🚀 Imagine a world where your data flows seamlessly, accessible anytime, anywhere. That's #Web4 🌐✨ Dive into the future with our Always Free Tier! Let's revolutionize connectivity together. Check it out: https://free.linkspreed.com & https://web4.one 🚀💡 Share your thoughts!👇 #Linkspreed #Innovation
+
+### 27.06.2024 (announcement Web4)
+- Ready to take Web4 to the next level? 🌟 We're making another push to bring Web4 to the Google Play Store! Stay tuned and let’s make it happen together. 🚀🔥 Drop your support and ideas below!👇 #Web4 #GooglePlay #Linkspreed #Innovation
+
 ### 26.06.2024 (announcement Web4)
 - Ever wondered what freedom feels like online? 🌐✨ Today, we launch free.linkspreed.com! Dive in and explore the endless possibilities. Tell us what you think and how it can help you! 🌟💬 #FreeLinkspreed #NewLaunch #WebInnovation 👇🚀
 
