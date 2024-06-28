@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 28.06.2024 (announcement Web4)
+- ✨ Ever felt like your Web4 orders took too long? We heard you! 🚀 We've made the ordering process smoother and faster. 🕒💨 Test it out and let us know what you think! 💬👇 #Web4 #Linkspreed #TechInnovation #CommunityPower 🌐
+
+### 28.06.2024 (announcement Web4)
+- Imagine a world where your community thrives for free! 🌐✨ We've highlighted the Web4 Free Tier on our site just for you. Ready to create your own network at no cost? Dive in and share your thoughts! 💬👇 #Web4 #Linkspreed #CommunityFirst #FreeNetwork 🚀
+
 ### 27.06.2024 (announcement Web4)
 - 🚀 Imagine a world where your data flows seamlessly, accessible anytime, anywhere. That's #Web4 🌐✨ Dive into the future with our Always Free Tier! Let's revolutionize connectivity together. Check it out: https://free.linkspreed.com & https://web4.one 🚀💡 Share your thoughts!👇 #Linkspreed #Innovation
 
