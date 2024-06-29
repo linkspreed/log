@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 29.06.2024 (announcement Web4)
+- Imagine blazing-fast apps for your Web4 networks! 🚀 We're planning a partnership with Median to bring you just that. How excited are you about this? Share your thoughts and ideas! 👇 #Web4 #TechPartnership #FastApps #Innovation
+
+### 29.06.2024 (announcement Web4)
+- 🚀 Within hours of launching our registration link for the Web4 Always Free Tier, we've been flooded with requests! Dive into the future with us. 🌐✨ How will YOU use Web4? Comment below! 👇 #Web4 #Innovation #FutureTech
+
 ### 28.06.2024 (announcement Web4)
 - ✨ Ever felt like your Web4 orders took too long? We heard you! 🚀 We've made the ordering process smoother and faster. 🕒💨 Test it out and let us know what you think! 💬👇 #Web4 #Linkspreed #TechInnovation #CommunityPower 🌐
 
