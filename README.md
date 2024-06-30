@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 30.06.2024 (announcement Web4)
+- 🚀 Imagine a world where Web4 is fully automated! 🌐 We're working internally on a mega project to make this a reality. Automation for Web4 is coming soon! What feature excites you the most? Tell us below! 👇✨ #Web4 #Automation #TechRevolution
+
+### 30.06.2024 (announcement Web4)
+- 🌐 The demand for social networks in Web4 has soared by over 100%! 🚀 After launching our Always Free Tier, we've already rebuilt the first community platforms in Web4 - for free! Join the revolution and share your thoughts! 💬✨ #Web4 #AlwaysFree #CommunityBuilding
+
 ### 29.06.2024 (announcement Web4)
 - Imagine blazing-fast apps for your Web4 networks! 🚀 We're planning a partnership with Median to bring you just that. How excited are you about this? Share your thoughts and ideas! 👇 #Web4 #TechPartnership #FastApps #Innovation
 
