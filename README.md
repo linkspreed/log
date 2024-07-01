@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 01.07.2024 (announcement Web4)
+- 🚀 Guess who's making a comeback to the Google Play Store? That's right, we are! 🎉 Share your excitement and tell us what features you’re most looking forward to! 👇 #Linkspreed #GooglePlay #AppRevolution #TechCommunity
+
+### 01.07.2024 (announcement Web4)
+- 🔧 Setting up your Web4 network? We're working on a detailed guide to help you get the best configuration! 💡 Got tips or questions? Share them below! 👇 #Web4 #TechGuide #Linkspreed #Innovation
+
 ### 30.06.2024 (announcement Web4)
 - 🚀 Imagine a world where Web4 is fully automated! 🌐 We're working internally on a mega project to make this a reality. Automation for Web4 is coming soon! What feature excites you the most? Tell us below! 👇✨ #Web4 #Automation #TechRevolution
 
