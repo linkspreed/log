@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 02.07.2024 (announcement Web4)
+- ✨ Our Web4 documentation is ready and dropping soon! 🚀 Dive into the next-gen internet with us. Have questions or thoughts? Share below! 👇💬 #Web4 #TechRevolution #FutureIsNow
+
 ### 01.07.2024 (announcement Web4)
 - 🚀 Guess who's making a comeback to the Google Play Store? That's right, we are! 🎉 Share your excitement and tell us what features you’re most looking forward to! 👇 #Linkspreed #GooglePlay #AppRevolution #TechCommunity
 
