@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 03.07.2024 (announcement Web4)
+- 💡 We're brainstorming ways to merchandise Web4 successfully! 🚀 Got ideas or thoughts? Join the conversation and help shape the future! Drop your suggestions below and let's innovate together! 🌐💬 #Web4 #Innovation #Linkspreed #TechTalk
+
+### 03.07.2024 (announcement Web4)
+- 🚀 Big changes are coming to Linkspreed! 🛠️ Expect some maintenance breaks as we migrate our site to new servers in Oregon Hillsboro 🌲🔧. Your experience is our top priority. Share your thoughts and stay tuned for updates! #TechUpgrade #Linkspreed #NewHorizons
+
 ### 02.07.2024 (announcement Web4)
 - ✨ Our Web4 documentation is ready and dropping soon! 🚀 Dive into the next-gen internet with us. Have questions or thoughts? Share below! 👇💬 #Web4 #TechRevolution #FutureIsNow
 
