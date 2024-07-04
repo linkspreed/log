@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 04.07.2024 (announcement)
+- 🔧✨ Say hello to a smoother, faster Linkspreed! We’ve just migrated our servers from Ashburn, VA to Hillsboro, OR. Share your thoughts and experiences with us! 🚀🌐 #TechUpgrade #Linkspreed #CommunityFirst How's the speed?👇
+
+### 04.07.2024 (announcement)
+- 🚀✨ Experience the boost! After our latest maintenance, Linkspreed is now faster, safer, and more powerful. Let us know how it feels! 🔐💨 #LinkspreedUpgrade #SpeedBoost #CommunityPower How's your experience?👇
+
 ### 03.07.2024 (announcement Web4)
 - 💡 We're brainstorming ways to merchandise Web4 successfully! 🚀 Got ideas or thoughts? Join the conversation and help shape the future! Drop your suggestions below and let's innovate together! 🌐💬 #Web4 #Innovation #Linkspreed #TechTalk
 
