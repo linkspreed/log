@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 05.07.2024 (announcement)
+- 📅✨ Big things are brewing at Linkspreed! Starting July 20th, we’re gearing up for a major sales push with spot-on strategies. Got any killer sales tips? Drop them below! 👇 #LinkspreedSales #StrategySuccess #TeamWork
+
+### 05.07.2024 (announcement Web4)
+- 🌐✨ At Linkspreed, we're celebrating Independence Day for the Internet with Web4! 🎉 Dive into the next-gen web with us. How do you envision the future of the web? Share your thoughts! 👇 #Web4Revolution #LinkspreedFuture #InternetIndependence
+
+### 05.07.2024 (announcement)
+- 🚀✨ We’ve just wrapped up our maintenance work, and Linkspreed is back stronger than ever! Dive in now and explore the new enhancements. Got feedback? Share it below! 👇 #LinkspreedUpgrade #TechLove #CommunityFirst
+
 ### 04.07.2024 (announcement)
 - 🔧✨ Say hello to a smoother, faster Linkspreed! We’ve just migrated our servers from Ashburn, VA to Hillsboro, OR. Share your thoughts and experiences with us! 🚀🌐 #TechUpgrade #Linkspreed #CommunityFirst How's the speed?👇
 
