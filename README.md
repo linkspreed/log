@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 06.07.2024 (announcement)
+- 🚀 We're always leveling up our products with continuous updates! What's the next feature you're excited to see? Share your thoughts with us! 💬👇 #Linkspreed #Innovation #StayTuned
+
+### 06.07.2024 (announcement)
+- 🌟 Say hello to our new home! We've just migrated all Linkspreed websites to Oregon, ensuring top-notch security and enhanced performance. How's the speed? Notice any changes? Drop your feedback below! ⬇️ #Linkspreed #TechUpgrade #SpeedBoost 🚀
+
 ### 05.07.2024 (announcement)
 - 📅✨ Big things are brewing at Linkspreed! Starting July 20th, we’re gearing up for a major sales push with spot-on strategies. Got any killer sales tips? Drop them below! 👇 #LinkspreedSales #StrategySuccess #TeamWork
 
