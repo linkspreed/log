@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 07.07.2024 (announcement Web4)
+- 🌐 Discover the new look and feel of our updated websites! 👀✨ Visit now and let us know what you think! Your feedback shapes our future! 💬🛠️ #WebUpdate #NewLook #UserFeedback #TechCommunity
+
+### 07.07.2024 (announcement Web4)
+- Our comprehensive documentation is now live at docs.web4.one 🌐✨ Ready to transform your digital journey? Explore, learn, and share your thoughts with us! 🚀💬 #Web4 #Innovation #TechCommunity #NextGenWeb
+
 ### 06.07.2024 (announcement)
 - 🚀 We're always leveling up our products with continuous updates! What's the next feature you're excited to see? Share your thoughts with us! 💬👇 #Linkspreed #Innovation #StayTuned
 
