@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 08.07.2024 (announcement)
+-✨ Linkspreed PMCR is now our secret weapon for turbocharged team productivity! 🚀 We're loving the seamless project management and innovative collaboration. How are you boosting your team's productivity? Share with us! 💡🔗 #LinkspreedPMCR #TeamProductivity #InnovationNation
+
+### 08.07.2024 (announcement Web4)
+- 🌍 From every corner of the globe, vibrant communities are now part of Web4! The demand is real and it's huge! Dive in and explore the future with us. 🚀✨ Share your thoughts and experiences! #Web4 #GlobalCommunity #TechRevolution #Linkspreed
+
 ### 07.07.2024 (announcement Web4)
 - 🌐 Discover the new look and feel of our updated websites! 👀✨ Visit now and let us know what you think! Your feedback shapes our future! 💬🛠️ #WebUpdate #NewLook #UserFeedback #TechCommunity
 
