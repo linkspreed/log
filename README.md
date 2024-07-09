@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 09.07.2024 (announcement Web4)
+- 🕒 The countdown is on! In less than 15 hours, we're launching Web4 on ProductHunt! 🚀 Mark your calendars, set your alarms, and get ready to dive into the future of the internet with us. ⏰ Join the hype and share your thoughts! 💬✨ #Web4 #ProductHunt #TechLaunch #Innovation
+
+### 09.07.2024 (announcement Web4)
+- 🌐 Dive into the future with Web4! 🚀 We're crafting the next-gen internet experience, and we want YOU to be a part of it. Share your ideas, ask questions, and let’s shape the future together! 🤝✨ #Web4 #Innovation #FutureInternet #TechTalk
+
 ### 08.07.2024 (announcement)
 - ✨ Linkspreed PMCR is now our secret weapon for turbocharged team productivity! 🚀 We're loving the seamless project management and innovative collaboration. How are you boosting your team's productivity? Share with us! 💡🔗 #LinkspreedPMCR #TeamProductivity #InnovationNation
 
