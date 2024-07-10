@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 10.07.2024 (announcement Web4)
+- 🌐 Web4.one is now a standalone domain! 🌟 It still shows content from web4.linkspreed.com, but no more redirects. 🚀 Check it out and let us know your thoughts! 💭👇 #Web4 #NewDomain #TechUpdate #Linkspreed
+
+### 10.07.2024 (announcement Web4)
+- 🌟 Web4's launch on @ProductHunt was a hit! 🚀 We're beyond thrilled and grateful for your support. 🙌 What features do you love most? Drop your thoughts below! 💬👇 #Web4 #ProductHunt #TechCommunity #Linkspreed
+
+### 10.07.2024 (announcement Web4)
+- 🚀 Exploring the future of #Web4! 🌐 We're dropping fresh blog posts 1-2 times a week across platforms like @Medium and Dev.to. Dive into the latest tech trends with us! Which topic should we cover next? 🤔👇 #TechTalk #Innovation #Blogging #Linkspreed
+
 ### 09.07.2024 (announcement Web4)
 - 🕒 The countdown is on! In less than 15 hours, we're launching Web4 on ProductHunt! 🚀 Mark your calendars, set your alarms, and get ready to dive into the future of the internet with us. ⏰ Join the hype and share your thoughts! 💬✨ #Web4 #ProductHunt #TechLaunch #Innovation
 
