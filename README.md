@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 11.07.2024 (announcement Web4)
+- 🤖 Crafting the future of automated community building in Web4 with you! Imagine a world where your online networks grow effortlessly. How would you automate your perfect community? Share your ideas with us! 💡👇 #Web4 #CommunityBuilding #Automation #Linkspreed
+
+### 11.07.2024 (announcement Web4)
+- 🚀 Building the future of Web4 with Linkspreed! Imagine a digital world where connections are seamless and communities thrive. How do you envision Web4 changing your online experience? Drop your thoughts below! 💬👇 #Web4 #FutureTech #Linkspreed
+
 ### 10.07.2024 (announcement Web4)
 - 🌐 Web4.one is now a standalone domain! 🌟 It still shows content from web4.linkspreed.com, but no more redirects. 🚀 Check it out and let us know your thoughts! 💭👇 #Web4 #NewDomain #TechUpdate #Linkspreed
 
