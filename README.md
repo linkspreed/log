@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 12.07.2024 (announcement Web4)
+- 🌐✨ Engaging with overlooked communities to bring them into the spotlight of Web4! 🚀💬 Which communities do you think deserve more attention? Comment below and let's discuss! 🔍👥 #Web4 #CommunityPower #DigitalInclusion #TechForAll
+
 ### 11.07.2024 (announcement Web4)
 - 🤖 Crafting the future of automated community building in Web4 with you! Imagine a world where your online networks grow effortlessly. How would you automate your perfect community? Share your ideas with us! 💡👇 #Web4 #CommunityBuilding #Automation #Linkspreed
 
