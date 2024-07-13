@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 13.07.2024 (announcement Web4)
+- Got an opinion? 🤔 Should we leverage our Web4 trademark and launch exclusive merch for all Web4 enthusiasts? Drop your thoughts below and let’s make it happen! 🚀👕 #Web4Merch #CommunityChoice #TechFashion
+
+### 13.07.2024 (announcement Web4)
+- Unveiling our exclusive Web4 Merch! 🚀 The first 10 T-shirts are in and we're giving them away to our amazing team and partners. Want one? Comment below with your favorite Web4 feature! 🔥👕 #Web4Merch #TechStyle #InnovationFashion
+
+### 13.07.2024 (announcement Web4)
+- Busy brainstorming? 💡 We've launched several 4.0 projects to define our first Web4 target audiences. Who do you think should be our primary focus? Share your thoughts below! 🌐🚀 #Web4Vision #FutureTech #InnovateWithUs
+
 ### 12.07.2024 (announcement Web4)
 - 🌐✨ Engaging with overlooked communities to bring them into the spotlight of Web4! 🚀💬 Which communities do you think deserve more attention? Comment below and let's discuss! 🔍👥 #Web4 #CommunityPower #DigitalInclusion #TechForAll
 
