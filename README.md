@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 14.07.2024 (announcement Web4)
+- 🚀 Embracing the future, one line of code at a time! 🌐 We're deep into crafting the next-gen Web4 software. 💡 Got ideas or questions? Drop them below! 👇 Let's build this together. #Web4 #Innovation #FutureTech
+
 ### 13.07.2024 (announcement Web4)
 - Got an opinion? 🤔 Should we leverage our Web4 trademark and launch exclusive merch for all Web4 enthusiasts? Drop your thoughts below and let’s make it happen! 🚀👕 #Web4Merch #CommunityChoice #TechFashion
 
