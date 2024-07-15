@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 15.07.2024 (announcement Web4)
+- 🌐 Picture a world where Web4 communities thrive with seamless App Solutions! We're working hard to make this a reality. 🚀📱 How would you like to see Web4 transform your community interactions? Let's brainstorm together! 💡👇 #Web4 #AppSolutions #CommunityInnovation
+
+### 15.07.2024 (announcement Web4)
+- ✨ Imagine the next evolution of the internet! We're diving deep into Web4 and what it means for the future on our latest dev.to article. 🚀📖 How do YOU envision Web4 changing the digital world? Share your ideas! 👉 https://dev.to #Web4 #TechInnovation #FutureOfWeb
+
+### 15.07.2024 (announcement Web4)
+- 🌐✨ Imagine a world where freedom of speech is truly limitless! Dive into our latest Medium article and explore the grand vision behind Web4. 🚀💬 How do YOU see the future of digital freedom? Share your thoughts! 👉 https://linkspreed.medium.com/the-grand-vision-behind-web4-championing-freedom-of-speech-ffb7a8ecb90f #Web4 #FreedomOfSpeech #Innovation
+
 ### 14.07.2024 (announcement Web4)
 - 🚀 Embracing the future, one line of code at a time! 🌐 We're deep into crafting the next-gen Web4 software. 💡 Got ideas or questions? Drop them below! 👇 Let's build this together. #Web4 #Innovation #FutureTech
 
