@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 17.07.2024 (announcement Web4)
+- 🌟 Picture a future where Web4 revolutionizes your online experience! 🚀 We’ve kicked off some cool "4.0" projects to better understand our primary audiences for Web4. Tell us, what features do you want to see? Drop your ideas below! 👇✨ #Web4 #Innovation #Linkspreed #FutureTech
+
+### 17.07.2024 (announcement Web4)
+- 🚀 Imagine a place where innovation never sleeps and ideas soar! 🌐 We're crafting new platforms that will redefine the digital landscape. Share your thoughts and dreams with us below! 👇✨ #Innovation #FutureTech #CommunityPower #Linkspreed
+
 ### 16.07.2024 (announcement Web4)
 - 🌐 Attention, web surfers! 🌐 Our beloved web4.linkspreed.com is taking a detour to web4.one! 🚀 Why, you ask? To dodge those pesky SEO duplicates! 🙌🔍 #Linkspreed #Web4 #WebMigration #SEOBoost 💙
 
