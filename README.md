@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 18.07.2024 (announcement Web4)
+- 🎉 The countdown is on! Tomorrow at 8 PM, we’re opening the doors wider to the Web4 community. What’s the first thing you’ll do in this new digital space? Let us know! 🚀🌐 #Web4Wave #CommunityCountdown #DigitalFrontier
+
+### 18.07.2024 (announcement Web4)
+- 🌐 Teamwork makes the dream work! We’re teaming up with Median to make app creation for Web4 communities a breeze. What features would make your web experience smoother? Share your ideas! 🛠️💡 #TechCollab #Web4Innovation #CommunityBuild
+
 ### 17.07.2024 (announcement Web4)
 - 🌟 Picture a future where Web4 revolutionizes your online experience! 🚀 We’ve kicked off some cool "4.0" projects to better understand our primary audiences for Web4. Tell us, what features do you want to see? Drop your ideas below! 👇✨ #Web4 #Innovation #Linkspreed #FutureTech
 
