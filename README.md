@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 19.07.2024 (announcement)
+- 🎉 Ever imagined a world where "Linkspreed" is officially trademarked? Now it's real! 🚀 Join the celebration and share your thoughts below! 🥳👇 #Linkspreed #Trademarked #CommunityPower
+
 ### 18.07.2024 (announcement Web4)
 - 🎉 The countdown is on! Tomorrow at 8 PM, we’re opening the doors wider to the Web4 community. What’s the first thing you’ll do in this new digital space? Let us know! 🚀🌐 #Web4Wave #CommunityCountdown #DigitalFrontier
 
