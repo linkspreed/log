@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 20.07.2024 (announcement Web4)
+- 🚀 Diving deep into the Web4 realm? We’re on the same quest! 🧭 Let’s make the digital space vibrant together. What’s your first step in this journey? Share your kickoff strategies with us! 🌟 #Web4 #TechTrends #InnovateTogether
+
+### 20.07.2024 (announcement Web4)
+- 🤖 Automation is on the horizon for Web4, and we’re all about precision over haste. No set date yet, but why not join the brainstorm? 🧠💡 What features would make your Web4 experience seamlessly efficient? Drop your thoughts! 📅🚀 #Web4 #TechProgress #InnovationChat
+
+### 20.07.2024 (announcement Web4)
+- 🌐 In the midst of crafting a unified web model that stands out? We’re in the same boat! 🛠️ Share your insights with us and let’s navigate the digital seas together. How do you envision a robust web future? 🚀 #Web4 #DigitalInnovation #TechTalks
+
 ### 19.07.2024 (announcement)
 - 🎉 Ever imagined a world where "Linkspreed" is officially trademarked? Now it's real! 🚀 Join the celebration and share your thoughts below! 🥳👇 #Linkspreed #Trademarked #CommunityPower
 
