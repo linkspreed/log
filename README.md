@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 22.07.2024 (announcement Web4)
+- Picture this: One system, multiple tenants, endless possibilities! 🌐🔄 We're diving deep into Multi Tenancy for Web4 and we want YOUR input! How do you envision using it? Drop your thoughts below! 🚀💡 #Web4 #MultiTenancy #InnovateWithUs
+
+### 22.07.2024 (announcement Web4)
+- Ever imagined a social network in places you never expected? 🌍✨ We're building Web4 solutions that redefine where communities come together! Let's brainstorm the wildest ideas! 🚀💡 Share your thoughts below! #Web4 #Innovation #FutureOfSocialNetworks
+
 ### 21.07.2024 (announcement Web4)
 - 📊 Dive into the data stream! Our internal & external analysis structures for #Web4 networks & traffic are now crystal clear. 🌟 What insights would you love to see? Share your analytics dreams with us! #DataDriven #TransparentTech 📈
 
