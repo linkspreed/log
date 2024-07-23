@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 23.07.2024 (announcement Web4)
+- Diving into the digital deep end! 🌊 Our new project, Supply Chain 4.0, is exploring the integration of Web4 into supply chains. How do you think Web4 will transform logistics? Share your insights and join the conversation! 🔄🔗 #SupplyChain40 #Web4Logistics #DigitalDive
+
+### 23.07.2024 (announcement Web4)
+- Web4 is not just a trend, it’s a revolution! 🌪️ With projects like Creators 4.0 and Free Media 4.0, we’re not just equipped, we’re empowered! 🛠️ What project would you enhance with Web4? Share your innovative ideas! #Creators40 #FreeMedia40 #Web4Wave
+
+### 23.07.2024 (announcement Web4)
+- Ready to shape the future with us? 🚀 We’re shifting gears to 100% focus on Web4! What’s your vision for this new digital horizon? Share your ideas, dreams, and predictions! Let’s co-create the web of tomorrow. 🌐💡 #Web4 #Innovation #TechTalk
+
 ### 22.07.2024 (announcement Web4)
 - Picture this: One system, multiple tenants, endless possibilities! 🌐🔄 We're diving deep into Multi Tenancy for Web4 and we want YOUR input! How do you envision using it? Drop your thoughts below! 🚀💡 #Web4 #MultiTenancy #InnovateWithUs
 
