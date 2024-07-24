@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 24.07.2024 (announcement Web4)
+- Bringing #Web4 to life with new partnerships! 🚀 Ready to join us on this exciting journey? Share your thoughts, tag a friend, or drop an emoji that shows how you feel about the future of the web! 💬👇 #Linkspreed #Innovation #TechCommunity
+
 ### 23.07.2024 (announcement Web4)
 - Diving into the digital deep end! 🌊 Our new project, Supply Chain 4.0, is exploring the integration of Web4 into supply chains. How do you think Web4 will transform logistics? Share your insights and join the conversation! 🔄🔗 #SupplyChain40 #Web4Logistics #DigitalDive
 
