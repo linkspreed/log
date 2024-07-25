@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 25.07.2024 (announcement Web4)
+- Imagine a web app that hits the sweet spot! 🍬 We're crafting a Flutter alternative for mid-sized Web4 communities, bridging full automation like Median and full native solutions. 🚀 What features would make it perfect? Share below! 👇 #Web4 #Flutter #TechInnovation #CommunityApp
+
+### 25.07.2024 (announcement Web4)
+- 🚀 Building the future of urban marketing! 🌆 We've been working on Digital City 4.0, integrating city marketing into Web4 for various cities. 🏙️ What features do you think we should include? Share your ideas! 👇 #Web4 #DigitalCity #UrbanInnovation #TechTalk
+
+### 25.07.2024 (announcement Web4)
+- 🌟 Imagine a world where your ideas fly higher than drones! 🚀 We're brewing something 4.0 fresh & it's almost ready to unveil! 💡 Curious? Drop your thoughts below & stay tuned for expert insights! 👇✨ #Innovation #Web4 #TechRevolution #StayTuned
+
 ### 24.07.2024 (announcement Web4)
 - Bringing #Web4 to life with new partnerships! 🚀 Ready to join us on this exciting journey? Share your thoughts, tag a friend, or drop an emoji that shows how you feel about the future of the web! 💬👇 #Linkspreed #Innovation #TechCommunity
 
