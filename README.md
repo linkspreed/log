@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 26.07.2024 (announcement Web4)
+- Web4 is calling! 🌍 We're excited to announce that Linkspreed is expanding its horizons! 🚀 Get ready for a global Web4 adventure as we explore new markets and cultures. 🗺️ Any countries you think we should conquer first? Let us know! #Web4Expansion #GlobalGoals #Linkspreed #NewAdventures
+
+### 26.07.2024 (announcement Web4)
+- Cities are evolving! 🏙️ We've been busy crafting the future with our Digital City 4.0 project. 🚀 Want to know what the future holds? Stay tuned for more exciting updates! #DigitalCity #Innovation #4point0 #Linkspreed #FutureIsHere Any guesses what's next? 🤔
+
 ### 25.07.2024 (announcement Web4)
 - Imagine a web app that hits the sweet spot! 🍬 We're crafting a Flutter alternative for mid-sized Web4 communities, bridging full automation like Median and full native solutions. 🚀 What features would make it perfect? Share below! 👇 #Web4 #Flutter #TechInnovation #CommunityApp
 
