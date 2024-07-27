@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 27.07.2024 (announcement Web4)
+- Building bridges in Web4 with our 4.0 projects! 🌉✨ We're ramping up efforts to integrate partners into this new era. 🤝💼 Who would you like to see join us? Tag them and let’s make it happen! 👇🔗 #Web4 #Partnerships #Innovation #Collaboration
+
+### 27.07.2024 (announcement Web4)
+- Imagine expanding our product portfolio within Web4! 📈💡 We're mapping out plans to bring you innovative and cutting-edge solutions. 🚀🔍 What features do you want to see? Share your ideas with us! 👇🛠️ #Web4 #Innovation #TechTalk #NextGenProducts
+
+### 27.07.2024 (announcement Web4)
+- Ever dreamt of a social network that's private and beyond Web4? 🌐✨ We're crafting a revolutionary new app that's just for you! 🚀🔒 Ready to join the next big thing? Drop your thoughts and get early access! 👇🗣️ #NextGenNetwork #SocialInnovation #Web4 #StayPrivate
+
 ### 26.07.2024 (announcement Web4)
 - Web4 is calling! 🌍 We're excited to announce that Linkspreed is expanding its horizons! 🚀 Get ready for a global Web4 adventure as we explore new markets and cultures. 🗺️ Any countries you think we should conquer first? Let us know! #Web4Expansion #GlobalGoals #Linkspreed #NewAdventures
 
