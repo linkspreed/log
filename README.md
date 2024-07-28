@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 28.07.2024 (announcement Web4)
+- 🌏 Picture this: Web4 going global! We're planning to bring communities worldwide into the #Web4 ecosystem. 🌐✨ What international features and connections do you envision? Share your ideas with us! Let's make the future interconnected! #GlobalTech #Innovation #Linkspreed
+
+### 28.07.2024 (announcement Web4)
+- 🌍 Imagine communities & businesses seamlessly integrated into the digital future! We're hard at work on our 4.0 projects to bring more entities into #Web4. 🚀💬 What features would you love to see in this new era? Let's innovate together! Share below! #FutureTech #Innovation #Linkspreed
+
+### 28.07.2024 (announcement Web4)
+- 🌐 Ready to elevate your mobile experience? With Flutter, we're diving deeper into mobile development for existing network solutions in #Web4, crafting new platforms just for you. 📱✨ What features are you excited about? Share your thoughts below! #MobileDev #Innovation #Linkspreed
+
+### 28.07.2024 (announcement Web4)
+- 🚀 Imagine a world where social networks are even more immersive & interconnected! At Linkspreed, we're pushing boundaries & developing new platforms in the realm of #Web4. Dive into the future with us! 💡✨ Let's shape the Internet of Social Networks together. What features do you want to see? Drop your ideas below! #Innovation #TechForward #Linkspreed
+
 ### 27.07.2024 (announcement Web4)
 - Building bridges in Web4 with our 4.0 projects! 🌉✨ We're ramping up efforts to integrate partners into this new era. 🤝💼 Who would you like to see join us? Tag them and let’s make it happen! 👇🔗 #Web4 #Partnerships #Innovation #Collaboration
 
