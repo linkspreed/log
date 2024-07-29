@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 29.07.2024 (announcement Web4)
+- We’ve been grinding on Project 4.0 and now we’re in the acquisition phase! 🚀💼 What partnerships or collaborations should we pursue next? Share your thoughts!👇✨ #Linkspreed #Project4.0 #Innovation #NextLeve
+
+### 29.07.2024 (announcement Web4)
+- Mission Reddit2Web4: We're bringing Reddit communities to the superior Web4! 🚀🌐 What features do you want to see? Drop your ideas and join the revolution!👇✨ #Linkspreed #Reddit2Web4 #Innovation #CommunityPower
+
+### 29.07.2024 (announcement Web4)
+- 🌐 Dive into our Developer Day highlights! 🚀 We’ve been busy enhancing projects and crafting new social networks to integrate into our Web4 pipeline. Ready to join the future of connectivity? Share your ideas & feedback below! 👇✨ #Linkspreed #Web4 #Innovation #DevDay2024
+
 ### 28.07.2024 (announcement Web4)
 - 🌏 Picture this: Web4 going global! We're planning to bring communities worldwide into the #Web4 ecosystem. 🌐✨ What international features and connections do you envision? Share your ideas with us! Let's make the future interconnected! #GlobalTech #Innovation #Linkspreed
 
