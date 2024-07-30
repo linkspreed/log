@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 30.07.2024 (announcement Web4)
+- Ever imagined Web4 in your daily life? 🌍✨ We're pushing our projects forward to bring Web4 to more sectors than ever before! 🚀 Tell us where you'd love to see Web4 next! 💬👇 #Web4 #Innovation #FutureTech
+
+### 30.07.2024 (announcement Web4)
+- We're diving into Reddit to bring you the next wave of internet magic! 🌐✨ Join the convo, share your thoughts, and let's shape the future together! 🚀🔗 #Web4 #FutureTech #RedditCommunity
+
 ### 29.07.2024 (announcement Web4)
 - We’ve been grinding on Project 4.0 and now we’re in the acquisition phase! 🚀💼 What partnerships or collaborations should we pursue next? Share your thoughts!👇✨ #Linkspreed #Project4.0 #Innovation #NextLeve
 
