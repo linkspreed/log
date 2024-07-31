@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 31.07.2024 (announcement Web4)
+- 🛠️ Diving deep into acquisitions & thrilling projects at Linkspreed! 🚀 Want a sneak peek or have ideas to share? Drop your thoughts below! 👇 Let's build the future together! #TechInnovation #Linkspreed #CommunityPower 💬
+
 ### 30.07.2024 (announcement Web4)
 - Ever imagined Web4 in your daily life? 🌍✨ We're pushing our projects forward to bring Web4 to more sectors than ever before! 🚀 Tell us where you'd love to see Web4 next! 💬👇 #Web4 #Innovation #FutureTech
 
