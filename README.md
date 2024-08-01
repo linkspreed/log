@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 01.08.2024 (announcement Web4)
+- Imagine a Web4 world, but lighter, faster, and fully open source! 🌐💨 We're crafting Web4 Lite just for you. Stay tuned and let's build the future together! 🚀🔧 #Web4Lite #OpenSource #FutureTech
+
 ### 31.07.2024 (announcement Web4)
 - 🛠️ Diving deep into acquisitions & thrilling projects at Linkspreed! 🚀 Want a sneak peek or have ideas to share? Drop your thoughts below! 👇 Let's build the future together! #TechInnovation #Linkspreed #CommunityPower 💬
 
