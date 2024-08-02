@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 02.08.2024 (announcement Web4)
+- 🚀 Every step we take in August is packed with innovation! 🌟 What feature are you most excited about? Drop your thoughts below! 👇
+
 ### 01.08.2024 (announcement Web4)
 - Imagine a Web4 world, but lighter, faster, and fully open source! 🌐💨 We're crafting Web4 Lite just for you. Stay tuned and let's build the future together! 🚀🔧 #Web4Lite #OpenSource #FutureTech
 
