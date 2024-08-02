@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 03.08.2024 (announcement Web4)
+- 🌐🔧 Pioneering the future! We're not just working on our projects; we're driving forward with #DigitalCities4.0! 🏙️✨ What features would YOU love to see in a digital city? Drop your thoughts below and let's innovate together! 🚀💬 #TechInnovation #SmartCities #Linkspreed
+
 ### 02.08.2024 (announcement Web4)
 - 🚀 Every step we take in August is packed with innovation! 🌟 What feature are you most excited about? Drop your thoughts below! 👇
 
