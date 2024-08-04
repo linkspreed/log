@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 04.08.2024 (announcement Web4)
+- 🌟 Imagine a world where your social network dreams come true! 🌍 With Web4 Lite, our new open-source foundation, it's possible. 🚀✨ Join our GitHub community and be part of the Web4 revolution! 🌐💡 #Web4Lite #OpenSource #InnovateWithUs #FutureTech #JoinTheRevolution
+
+### 04.08.2024 (announcement Web4)
+- 📧 Imagine an email system that connects the future! At Linkspreed, we’re crafting just that to showcase Web4 to the world! 🌍✨ Want to help shape this innovation? Join the conversation and share your ideas! 🚀💡 #Web4 #Innovation #EmailRevolution #Linkspreed #JoinUs
+
+### 04.08.2024 (announcement Web4)
+- 🌟 Imagine a social network that's different from the rest! At Linkspreed, we're building it based on Web4 Lite. 🌐✨ Ready to join the revolution? 🚀 Share your thoughts and help us shape the future! 💡💬 #Web4Lite #SocialNetwork #Innovation #Linkspreed #JoinUs
+
 ### 03.08.2024 (announcement Web4)
 - 🌐🔧 Pioneering the future! We're not just working on our projects; we're driving forward with #DigitalCities4.0! 🏙️✨ What features would YOU love to see in a digital city? Drop your thoughts below and let's innovate together! 🚀💬 #TechInnovation #SmartCities #Linkspreed
 
