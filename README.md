@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 05.08.2024 (announcement Web4)
+- 🛠️🚀 We're revamping our sales infrastructure to serve you better! Got ideas or feedback? Drop them below! ⬇️ Let's build something amazing together. 💡✨ #LinkspreedUpgrade #Innovation #YourVoiceMatters
+
+### 05.08.2024 (announcement Web4)
+- 🌐🔍 Dive into the future of social networks with us! We're teaming up with new partners to understand your needs better. Your feedback is golden! 💬✨ Share your thoughts using #LinkspreedPartners #SocialFuture. What features do you crave?👇 #TechTalks #CommunityFirst
+
 ### 04.08.2024 (announcement Web4)
 - 🌟 Imagine a world where your social network dreams come true! 🌍 With Web4 Lite, our new open-source foundation, it's possible. 🚀✨ Join our GitHub community and be part of the Web4 revolution! 🌐💡 #Web4Lite #OpenSource #InnovateWithUs #FutureTech #JoinTheRevolution
 
