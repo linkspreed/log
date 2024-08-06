@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 06.08.2024 (announcement Web4)
+- Imagine a web where possibilities are endless! 🌐 We're enhancing Web4 with more architectures for diverse social networks. What features would you love to see? Share your thoughts! 🧠💬 #Web4 #NextGenWeb #Innovation
+
+### 06.08.2024 (announcement Web4)
+- Building the future of the web! 🚀 Dive into Web4 Lite with us, an open-source marvel from the Web4 Foundation. How do you envision the web of tomorrow? Drop your ideas below! 💡👇 #Web4 #Innovation #OpenSource
+
 ### 05.08.2024 (announcement Web4)
 - 🛠️🚀 We're revamping our sales infrastructure to serve you better! Got ideas or feedback? Drop them below! ⬇️ Let's build something amazing together. 💡✨ #LinkspreedUpgrade #Innovation #YourVoiceMatters
 
