@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 07.08.2024 (announcement Web4)
+- 🛠️🚀 We're pushing the boundaries of Web4 tech solutions! What challenges do you face that Web4 could solve? Drop your thoughts! 💬 #Web4 #Innovation #TechSolutions #Linkspreed
+
+### 07.08.2024 (announcement Web4)
+- 🏙️🌐 Ready for the future? "Digital Cities 4.0" integrates cities into Web4 for a smarter, connected world. How would you shape a digital city? Let’s discuss! 🏙️💡 #DigitalCities #Web4 #Linkspreed #SmartCity
+
 ### 06.08.2024 (announcement Web4)
 - Imagine a web where possibilities are endless! 🌐 We're enhancing Web4 with more architectures for diverse social networks. What features would you love to see? Share your thoughts! 🧠💬 #Web4 #NextGenWeb #Innovation
 
