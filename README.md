@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 08.08.2024 (announcement Web4)
+- 🚀 Exploring the frontier of Web4! From game-changing projects to thriving communities, we're deep in the innovation stream. 💡 What excites you most about Web4? Share your thoughts! #Web4 #Innovation #TechTalk
+
+### 08.08.2024 (announcement Web4)
+- 🔗 Our Web4 pipeline keeps growing, and so does the excitement! 🌐 What features or projects are you most curious about? Let’s build the future together. Drop your ideas below! 💭 #Web4 #FutureTech #CommunityPower
+
 ### 07.08.2024 (announcement Web4)
 - 🛠️🚀 We're pushing the boundaries of Web4 tech solutions! What challenges do you face that Web4 could solve? Drop your thoughts! 💬 #Web4 #Innovation #TechSolutions #Linkspreed
 
