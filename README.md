@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 09.08.2024 (announcement Web4)
+- 🚀 The journey continues, and we're laser-focused on bringing you even more innovative ways to boost your marketing and sales game! 🎯 How do YOU stay ahead in the market? Share your tips & let's grow together! 💡👇 #MarketingStrategy #SalesGrowth #LinkspreedCommunity
+
+### 09.08.2024 (announcement Web4)
+- 🌐 The evolution of Web4 is in full swing! Soon, our three core models will be fully built and ready to transform your digital experience. What features are you most excited about? Tell us below! 🔥👇 #Web4 #DigitalInnovation #TechFuture #Linkspreed
+
 ### 08.08.2024 (announcement Web4)
 - 🚀 Exploring the frontier of Web4! From game-changing projects to thriving communities, we're deep in the innovation stream. 💡 What excites you most about Web4? Share your thoughts! #Web4 #Innovation #TechTalk
 
