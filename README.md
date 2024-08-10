@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 10.08.2024 (announcement Web4)
+- 🌐 Building the future of Web4, one line of code at a time. Curious about what’s cooking in our labs? Drop your guesses below! 👀🔧 #Web4 #TechInnovation #FutureIsNow
+
 ### 09.08.2024 (announcement Web4)
 - 🚀 The journey continues, and we're laser-focused on bringing you even more innovative ways to boost your marketing and sales game! 🎯 How do YOU stay ahead in the market? Share your tips & let's grow together! 💡👇 #MarketingStrategy #SalesGrowth #LinkspreedCommunity
 
