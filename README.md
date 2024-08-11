@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 11.08.2024 (announcement Web4)
+- 🚀 Imagine your city powered by the future! 🌐 We're gearing up to make Digital City 4.0 a global reality! 🌍 Ready to see your city evolve? Share your ideas with us! 🔥 Let’s shape the future together! #DigitalCity4 #Web4 #SmartCities
+
 ### 10.08.2024 (announcement Web4)
 - 🌐 Building the future of Web4, one line of code at a time. Curious about what’s cooking in our labs? Drop your guesses below! 👀🔧 #Web4 #TechInnovation #FutureIsNow
 
