@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 13.08.2024 (announcement Web4)
+- 🚀 Imagine a city that runs like a smart, self-aware machine. 🌍 We're not just dreaming it; we're building it! Our #DigitalCity40 project is expanding beyond borders! 🌐 Which city do you think should be next? Drop your thoughts! 👇 #SmartCities #Innovation #TechForward
+
+### 13.08.2024 (announcement Web4)
+- 🌐 Imagine a world where your customer experience is powered by the future! 💡 With #CX40, we're bringing #Web4 to businesses everywhere. How do you see your company evolving with this tech? Let’s brainstorm together! 💬👇 #CustomerExperience #Innovation #FutureReady
+
 ### 12.08.2024 (announcement Web4)
 - 🤝 Ready to shape the future? We're on the lookout for partners who want to help us build and mold Web4! 🚀 Got what it takes to innovate with us? Let’s connect and create something incredible together.
 
