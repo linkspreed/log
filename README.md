@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 14.08.2024 (announcement Web4)
+- 🏙️ Imagine a city where every street corner is connected in Web4! We're in Sweden, exploring the future of urban tech. What features would make your city smarter? 🚀 Share your ideas with us! #DigitalCity #Web4 #SmartCities
+
+### 14.08.2024 (announcement Web4)
+- 💡 Imagine getting early access to the foundation of Web4! Web4 Lite is gearing up for its first PRIVATE BETA on GitHub. What features are you excited to explore? Drop your thoughts below! 👇 #Web4Lite #BetaTesting #FutureTech
+
 ### 13.08.2024 (announcement Web4)
 - 🚀 Imagine a city that runs like a smart, self-aware machine. 🌍 We're not just dreaming it; we're building it! Our #DigitalCity40 project is expanding beyond borders! 🌐 Which city do you think should be next? Drop your thoughts! 👇 #SmartCities #Innovation #TechForward
 
