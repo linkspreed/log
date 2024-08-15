@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 15.08.2024 (announcement Web4)
+- 🎉 Starting next week until the end of September, we’re dropping a new IT project from our pipeline every single week! 🚀 Each one’s a surprise blend—what are you hoping to see? Share your guesses and stay tuned! 👀💡 #TechReleases #Linkspreed #InnovationInProgress
+
+### 15.08.2024 (announcement Web4)
+- 🔍 Choosing the right Open Source license for #Web4 Lite is like picking the perfect tool for a masterpiece. 🛠️ Which license do you think fits best? Let's discuss and shape this exciting project together! 💬 Drop your thoughts below! #OpenSource #Linkspreed #TechDebate
+
+### 15.08.2024 (announcement Web4)
+- 🚀 Imagine a world where #Web4 transforms how we connect online! At Linkspreed, we're making it happen. 🌐 Dive into our 4.0 projects with us—what do YOU think the future of digital networking looks like? 💬 Share your vision below! #Innovation #Linkspreed #TechTalk
+
 ### 14.08.2024 (announcement Web4)
 - 🏙️ Imagine a city where every street corner is connected in Web4! We're in Sweden, exploring the future of urban tech. What features would make your city smarter? 🚀 Share your ideas with us! #DigitalCity #Web4 #SmartCities
 
