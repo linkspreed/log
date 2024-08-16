@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 16.08.2024 (announcement Web4)
+🌍 Imagine a city where tech meets tomorrow! We're on a mission to bring our Digital City 4.0 project to life in the Netherlands. 🚀 What features would YOU love to see? Drop your ideas below! #Innovation #DigitalCity #FutureTech
+
+### 16.08.2024 (announcement Web4)
+🤝 Ready to shape the future of the web? We're looking for strategic partners to build Web4 together! What do you think the next evolution of the internet should look like? Share your thoughts and tag someone who should join us! 🌐✨ #Web4 #Collaboration #FutureTech
+
 ### 15.08.2024 (announcement Web4)
 - 🎉 Starting next week until the end of September, we’re dropping a new IT project from our pipeline every single week! 🚀 Each one’s a surprise blend—what are you hoping to see? Share your guesses and stay tuned! 👀💡 #TechReleases #Linkspreed #InnovationInProgress
 
