@@ -2,6 +2,18 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 17.08.2024 (announcement Web4)
+🌐 Imagine a world where Web4 isn't just the future—it's now! 🚀 We're deep in the lab, crafting game-changing tech that'll set us apart in this new internet frontier. What features do you think will define the next digital era? Drop your thoughts! 💡👇 #Web4 #TechInnovation #FutureInternet
+
+### 17.08.2024 (announcement Web4)
+🌍 We're expanding our A/B testing and exploring new regions for some exciting 4.0 projects! 🌟 What do you think—where should we dive in next? Share your thoughts and let's shape the future together! 🌐👇 #Innovation #GlobalExpansion #ABTesting #Industry4.0
+
+### 17.08.2024 (announcement Web4)
+🚀 Ready to lead the future? Join us at Linkspreed and take the helm of a 4.0 project in our massive Web4 initiative! 🌐 What breakthrough ideas would you bring to the table? Let’s hear them! 💬👇 #Web4 #Leadership #Innovation #JoinTheFuture
+
+### 17.08.2024 (announcement Web4)
+🔍 We're leveling up our tech game to supercharge our acquisition efforts! 💪 What tools or strategies do you think are key to winning the race? Let’s brainstorm together! 🧠👇 #TechInnovation #Acquisition #GrowthHacking #FutureReady
+
 ### 16.08.2024 (announcement Web4)
 🌍 Imagine a city where tech meets tomorrow! We're on a mission to bring our Digital City 4.0 project to life in the Netherlands. 🚀 What features would YOU love to see? Drop your ideas below! #Innovation #DigitalCity #FutureTech
 
