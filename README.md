@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 18.08.2024 (announcement Web4)
+🌐 Innovating the future of advertising with Web4! How do you envision your brand making waves in the next-gen digital world? Share your thoughts and let’s connect you with the perfect partners! 💡 #Web4 #FutureOfAds #Linkspreed
+
+### 18.08.2024 (announcement Web4)
+Building bridges in the marketing space to connect with even more partners! Who’s ready to collaborate and grow together? Let’s discuss how we can elevate your brand. 🤝 #MarketingGrowth #PartnerUp #Linkspreed
+
 ### 17.08.2024 (announcement Web4)
 🌐 Imagine a world where Web4 isn't just the future—it's now! 🚀 We're deep in the lab, crafting game-changing tech that'll set us apart in this new internet frontier. What features do you think will define the next digital era? Drop your thoughts! 💡👇 #Web4 #TechInnovation #FutureInternet
 
