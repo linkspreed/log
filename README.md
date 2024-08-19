@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 19.08.2024 (announcement Web4)
+Ever wondered how your favorite free Web4 networks stay alive? 🌐💡 Advertising isn't just noise—it's a key to sustainable growth and innovation! 🚀 Let's chat about the balance between free access and monetization. What’s your take? Drop your thoughts below! ⬇️ #Web4 #Innovation #Monetization #AdTech
+
+### 19.08.2024 (announcement Web4)
+Building the future, one milestone at a time! 🛠️ We've just hit a major stride in expanding our infrastructure at Linkspreed. How do you envision the future of online communities? Let’s brainstorm together! 💭🔧 Share your ideas with us! ⬇️ #TechGrowth #Innovation #Linkspreed
+
 ### 18.08.2024 (announcement Web4)
 🌐 Innovating the future of advertising with Web4! How do you envision your brand making waves in the next-gen digital world? Share your thoughts and let’s connect you with the perfect partners! 💡 #Web4 #FutureOfAds #Linkspreed
 
