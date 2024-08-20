@@ -2,35 +2,44 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
-### 19.08.2024 (announcement Web4)
-Ever wondered how your favorite free Web4 networks stay alive? 🌐💡 Advertising isn't just noise—it's a key to sustainable growth and innovation! 🚀 Let's chat about the balance between free access and monetization. What’s your take? Drop your thoughts below! ⬇️ #Web4 #Innovation #Monetization #AdTech
+### 20.08.2024 (announcement Web4)
+- 🚀 We're diving into new territories! 🌍 As promised, we're exploring other countries for our next big Web4 projects. What’s your dream destination for innovation? Let us know! #Web4 #Innovation #GlobalReach
+
+### 20.08.2024 (announcement Web4)
+- 💡 Our new mantra? "Make Social Media 'Social' Again!" 🤝 What does social media mean to you? Drop your thoughts below and let's bring the 'social' back! #SocialMedia #CommunityFirst #Vision2024
+
+### 20.08.2024 (announcement Web4)
+- 🔜 Ready to dive deep into decentralization? 🌐 Soon, you'll have a treasure trove of info on Web4's decentralized future. What excites you most about this shift? Share below! #Web4 #Decentralization #FutureTech
 
 ### 19.08.2024 (announcement Web4)
-Building the future, one milestone at a time! 🛠️ We've just hit a major stride in expanding our infrastructure at Linkspreed. How do you envision the future of online communities? Let’s brainstorm together! 💭🔧 Share your ideas with us! ⬇️ #TechGrowth #Innovation #Linkspreed
+- Ever wondered how your favorite free Web4 networks stay alive? 🌐💡 Advertising isn't just noise—it's a key to sustainable growth and innovation! 🚀 Let's chat about the balance between free access and monetization. What’s your take? Drop your thoughts below! ⬇️ #Web4 #Innovation #Monetization #AdTech
+
+### 19.08.2024 (announcement Web4)
+- Building the future, one milestone at a time! 🛠️ We've just hit a major stride in expanding our infrastructure at Linkspreed. How do you envision the future of online communities? Let’s brainstorm together! 💭🔧 Share your ideas with us! ⬇️ #TechGrowth #Innovation #Linkspreed
 
 ### 18.08.2024 (announcement Web4)
-🌐 Innovating the future of advertising with Web4! How do you envision your brand making waves in the next-gen digital world? Share your thoughts and let’s connect you with the perfect partners! 💡 #Web4 #FutureOfAds #Linkspreed
+- 🌐 Innovating the future of advertising with Web4! How do you envision your brand making waves in the next-gen digital world? Share your thoughts and let’s connect you with the perfect partners! 💡 #Web4 #FutureOfAds #Linkspreed
 
 ### 18.08.2024 (announcement Web4)
-Building bridges in the marketing space to connect with even more partners! Who’s ready to collaborate and grow together? Let’s discuss how we can elevate your brand. 🤝 #MarketingGrowth #PartnerUp #Linkspreed
+- Building bridges in the marketing space to connect with even more partners! Who’s ready to collaborate and grow together? Let’s discuss how we can elevate your brand. 🤝 #MarketingGrowth #PartnerUp #Linkspreed
 
 ### 17.08.2024 (announcement Web4)
-🌐 Imagine a world where Web4 isn't just the future—it's now! 🚀 We're deep in the lab, crafting game-changing tech that'll set us apart in this new internet frontier. What features do you think will define the next digital era? Drop your thoughts! 💡👇 #Web4 #TechInnovation #FutureInternet
+- 🌐 Imagine a world where Web4 isn't just the future—it's now! 🚀 We're deep in the lab, crafting game-changing tech that'll set us apart in this new internet frontier. What features do you think will define the next digital era? Drop your thoughts! 💡👇 #Web4 #TechInnovation #FutureInternet
 
 ### 17.08.2024 (announcement Web4)
-🌍 We're expanding our A/B testing and exploring new regions for some exciting 4.0 projects! 🌟 What do you think—where should we dive in next? Share your thoughts and let's shape the future together! 🌐👇 #Innovation #GlobalExpansion #ABTesting #Industry4.0
+- 🌍 We're expanding our A/B testing and exploring new regions for some exciting 4.0 projects! 🌟 What do you think—where should we dive in next? Share your thoughts and let's shape the future together! 🌐👇 #Innovation #GlobalExpansion #ABTesting #Industry4.0
 
 ### 17.08.2024 (announcement Web4)
-🚀 Ready to lead the future? Join us at Linkspreed and take the helm of a 4.0 project in our massive Web4 initiative! 🌐 What breakthrough ideas would you bring to the table? Let’s hear them! 💬👇 #Web4 #Leadership #Innovation #JoinTheFuture
+- 🚀 Ready to lead the future? Join us at Linkspreed and take the helm of a 4.0 project in our massive Web4 initiative! 🌐 What breakthrough ideas would you bring to the table? Let’s hear them! 💬👇 #Web4 #Leadership #Innovation #JoinTheFuture
 
 ### 17.08.2024 (announcement Web4)
-🔍 We're leveling up our tech game to supercharge our acquisition efforts! 💪 What tools or strategies do you think are key to winning the race? Let’s brainstorm together! 🧠👇 #TechInnovation #Acquisition #GrowthHacking #FutureReady
+- 🔍 We're leveling up our tech game to supercharge our acquisition efforts! 💪 What tools or strategies do you think are key to winning the race? Let’s brainstorm together! 🧠👇 #TechInnovation #Acquisition #GrowthHacking #FutureReady
 
 ### 16.08.2024 (announcement Web4)
-🌍 Imagine a city where tech meets tomorrow! We're on a mission to bring our Digital City 4.0 project to life in the Netherlands. 🚀 What features would YOU love to see? Drop your ideas below! #Innovation #DigitalCity #FutureTech
+- 🌍 Imagine a city where tech meets tomorrow! We're on a mission to bring our Digital City 4.0 project to life in the Netherlands. 🚀 What features would YOU love to see? Drop your ideas below! #Innovation #DigitalCity #FutureTech
 
 ### 16.08.2024 (announcement Web4)
-🤝 Ready to shape the future of the web? We're looking for strategic partners to build Web4 together! What do you think the next evolution of the internet should look like? Share your thoughts and tag someone who should join us! 🌐✨ #Web4 #Collaboration #FutureTech
+- 🤝 Ready to shape the future of the web? We're looking for strategic partners to build Web4 together! What do you think the next evolution of the internet should look like? Share your thoughts and tag someone who should join us! 🌐✨ #Web4 #Collaboration #FutureTech
 
 ### 15.08.2024 (announcement Web4)
 - 🎉 Starting next week until the end of September, we’re dropping a new IT project from our pipeline every single week! 🚀 Each one’s a surprise blend—what are you hoping to see? Share your guesses and stay tuned! 👀💡 #TechReleases #Linkspreed #InnovationInProgress
