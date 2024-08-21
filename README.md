@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 21.08.2024 (announcement Web4)
+- 🌍 Imagine a digital world where possibilities are endless... We're crafting something huge in #Web4 and can't wait to share more soon. What do you think it could be? Drop your wildest guesses below! 👇 #FutureTech #Innovation
+
 ### 20.08.2024 (announcement Web4)
 - 🚀 We're diving into new territories! 🌍 As promised, we're exploring other countries for our next big Web4 projects. What’s your dream destination for innovation? Let us know! #Web4 #Innovation #GlobalReach
 
