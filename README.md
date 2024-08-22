@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 22.08.2024 (announcement Web4)
+- 🌐 Want to dive deep into how decentralization powers the future? At Linkspreed, we’re redefining it in #Web4. Discover the full story here: web4.one/decentralized. Let’s chat about your thoughts—drop a comment below! 💬👇 #Decentralization #Web4Revolution
+
 ### 21.08.2024 (announcement Web4)
 - 🌍 Imagine a digital world where possibilities are endless... We're crafting something huge in #Web4 and can't wait to share more soon. What do you think it could be? Drop your wildest guesses below! 👇 #FutureTech #Innovation
 
