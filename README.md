@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 23.08.2024 (announcement Web4)
+- 🌍 Ready to explore a decentralized future? Dive into web4.one/decentralized and discover how Linkspreed is pioneering the next wave of Web4! Tell us what excites you most about decentralization below! 🚀🔗 #Web4 #Linkspreed #Decentralization #FutureTech
+
+### 23.08.2024 (announcement Web4)
+- 🌐 Dive into our world! Web4 is now officially on Crunchbase as part of the Linkspreed family. Curious to see what we’re up to? Explore, share your thoughts, and let's grow together! 🌱✨ #Web4 #Linkspreed #Crunchbase #TechCommunity
+
+### 23.08.2024 (announcement Web4)
+- 🚀 Imagine a world where your online communities thrive effortlessly. We’re crafting something big with Web4 at Linkspreed, and your voice can shape it! Drop your thoughts below, and let’s build the future together! 💬✨ #Web4 #Linkspreed #FutureOfCommunities
+
 ### 22.08.2024 (announcement Web4)
 - 🌐 Want to dive deep into how decentralization powers the future? At Linkspreed, we’re redefining it in #Web4. Discover the full story here: web4.one/decentralized. Let’s chat about your thoughts—drop a comment below! 💬👇 #Decentralization #Web4Revolution
 
