@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 24.08.2024 (announcement Web4)
+- 🚀 Ready to be part of the next digital evolution? We’re expanding our reach to bring Web4 to everyone, making the best internet experience a reality! 🌐💡 Let’s shape the future together! What excites you most about Web4? Tell us below! 👇 #Web4Revolution #FutureInternet #JoinTheWave
+
 ### 23.08.2024 (announcement Web4)
 - 🌍 Ready to explore a decentralized future? Dive into web4.one/decentralized and discover how Linkspreed is pioneering the next wave of Web4! Tell us what excites you most about decentralization below! 🚀🔗 #Web4 #Linkspreed #Decentralization #FutureTech
 
