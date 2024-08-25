@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 25.08.2024 (announcement Web4)
+- Quick reminder! We're making great strides with our open-source platform, Web4 Lite. What features are YOU most excited about? Let us know! 💻✨ #Web4Lite #OpenSource #TechProgress
+
+### 25.08.2024 (announcement Web4)
+- 💡 Expanding our horizons! As Web4 Foundation, we're stepping up our social media game to share our vision even clearer. What do you want to see from us next? Drop your ideas! 🌍📱 #Web4 #Vision #SocialImpact
+
+### 25.08.2024 (announcement Web4)
+- 🚀 Shaping the future of the web together! We're all about making Web4 known across the digital landscape. How do YOU envision the next-gen web? Share your thoughts below! 🌐💬 #Web4 #Innovation #FutureOfWeb
+
 ### 24.08.2024 (announcement Web4)
 - 🚀 Ready to be part of the next digital evolution? We’re expanding our reach to bring Web4 to everyone, making the best internet experience a reality! 🌐💡 Let’s shape the future together! What excites you most about Web4? Tell us below! 👇 #Web4Revolution #FutureInternet #JoinTheWave
 
