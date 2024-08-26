@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 26.08.2024 (announcement Web4)
+- Building the Web4 future one block at a time! 🧱 At Linkspreed, we're expanding our Web4 pipeline and we'd love your thoughts on where we should head next! Drop your ideas below and let’s create the future together! 🚀 #Web4 #Innovation #Linkspreed
+
+### 26.08.2024 (announcement Web4)
+- Imagine dedicating 2 days each month solely to building social networks! 🤝 At Linkspreed, we’re making it happen! What features would you love to see in these communities? Let’s brainstorm together! 💬 #SocialNetworks #Web4 #CommunityFirst
+
 ### 25.08.2024 (announcement Web4)
 - Quick reminder! We're making great strides with our open-source platform, Web4 Lite. What features are YOU most excited about? Let us know! 💻✨ #Web4Lite #OpenSource #TechProgress
 
