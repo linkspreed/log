@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 27.08.2024 (announcement Web4)
+- 🌍 Ready to shape the future of Web4? We're on the hunt for passionate minds to join us on this groundbreaking journey. Think you’ve got what it takes? Apply now and let's create magic together! 💻✨ #Web4 #JoinTheRevolution
+
+### 27.08.2024 (announcement Web4)
+- 🚀 Level up your CX game! We're taking Project CX 4.0 to the next dimension. What features would YOU love to see? Drop your ideas below and let's build the future together! 💡👇 #CXInnovation #Web4
+
 ### 26.08.2024 (announcement Web4)
 - Building the Web4 future one block at a time! 🧱 At Linkspreed, we're expanding our Web4 pipeline and we'd love your thoughts on where we should head next! Drop your ideas below and let’s create the future together! 🚀 #Web4 #Innovation #Linkspreed
 
