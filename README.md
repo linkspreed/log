@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 29.08.2024 (announcement Web4)
+- 🚀 We've taken Web4 to the next level! Our product plan is fully defined and massively scaled. What's your vision for Web4? Share your thoughts! 💬 #Web4 #Innovation #FutureTech
+
+### 29.08.2024 (announcement Web4)
+- 🌟 By the end of the year, we're aiming for a dream team: 10+ developers and a strong sales force! Who's excited about joining this journey? Let's build the future together! 🙌 #TeamGoals #Hiring #TechTalent
+
+### 29.08.2024 (announcement Web4)
+- 🤝 Big things are brewing! We're laying the groundwork for some exciting partnerships. Which brands would you love to see us collaborate with? Drop your suggestions below! ⬇️ #Partnerships #Growth #FuturePlans
+
 ### 28.08.2024 (announcement Web4)
 - Linkspreed is all in on Web4! 💡 Our focus is sharp on growing our product pipeline, team, and sales. What do you think is key for Web4 growth? Let’s discuss! 🔥👇 #Web4 #Growth #Linkspreed
 
