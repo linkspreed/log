@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 30.08.2024 (announcement)
+- Exploring uncharted markets with Linkspreed! 🌍 What new industry would you like to see us dive into next? Share your ideas with us! 🚀 #NewHorizons #Linkspreed #Innovation
+
+### 30.08.2024 (announcement Web4)
+- Diving into Web4 with fresh software solutions! 💻 What features would you love to see in the next generation of the web? Let’s co-create the future together! 🌐 #Web4 #Innovation #Linkspreed
+
 ### 29.08.2024 (announcement Web4)
 - 🚀 We've taken Web4 to the next level! Our product plan is fully defined and massively scaled. What's your vision for Web4? Share your thoughts! 💬 #Web4 #Innovation #FutureTech
 
