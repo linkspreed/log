@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 31.08.2024 (announcement Web4)
+- 🌍 We’ve got our eyes on the American market for Web4! What trends are you seeing across the pond? 🌐 Let’s talk global innovations in #Web4—drop your thoughts below! 💬👇 #TechTalk #FutureOfWeb
+
 ### 30.08.2024 (announcement)
 - Exploring uncharted markets with Linkspreed! 🌍 What new industry would you like to see us dive into next? Share your ideas with us! 🚀 #NewHorizons #Linkspreed #Innovation
 
