@@ -2,6 +2,21 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 01.09.2024 (announcement Web4)
+- 🚀 Building our internal marketing tool to welcome even more organizations into the world of Web4! Who’s ready to take the leap with us? 🌐💼 Drop your thoughts below! #Web4 #Innovation #Community
+
+### 01.09.2024 (announcement Web4)
+- 🌟 We’re on the hunt for passionate volunteers in Web4 development and sales! Got skills or enthusiasm to share? Let’s chat and create something amazing together! 💪🔥 #Web4 #Volunteers #JoinUs
+
+### 01.09.2024 (announcement Web4)
+- 💡 Investors are now welcome in Web4, but only if they uphold Linkspreed’s values and operate on profit-sharing terms. Ready to align with our vision? Let’s discuss! 💼🤝 #Web4 #Investors #Impact
+
+### 01.09.2024 (announcement Web4)
+- 🌍 We’re pushing forward with Project CX 4.0, guiding businesses into Web4! Are you ready to transform your organization? Let’s collaborate! 🚀💡 #Web4 #Innovation #FutureTech
+
+### 01.09.2024 (announcement Web4)
+- 🏙️ We’re advancing with Digital City 4.0, inviting cities into Web4. How will your city thrive in the next-gen digital era? Share your vision with us! 🌐🌟 #Web4 #SmartCities #Innovation
+
 ### 31.08.2024 (announcement Web4)
 - 🌍 We’ve got our eyes on the American market for Web4! What trends are you seeing across the pond? 🌐 Let’s talk global innovations in #Web4—drop your thoughts below! 💬👇 #TechTalk #FutureOfWeb
 
