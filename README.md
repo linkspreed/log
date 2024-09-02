@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 02.09.2024 (announcement Web4)
+- 🚀 Imagine a future where digital communities thrive like never before. We're laying the foundation for something we call "Denmark 4.0." But what exactly is it? Stay tuned over the coming weeks to uncover the mystery! 🤔✨ #Web4 #Innovation #StayCurious
+
+### 02.09.2024 (announcement Web4)
+- 👩‍💻 We're diving deep into the core development of Web4 Lite, our Open Source foundation! What features or tools would you love to see? Drop your ideas below and let's build the future together! 💡🌐 #Web4Lite #OpenSource #CommunityPower
+
 ### 01.09.2024 (announcement Web4)
 - 🚀 Building our internal marketing tool to welcome even more organizations into the world of Web4! Who’s ready to take the leap with us? 🌐💼 Drop your thoughts below! #Web4 #Innovation #Community
 
