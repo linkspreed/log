@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 04.09.2024 (announcement Web4)
+- Our investor pitch deck is ready to go! 💼 Curious minds, should we drop it for everyone to see? 🔍🤔 Let us know! #Transparency #Startups #Investors
+
+### 04.09.2024 (announcement Web4)
+- Our team is grinding on Web4 Lite, and soon, it'll be open source for the world! 🌍💻 Ready to dive into the future? #Web4 #OpenSource #Innovation
+
+### 04.09.2024 (announcement Web4)
+- Experimenting with A/B strategies for Web4’s 4.0 projects! 🚀🔄 Which approach would you bet on? Let's brainstorm together! #Strategy #Web4 #TechTalks
+
 ### 03.09.2024 (announcement Web4)
 - 🌍 Big plans brewing in Denmark! We're cooking up something special for the Web4 community there. What features do you want to see in our next project? Share your thoughts and shape the future with us! 💡🇩🇰 #Web4Denmark #FutureOfWeb #CommunityPower
 
