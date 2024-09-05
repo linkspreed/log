@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 05.09.2024 (announcement Web4)
+- 🌍 Ever wondered where Web4 is heading next? Denmark 🇩🇰 is in our sights as the target for the Digital City 4.0 project! What features would YOU want in a next-gen digital city? Let’s co-create the future! 💡👇 #Web4 #DigitalCity #Innovation
+
+### 05.09.2024 (announcement Web4)
+- 🚀 Web4 Lite is making solid progress! What would YOU like to see in the next updates? Drop your thoughts and join the convo! Let’s shape the future together! 🌐💬 #Web4 #Web4Lite #TechInnovations
+
 ### 04.09.2024 (announcement Web4)
 - Our investor pitch deck is ready to go! 💼 Curious minds, should we drop it for everyone to see? 🔍🤔 Let us know! #Transparency #Startups #Investors
 
