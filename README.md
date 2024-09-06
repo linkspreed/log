@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 06.09.2024 (announcement Web4)
+🇩🇰 Denmark, are you ready for a digital transformation? We're working to bring Web4 to YOU! 🌐💡 Tell us how you'd like to see the future of tech evolve. Let's shape this journey together! 🚀 #Web4 #DenmarkInnovation #FutureTech
+
+### 06.09.2024 (announcement Web4)
+👥 Our development squad is assembling piece by piece to craft the Web4 future! 🛠️💡 Who should we collaborate with to make the next big leap in tech? Drop your suggestions below! 💬👇 #Web4 #Teamwork #Innovation
+
 ### 05.09.2024 (announcement Web4)
 - 🌍 Ever wondered where Web4 is heading next? Denmark 🇩🇰 is in our sights as the target for the Digital City 4.0 project! What features would YOU want in a next-gen digital city? Let’s co-create the future! 💡👇 #Web4 #DigitalCity #Innovation
 
