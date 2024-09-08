@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 08.09.2024 (announcement Web4)
+- Ready to shape the future with us? 🚀 We're assembling a rockstar trio of software developers at Linkspreed! Think you’ve got what it takes? Let’s talk tech! Drop your skills in the replies 👇 #TechTeam #SoftwareDev #JoinUs #Linkspreed
+
+### 08.09.2024 (announcement Web4)
+- We’re leveling up our Web4 game! 🌐💡 Excited about cutting-edge tech? Let’s build the future together. What innovations do you think Web4 needs? Share your ideas below 👇 #Web4 #Innovation #FutureTech #Linkspreed
+
 ### 07.09.2024 (announcement Web4)
 - Denmark 4.0 is on the horizon! 🌍🚀 We're bringing Web4 to the communities in Denmark. Want to be a part of the future? Drop your thoughts below 👇 #Denmark4 #Web4 #Innovation #CommunityFirst
 
