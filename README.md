@@ -2,11 +2,17 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
-### 09.09.2024 (announcement Web4)
-💻 Imagine a world where communities thrive like never before... That's what we're building with our Delta program at #Web4! 🌐 We’re not just coding, we're shaping the future of social networks! 💬 Drop your thoughts below & let’s grow together! 🚀 #Innovation #Linkspreed
+### 10.09.2024 (announcement Web4)
+- Imagine a world where your community flows like a delta stream 🌊💡. That’s exactly what we’re building: a FREE #Web4 solution powered by Linkspreed! 🚀 Join us & shape the future of social networks! What would YOU want to see in a platform like this? 🗨️👇 #FutureIsWeb4
+
+### 10.09.2024 (announcement Web4)
+- Visionaries unite! 🌍 We're working hard on our team, our product, and our dream of Web4 excellence. 💻✨ Let’s co-create the future—what should a perfect Web4 platform look like? Drop your ideas below! 🔥💡 #Web4Revolution #Linkspreed
 
 ### 09.09.2024 (announcement Web4)
-Lines of code = limitless possibilities! 💻 At #Web4, we’re pushing our projects forward with every keystroke. Ready to see what the future of social networking looks like? 🚀 Share your ideas with us & join the revolution! 🌐💡 #Community #Linkspreed #Web4
+- 💻 Imagine a world where communities thrive like never before... That's what we're building with our Delta program at #Web4! 🌐 We’re not just coding, we're shaping the future of social networks! 💬 Drop your thoughts below & let’s grow together! 🚀 #Innovation #Linkspreed
+
+### 09.09.2024 (announcement Web4)
+- Lines of code = limitless possibilities! 💻 At #Web4, we’re pushing our projects forward with every keystroke. Ready to see what the future of social networking looks like? 🚀 Share your ideas with us & join the revolution! 🌐💡 #Community #Linkspreed #Web4
 
 ### 08.09.2024 (announcement Web4)
 - Ready to shape the future with us? 🚀 We're assembling a rockstar trio of software developers at Linkspreed! Think you’ve got what it takes? Let’s talk tech! Drop your skills in the replies 👇 #TechTeam #SoftwareDev #JoinUs #Linkspreed
