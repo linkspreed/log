@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 11.09.2024 (announcement Web4)
+- Our brains are buzzing with ideas as we fine-tune our social network models 💡🔗 What features do you think will define the future of online communities? Let’s build it together! Drop your ideas below ⬇️👇 #Web4 #Innovation #Linkspreed
+
+### 11.09.2024 (announcement Web4)
+- We're diving deep into the heart of Denmark 4.0 🇩🇰💻 How would you shape the future of digital communities? 🌍 Share your vision and be part of this transformation journey 🚀 Comment below 👇 #Denmark40 #Web4 #CommunityTech
+
 ### 10.09.2024 (announcement Web4)
 - Imagine a world where your community flows like a delta stream 🌊💡. That’s exactly what we’re building: a FREE #Web4 solution powered by Linkspreed! 🚀 Join us & shape the future of social networks! What would YOU want to see in a platform like this? 🗨️👇 #FutureIsWeb4
 
