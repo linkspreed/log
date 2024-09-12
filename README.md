@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 12.09.2024 (announcement Web4)
+- 🌍 Ever wondered what Denmark will look like in Web4? We're building the future, and we're making first connections! Drop your thoughts in the replies! What would you want to see in #Denmark4.0? 👇🇩🇰 #Web4 #CommunityBuilding #FutureOfTech
+
+### 12.09.2024 (announcement Web4)
+- 💻 Ready for a new era of Web4? Delta Stream is about to make waves with its very own website! What features do YOU want to see on it? Let us know your ideas! 🧠👇 #DeltaStream #Web4Innovations #TechRevolution
+
 ### 11.09.2024 (announcement Web4)
 - Our brains are buzzing with ideas as we fine-tune our social network models 💡🔗 What features do you think will define the future of online communities? Let’s build it together! Drop your ideas below ⬇️👇 #Web4 #Innovation #Linkspreed
 
