@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 13.09.2024 (announcement Web4)
+- Ever wondered how Web4 can transform entire communities? 👀💡 Soon, you'll have a sneak peek into our Denmark 4.0 blueprint! 🌍 Check out the full vision & roadmap on our new landing page. Ready to reshape the future? 🚀 Share your thoughts with us! #Denmark4 #Web4
+
 ### 12.09.2024 (announcement Web4)
 - 🌍 Ever wondered what Denmark will look like in Web4? We're building the future, and we're making first connections! Drop your thoughts in the replies! What would you want to see in #Denmark4.0? 👇🇩🇰 #Web4 #CommunityBuilding #FutureOfTech
 
