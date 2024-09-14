@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 14.09.2024 (announcement Web4)
+- Imagine a Denmark where communities are seamlessly connected through Web4! 🌍 We're building bridges and shaping the future with #Denmark4.0. Want to be part of it? Let’s talk ideas in the comments! 💬👇 #Web4 #CommunityPower #TechForGood
+
+### 14.09.2024 (announcement Web4)
+- Rubbing shoulders with the best at the CEODinner in Augsburg! 🥂 Linkspreed is making waves in the industry, and we want you to join the conversation! Share your thoughts below👇 #CEODinner #Linkspreed #Networking
+
 ### 13.09.2024 (announcement Web4)
 - Ever wondered how Web4 can transform entire communities? 👀💡 Soon, you'll have a sneak peek into our Denmark 4.0 blueprint! 🌍 Check out the full vision & roadmap on our new landing page. Ready to reshape the future? 🚀 Share your thoughts with us! #Denmark4 #Web4
 
