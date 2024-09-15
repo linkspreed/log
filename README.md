@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 15.09.2024 (announcement Web4)
+- Curious about the future of Denmark? 🌍 Dive into our Denmark 4.0 project and explore how we're shaping digital communities with #Web4! Learn more, join the conversation, and share your thoughts! 🗣️👇 https://web4.one/denmark #Denmark40 #Linkspreed
+
+### 15.09.2024 (announcement Web4)
+- One site, multiple languages! 🌐 We’ve launched https://web4.one/denmark for Danish, German, and global users—access the latest updates in your language! 💬 Check it out and let us know what you think! 🗣️🇩🇰🇩🇪 #Web4 #Linkspreed #GlobalCommunities
+
+### 15.09.2024 (announcement Web4)
+- The future of Super Apps is here! 🚀 We’ve advanced our plans for Web4 Delta (Stream)—a game-changer for digital experiences! 💡 Curious? Share your thoughts below! 👇 #Web4 #Linkspreed #DigitalRevolution
+
 ### 14.09.2024 (announcement Web4)
 - Imagine a Denmark where communities are seamlessly connected through Web4! 🌍 We're building bridges and shaping the future with #Denmark4.0. Want to be part of it? Let’s talk ideas in the comments! 💬👇 #Web4 #CommunityPower #TechForGood
 
