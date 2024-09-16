@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 16.09.2024 (announcement Web4)
+- Ever wondered how the web of the future will look? 🌐✨ We’ve been working hard on Web4 Delta, and in the coming weeks, we’ll reveal its game-changing features. Curious? Ask us anything and stay tuned! ⬇️🔍 #Web4Delta #TechRevolution
+
+### 16.09.2024 (announcement Web4)
+- We’re on a mission to make Web4 more accessible and impactful! 🚀💡 Our latest updates are designed to boost its presence and reach. What would you like to see next? Share your thoughts and let’s shape the future together! ⬇️🌟 #Web4 #FutureOfWeb
+
 ### 15.09.2024 (announcement Web4)
 - Curious about the future of Denmark? 🌍 Dive into our Denmark 4.0 project and explore how we're shaping digital communities with #Web4! Learn more, join the conversation, and share your thoughts! 🗣️👇 https://web4.one/denmark #Denmark40 #Linkspreed
 
