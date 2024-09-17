@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 17.09.2024 (announcement Web4)
+- Imagine every Danish community connected like never before! 🌍 We’re building something BIG with #Denmark4.0. Want to know how your city could benefit? Drop your thoughts below👇 and let’s discuss the future of community networks! #Web4 #Linkspreed 🚀
+
+### 17.09.2024 (announcement Web4)
+- Tired of the same old networks? 🤔 We’re cooking up something new for our partners that’ll change the game. 💡 How would YOU redesign your digital community? Let us know! ⬇️ #Web4 #Innovation #Linkspreed #FutureTech
+
 ### 16.09.2024 (announcement Web4)
 - Ever wondered how the web of the future will look? 🌐✨ We’ve been working hard on Web4 Delta, and in the coming weeks, we’ll reveal its game-changing features. Curious? Ask us anything and stay tuned! ⬇️🔍 #Web4Delta #TechRevolution
 
