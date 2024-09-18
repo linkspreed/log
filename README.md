@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 18.09.2024 (announcement Web4)
+- Making great strides with our Open Source model Web4 Lite 🌐💻 Code going live soon! Initial tests have been incredibly successful. Exciting times ahead! #Web4 #OpenSource #TechInnovation
+
+### 18.09.2024 (announcement Web4)
+- Exciting progress across numerous projects! 🚀 Stay tuned as we continue to push boundaries in technology and community building. Got questions or ideas? Drop them below! #Innovation #TechProgress #Web4
+
+### 18.09.2024 (announcement Web4)
+- Our Non-Profit division has some exciting news brewing! 🌍✨ Stay curious and keep an eye out for updates coming your way soon. Ready to make a positive impact together! #NonProfit #SocialGood #Web4
+
 ### 17.09.2024 (announcement Web4)
 - Imagine every Danish community connected like never before! 🌍 We’re building something BIG with #Denmark4.0. Want to know how your city could benefit? Drop your thoughts below👇 and let’s discuss the future of community networks! #Web4 #Linkspreed 🚀
 
