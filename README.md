@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 19.09.2024 (announcement Web4)
+- 🌐 The foundation has been laid! Web4 Lite’s code is live in a private GitHub repo. Want early insights? Drop your thoughts below on what features you're excited to see! 👇💡 #Web4Lite #InnovateTheFuture #TechRevolution
+
+### 19.09.2024 (announcement Web4)
+- 🤝 Together, we build stronger communities! Linkspreed proudly collaborates with nonprofits to drive positive change. Let us know how we can help your organization grow! 🌍💬 #SocialImpact #LinkspreedCares #TechForGood
+
 ### 18.09.2024 (announcement Web4)
 - Making great strides with our Open Source model Web4 Lite 🌐💻 Code going live soon! Initial tests have been incredibly successful. Exciting times ahead! #Web4 #OpenSource #TechInnovation
 
