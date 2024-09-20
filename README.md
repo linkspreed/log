@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 20.09.2024 (announcement Web4)
+- The future of digital communities is closer than you think! 🔥 This weekend, we might just drop the Web4 Lite source code. Who’s ready to dive in? 🌐🚀 Drop your thoughts below! 💬👇 #Web4 #OpenSource #CommunityTech
+
+### 20.09.2024 (announcement Web4)
+- Meet the future today 🌟—we’ve just launched delta.web4.one! 🚀 Ready to explore the next evolution of social networks? Dive in and share your first impressions with us! 🌐💡 #Web4 #TechInnovation #CommunityConnect
+
 ### 19.09.2024 (announcement Web4)
 - 🌐 The foundation has been laid! Web4 Lite’s code is live in a private GitHub repo. Want early insights? Drop your thoughts below on what features you're excited to see! 👇💡 #Web4Lite #InnovateTheFuture #TechRevolution
 
