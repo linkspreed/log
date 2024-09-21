@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 21.09.2024 (announcement Web4)
+- 👀 Curious about the future of web communities? The foundation of Web4 Lite is now open-source on GitHub! 🚀💡 Dive in, collaborate, and help us shape the future of decentralized networks. Let’s build together! 🔧🌍 Check it out here 👉 https://github.com/Web4-Organisation/Web4-Lite #Web4 #opensource #innovation 💬 What's the first thing you'll build? Tell us ⬇️
+
 ### 20.09.2024 (announcement Web4)
 - The future of digital communities is closer than you think! 🔥 This weekend, we might just drop the Web4 Lite source code. Who’s ready to dive in? 🌐🚀 Drop your thoughts below! 💬👇 #Web4 #OpenSource #CommunityTech
 
