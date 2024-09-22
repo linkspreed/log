@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 22.09.2024 (announcement Web4)
+- Developers are already forking Web4 Lite and creating their own Web4 networks! 🌐✨ What will you build next? Share your ideas or collab with us! 🤝 #Web4 #OpenSource #TechInnovation
+
+### 22.09.2024 (announcement Web4)
+- Monitoring our website performance in real-time to keep Linkspreed running smoothly! 🚀📈 Have ideas for monitoring tools? Let’s discuss in the comments! 👇 #WebMonitoring #TechTalk #DevOps
+
+### 22.09.2024 (announcement Web4)
+- With Web4 DELTA & Web4 Lite launched, all eyes are now on Denmark 4.0! 🇩🇰 Ready to reshape communities? Drop your thoughts on how we can integrate Web4 in local ecosystems! 💡 #Denmark40 #Web4 #TechForGood
+
 ### 21.09.2024 (announcement Web4)
 - 👀 Curious about the future of web communities? The foundation of Web4 Lite is now open-source on GitHub! 🚀💡 Dive in, collaborate, and help us shape the future of decentralized networks. Let’s build together! 🔧🌍 Check it out here 👉 https://github.com/Web4-Organisation/Web4-Lite #Web4 #opensource #innovation 💬 What's the first thing you'll build? Tell us ⬇️
 
