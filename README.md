@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 23.09.2024 (announcement Web4)
+- Ready to turn your #Web4 browser app into an Android app? 🚀 We've just dropped a second repo on GitHub—now it’s easier than ever with just basic app dev knowledge! 📲💻 Who’s ready to go mobile? Drop a 💡 in the comments if you’re excited! 🔗 #OpenSource #Android #WebDev #Linkspreed
+
 ### 22.09.2024 (announcement Web4)
 - Developers are already forking Web4 Lite and creating their own Web4 networks! 🌐✨ What will you build next? Share your ideas or collab with us! 🤝 #Web4 #OpenSource #TechInnovation
 
