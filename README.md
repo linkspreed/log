@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 24.09.2024 (announcement Web4)
+- Picture a future where 98 communities in Denmark are connected seamlessly through #Web4! 🌐 We’re hard at work on #Denmark40, creating a more connected society. What features would YOU like to see in this revolution? 🚀 Share your thoughts below! 👇 #Linkspreed
+
+### 24.09.2024 (announcement Web4)
+- Building bridges, forging partnerships, and spreading the #Web4 revolution! 🌍💡 We’re connecting with leaders to make Denmark 4.0 shine. What’s YOUR take on how tech can empower communities? Drop your ideas & let's shape the future together! 💬✨ #Partnerships #Linkspreed
+
 ### 23.09.2024 (announcement Web4)
 - Ready to turn your #Web4 browser app into an Android app? 🚀 We've just dropped a second repo on GitHub—now it’s easier than ever with just basic app dev knowledge! 📲💻 Who’s ready to go mobile? Drop a 💡 in the comments if you’re excited! 🔗 #OpenSource #Android #WebDev #Linkspreed
 
