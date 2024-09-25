@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 25.09.2024 (announcement Web4)
+- Ever wondered how Open Source fuels innovation? 🚀 Dive into our vision for a decentralized future at web4.one/opensource! Be part of the change & share your thoughts! 💬 How will YOU shape Web4? #OpenSource #Web4 #Innovation #Linkspreed #Community
+
 ### 24.09.2024 (announcement Web4)
 - Picture a future where 98 communities in Denmark are connected seamlessly through #Web4! 🌐 We’re hard at work on #Denmark40, creating a more connected society. What features would YOU like to see in this revolution? 🚀 Share your thoughts below! 👇 #Linkspreed
 
