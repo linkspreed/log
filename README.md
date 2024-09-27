@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 27.09.2024 (announcement Web4)
+- Ever wonder what the future of communities looks like? 🌍 We're all in on Denmark 4.0! Dive into our mission and let us know what YOU think we should focus on next! 💡👇 #Denmark4 #Web4 #SmartCommunities
+
+### 27.09.2024 (announcement Web4)
+- Is your browsing experience fast enough? 💨 We're obsessed with speed and just took serious steps to boost our site performance! Check it out & tell us how fast it feels now! ⚡️👇 #TechUpdate #Web4 #FasterThanEver
+
 ### 26.09.2024 (announcement Web4)
 - Imagine unlocking the full potential of Web4 right at your fingertips! 🚀 We're crafting more tools to bring you closer to Linkspreed & Web4 🔗🔍 What features do YOU want to see next? Drop your ideas below! ⬇️ #Web4 #Linkspreed #Innovation
 
