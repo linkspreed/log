@@ -3,6 +3,12 @@
 ## All changes that we will make from 21.06.2024 will appear here ...
 
 ### 28.09.2024 (announcement Web4)
+- Imagine a world where every niche has its own thriving social community 🌍🎯 — We're building one platform a day just for that! What niche would YOU want a network for? 🗣️👇 #Web4 #SocialNetworks #CommunityPower
+
+### 28.09.2024 (announcement Web4)
+- Every day, we're getting closer to our vision of a better internet 🌐✨ What's the one feature that would make online communities perfect for you? Let’s shape the future together! 🚀💬 #Web4 #FutureOfTheWeb #CommunityGoals
+
+### 28.09.2024 (announcement Web4)
 - New communities are rising in Web4 🌐💥! We’re working hard to integrate them into the #Web4Explore network 🚀. What’s a must-have feature for YOU? Drop your ideas below ⬇️ #CommunityBuilding #TechInnovation #Web4
 
 ### 28.09.2024 (announcement Web4)
