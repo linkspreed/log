@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 28.09.2024 (announcement Web4)
+- New communities are rising in Web4 🌐💥! We’re working hard to integrate them into the #Web4Explore network 🚀. What’s a must-have feature for YOU? Drop your ideas below ⬇️ #CommunityBuilding #TechInnovation #Web4
+
+### 28.09.2024 (announcement Web4)
+- Copenhagen’s first community is taking shape 🌍🇩🇰! Will it be a demo or something official? 👀 The future’s wide open, and we need your thoughts! 💬 What features should we add? #Denmark40 #Web4 #CopenhagenCommunity
+
 ### 27.09.2024 (announcement Web4)
 - Ever wonder what the future of communities looks like? 🌍 We're all in on Denmark 4.0! Dive into our mission and let us know what YOU think we should focus on next! 💡👇 #Denmark4 #Web4 #SmartCommunities
 
