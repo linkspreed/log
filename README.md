@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 29.09.2024 (announcement Web4)
+- ☕️ Calling all coffee lovers! We just launched our first Daily Community over at coffee.web4.one! 🌟 Join the conversation, share your favorite brews, and connect with fellow enthusiasts. What’s your go-to coffee order? Let’s chat! 👇 #CoffeeCommunity #Web4 #JoinUs
+
+### 29.09.2024 (announcement Web4)
+- 🤝 Collaborating for bigger dreams today! We’re working on partnerships that will shape exciting projects ahead. 🌍✨ What do you think our next big step should be? Share your ideas with us! 👇 #Partnerships #Innovation #Web4
+
 ### 28.09.2024 (announcement Web4)
 - Imagine a world where every niche has its own thriving social community 🌍🎯 — We're building one platform a day just for that! What niche would YOU want a network for? 🗣️👇 #Web4 #SocialNetworks #CommunityPower
 
