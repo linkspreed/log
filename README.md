@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 30.09.2024 (announcement Web4)
+- 🛑 Tired of negativity online? Dive into our Anti-Hate Community at anti-hate.web4.one, now live on Web4 Explore! 💬 Let’s build a space for positive vibes only! Join the conversation and share your thoughts! 👇 #NoMoreHate #Web4Explore #PositiveVibes
+
+### 30.09.2024 (announcement Web4)
+- 🤝 Partnerships are the key! We're building connections to create the largest, most diverse alternative to mainstream social media. Let’s shake up the future together! 🔥 What would YOU like to see? Tell us! 👇 #Web4 #SocialMediaRevolution #CommunityPowered
+
 ### 29.09.2024 (announcement Web4)
 - ☕️ Calling all coffee lovers! We just launched our first Daily Community over at coffee.web4.one! 🌟 Join the conversation, share your favorite brews, and connect with fellow enthusiasts. What’s your go-to coffee order? Let’s chat! 👇 #CoffeeCommunity #Web4 #JoinUs
 
