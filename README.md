@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 01.10.2024 (announcement Web4)
+- We’re back at it! 💰 Giving the #GoogleAdGrants program another shot with even more energy! 💪 Help us expand our reach for social projects! #Linkspreed #Web4 #NonProfit
+
+### 01.10.2024 (announcement Web4)
+- The next big thing in #Web4 is in motion! 🚀 We’re continuously building an alternative social network focused on innovation and freedom. 💡 What would you love to see on the platform? Comment below! #Innovation #Community
+
+### 01.10.2024 (announcement Web4)
+- The #Web4 Package Template is here! 🎉 We’re ready for major partnerships with strict contracts & licenses. Full details in a blog post coming in a few weeks! Stay tuned! #Partnership #Web4
+
 ### 30.09.2024 (announcement Web4)
 - 🛑 Tired of negativity online? Dive into our Anti-Hate Community at anti-hate.web4.one, now live on Web4 Explore! 💬 Let’s build a space for positive vibes only! Join the conversation and share your thoughts! 👇 #NoMoreHate #Web4Explore #PositiveVibes
 
