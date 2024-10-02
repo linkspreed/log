@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 02.10.2024 (announcement Web4)
+- 🛡️ Fighting spam? We've got you covered! 🚫 We're developing tools to keep spam at bay and allow registration from specific domains only! 💡 What do you think – helpful or not? Let us know!👇 #Web4 #AntiSpam #SecureCommunities
+
+### 02.10.2024 (announcement Web4)
+- 🎤💻 Say hello to JustTalk and JustTech – two new communities built on Web4! 🚀 Ready to dive in? Explore both on Web4 Explore now and share your feedback below!👇 #Web4 #CommunityBuilding #ExploreTheFuture
+
+### 02.10.2024 (announcement Web4)
+- Why settle for 1 community when you can get 2? 🚀 We’re doubling the impact and launching TWO new communities every single day! 🎉 Ready to explore? Drop your thoughts below and tell us what you think!👇 #Web4 #CommunityPower #DoubleTheFun
+
 ### 01.10.2024 (announcement Web4)
 - We’re back at it! 💰 Giving the #GoogleAdGrants program another shot with even more energy! 💪 Help us expand our reach for social projects! #Linkspreed #Web4 #NonProfit
 
