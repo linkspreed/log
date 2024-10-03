@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 03.10.2024 (announcement Web4)
+-  On this Day of German Unity, we’ve been busy building something special: check out deutschland.web4.one and germany.web4.one! What features would you like to see next? 🎉💬 #Web4 #UnityInTech #Community
+
+### 03.10.2024 (announcement Web4)
+- 💻🔧 While we’ve been quietly working today, some behind-the-scenes infrastructure improvements have been made. Got thoughts or feedback? Share them with us ⬇️👇 #Web4 #TechUpdate #CommunityFirst
+
 ### 02.10.2024 (announcement Web4)
 - 🛡️ Fighting spam? We've got you covered! 🚫 We're developing tools to keep spam at bay and allow registration from specific domains only! 💡 What do you think – helpful or not? Let us know!👇 #Web4 #AntiSpam #SecureCommunities
 
