@@ -2,6 +2,13 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+
+### 04.10.2024 (announcement Web4)
+- Ever wondered what drives us at Linkspreed? 🌍💡 We’ve sharpened our mission & vision just for YOU! Dive into our fresh updates & tell us what resonates most! 👇 #Linkspreed #Web4 #CommunityDriven
+
+### 04.10.2024 (announcement Web4)
+- Want exclusive access to your Web4 network? 🔐 We’ve built an add-on that allows domain-restricted registrations! Curious how it works? Drop your thoughts below! ⬇️ #Web4 #Linkspreed #TechInnovation
+
 ### 03.10.2024 (announcement Web4)
 -  On this Day of German Unity, we’ve been busy building something special: check out deutschland.web4.one and germany.web4.one! What features would you like to see next? 🎉💬 #Web4 #UnityInTech #Community
 
