@@ -2,6 +2,11 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 05.10.2024 (announcement Web4)
+- Curious minds, unite! 🧠🔬 Whether you're into quantum physics or the mysteries of space, our new science community is where you belong. Share your ideas, debates, and discoveries with us! 🌍 #ScienceTalk #Web4
+
+### 05.10.2024 (announcement Web4)
+- Ever found a meme so good you had to share it with the world? 🧐 Now’s your chance! Our meme community is live 🎉, and it’s calling your creativity! Drop your favorite memes and let’s get laughing together! #MemeCulture #Web4
 
 ### 04.10.2024 (announcement Web4)
 - Ever wondered what drives us at Linkspreed? 🌍💡 We’ve sharpened our mission & vision just for YOU! Dive into our fresh updates & tell us what resonates most! 👇 #Linkspreed #Web4 #CommunityDriven
