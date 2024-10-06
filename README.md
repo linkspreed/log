@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 06.10.2024 (announcement Web4)
+- We’ve been diving deep into our projects, fine-tuning every detail. But what’s YOUR take on the future of communities? 🌐👥 Drop your thoughts below, and let’s shape #Web4 together! 🚀🔗 What features would YOU love to see? Let’s brainstorm! 💡👇 #Linkspreed #CommunityChat
+
 ### 05.10.2024 (announcement Web4)
 - Curious minds, unite! 🧠🔬 Whether you're into quantum physics or the mysteries of space, our new science community is where you belong. Share your ideas, debates, and discoveries with us! 🌍 #ScienceTalk #Web4
 
