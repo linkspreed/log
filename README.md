@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 07.10.2024 (announcement Web4)
+- Building visions takes time, but we’re crafting the future of Web4, one community at a time 🌍✨ Dive into our product journey and tell us what YOU want to see next! 💡👇 #Web4 #Linkspreed #FutureTech #CommunityPowered #InnovationInAction
+
 ### 06.10.2024 (announcement Web4)
 - We’ve been diving deep into our projects, fine-tuning every detail. But what’s YOUR take on the future of communities? 🌐👥 Drop your thoughts below, and let’s shape #Web4 together! 🚀🔗 What features would YOU love to see? Let’s brainstorm! 💡👇 #Linkspreed #CommunityChat
 
