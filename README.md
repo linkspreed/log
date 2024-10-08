@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 08.10.2024 (announcement Web4)
+- 💡 Imagine your posts enhanced by AI and in even more languages! 🌍 We’re making our community platforms stronger and smarter every day. What languages or AI features would YOU love to see next? 🧠✨ Share your ideas! #Web4 #CommunityPower #Innovation 🚀
+
+### 08.10.2024 (announcement Web4)
+- 🌱 Curious how Linkspreed supports non-profits? We've just dropped an 8-page guide on our website breaking it all down! 📖💼 Dive in, share your thoughts, and let’s collaborate to make an impact. How can we help your mission? 🙌 #NonProfitSupport #Web4 #Linkspreed
+
 ### 07.10.2024 (announcement Web4)
 - Building visions takes time, but we’re crafting the future of Web4, one community at a time 🌍✨ Dive into our product journey and tell us what YOU want to see next! 💡👇 #Web4 #Linkspreed #FutureTech #CommunityPowered #InnovationInAction
 
