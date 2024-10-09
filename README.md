@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 09.10.2024 (announcement Web4)
+- Building communities is an art 🎨 We’re crafting spaces where connections grow 🌱 and conversations flow. What does your ideal online community look like? Share your thoughts below! ⬇️ #Web4 #CommunityFirst #Linkspreed
+
+### 09.10.2024 (announcement Web4)
+- Imagine connecting in any language 🌍 We’re working on tech to support even more languages. What language would you love to see next? Tell us in the comments! 🗣️👇 #Innovation #Web4 #GlobalVoices
+
 ### 08.10.2024 (announcement Web4)
 - 💡 Imagine your posts enhanced by AI and in even more languages! 🌍 We’re making our community platforms stronger and smarter every day. What languages or AI features would YOU love to see next? 🧠✨ Share your ideas! #Web4 #CommunityPower #Innovation 🚀
 
