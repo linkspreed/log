@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 10.10.2024 (announcement Web4)
+- Ever thought about shaping the future of Danish communities? 🇩🇰 We're laying the groundwork for #Denmark40, and your input could help us build more platforms soon! 🛠️ Which Danish city should we focus on next? Let us know 👇 #Web4 #Community
+
+### 10.10.2024 (announcement Web4)
+- Passionate about tech and building communities? 🚀 We're expanding our team at #Linkspreed and looking for innovative minds to join us! 💡 Ready to create something amazing? Drop a comment or DM us to get started! 👥 #JoinUs #Web4
+
 ### 09.10.2024 (announcement Web4)
 - Building communities is an art 🎨 We’re crafting spaces where connections grow 🌱 and conversations flow. What does your ideal online community look like? Share your thoughts below! ⬇️ #Web4 #CommunityFirst #Linkspreed
 
