@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 11.10.2024 (announcement Web4)
+- Ever wondered how Web4 fits into your enterprise strategy? 🤔 We've been rethinking ours and want YOUR input on monetization goals! 💡 Share your thoughts with us! #Web4 #Enterprise #Innovation
+
+### 11.10.2024 (announcement Web4)
+- Got ideas on scaling sales in the digital age? 🚀 We're expanding at Linkspreed and would love to hear your strategies! Drop your tips below and let's grow together! 💬👇 #SalesGrowth #Linkspreed #Web4
+
 ### 10.10.2024 (announcement Web4)
 - Ever thought about shaping the future of Danish communities? 🇩🇰 We're laying the groundwork for #Denmark40, and your input could help us build more platforms soon! 🛠️ Which Danish city should we focus on next? Let us know 👇 #Web4 #Community
 
