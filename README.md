@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 12.10.2024 (announcement Web4)
+- We're not saying it’s HUGE, but… what if we told you something BIG is coming? 🚀 Imagine a space where communities grow stronger, businesses get smarter, and connections run deeper. Ready to discover it with us? 👀 Share your thoughts below! #Web4 #CommunityPower
+
 ### 11.10.2024 (announcement Web4)
 - Ever wondered how Web4 fits into your enterprise strategy? 🤔 We've been rethinking ours and want YOUR input on monetization goals! 💡 Share your thoughts with us! #Web4 #Enterprise #Innovation
 
