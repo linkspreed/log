@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 13.10.2024 (announcement Web4)
+🚀 Every product evolves, but how would YOU shape the next level? Let's co-create the future of #Web4 together! 💡 Drop your ideas below and let’s make it happen! 👇 #Innovation #CommunityDriven
+
+### 13.10.2024 (announcement Web4)
+💬 1000 words? Nah, our refined #Web4 pitch speaks volumes! Ready to hear it? Share your thoughts, and we’ll share the magic. ✨ #PitchPerfect #Web4
+
 ### 12.10.2024 (announcement Web4)
 - We're not saying it’s HUGE, but… what if we told you something BIG is coming? 🚀 Imagine a space where communities grow stronger, businesses get smarter, and connections run deeper. Ready to discover it with us? 👀 Share your thoughts below! #Web4 #CommunityPower
 
