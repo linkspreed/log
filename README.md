@@ -2,11 +2,17 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
-### 13.10.2024 (announcement Web4)
-🚀 Every product evolves, but how would YOU shape the next level? Let's co-create the future of #Web4 together! 💡 Drop your ideas below and let’s make it happen! 👇 #Innovation #CommunityDriven
+### 14.10.2024 (announcement Web4)
+- What if your community was more than just a network? 🧩 With the next Web4 generation, we're steering towards Social Networks as a Service (SNaaS)! 💡 What’s your take on this shift? Share your thoughts!👇 #Web4 #SNaaS #CommunityFirst
+
+### 14.10.2024 (announcement Web4)
+- Picture this: Web4 meets fashion 🛍️✨ We're looking to dive into the German fashion industry with new possibilities for communities. How do you see Web4 shaping the future of fashion? 👗 Join the convo!👇 #Web4 #FashionTech #CommunityInnovation
 
 ### 13.10.2024 (announcement Web4)
-💬 1000 words? Nah, our refined #Web4 pitch speaks volumes! Ready to hear it? Share your thoughts, and we’ll share the magic. ✨ #PitchPerfect #Web4
+- 🚀 Every product evolves, but how would YOU shape the next level? Let's co-create the future of #Web4 together! 💡 Drop your ideas below and let’s make it happen! 👇 #Innovation #CommunityDriven
+
+### 13.10.2024 (announcement Web4)
+- 💬 1000 words? Nah, our refined #Web4 pitch speaks volumes! Ready to hear it? Share your thoughts, and we’ll share the magic. ✨ #PitchPerfect #Web4
 
 ### 12.10.2024 (announcement Web4)
 - We're not saying it’s HUGE, but… what if we told you something BIG is coming? 🚀 Imagine a space where communities grow stronger, businesses get smarter, and connections run deeper. Ready to discover it with us? 👀 Share your thoughts below! #Web4 #CommunityPower
