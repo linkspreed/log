@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 15.10.2024 (announcement Web4)
+- Imagine a world where your communities evolve every day... 🌍 We’re crafting the next generation of #Web4 at Linkspreed, and we want YOU to shape it with us! 💡 What features would make your dream community? Drop your thoughts below! ⬇️ #Innovation #SocialTech
+
+### 15.10.2024 (announcement Web4)
+- Every day brings new possibilities at Linkspreed... 🚀 We're diving into exciting projects, and we’d love to hear from YOU! 💬 What do you think our next big idea should be? Let’s brainstorm together! 🤔👩‍💻 #Web4 #CommunityPower
+
 ### 14.10.2024 (announcement Web4)
 - What if your community was more than just a network? 🧩 With the next Web4 generation, we're steering towards Social Networks as a Service (SNaaS)! 💡 What’s your take on this shift? Share your thoughts!👇 #Web4 #SNaaS #CommunityFirst
 
