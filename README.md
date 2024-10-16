@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 16.10.2024 (announcement Web4)
+- The future of fashion just got social! 👗✨ Imagine a community where style meets connection. #Web4 is bringing fashion lovers across Germany closer than ever. Ready to share your favorite looks or trend tips? 👠👜 Comment below & join the convo! #FashionCommunity #Linkspreed
+
 ### 15.10.2024 (announcement Web4)
 - Imagine a world where your communities evolve every day... 🌍 We’re crafting the next generation of #Web4 at Linkspreed, and we want YOU to shape it with us! 💡 What features would make your dream community? Drop your thoughts below! ⬇️ #Innovation #SocialTech
 
