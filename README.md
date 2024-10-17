@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 17.10.2024 (announcement Web4)
+- At Linkspreed, we've been crafting better ways to streamline our workflows 🛠️. Curious about how efficient processes can fuel innovation? Let’s chat! What’s your favorite productivity hack? 🤔 #Linkspreed #Productivity #TechTalk 💡
+
+### 17.10.2024 (announcement Web4)
+- Ever wondered how to pack a whole community into an app? 📱 We're exploring just that! Soon you'll see them live on the PlayStore. What features should we add to make it even better? Let us know! 🚀 #Linkspreed #AppDevelopment #CommunityTech
+
 ### 16.10.2024 (announcement Web4)
 - The future of fashion just got social! 👗✨ Imagine a community where style meets connection. #Web4 is bringing fashion lovers across Germany closer than ever. Ready to share your favorite looks or trend tips? 👠👜 Comment below & join the convo! #FashionCommunity #Linkspreed
 
