@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 19.10.2024 (announcement Web4)
+- 🧩 What’s missing from your community? More connection, smarter collaboration, or even faster growth? 🔗 Dive into the future with #Linkspreed and tell us what you think we should build next! ⬇️ Drop your thoughts in the replies! 💬✨ #Web4 #CommunityPower
+
+### 19.10.2024 (announcement Web4)
+- 🚀 Imagine a place where your community feels at home, but it's branded for you! How would you shape your own #WhiteLabel platform? Let’s get creative, we’re listening! 🛠️💡 Share your ideas & let’s build together! ⬇️ #Linkspreed #CommunityChat
+
 ### 18.10.2024 (announcement Web4)
 - Expanding horizons, one platform at a time 🌍🚀 What region or industry should we conquer next? Drop your ideas and let's make it happen together! 🔥 #Web4 #BusinessGrowth #Linkspreed
 
