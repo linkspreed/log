@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 20.10.2024 (announcement Web4)
+- 🛠️ Behind every smooth experience, there's a well-oiled machine! At Linkspreed, we've streamlined our internal processes to boost efficiency. Want a peek behind the curtain? Let us know how you keep your workflows sharp! 💡💬 #EfficiencyMatters #LinkspreedFlow
+
+### 20.10.2024 (announcement Web4)
+- 🔄 The future of Web4 is evolving, and we're deep in the lab 🧪! Automated instances are coming soon. What do you think should be the next big feature? Share your thoughts below! 💭👇 #Web4Evolution #Automation #LinkspreedNext
+
 ### 19.10.2024 (announcement Web4)
 - 🧩 What’s missing from your community? More connection, smarter collaboration, or even faster growth? 🔗 Dive into the future with #Linkspreed and tell us what you think we should build next! ⬇️ Drop your thoughts in the replies! 💬✨ #Web4 #CommunityPower
 
