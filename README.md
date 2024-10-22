@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 22.10.2024 (announcement Web4)
+- Ever wondered what the future of community-driven platforms looks like? 🌐✨ We're crafting something exciting at Linkspreed, and we want you to be part of the journey! 🚀 Drop your ideas below ⬇️ Let’s shape the future of #Web4 together. #Innovation #Community #Linkspreed
+
 ### 21.10.2024 (announcement Web4)
 - Imagine a world where you have two social networks—each unique, both under your control 🌐🔗 Curious to see how Web4 DELTA fits into your world? 🤔 Stay tuned, big things coming! 🚀✨ Let us know what you want to see! #Web4 #Innovation #NextGenSocial
 
