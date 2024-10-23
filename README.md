@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 23.10.2024 (announcement Web4)
+- What if your community had options? 🌐👥 Soon, you’ll get to choose between TWO platforms to shape your future! ⚙️💡 Which one will YOU pick? Share your thoughts below! ⬇️ #Web4 #CommunityFirst #TechInnovation
+
+### 23.10.2024 (announcement Web4)
+- Imagine a world where your Web4 instances run themselves… 🤖⚙️ We’re making big strides towards that future! 🌍🚀 How do you feel about automated platforms? Drop your thoughts! 💬 #Web4 #Automation #TechAdvancement
+
 ### 22.10.2024 (announcement Web4)
 - Ever wondered what the future of community-driven platforms looks like? 🌐✨ We're crafting something exciting at Linkspreed, and we want you to be part of the journey! 🚀 Drop your ideas below ⬇️ Let’s shape the future of #Web4 together. #Innovation #Community #Linkspreed
 
