@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 24.10.2024 (announcement Web4)
+- Expanding horizons 🚀 – Our platform portfolio is getting a serious upgrade! 🌐 Want to know what's next? Drop a guess 👇 or let us know what you'd love to see from us! #Web4 #Innovation #CommunityTech #Linkspreed
+
+### 24.10.2024 (announcement Web4)
+- Building for impact 🌱 – We're crafting a dedicated website just for the #NonProfit sector & Web4 💻. Got ideas for what should be on it? Share with us below ⬇️ #Web4NonProfit #TechForGood #Linkspreed
+
+### 24.10.2024 (announcement Web4)
+- Scaling up! ⚙️ – We're pushing the limits on how many Web4 apps we can create at scale 📈. What kind of app would YOU want to see next? Let us know in the replies! 💬 #Web4Apps #Innovation #Linkspreed #Tech
+
 ### 23.10.2024 (announcement Web4)
 - What if your community had options? 🌐👥 Soon, you’ll get to choose between TWO platforms to shape your future! ⚙️💡 Which one will YOU pick? Share your thoughts below! ⬇️ #Web4 #CommunityFirst #TechInnovation
 
