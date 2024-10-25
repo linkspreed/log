@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 25.10.2024 (announcement Web4)
+- What if every community had its own Communeer? 💡 Coming soon: our non-profit initiative to support and empower communities everywhere. Join us in making it happen, and drop a comment with your ideas! 🌱✨ #Communeers #CommunityImpact #Web4
+
+### 25.10.2024 (announcement Web4)
+- 🌍 Building communities, one day at a time! Can you guess how many niches we’ve connected so far? 🤔 Hint: It’s more than 50 and still growing! 🔥 Jump in, explore, or even suggest your own! 🌐 #DailyCommunities #Web4 #Linkspreed
+
 ### 24.10.2024 (announcement Web4)
 - Expanding horizons 🚀 – Our platform portfolio is getting a serious upgrade! 🌐 Want to know what's next? Drop a guess 👇 or let us know what you'd love to see from us! #Web4 #Innovation #CommunityTech #Linkspreed
 
