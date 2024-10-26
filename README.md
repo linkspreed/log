@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 26.10.2024 (announcement Web4)
+- 🛠️ Building a platform that’s all about YOU and communities that matter. What features would you love to see next? 💡 Share your thoughts, help shape the future! #Web4 #Linkspreed #CommunityFirst
+
+### 26.10.2024 (announcement Web4)
+- 🌍 Expanding our non-profit sector to empower more communities. Know a cause we should support? Tag them or let us know how we can help! 🤝 #NonProfit #CommunityDriven
+
 ### 25.10.2024 (announcement Web4)
 - What if every community had its own Communeer? 💡 Coming soon: our non-profit initiative to support and empower communities everywhere. Join us in making it happen, and drop a comment with your ideas! 🌱✨ #Communeers #CommunityImpact #Web4
 
