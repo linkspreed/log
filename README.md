@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 27.10.2024 (announcement Web4)
+- At Linkspreed, freedom of speech isn’t just a value—it’s our #1 principle! 🗣️💬 We believe in open voices, diverse perspectives, and a platform where everyone’s voice counts. 🌍 What does freedom of speech mean to you? Let’s discuss below! 👇 #Freedom #LinkspreedValues
+
+### 27.10.2024 (announcement Web4)
+- Imagine a world where your community network grows with you... 🌐 Soon, we'll reveal Web4 Delta, our boldest leap yet! 🚀 Can you guess what’s coming? Drop your thoughts below 👇 and tag #Web4Delta if you're ready to explore a new era with us! 💭✨ #Web4 #ComingSoon
+
 ### 26.10.2024 (announcement Web4)
 - 🛠️ Building a platform that’s all about YOU and communities that matter. What features would you love to see next? 💡 Share your thoughts, help shape the future! #Web4 #Linkspreed #CommunityFirst
 
