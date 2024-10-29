@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 29.10.2024 (announcement Web4)
+- Imagine a world where your community connects through your brand, and the conversation flows with ease 🌐✨ We’re transforming to a B2B2C model, all about empowering you to bring communities to life! Let's shape this together – what would you add? 👇 #Web4 #CommunityBuilding #YourNetwork
+
+### 29.10.2024 (announcement Web4)
+- Picture this: seamless Live Streaming integrated into your social network, supporting the way your community connects 🔴🎥 We're making this happen with Web4's next-gen products! What would you like to see in this feature? Share with us! 👇 #Web4Live #CommunityPower #Innovation
+
 ### 28.10.2024 (announcement Web4)
 - 👀 Ever wondered how your brand could spark deeper connections with its audience? At Linkspreed, we’re reshaping community-building strategies that bring your people closer. 💬✨ Tell us, what features would make your ideal community? ⬇️ Drop ideas! #CommunityFirst #Linkspreed #Web4
 
