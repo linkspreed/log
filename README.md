@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 30.10.2024 (announcement Web4)
+- Sneak peek: #Web4Delta is about to evolve into... Web4.X! 🔥 Imagine new horizons, enhanced interactions, and a whole new level of community. Ready to dive in? Tell us your must-have feature! 🚀💬 #Web4
+
+### 30.10.2024 (announcement Web4)
+- 🌍 Think growth is all about the chase? Not here! We're dropping cold marketing to focus on real partnerships and stronger presence for #Web4. 📈 Want to join us in building sustainable connections? Drop a 🌱 below or tell us what true growth means to you! #Web4Community #Linkspreed
+
 ### 29.10.2024 (announcement Web4)
 - Imagine a world where your community connects through your brand, and the conversation flows with ease 🌐✨ We’re transforming to a B2B2C model, all about empowering you to bring communities to life! Let's shape this together – what would you add? 👇 #Web4 #CommunityBuilding #YourNetwork
 
