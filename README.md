@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 31.10.2024 (announcement Web4)
+- Imagine scrolling through endless niche communities and spotting yours! 🌐👀 Yes, it’s happening: we're teaming up with TheHiveIndex so your Web4 communities can get listed, discovered, and thrive! 🚀✨ Ready to see your community shine? Drop a ✋ if you'll be submitting! #Web4 #CommunityPower
+
 ### 30.10.2024 (announcement Web4)
 - Sneak peek: #Web4Delta is about to evolve into... Web4.X! 🔥 Imagine new horizons, enhanced interactions, and a whole new level of community. Ready to dive in? Tell us your must-have feature! 🚀💬 #Web4
 
