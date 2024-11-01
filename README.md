@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 01.11.2024 (announcement Web4)
+- 🧭 More presence, more connections! Our marketing focus is all about creating a strong #Web4 footprint across the web, so you’re always just a click away from your next community. Tell us where you’d like to see us featured! 🖥️👇 #CommunityExpansion
+
+### 01.11.2024 (announcement Web4)
+- 📢 Imagine discovering #Web4 on every platform you browse! 🌐 We’re expanding our presence to every corner of the web so you can explore, connect, and build your communities seamlessly. Got a platform you’d love to see us on? Drop it below! 👇 #Web4Everywhere #CommunityFirst
+
 ### 31.10.2024 (announcement Web4)
 - Imagine scrolling through endless niche communities and spotting yours! 🌐👀 Yes, it’s happening: we're teaming up with TheHiveIndex so your Web4 communities can get listed, discovered, and thrive! 🚀✨ Ready to see your community shine? Drop a ✋ if you'll be submitting! #Web4 #CommunityPower
 
