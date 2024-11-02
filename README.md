@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 02.11.2024 (announcement Web4)
+- 🌐 Ever wondered what’s brewing with #Web4? Hint: You’ll find us listed on platforms like SaaSHub & G2, with more verifications coming soon! 🎉 Dive in, check out the reviews, and let us know your thoughts! What’s your must-have feature in a community solution? 🧐👇 #Linkspreed #CommunityTech
+
 ### 01.11.2024 (announcement Web4)
 - 🧭 More presence, more connections! Our marketing focus is all about creating a strong #Web4 footprint across the web, so you’re always just a click away from your next community. Tell us where you’d like to see us featured! 🖥️👇 #CommunityExpansion
 
