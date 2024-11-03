@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 03.11.2024 (announcement Web4)
+- Plugins that push boundaries…👀 We've been hard at work on fresh, powerful #Web4 plugins, unlocking next-level possibilities! 🚀 Just a bit longer, and they’ll be ready to roll! 🔧💻 What kind of plugins would YOU like to see? Drop your ideas below! 👇💬 #Tech
+
+### 03.11.2024 (announcement Web4)
+- Picture this: Web4's possibilities, now condensed! 🌐✨ Dive into the second episode of our #Web4Podcast, where we break down the core of #Web4Lite – built for communities, built for YOU! 🎙️💡 Watch & share your thoughts! 💬👇 [link] #Web4 #CommunityTech
+
 ### 02.11.2024 (announcement Web4)
 - 🌐 Ever wondered what’s brewing with #Web4? Hint: You’ll find us listed on platforms like SaaSHub & G2, with more verifications coming soon! 🎉 Dive in, check out the reviews, and let us know your thoughts! What’s your must-have feature in a community solution? 🧐👇 #Linkspreed #CommunityTech
 
