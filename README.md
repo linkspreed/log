@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 04.11.2024 (announcement Web4)
+- 🌟 We're on a mission to boost Web4's visibility across the digital landscape! 🔍💪 What platforms do you think we should focus on? Your insights matter—let's make Web4 shine brighter together! 💬✨ #Web4 #Visibility #CommunityEngagement
+
+### 04.11.2024 (announcement Web4)
+- 🚀 We're diving deep into the world of possibilities with new extensions and plugins for Web4! 🌐✨ What features would you love to see? Share your ideas with us and let's innovate together! 💡💬 #Web4 #TechInnovation #Community
+
 ### 03.11.2024 (announcement Web4)
 - Plugins that push boundaries…👀 We've been hard at work on fresh, powerful #Web4 plugins, unlocking next-level possibilities! 🚀 Just a bit longer, and they’ll be ready to roll! 🔧💻 What kind of plugins would YOU like to see? Drop your ideas below! 👇💬 #Tech
 
