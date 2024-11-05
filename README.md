@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 05.11.2024 (announcement Web4)
+- Our Live Stream plugin is ready 🎥💻 but we're holding off on the launch just a bit longer... Why? We’re pairing it with the SaaS plugin for a power-packed release! 🚀 Comment below: are you excited? 🔥 #Web4 #CommunityTools #StayTuned
+
+### 05.11.2024 (announcement Web4)
+- Ever wondered where to find Web4 on trusted listings? We’re now live on Capterra and other Gartner platforms! 🎉🔍 Ready to see what we’re all about? Let us know your thoughts or leave a review! 🌐💬 #Web4 #GartnerListings #Community
+
 ### 04.11.2024 (announcement Web4)
 - 🌟 We're on a mission to boost Web4's visibility across the digital landscape! 🔍💪 What platforms do you think we should focus on? Your insights matter—let's make Web4 shine brighter together! 💬✨ #Web4 #Visibility #CommunityEngagement
 
