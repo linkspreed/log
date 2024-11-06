@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 06.11.2024 (announcement Web4)
+- 0.75 years vs. 13 years? Our progress is moving at light speed! 🚀 While others build for years, we’ve crafted a community network ready to scale within months. Imagine the future with us—what would you want on your ideal platform? 💡💻 #Innovation #Web4 #FutureNow
+
+### 06.11.2024 (announcement Web4)
+- Every voice matters, especially the ones often missed by mainstream media. We’re empowering creators, big and small, by making our platforms free for independent voices! 🎙️💥 Let's amplify freedom together—tell us what you’d create with your space! #FreedomOfSpeech #Web4 #SmallCreatorsUnite 🗣️✨
+
 ### 05.11.2024 (announcement Web4)
 - Our Live Stream plugin is ready 🎥💻 but we're holding off on the launch just a bit longer... Why? We’re pairing it with the SaaS plugin for a power-packed release! 🚀 Comment below: are you excited? 🔥 #Web4 #CommunityTools #StayTuned
 
