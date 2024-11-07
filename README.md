@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 07.11.2024 (announcement Web4)
+- What if communities could shape their own futures? That’s #USA4.0 at #Web4! We’re creating the ultimate platform for cities, businesses, and YOU to connect and grow. 💡 What features would make a difference in your community? Comment below and join the vision! 🚀 #CommunityInnovation
+
 ### 06.11.2024 (announcement Web4)
 - 0.75 years vs. 13 years? Our progress is moving at light speed! 🚀 While others build for years, we’ve crafted a community network ready to scale within months. Imagine the future with us—what would you want on your ideal platform? 💡💻 #Innovation #Web4 #FutureNow
 
