@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 08.11.2024 (announcement Web4)
+- We’re diving deeper into SaaS automation for #Web4, shaping a smoother, smarter experience for communities! 💻✨ Curious about what full automation will bring? Drop us a line with your guesses or ideas below 👇 #Automation #Web4Revolution #TechInnovation
+
+### 08.11.2024 (announcement Web4)
+- New spaces are opening up on #GooglePlay soon! 📲 Our Android app strategy is coming together, and your communities are about to go live. Which community do you want to see next in the Play Store? Let us know 🚀💬 #AndroidApps #Web4Community #Linkspreed
+
+### 08.11.2024 (announcement Web4)
+- More support for creators means more impact on #Web4! 🌟 We’re expanding resources for creators to dive into our social networks and grow. Who’s ready to level up? Tag a creator below 🎨📈 #CreatorEconomy #Linkspreed
+
 ### 07.11.2024 (announcement Web4)
 - What if communities could shape their own futures? That’s #USA4.0 at #Web4! We’re creating the ultimate platform for cities, businesses, and YOU to connect and grow. 💡 What features would make a difference in your community? Comment below and join the vision! 🚀 #CommunityInnovation
 
