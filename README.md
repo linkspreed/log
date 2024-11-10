@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 10.11.2024 (announcement Web4)
+- Imagine a space where voices flow freely, ideas spark, and communities thrive 🌐✨ Web4 is stepping up to make Free Speech not just a right but a core experience for everyone! How should we shape it? What matters most to you? Share your thoughts below! 👇 #FreeSpeech #Web4 #CommunityPowered
+
 ### 09.11.2024 (announcement Web4)
 - Imagine a world where independent networks flourish and freedom of expression thrives 🌐✨ At Linkspreed, we're turning this into reality with Web4’s fully automated, community-driven design pushing forward every day! 🚀 Curious about the latest? Drop your thoughts ⬇️ #Web4 #CommunityDriven #Innovation
 
