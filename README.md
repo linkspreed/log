@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 11.11.2024 (announcement Web4)
+- 📲 What could Web4 do next? How about expanding app features to new heights? 📈 We’re building ambitious tools that’ll redefine your app experience! Let us know what you want to see next! 👇 #Web4 #AppInnovation #FutureTech
+
+### 11.11.2024 (announcement Web4)
+- Imagine this: a streaming experience as thrilling as Twitch, but in the Web4 universe! 🎥💥 Want to see it live? Hit us up in the comments or tag who you’d bring to the stream party! 🚀 #Web4 #StreamingRevolution #FutureOfLive
+
 ### 10.11.2024 (announcement Web4)
 - Imagine a space where voices flow freely, ideas spark, and communities thrive 🌐✨ Web4 is stepping up to make Free Speech not just a right but a core experience for everyone! How should we shape it? What matters most to you? Share your thoughts below! 👇 #FreeSpeech #Web4 #CommunityPowered
 
