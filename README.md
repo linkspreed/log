@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 12.11.2024 (announcement Web4)
+- Countdown alert! ⏳ We're in the final week of developing the ultimate live streaming plugin for Web4! 📹💥 Imagine seamless streaming & real-time interactions like never before. Who’s ready for it? Share your streaming must-haves with us! 🔥👇 #Web4 #Streaming #ComingSoon
+
+### 12.11.2024 (announcement Web4)
+- Bringing creativity & efficiency together 🎨✨ We’re tapping into Median.co’s tools and platform to produce top-tier Web4 apps, tailored just for our needs! 💻 Curious about the future of app development? Drop your thoughts below 👇 #Web4 #Innovation #Collaboration
+
 ### 11.11.2024 (announcement Web4)
 - 📲 What could Web4 do next? How about expanding app features to new heights? 📈 We’re building ambitious tools that’ll redefine your app experience! Let us know what you want to see next! 👇 #Web4 #AppInnovation #FutureTech
 
