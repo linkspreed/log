@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 13.11.2024 (announcement Web4)
+- 👩‍💻🔜 Ready for v1.1 of Web4 Lite? Soon dropping on GitHub for all our devs to explore, build, and share! Let us know what features you’re excited to see! 🎉 #Web4Lite #OpenSource #CommunityPowered #GitHub
+
+### 13.11.2024 (announcement Web4)
+- 🧩 The Web4 app journey isn’t over yet! Just one last knot to untangle before we reach the Play Store in 1-2 weeks 🎉 Hang in there, community – it’s all coming together! Let us know your excitement! 🔥 #Web4 #ComingSoon #TechUpdate 🚀
+
 ### 12.11.2024 (announcement Web4)
 - Countdown alert! ⏳ We're in the final week of developing the ultimate live streaming plugin for Web4! 📹💥 Imagine seamless streaming & real-time interactions like never before. Who’s ready for it? Share your streaming must-haves with us! 🔥👇 #Web4 #Streaming #ComingSoon
 
