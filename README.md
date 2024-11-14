@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 14.11.2024 (announcement Web4)
+- 🚀 Expanding horizons, one click at a time! We’re building up our presence on Linkspreed and can’t wait to share what’s next with you! 🌐🤝 How do you think Linkspreed can grow? Let’s hear your thoughts below! 🔥 #Web4 #Community
+
+### 14.11.2024 (announcement Web4)
+- 🔍 Ever thought of a voting feature that just clicks with your community? We're crafting a brand-new voting system within our exclusive plugin 🛠️✨—designed to bring your voices to the front! How would you use it? Drop your ideas below! 👇💡 #Web4 #CommunityPower #Linkspreed
+
 ### 13.11.2024 (announcement Web4)
 - 👩‍💻🔜 Ready for v1.1 of Web4 Lite? Soon dropping on GitHub for all our devs to explore, build, and share! Let us know what features you’re excited to see! 🎉 #Web4Lite #OpenSource #CommunityPowered #GitHub
 
