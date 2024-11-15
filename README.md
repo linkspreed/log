@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 15.11.2024 (announcement Web4)
+- Imagine a world where every community fits in your pocket 📲. That’s exactly what we’re doing—bringing Web4 communities to life as sleek, powerful apps! 🚀 Which feature would you want most in your community app? 🤔 Drop your ideas below! 👇 #Web4 #CommunityApps #Linkspreed
+
 ### 14.11.2024 (announcement Web4)
 - 🚀 Expanding horizons, one click at a time! We’re building up our presence on Linkspreed and can’t wait to share what’s next with you! 🌐🤝 How do you think Linkspreed can grow? Let’s hear your thoughts below! 🔥 #Web4 #Community
 
