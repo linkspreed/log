@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 16.11.2024 (announcement Web4)
+- 🌐 Imagine having all your favorite Web4 communities in one app! Coming soon: the official Web4 App with #Web4Explore 🚀✨. Your feedback will shape its updates—what features do you want to see? Drop your ideas below! ⬇️💡 #TechInnovation #Web4
+
 ### 15.11.2024 (announcement Web4)
 - Imagine a world where every community fits in your pocket 📲. That’s exactly what we’re doing—bringing Web4 communities to life as sleek, powerful apps! 🚀 Which feature would you want most in your community app? 🤔 Drop your ideas below! 👇 #Web4 #CommunityApps #Linkspreed
 
