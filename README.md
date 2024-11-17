@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 17.11.2024 (announcement Web4)
+- Social networks? We’re not just expanding—we’re redefining them. 🌍✨ With new solutions rolling out on Web4, the future of communities is now. What’s missing in YOUR ideal social network? Let’s build it together! 💬 #Web4 #Innovation #Communities
+
+### 17.11.2024 (announcement Web4)
+- Ever wondered what 100 niche communities feel like? 🌐 We just hit the 100 Daily Community milestone AND dropped our 4th podcast episode! 🎧 Join the convo—what niche community should we launch next? 💡⬇️ #Web4Explore #DailyCommunity
+
+### 17.11.2024 (announcement Web4)
+- Tired of juggling apps? 🌀 We just submitted a Web4 app to the Google Play Store! 🎉 Stay tuned—next week, MGGA is coming too. 👀 Any features YOU wish to see in Web4 apps? Let us know below! ⬇️ #Web4 #CommunityTech 🚀
+
 ### 16.11.2024 (announcement Web4)
 - 🌐 Imagine having all your favorite Web4 communities in one app! Coming soon: the official Web4 App with #Web4Explore 🚀✨. Your feedback will shape its updates—what features do you want to see? Drop your ideas below! ⬇️💡 #TechInnovation #Web4
 
