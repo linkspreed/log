@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 19.11.2024 (announcement Web4)
+- Imagine a world 🌍 where communities thrive through innovation & connection. At Linkspreed, we're crafting strategies to make #Web4 accessible to everyone! 🚀 What’s your dream for the future of social networks? Drop your thoughts below! 👇 #Innovation #TechTalk
+
 ### 18.11.2024 (announcement Web4)
 - Ever wondered how YOUR niche could thrive in its own social space? 🌐✨ At Linkspreed, we craft unique apps daily, creating vibrant Web4 communities for every interest! 🛠️💡 Which niche deserves its own network? Drop your ideas below! 👇 #Web4 #CommunityBuilders
 
