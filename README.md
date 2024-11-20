@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 20.11.2024 (announcement Web4)
+- Imagine pitching your boldest ideas to a room full of dreamers, doers, and innovators! 🌟 That’s exactly what we did today at #AugsburgGründet 🚀. We shared our #Web4 vision—now it's your turn: What's your wildest idea for the future of communities? 💡👇 #Innovation #Startups
+
+### 20.11.2024 (announcement Web4)
+- What if your social network could build itself? 🤖 With SNaaS from #Web4, full automation is closer than ever! 🚀 Tell us: What features would you love to see automated in your dream community? 💡👇 #TechInnovation #SNaaS #Automation
+
 ### 19.11.2024 (announcement Web4)
 - Imagine a world 🌍 where communities thrive through innovation & connection. At Linkspreed, we're crafting strategies to make #Web4 accessible to everyone! 🚀 What’s your dream for the future of social networks? Drop your thoughts below! 👇 #Innovation #TechTalk
 
