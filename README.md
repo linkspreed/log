@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 21.11.2024 (announcement Web4)
+- 💡 Scaling Web4 to new heights! What would make your community experience even smoother? We're open to ideas while we fine-tune for ultimate scalability. Drop your thoughts below! 🌐🤝 #Web4 #CommunityTech
+
+### 21.11.2024 (announcement Web4)
+- 🚧 SaaS solutions in progress! Imagine testing something new and exciting soon. Got ideas or features you’d love to see? Share them with us 👇 Let's build this together! #SaaS #Innovation 🚀
+
 ### 20.11.2024 (announcement Web4)
 - Imagine pitching your boldest ideas to a room full of dreamers, doers, and innovators! 🌟 That’s exactly what we did today at #AugsburgGründet 🚀. We shared our #Web4 vision—now it's your turn: What's your wildest idea for the future of communities? 💡👇 #Innovation #Startups
 
