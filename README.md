@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 23.11.2024 (announcement Web4)
+- Imagine a world where your community isn’t just a group but a movement. 🌍 With #Web4, we’re crafting daily niche networks for YOU. What niche would you love to see next? Drop your ideas below 👇 Let’s build the future together! 🚀 #Web4Explore
+
 ### 22.11.2024 (announcement Web4)
 - Imagine a world where every passion has its own community. 🌎 We're crafting daily free Web4 platforms just for YOU! What niche should we build next? Drop your ideas below! 💡👇 #Web4 #CommunityPower
 
