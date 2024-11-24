@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 24.11.2024 (announcement Web4)
+- At Linkspreed, we're taking the next big leap with Web4! 🌐🚀 Building strategies that empower communities and businesses like never before. What’s your vision for the future of Web4? Let’s brainstorm together! 🧠💬 #Web4Revolution #Linkspreed
+
+### 24.11.2024 (announcement Web4)
+- Ever wondered how your content can bring triple the earnings? 💡✨ With Web4, creators thrive on valuable and constructive ideas! 🚀 Share your thoughts: What would you do with 3x the revenue? 👇 #Web4 #CreatorsUnite #Innovation
+
 ### 23.11.2024 (announcement Web4)
 - Imagine a world where your community isn’t just a group but a movement. 🌍 With #Web4, we’re crafting daily niche networks for YOU. What niche would you love to see next? Drop your ideas below 👇 Let’s build the future together! 🚀 #Web4Explore
 
