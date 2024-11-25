@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 25.11.2024 (announcement Web4)
+- Imagine your community dream taking off 🚀: From pilot projects to full-scale reality! We're crafting the path with SNaaS and smart funding strategies. What do YOU think is the key to scaling successfully? Drop your insights below! 👇 #Web4 #CommunityGrowth
+
 ### 24.11.2024 (announcement Web4)
 - At Linkspreed, we're taking the next big leap with Web4! 🌐🚀 Building strategies that empower communities and businesses like never before. What’s your vision for the future of Web4? Let’s brainstorm together! 🧠💬 #Web4Revolution #Linkspreed
 
