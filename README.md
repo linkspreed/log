@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 26.11.2024 (announcement Web4)
+- Scaling up, leveling up, and dreaming big for 2025! 🌴💡 We’re bringing strategy, growth, and maybe a palm tree or two to the mix. What’s your vision for Web4 next year? Let us know! 👇 #Web4Scaling #FutureTech
+
+### 26.11.2024 (announcement Web4)
+- Automation isn't just the future, it's January 2025. 🌐 What would YOU build with a fully automated Web4 platform? Let's dream big and shape the next-gen web together! Drop your ideas below 👇 #Web4 #Innovation
+
 ### 25.11.2024 (announcement Web4)
 - Imagine your community dream taking off 🚀: From pilot projects to full-scale reality! We're crafting the path with SNaaS and smart funding strategies. What do YOU think is the key to scaling successfully? Drop your insights below! 👇 #Web4 #CommunityGrowth
 
