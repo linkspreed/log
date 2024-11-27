@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 27.11.2024 (announcement Web4)
+- Imagine building the future of the web together 🌍✨ Our Giant Partnerships are paving the way for more people to access #Web4. What’s your dream collaboration? Let’s create it together! Drop your ideas below 👇 #Innovation #CommunityBuilding
+
+### 27.11.2024 (announcement Web4)
+- Your community dreams, our creation 🛠️💡 Got an idea for a platform? Tell us what you envision, and we’ll make it real! The future of #Web4 is built by YOU. Start sharing below ⬇️ #DreamBig #SocialInnovation
+
 ### 26.11.2024 (announcement Web4)
 - Scaling up, leveling up, and dreaming big for 2025! 🌴💡 We’re bringing strategy, growth, and maybe a palm tree or two to the mix. What’s your vision for Web4 next year? Let us know! 👇 #Web4Scaling #FutureTech
 
