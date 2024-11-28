@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 28.11.2024 (announcement Web4)
+- 📅 2025 is mapped out, and it’s 🔥! Our roadmap is all about smarter goals and bigger moves. What’s your vision for the future? Let’s make it happen together! Comment your thoughts or ask us anything below ⬇️ #Web4Goals #Innovation
+
+### 28.11.2024 (announcement Web4)
+- 👩‍🎨🎥 Creators, we hear you! We're crafting tools to help you shine even brighter. What features would make your life easier? Drop your dream ideas below 👇✨ Let's build the future of #ContentCreation together! 🚀 #Web4 #Linkspreed
+
 ### 27.11.2024 (announcement Web4)
 - Imagine building the future of the web together 🌍✨ Our Giant Partnerships are paving the way for more people to access #Web4. What’s your dream collaboration? Let’s create it together! Drop your ideas below 👇 #Innovation #CommunityBuilding
 
