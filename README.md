@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 29.11.2024 (announcement Web4)
+- 📚 What if Web4 could help you learn, grow, and master new skills? We're exploring adding courses to the Web4 Backlog! What would YOU love to see? Drop your ideas below! ⬇️ #Web4 #LearnWithUs #Community
+
+### 29.11.2024 (announcement Web4)
+- 💡 Imagine offering cutting-edge Web4 solutions under your brand. That's right—our reseller program is coming soon! Ready to explore how you can make Web4 a part of your portfolio? Let’s talk! 👇 #Web4 #Resellers #Innovation
+
 ### 28.11.2024 (announcement Web4)
 - 📅 2025 is mapped out, and it’s 🔥! Our roadmap is all about smarter goals and bigger moves. What’s your vision for the future? Let’s make it happen together! Comment your thoughts or ask us anything below ⬇️ #Web4Goals #Innovation
 
