@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 30.11.2024 (announcement Web4)
+- 🔍 Ever wondered how seamless integrations can boost your community experience? We're diving into tests with our new Live Plugin on open APIs! 🚀 What feature do you think makes a plugin truly live? Drop your ideas below! 👇✨ #Web4 #Innovation
+
 ### 29.11.2024 (announcement Web4)
 - 📚 What if Web4 could help you learn, grow, and master new skills? We're exploring adding courses to the Web4 Backlog! What would YOU love to see? Drop your ideas below! ⬇️ #Web4 #LearnWithUs #Community
 
