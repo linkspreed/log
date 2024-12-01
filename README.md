@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 01.12.2024 (announcement Web4)
+- Your feedback is shaping the future of Web4! 🛠️ We’re building on the ideas and needs of Early Adopters like you. 💡 What features do you want to see in your social network? Let’s create something amazing together! 💬 #Web4 #Community #Innovation #YourVoiceMatters
+
+### 01.12.2024 (announcement Web4)
+- Building your own social network in just 15 seconds? 🚀 Sounds unreal, but it's coming in January 2025! ⏳ Stay tuned for the future of online communities. What would your perfect network look like? 🤔 Drop your thoughts below! #Web4 #Innovation #FutureOfCommunities
+
 ### 30.11.2024 (announcement Web4)
 - 🔍 Ever wondered how seamless integrations can boost your community experience? We're diving into tests with our new Live Plugin on open APIs! 🚀 What feature do you think makes a plugin truly live? Drop your ideas below! 👇✨ #Web4 #Innovation
 
