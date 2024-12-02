@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 02.12.2024 (announcement Web4)
+- 💼 Ready to join the Web4 movement? We're opening doors for resellers to license and distribute our software. 🌍 Want to be part of the next big thing? Let’s talk! Comment or DM us to learn more. 📨 #Web4 #ResellerProgram #TechBusiness
+
+### 02.12.2024 (announcement Web4)
+- 💡 Imagine your app could do everything. In 2025, Web4 will unlock the power of SuperApps with feature-packed plugins! 💻 What plugin would you build or use? 🚀 Drop your ideas below! ⬇️ #Web4 #SuperApps #FutureTech
+
 ### 01.12.2024 (announcement Web4)
 - Your feedback is shaping the future of Web4! 🛠️ We’re building on the ideas and needs of Early Adopters like you. 💡 What features do you want to see in your social network? Let’s create something amazing together! 💬 #Web4 #Community #Innovation #YourVoiceMatters
 
