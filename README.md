@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 03.12.2024 (announcement Web4)
+- 🤔 Ever wondered what goes on behind the scenes of Web4? Our backend automation is leveling up daily—streamlining, optimizing, and redefining possibilities! 🚀✨
+
 ### 02.12.2024 (announcement Web4)
 - 💼 Ready to join the Web4 movement? We're opening doors for resellers to license and distribute our software. 🌍 Want to be part of the next big thing? Let’s talk! Comment or DM us to learn more. 📨 #Web4 #ResellerProgram #TechBusiness
 
