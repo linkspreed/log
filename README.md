@@ -1,6 +1,12 @@
 # The long log :)
 
-## All changes that we will make from 21.06.2024 will appear here ...
+## All changes that we will make from 21.06.2024 will appear here ....
+
+### 04.12.2024 (announcement Web4)
+- 2025 is looking 🔥 with new plugins and endless possibilities! 🛠️ What tools or features do you think every community needs? Let’s co-create the future—your ideas could shape the next big update! 💡👇 #Web4 #Innovation #CommunityBuilding
+
+### 04.12.2024 (announcement Web4)
+- SNaaS for Web4 is evolving every day! 🚀 Imagine your communities building themselves while you focus on innovation. What would YOU automate first in a social network? Drop your ideas below! ⬇️✨ #Web4 #Automation #SocialTech
 
 ### 03.12.2024 (announcement Web4)
 - 🤔 Ever wondered what goes on behind the scenes of Web4? Our backend automation is leveling up daily—streamlining, optimizing, and redefining possibilities! 🚀✨
