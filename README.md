@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 05.12.2024 (announcement Web4)
+- Calling all visionaries! 🚀 Resellers are the heartbeat of innovation, and we’re shifting gears to empower YOU more than ever. 💼🌍 Got ideas or insights on how we can improve? Drop them below and let’s build together! 🤝👇 #Web4 #ResellerRevolution
+
+### 05.12.2024 (announcement Web4)
+- If Web4 were a puzzle, 2025 is the year we add the masterpiece pieces. 🧩 We've got an epic roadmap lined up, and we're set to make Web4 stronger than ever! 💪✨ Share your thoughts: What features would YOU like to see next? 🔥👇 #Web4Future #Innovation
+
 ### 04.12.2024 (announcement Web4)
 - 2025 is looking 🔥 with new plugins and endless possibilities! 🛠️ What tools or features do you think every community needs? Let’s co-create the future—your ideas could shape the next big update! 💡👇 #Web4 #Innovation #CommunityBuilding
 
