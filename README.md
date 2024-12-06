@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 06.12.2024 (announcement Web4)
+- Imagine a world where social networks are as easy as signing up for a streaming service! 🎥➡️🕸️ We're crafting the future of SNaaS with automated subscriptions! 💡 Curious? Share your ideas or ask us anything! 👇 #Web4 #SNaaS #Innovation
+
 ### 05.12.2024 (announcement Web4)
 - Calling all visionaries! 🚀 Resellers are the heartbeat of innovation, and we’re shifting gears to empower YOU more than ever. 💼🌍 Got ideas or insights on how we can improve? Drop them below and let’s build together! 🤝👇 #Web4 #ResellerRevolution
 
