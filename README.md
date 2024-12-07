@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 07.12.2024 (announcement Web4)
+- Imagine creating your own social network in just a few clicks! 💻✨ With #SNaaS by Linkspreed, we're turning this vision into reality. What features would YOU add to your dream network? Drop your ideas below! ⬇️🌐 #Web4 #Innovation
+
 ### 06.12.2024 (announcement Web4)
 - Imagine a world where social networks are as easy as signing up for a streaming service! 🎥➡️🕸️ We're crafting the future of SNaaS with automated subscriptions! 💡 Curious? Share your ideas or ask us anything! 👇 #Web4 #SNaaS #Innovation
 
