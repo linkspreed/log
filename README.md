@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 08.12.2024 (announcement Web4)
+- Your Web4 perks are here! 🎉 Our pricing model is locked, but we want your input—what benefits matter most to you? Let’s shape this together. 🚀💬 Reply and share your thoughts! #Web4 #Innovation #CommunityDriven
+
+### 08.12.2024 (announcement Web4)
+- Social networks, but make them as-a-service. 🤔 What features would your dream SNaaS platform have? Let’s build the future of online communities together! 🌐✨ Drop your ideas below! #Web4 #CommunityFirst #SNaaS
+
 ### 07.12.2024 (announcement Web4)
 - Imagine creating your own social network in just a few clicks! 💻✨ With #SNaaS by Linkspreed, we're turning this vision into reality. What features would YOU add to your dream network? Drop your ideas below! ⬇️🌐 #Web4 #Innovation
 
