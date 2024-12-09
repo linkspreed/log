@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 09.12.2024 (announcement Web4)
+- 🚀 Behind the scenes at #Linkspreed: We’re crafting bold strategies and refining our product portfolio for YOU. 🛠️ Your turn—what’s one feature or tool you’d LOVE to see next? Drop your ideas below! 💡👇 #Web4 #Innovation
+
 ### 08.12.2024 (announcement Web4)
 - Your Web4 perks are here! 🎉 Our pricing model is locked, but we want your input—what benefits matter most to you? Let’s shape this together. 🚀💬 Reply and share your thoughts! #Web4 #Innovation #CommunityDriven
 
