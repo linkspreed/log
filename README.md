@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 12.12.2024 (announcement Web4)
+- 🔒 Ever wondered how a network ensures both speed & safety? At Linkspreed, we’ve leveled up our security & infrastructure to work 65% more efficiently while boosting safety by a stunning 80%! 🚀💻
+
 ### 11.12.2024 (announcement Web4)
 - Building SNaaS, the fully automated version of Web4, one step at a time! 🚀✨ What's the one feature you think would take social networks to the next level? Drop your thoughts below! 👇 Let’s shape the future together! #Web4 #SNaaS #Innovation #CommunityBuilding
 
