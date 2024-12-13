@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 13.12.2024 (announcement Web4)
+- 🌐 Ever wondered how Web4 is shaping the future of communities? We're crafting software, launching a reseller program, & building solutions FOR Web4 FROM Web4. 🚀 Tell us: What features or tools do YOU want to see? Let’s build it together! 💡✨ #Web4 #FutureOfCommunities
+
 ### 12.12.2024 (announcement Web4)
 - 🔒 Ever wondered how a network ensures both speed & safety? At Linkspreed, we’ve leveled up our security & infrastructure to work 65% more efficiently while boosting safety by a stunning 80%! 🚀💻
 
