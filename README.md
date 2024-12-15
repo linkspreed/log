@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 15.12.2024 (announcement Web4)
+- 🌍 We're expanding our Reseller Project at Linkspreed! 🔥 Empowering communities and entrepreneurs to distribute and scale Web4 solutions effortlessly.
+
+### 14.12.2024 (announcement Web4)
+- Imagine a world where social networks run themselves, powered by #Web4 magic. ✨ We're crafting Social Networks as a Service (SNaaS) for total automation, the beating heart of Web4! 🛠️💡
+
 ### 13.12.2024 (announcement Web4)
 - 🌐 Ever wondered how Web4 is shaping the future of communities? We're crafting software, launching a reseller program, & building solutions FOR Web4 FROM Web4. 🚀 Tell us: What features or tools do YOU want to see? Let’s build it together! 💡✨ #Web4 #FutureOfCommunities
 
