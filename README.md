@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 16.12.2024 (announcement Web4)
+- What if your community could truly own its identity? 🌍💡 At #Web4, we’re shaping a system where communities thrive on their own terms. Let’s build the future of connection together! Reply with your thoughts or dreams for your community.👇✨ #Linkspreed
+
 ### 15.12.2024 (announcement Web4)
 - 🌍 We're expanding our Reseller Project at Linkspreed! 🔥 Empowering communities and entrepreneurs to distribute and scale Web4 solutions effortlessly.
 
