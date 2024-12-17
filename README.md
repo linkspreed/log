@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 17.12.2024 (announcement Web4)
+- Imagine a digital world 🌐 where communities thrive and connect seamlessly. Our #Web4Masterplan is the blueprint for a decentralized future, built together with YOU. What features would YOU love to see in Web4? 💡 Drop your ideas below! 👇 #Web4 #Community
+
 ### 16.12.2024 (announcement Web4)
 - What if your community could truly own its identity? 🌍💡 At #Web4, we’re shaping a system where communities thrive on their own terms. Let’s build the future of connection together! Reply with your thoughts or dreams for your community.👇✨ #Linkspreed
 
