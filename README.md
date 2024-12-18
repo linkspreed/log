@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 18.12.2024 (announcement Web4)
+- Ever thought about building your own digital empire? 🌐 With Web4, you can become a reseller and empower communities worldwide. Start shaping the future of social networks today. Ready to dive in? Let’s talk! 💬 #Web4 #ResellerOpportunity
+
 ### 17.12.2024 (announcement Web4)
 - Imagine a digital world 🌐 where communities thrive and connect seamlessly. Our #Web4Masterplan is the blueprint for a decentralized future, built together with YOU. What features would YOU love to see in Web4? 💡 Drop your ideas below! 👇 #Web4 #Community
 
