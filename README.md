@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 19.12.2024 (announcement Web4)
+- 🌐 Did you know #Web4 is reshaping communities? We're crafting tools to connect people like never before, putting YOU at the center! 💡💬 Share how you'd use Web4 tech to build your dream community. Let's co-create the future! 🚀✨ #Innovation #CommunityBuilding
+
 ### 18.12.2024 (announcement Web4)
 - Ever thought about building your own digital empire? 🌐 With Web4, you can become a reseller and empower communities worldwide. Start shaping the future of social networks today. Ready to dive in? Let’s talk! 💬 #Web4 #ResellerOpportunity
 
