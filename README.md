@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 20.12.2024 (announcement Web4)
+- Ever wished to test-drive your own social network? 🚀 We’re perfecting our Social Networks as a Service with a Free Trial System! 🤝✨ Got ideas or feedback? Drop them below! 👇 #SNaaS #Web4 #Innovation
+
 ### 19.12.2024 (announcement Web4)
 - 🌐 Did you know #Web4 is reshaping communities? We're crafting tools to connect people like never before, putting YOU at the center! 💡💬 Share how you'd use Web4 tech to build your dream community. Let's co-create the future! 🚀✨ #Innovation #CommunityBuilding
 
