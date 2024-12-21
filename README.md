@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 21.12.2024 (announcement Web4)
+- 🌐 Imagine a world where your community thrives without barriers. That's the vision of #Web4 we're building every day! Share your thoughts 🌟 What features would make YOUR community better? Comment below! 👇 #Innovation #FutureIsNow
+
+### 21.12.2024 (announcement Web4)
+- From 🇯🇵 to 🇧🇷, our Web4 network is expanding with global resellers 🌍 Software hubs everywhere are catching on! Where do you think #Web4 will shine the brightest? 💡 Let's talk international tech in the replies! 🗨️ #TechGlobal
+
+### 21.12.2024 (announcement Web4)
+- 🚀 Supporting free speech startups is our mission at Linkspreed. 💬 Got an idea that deserves backing? Drop your pitch in the comments ⬇️ or DM us! Let’s make your vision unstoppable. 💡#FreedomOfExpression #Web4 #StartupSupport
+
 ### 20.12.2024 (announcement Web4)
 - Ever wished to test-drive your own social network? 🚀 We’re perfecting our Social Networks as a Service with a Free Trial System! 🤝✨ Got ideas or feedback? Drop them below! 👇 #SNaaS #Web4 #Innovation
 
