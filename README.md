@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 22.12.2024 (announcement Web4)
+- Imagine an internet 🌐 where communities truly thrive, powered by YOU. That's what we're crafting with #Web4—redefining connection, innovation, and freedom. 🚀 How do YOU imagine the future of the web? Share your ideas with us below! 👇✨ #CommunityFirst #FutureIsWeb4
+
 ### 21.12.2024 (announcement Web4)
 - 🌐 Imagine a world where your community thrives without barriers. That's the vision of #Web4 we're building every day! Share your thoughts 🌟 What features would make YOUR community better? Comment below! 👇 #Innovation #FutureIsNow
 
