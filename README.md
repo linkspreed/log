@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ....
 
+### 23.12.2024 (announcement Web4)
+- Building the future of instance management for Web4 networks! 🚀 We're enhancing automation to make community management smoother than ever. 🔧✨ How do you think automation will change the way we run networks? Drop your thoughts below! 👇 #Web4 #Automation #CommunityTech #FutureReady
+
 ### 22.12.2024 (announcement Web4)
 - Imagine an internet 🌐 where communities truly thrive, powered by YOU. That's what we're crafting with #Web4—redefining connection, innovation, and freedom. 🚀 How do YOU imagine the future of the web? Share your ideas with us below! 👇✨ #CommunityFirst #FutureIsWeb4
 
