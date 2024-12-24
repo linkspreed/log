@@ -1,6 +1,9 @@
 # The long log :)
 
-## All changes that we will make from 21.06.2024 will appear here ....
+## All changes that we will make from 21.06.2024 will appear here ...
+
+### 24.12.2024 (announcement Web4)
+- 🎄 Just another day at Linkspreed? Not quite! This Christmas, we're coding away to make your communities shine brighter. 💻✨ Got ideas for Web4? Drop them below! Let's co-create the future together. 🚀 #Web4 #Innovation #CommunityFirst
 
 ### 23.12.2024 (announcement Web4)
 - Building the future of instance management for Web4 networks! 🚀 We're enhancing automation to make community management smoother than ever. 🔧✨ How do you think automation will change the way we run networks? Drop your thoughts below! 👇 #Web4 #Automation #CommunityTech #FutureReady
