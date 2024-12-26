@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 26.12.2024 (announcement Web4)
+- Building the future of communities isn’t just our goal—it’s our daily grind. 🛠️✨ What’s your dream feature for Web4? Share it with us! 💬👇 Let’s shape the next-gen social web together. #Web4 #Innovation 🚀
+
 ### 25.12.2024 (announcement Web4)
 - "We keep shaping platforms, refining tech, and chasing a bold vision 🌐✨ What feature would YOU love to see in the future of #Web4? Drop your ideas 👇 Let’s build together! 🚀💡 #Innovation #CommunityDriven"
 
