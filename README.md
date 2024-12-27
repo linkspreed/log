@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 27.12.2024 (announcement Web4)
+- 💬 At #Linkspreed, we believe freedom starts with the ability to speak openly. That’s why our 2025 mission is Free Speech First 🗣️✨. How do YOU see the role of free speech in building stronger digital communities? Let’s discuss below! 👇 #Web4 #Community
+
 ### 26.12.2024 (announcement Web4)
 - Building the future of communities isn’t just our goal—it’s our daily grind. 🛠️✨ What’s your dream feature for Web4? Share it with us! 💬👇 Let’s shape the next-gen social web together. #Web4 #Innovation 🚀
 
