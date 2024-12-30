@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 30.12.2024 (announcement Web4)
+- Step by step, click by click—our #Web4 project is transforming the digital landscape! 🌐🚀 Curious about the progress or have ideas to share? Let’s chat in the replies! 💬 Your input could shape what’s next. #Innovation #Linkspreed
+
+### 29.12.2024 (announcement Web4)
+- Ever wondered what it’s like to be part of something groundbreaking? 🧩 We might soon complete our 3️⃣-person dev dream team at #Linkspreed! Think you’d fit in? Drop your skills or 👏 cheer us on in the replies! 🚀 Let’s build the future together. #Web4 #Teamwork
+
 ### 28.12.2024 (announcement Web4)
 - 💡 Got ideas for game-changing software? 🚀 At Linkspreed, we're building a pipeline of innovative tools AND bold plans to market them! 🌐 Drop your dream features or marketing tips below 👇 Let’s shape the future of Web4 together! 🙌 #Web4 #Innovation #CommunityPower
 
