@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 01.01.2025 (announcement Web4)
+- Starting the year with big ambitions: new #Web4 communities, fresh content, and a bold vision for the future! 🚀 What niche should we tackle next? Share your ideas below 👇 and let’s make 2025 the year of connection. 🌐✨ #Web4Explore #Linkspreed
+
 ### 31.12.2024 (announcement Web4)
 - 🌟 As we step into 2025, let's build something amazing together! 🚀 What’s your #Web4 goal this year? Share below 👇 and let’s make it happen with #Linkspreed! 🛠️💡 #NewYearNewGoals
 
