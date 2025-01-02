@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 02.01.2025 (announcement Web4)
+- Imagine a world 🌍 where every community thrives with its own social network, built for you. That’s the power of #Web4! 💡💻 Tell us: what’s your dream niche community? Drop your ideas below & let’s co-create the future together! ⬇️✨ #Innovation #Community
+
 ### 01.01.2025 (announcement Web4)
 - Starting the year with big ambitions: new #Web4 communities, fresh content, and a bold vision for the future! 🚀 What niche should we tackle next? Share your ideas below 👇 and let’s make 2025 the year of connection. 🌐✨ #Web4Explore #Linkspreed
 
