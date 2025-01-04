@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 04.01.2025 (announcement Web4)
+- Automation on the horizon! Imagine creating your own social network in just a few clicks. 🌐⚙️ We're rolling out full automation for SNaaS this month! What features would you love to see? 💡 Drop your ideas below! 🗣️👇 #Web4 #SNaaS #Innovation
+
+### 03.01.2025 (announcement Web4)
+- Big dreams need a big team! 🚀 As Linkspreed grows, so does our vision for Web4. 🌍💡 We’re shaping the future of communities together. What’s your dream feature for Web4? Let us know! 🛠️✨ #Web4 #Teamwork #Innovation
+
 ### 02.01.2025 (announcement Web4)
 - Imagine a world 🌍 where every community thrives with its own social network, built for you. That’s the power of #Web4! 💡💻 Tell us: what’s your dream niche community? Drop your ideas below & let’s co-create the future together! ⬇️✨ #Innovation #Community
 
