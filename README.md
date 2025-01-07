@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 07.01.2025 (announcement Web4)
+- Imagine a world where *you* shape the future of decentralized networks 🌍✨. What would you build with #Web4? Share your ideas below 👇—your dream project might inspire our next move! 💡🚀 #Decentralization #FutureTech
+
 ### 06.01.2025 (announcement Web4)
 - The future of social networks is here: fully automated, fully yours. 🌐💡 We're shaping Web4's SNaaS to run smarter than ever—no limits, just possibilities. What would YOU automate first? Let’s hear it! 👇🤔 #Web4 #Innovation #SNaaS #Automation
 
