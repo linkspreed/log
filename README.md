@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 08.01.2025 (announcement Web4)
+- Imagine a world where your community grows with you 🌍💡. At #Web4, we're crafting new ways to make networks smarter, faster, and yours. What's the one thing you'd love your ideal platform to have? Let’s co-create the future! 🤝✨ #Innovation #CommunityTech
+
 ### 07.01.2025 (announcement Web4)
 - Imagine a world where *you* shape the future of decentralized networks 🌍✨. What would you build with #Web4? Share your ideas below 👇—your dream project might inspire our next move! 💡🚀 #Decentralization #FutureTech
 
