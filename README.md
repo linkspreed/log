@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 09.01.2025 (announcement Web4)
+- Imagine building your own social network in minutes—no coding, just creativity! 🚀 Web4 SNaaS (Social Networks as a Service) is shaping the future of communities. 🌐💡
+
 ### 08.01.2025 (announcement Web4)
 - Imagine a world where your community grows with you 🌍💡. At #Web4, we're crafting new ways to make networks smarter, faster, and yours. What's the one thing you'd love your ideal platform to have? Let’s co-create the future! 🤝✨ #Innovation #CommunityTech
 
