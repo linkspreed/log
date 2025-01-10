@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 10.01.2025 (announcement Web4)
+- Imagine a world where you control your data, your networks, and your community. 🌍✨ We're crafting Web4 to make this a reality! What would YOU build in a decentralized Internet? 💡👇#Web4 #DecentralizedFuture #CommunityMatters
+
 ### 09.01.2025 (announcement Web4)
 - Imagine building your own social network in minutes—no coding, just creativity! 🚀 Web4 SNaaS (Social Networks as a Service) is shaping the future of communities. 🌐💡
 
