@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 11.01.2025 (announcement Web4)
+- Ever thought about shaping the future of social networks? 🚀 We’re expanding our core team to 4 innovators—driven to build the next-gen Web4 ecosystem. 🌐 Ready to co-create? Drop your thoughts, ideas, or just say hi below! ⬇️ #Web4 #Innovation #TechPioneers
+
 ### 10.01.2025 (announcement Web4)
 - Imagine a world where you control your data, your networks, and your community. 🌍✨ We're crafting Web4 to make this a reality! What would YOU build in a decentralized Internet? 💡👇#Web4 #DecentralizedFuture #CommunityMatters
 
