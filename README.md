@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 12.01.2025 (announcement Web4)
+- Ever wondered how Web4 shapes the future? 🌐 We're crafting a detailed Whitepaper to share our journey, progress, and bold vision with you. 🚀 Have questions or ideas for it? Drop them below! ⬇️ #Web4 #Transparency #FutureTech
+
 ### 11.01.2025 (announcement Web4)
 - Ever thought about shaping the future of social networks? 🚀 We’re expanding our core team to 4 innovators—driven to build the next-gen Web4 ecosystem. 🌐 Ready to co-create? Drop your thoughts, ideas, or just say hi below! ⬇️ #Web4 #Innovation #TechPioneers
 
