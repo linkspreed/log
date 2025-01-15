@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 15.01.2025 (announcement Web4)
+- Ever wondered how your niche community could thrive in a Web4 ecosystem? 🌐💡 Let’s co-create something amazing! Share your ideas below 👇 and watch us turn them into reality. 🚀 #Web4 #Communities #Innovation
+
 ### 14.01.2025 (announcement Web4)
 - Imagine a world where every community has its own space to thrive—#Web4 makes it happen! 🌐✨ What’s your dream project or niche? Drop it below, and let’s build the future together! 🚀💡 #Innovation #CommunityTech
 
