@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 16.01.2025 (announcement Web4)
+- Ever wondered what’s brewing in the world of #Web4? 🌐 We're shaping the future, one community at a time. What features would YOU want in a next-gen social network? Let us know! 🛠️👇 #TechTalk #Innovation
+
 ### 15.01.2025 (announcement Web4)
 - Ever wondered how your niche community could thrive in a Web4 ecosystem? 🌐💡 Let’s co-create something amazing! Share your ideas below 👇 and watch us turn them into reality. 🚀 #Web4 #Communities #Innovation
 
