@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 18.01.2025 (announcement Web4)
+- What if #Web4 could run on a Raspberry Pi 3 Model B? 🤔🍓 Portable, decentralized, and groundbreaking! 🌍💻 Got any wild ideas or use cases? Let’s explore them below and push boundaries together! 🚀⬇️ #Linkspreed #Innovation
+
+### 18.01.2025 (announcement Web4)
+- Ever wondered how fast you can build a Web4 instance? 🌐💡 With SNaaS, it’s seconds—literally! Now, we’re gearing up for the first live version. 🚀 What’s your must-have feature? Let’s shape the future together! 🛠️⬇️ #Linkspreed #Web4 #SNaaS
+
 ### 17.01.2025 (announcement Web4)
 - We're rethinking how communities connect and grow 🌐. What if your niche had its own platform on #Web4? Share your ideas below and let’s make it happen! 💡👇 #Innovation #CommunityFirst
 
