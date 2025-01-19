@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 19.01.2025 (announcement Web4)
+- Imagine hosting Web4 right at home – like on a Raspberry Pi! 🖥️💡 We’re testing how to make it happen. What would you do with it? Share your ideas, wishes, or questions! 🚀👇 #Web4 #TechInnovation #RaspberryPi
+
 ### 18.01.2025 (announcement Web4)
 - What if #Web4 could run on a Raspberry Pi 3 Model B? 🤔🍓 Portable, decentralized, and groundbreaking! 🌍💻 Got any wild ideas or use cases? Let’s explore them below and push boundaries together! 🚀⬇️ #Linkspreed #Innovation
 
