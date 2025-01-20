@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 20.01.2025 (announcement Web4)
+- Ever thought of turning a Raspberry Pi into a fully-fledged Web4 network? 🛠️🍓 We’re making it happen! What’s your wildest Raspberry Pi project idea? Let’s brainstorm! 🚀👇 #Web4 #RaspberryPi
+
+### 20.01.2025 (announcement Web4)
+- Imagine a world where communities evolve themselves. 🌍💻 We're diving deep into automating Web4, and the possibilities are limitless! What would YOU automate with Web4? Share your ideas below! 🤔⬇️ #Web4 #Innovation
+
 ### 19.01.2025 (announcement Web4)
 - Imagine hosting Web4 right at home – like on a Raspberry Pi! 🖥️💡 We’re testing how to make it happen. What would you do with it? Share your ideas, wishes, or questions! 🚀👇 #Web4 #TechInnovation #RaspberryPi
 
