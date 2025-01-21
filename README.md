@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 21.01.2025 (announcement Web4)
+- Web4 + SNaaS = 🚀 Automation at its best! We're making great strides, and it’s looking promising. What’s one automation you wish Web4 could solve for you? 🤖💡 Tell us below! 👇 #Web4 #Automation #TechTalk
+
+### 21.01.2025 (announcement Web4)
+- A 2016 Raspberry Pi worth €20 running Web4? 🤔 We've done it, and the results look 🔥 so far! What’s the coolest project you’ve done on a Pi? Let us know! 👇 #Web4 #TechInnovation #RaspberryPi
+
 ### 20.01.2025 (announcement Web4)
 - Ever thought of turning a Raspberry Pi into a fully-fledged Web4 network? 🛠️🍓 We’re making it happen! What’s your wildest Raspberry Pi project idea? Let’s brainstorm! 🚀👇 #Web4 #RaspberryPi
 
