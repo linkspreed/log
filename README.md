@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 22.01.2025 (announcement Web4)
+- 🌐 Ready to leap into the future? 🚀 #Web4 is shaping up faster than ever, and it's bringing the digital world closer than you’ve imagined! 💡 What features or dreams do YOU want to see in Web4? Drop your ideas below—let’s build it together! 🔮✨ #FutureTech #Innovation
+
 ### 21.01.2025 (announcement Web4)
 - Web4 + SNaaS = 🚀 Automation at its best! We're making great strides, and it’s looking promising. What’s one automation you wish Web4 could solve for you? 🤖💡 Tell us below! 👇 #Web4 #Automation #TechTalk
 
