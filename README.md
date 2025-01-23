@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 23.01.2025 (announcement Web4)
+- 🚀 Unsere Reise bei #Linkspreed nimmt Fahrt auf! 🛠️ Wir tüfteln, optimieren & nähern uns großen Updates. Was wünscht ihr euch von der Plattform? 💡 Ideen, Feedback oder Wünsche – ab in die Kommentare! 👇✨ #Innovation #CommunityPowered
+
 ### 22.01.2025 (announcement Web4)
 - 🌐 Ready to leap into the future? 🚀 #Web4 is shaping up faster than ever, and it's bringing the digital world closer than you’ve imagined! 💡 What features or dreams do YOU want to see in Web4? Drop your ideas below—let’s build it together! 🔮✨ #FutureTech #Innovation
 
