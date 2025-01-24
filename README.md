@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 24.01.2025 (announcement Web4)
+- Building the future of the web, brick by brick 🧱. Diving deep into Web4 and can't wait to share what we're cooking up! What Web4 features are YOU most excited about? 🤔 #Web4 #futureofweb #innovation #blockchain
+
 ### 23.01.2025 (announcement Web4)
 - 🚀 Unsere Reise bei #Linkspreed nimmt Fahrt auf! 🛠️ Wir tüfteln, optimieren & nähern uns großen Updates. Was wünscht ihr euch von der Plattform? 💡 Ideen, Feedback oder Wünsche – ab in die Kommentare! 👇✨ #Innovation #CommunityPowered
 
