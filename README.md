@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 25.01.2025 (announcement Web4)
+- 🚀 Big things are brewing behind the scenes! We're leveling up our infrastructure and offerings to bring you something extraordinary. Stay tuned—you won’t want to miss this! 🌟 #Innovation #ComingSoon
+
+### 25.01.2025 (announcement Web4)
+- 🌐 Curious about #Web4@Home? Dive into the future right here 👉 https://pi.linkspreed.com. What do YOU think it’s all about? Let’s chat! 💬 #TechTrends #FutureIsNow
+
 ### 24.01.2025 (announcement Web4)
 - Building the future of the web, brick by brick 🧱. Diving deep into Web4 and can't wait to share what we're cooking up! What Web4 features are YOU most excited about? 🤔 #Web4 #futureofweb #innovation #blockchain
 
