@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 26.01.2025 (announcement Web4)
+- 🚀 Imagine a digital universe where the future unfolds in real-time… We’re crafting it now! Our Web4 SNaaS is evolving fast, and a sneak-peek MVP is almost ready for bold pioneers. 🌐✨ Want to be among the first to test-drive? Drop a 🛸 or tag your tech-savvy squad below! #Web4 #SNaaS #BetaBound #FutureIsNow
+
 ### 25.01.2025 (announcement Web4)
 - 🚀 Big things are brewing behind the scenes! We're leveling up our infrastructure and offerings to bring you something extraordinary. Stay tuned—you won’t want to miss this! 🌟 #Innovation #ComingSoon
 
