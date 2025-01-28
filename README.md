@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 28.01.2025 (announcement Web4)
+- 🌉 Building bridges, laying new digital highways… Linkspreed’s ecosystem is growing faster than ever! 🚀✨ Guess where we’re headed next? 🌍 (Drop your predictions below ⬇️) Stay tuned, the future’s knocking. 🔔 #BuildingTheFuture #LinkspreedGrowth #NextLevelTech
+
 ### 27.01.2025 (announcement Web4)
 - 🔧 Building the future, one byte at a time! Our platform infrastructure is leveling up 🚀. What features do you want to see in #Web4? Drop your ideas below 👇—we’re shaping this together! 💬✨ #Innovation #TechFuture
 
