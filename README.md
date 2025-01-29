@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 29.01.2025 (announcement Web4)
+- 🚀 Our first MVP is taking shape – what must not be missing? 🤔👇 #Web4 #Linkspreed
+
 ### 28.01.2025 (announcement Web4)
 - 🌉 Building bridges, laying new digital highways… Linkspreed’s ecosystem is growing faster than ever! 🚀✨ Guess where we’re headed next? 🌍 (Drop your predictions below ⬇️) Stay tuned, the future’s knocking. 🔔 #BuildingTheFuture #LinkspreedGrowth #NextLevelTech
 
