@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 30.01.2025 (announcement Web4)
+- 🚀 Behind the scenes, we're building something BIG! 🔧💡 Can you guess what’s coming next? Drop your wildest predictions below! 👇✨ #Web4 #Innovation #ComingSoon
+
 ### 29.01.2025 (announcement Web4)
 - 🚀 Our first MVP is taking shape – what must not be missing? 🤔👇 #Web4 #Linkspreed
 
