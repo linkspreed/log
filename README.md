@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 31.01.2025 (announcement Web4)
+- 🚀 Building the future, one line of code & one handshake at a time! 👨‍💻🤝 What features would YOU love to see in the next-gen #Web4 community platform? Drop your ideas below! ⬇️ #Tech #Innovation
+
 ### 30.01.2025 (announcement Web4)
 - 🚀 Behind the scenes, we're building something BIG! 🔧💡 Can you guess what’s coming next? Drop your wildest predictions below! 👇✨ #Web4 #Innovation #ComingSoon
 
