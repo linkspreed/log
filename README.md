@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 03.02.2025 (announcement Web4)
+- Sneak peek of our Web4 projects coming soon! 🤫  What kind of Web4 innovations are YOU most excited about? 🤔  Let us know in the comments! 👇 #Web4 #Innovation #FutureIsNow #CommunityDriven
+
 ### 02.02.2025 (announcement Web4)
 - Tired of the same old social networks? 😴 We’re building Project Y—a fresh alternative that puts YOU in control. 🚀💡 What’s missing in today’s platforms that we should fix? Tell us in the comments! ⬇️ #Web4 #NextGenSocial
 
