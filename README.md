@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 04.02.2025 (announcement Web4)
+- Streamlining Web4 with SNaaS automation! ⚙️  What tasks would you automate? Let us know! #Web4 #Automation #SNaaS #Tech
+
+### 04.02.2025 (announcement Web4)
+- Building Project MEGA: a Web4 social network to make EUROPE GREAT AGAIN. 🇪🇺 What kind of community do you want to see? Share your ideas!  #Web4 #SocialNetwork #Europe #ProjectMEGA
+
+### 04.02.2025 (announcement Web4)
+- Ready for a new social experience? 🤔 Our Web4-powered X alternative is coming soon to the Google Play Store! 🚀 Explore it now at y.web4.one.  What features are you most excited about?  Tell us below! 👇 #Web4 #SocialMedia #NewApp
+
 ### 03.02.2025 (announcement Web4)
 - Sneak peek of our Web4 projects coming soon! 🤫  What kind of Web4 innovations are YOU most excited about? 🤔  Let us know in the comments! 👇 #Web4 #Innovation #FutureIsNow #CommunityDriven
 
