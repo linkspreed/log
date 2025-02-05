@@ -2,6 +2,12 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 05.02.2025 (announcement Web4)
+- Building Web4 partnerships behind the scenes 🛠️  What kind of collaborations would YOU like to see? 🤔  Let us know! 👇 #Web4 #Partnerships #Innovation
+
+### 05.02.2025 (announcement Web4)
+- SNaaS first version coming soon! 🚀  Get ready! 🔥 What features are you most excited about?  Tell us below! 👇 #SNaaS #ComingSoon #Tech
+
 ### 04.02.2025 (announcement Web4)
 - Streamlining Web4 with SNaaS automation! ⚙️  What tasks would you automate? Let us know! #Web4 #Automation #SNaaS #Tech
 
