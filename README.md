@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 06.02.2025 (announcement Web4)
+- Building the future of Web4 at Linkspreed! 🚀 We're heads down, working on platform improvements, system upgrades, and exciting new partnerships.  What features are YOU most excited to see in Web4? 🤔  Let us know in the comments! 👇 #Web4 #Linkspreed #Innovation #FutureIsNow
+
 ### 05.02.2025 (announcement Web4)
 - Building Web4 partnerships behind the scenes 🛠️  What kind of collaborations would YOU like to see? 🤔  Let us know! 👇 #Web4 #Partnerships #Innovation
 
