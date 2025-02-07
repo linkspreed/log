@@ -2,6 +2,15 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 07.02.2025 (announcement Web4)
+- Working strategically towards our goals is what drives us! 🚀 What strategies do YOU use to stay focused? Share your tips! #productivity #goals #strategy
+
+### 07.02.2025 (announcement Web4)
+- We've been busy developing creative plans to make our tech as decentralized as possible. ⚙️  What decentralized tech are you most excited about? #decentralization #technology #innovation
+
+### 07.02.2025 (announcement Web4)
+- We've started documenting how you can easily install Web4@Home! 🏠  What questions do you have about the process?  Ask us anything! #web4 #installation #DIY
+
 ### 06.02.2025 (announcement Web4)
 - Building the future of Web4 at Linkspreed! 🚀 We're heads down, working on platform improvements, system upgrades, and exciting new partnerships.  What features are YOU most excited to see in Web4? 🤔  Let us know in the comments! 👇 #Web4 #Linkspreed #Innovation #FutureIsNow
 
