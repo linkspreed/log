@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 08.02.2025 (announcement Web4)
+- 🤯 Get ready! We're this close to the public launch of our Web4 Cloud!  SNaaS is about to become a reality for everyone! 🎉 What are YOU most excited to build with it? 🤔 #Web4 #SNaaS #CloudComputing #Innovation
+
 ### 07.02.2025 (announcement Web4)
 - Working strategically towards our goals is what drives us! 🚀 What strategies do YOU use to stay focused? Share your tips! #productivity #goals #strategy
 
