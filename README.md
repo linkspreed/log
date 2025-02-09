@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 09.02.2025 (announcement Web4)
+- Want your own social media platform?  With Web4@Home, no problem! We've released the documentation & source code so you can host your own social network on a Raspberry Pi!  Check it out: https://pi.linkspreed.com What kind of network would you build? Tell us in the comments!  #Web4AtHome #RaspberryPi #SocialNetwork #DIY
+
 ### 08.02.2025 (announcement Web4)
 - 🤯 Get ready! We're this close to the public launch of our Web4 Cloud!  SNaaS is about to become a reality for everyone! 🎉 What are YOU most excited to build with it? 🤔 #Web4 #SNaaS #CloudComputing #Innovation
 
