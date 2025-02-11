@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 11.02.2025 (announcement Web4)
+- Building the future of the web, one line of code at a time 💻.  What's YOUR favorite thing about the internet?  Let us know! 👇 #Web4 #FutureIsNow #TechInnovation
+
 ### 10.02.2025 (announcement Web4)
 - Building out our Web4 infrastructure 🛠️ What are YOU most excited to see in the future of the web? 🤔  Let us know in the comments! 👇 #Web4 #FutureofWeb #Innovation #Tech
 
