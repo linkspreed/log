@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 14.02.2025 (announcement Web4)
+- Web4 SNaaS is coming soon to Linkspreed! 🚀 What features are you MOST excited about? 🤔  Let us know in the comments! 👇 #Web4 #SNaaS #Linkspreed #innovation #tech
+
 ### 13.02.2025 (announcement Web4)
 - Building the future of the web, brick by brick 🧱.  What features are YOU most excited about in Web4? 🤔 Let us know in the comments! 👇 #Web4 #FutureofInternet #Innovation #Tech
 
