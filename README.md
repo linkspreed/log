@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 15.02.2025 (announcement Web4)
+- Own your social network? We've got the strategy! Partner with agencies & reach your target audience with minimal effort.
+
 ### 14.02.2025 (announcement Web4)
 - Web4 SNaaS is coming soon to Linkspreed! 🚀 What features are you MOST excited about? 🤔  Let us know in the comments! 👇 #Web4 #SNaaS #Linkspreed #innovation #tech
 
