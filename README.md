@@ -2,6 +2,9 @@
 
 ## All changes that we will make from 21.06.2024 will appear here ...
 
+### 16.02.2025 (announcement Web4)
+- Building the future, brick by digital brick 🧱! We've leveled up our infrastructure and are now diving headfirst into our Web4 strategy.
+
 ### 15.02.2025 (announcement Web4)
 - Own your social network? We've got the strategy! Partner with agencies & reach your target audience with minimal effort.
 
